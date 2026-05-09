@@ -1,0 +1,393 @@
+[
+  {
+    "id": "cody-rhodes",
+    "name": "Cody Rhodes",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "grail",
+    "register": "Pantheon"
+  },
+  {
+    "id": "roman-reigns",
+    "name": "Roman Reigns",
+    "alignment": "heel",
+    "faction": "bloodline-original",
+    "brand": "SmackDown",
+    "archetype": "patriarch",
+    "register": "Pantheon"
+  },
+  {
+    "id": "jacob-fatu",
+    "name": "Jacob Fatu",
+    "alignment": "heel",
+    "faction": "mfts",
+    "brand": "SmackDown",
+    "archetype": "aitu",
+    "register": "Pantheon"
+  },
+  {
+    "id": "seth-rollins",
+    "name": "Seth Rollins",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "bound-loki",
+    "register": "Pantheon"
+  },
+  {
+    "id": "bron-breakker",
+    "name": "Bron Breakker",
+    "alignment": "heel",
+    "faction": "vision",
+    "brand": "Raw",
+    "archetype": "devourer-rising",
+    "register": "Pantheon"
+  },
+  {
+    "id": "gunther",
+    "name": "Gunther",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "career-killer",
+    "register": "Pantheon",
+    "notes": "Offscreen tonight; feud with Cody for Backlash"
+  },
+  {
+    "id": "penta",
+    "name": "Penta",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "lucha-warrior",
+    "register": "Constant",
+    "notes": "IC Champion"
+  },
+  {
+    "id": "becky-lynch",
+    "name": "Becky Lynch",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "nemesis",
+    "register": "Pantheon",
+    "notes": "Women's IC Champion"
+  },
+  {
+    "id": "joe-hendry",
+    "name": "Joe Hendry",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "orphic-bard",
+    "register": "Liminal-Warrior"
+  },
+  {
+    "id": "oba-femi",
+    "name": "Oba Femi",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "ascending-orisha",
+    "register": "Pantheon"
+  },
+  {
+    "id": "stephanie-vaquer",
+    "name": "Stephanie Vaquer",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "offscreen",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Legit AC sprain after JD coven ambush 4/27; written off indefinitely"
+  },
+  {
+    "id": "jd-mcdonagh",
+    "name": "JD McDonagh",
+    "alignment": "heel",
+    "faction": "judgment-day",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "finn-balor",
+    "name": "Finn Bálor",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "fomorian-exile",
+    "register": "Constant",
+    "notes": "Hosting 'Club House' since JD ejection"
+  },
+  {
+    "id": "dom-mysterio",
+    "name": "Dominik Mysterio",
+    "alignment": "heel",
+    "faction": "judgment-day",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "liv-morgan",
+    "name": "Liv Morgan",
+    "alignment": "heel",
+    "faction": "judgment-day",
+    "brand": "Raw",
+    "archetype": "inanna",
+    "register": "Constant",
+    "notes": "JD coven leader"
+  },
+  {
+    "id": "roxanne-perez",
+    "name": "Roxanne Perez",
+    "alignment": "heel",
+    "faction": "judgment-day",
+    "brand": "Raw",
+    "archetype": "jd-apprentice",
+    "register": "Constant"
+  },
+  {
+    "id": "raquel-rodriguez",
+    "name": "Raquel Rodriguez",
+    "alignment": "heel",
+    "faction": "judgment-day",
+    "brand": "Raw",
+    "archetype": "jd-enforcer",
+    "register": "Constant"
+  },
+  {
+    "id": "logan-paul",
+    "name": "Logan Paul",
+    "alignment": "heel",
+    "faction": "vision",
+    "brand": "Raw",
+    "archetype": "false-god-influencer",
+    "register": "Pantheon"
+  },
+  {
+    "id": "paul-heyman",
+    "name": "Paul Heyman",
+    "alignment": "heel",
+    "faction": "vision",
+    "brand": "Raw",
+    "archetype": "wise-man",
+    "register": "Pantheon",
+    "notes": "Operative class manager"
+  },
+  {
+    "id": "austin-theory",
+    "name": "Austin Theory",
+    "alignment": "heel",
+    "faction": "vision",
+    "brand": "Raw",
+    "archetype": "disposable",
+    "register": "Constant"
+  },
+  {
+    "id": "sol-ruca",
+    "name": "Sol Ruca",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "liminal-warrior",
+    "register": "Liminal-Warrior",
+    "notes": "Officially Raw roster as of tonight (5/04)"
+  },
+  {
+    "id": "adam-pearce",
+    "name": "Adam Pearce",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "gatekeeper-institution",
+    "register": "Constant",
+    "notes": "On-screen GM"
+  },
+  {
+    "id": "jimmy-uso",
+    "name": "Jimmy Uso",
+    "alignment": "babyface",
+    "faction": "usos",
+    "brand": "SmackDown",
+    "archetype": null,
+    "register": "Pantheon"
+  },
+  {
+    "id": "jey-uso",
+    "name": "Jey Uso",
+    "alignment": "babyface",
+    "faction": "usos",
+    "brand": "SmackDown",
+    "archetype": null,
+    "register": "Pantheon"
+  },
+  {
+    "id": "solo-sikoa",
+    "name": "Solo Sikoa",
+    "alignment": "heel",
+    "faction": "mfts",
+    "brand": "SmackDown",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "montez-ford",
+    "name": "Montez Ford",
+    "alignment": "babyface",
+    "faction": "street-profits",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "angelo-dawkins",
+    "name": "Angelo Dawkins",
+    "alignment": "babyface",
+    "faction": "street-profits",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "bayley",
+    "name": "Bayley",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "lyra-valkyria",
+    "name": "Lyra Valkyria",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "badb",
+    "register": "Constant",
+    "notes": "Morrigan-bifurcation aspect"
+  },
+  {
+    "id": "rhea-ripley",
+    "name": "Rhea Ripley",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "macha",
+    "register": "Pantheon",
+    "notes": "Pointedly absent from 5/04 brawl"
+  },
+  {
+    "id": "asuka",
+    "name": "Asuka",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "onryo",
+    "register": "Pantheon",
+    "notes": "Register expanded 5/04 — onryō + senpai-authority"
+  },
+  {
+    "id": "iyo-sky",
+    "name": "IYO Sky",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "bride-who-became-queen",
+    "register": "Pantheon"
+  },
+  {
+    "id": "otis",
+    "name": "Otis",
+    "alignment": "babyface",
+    "faction": "alpha-academy",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "akira-tozawa",
+    "name": "Akira Tozawa",
+    "alignment": "babyface",
+    "faction": "alpha-academy",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "chad-gable",
+    "name": "Chad Gable",
+    "alignment": "heel",
+    "faction": "diamond-mine",
+    "brand": "Raw",
+    "archetype": "og-el-grande-americano",
+    "register": "Constant",
+    "notes": "Mask-lineage carrier; recursive cultural register"
+  },
+  {
+    "id": "julius-creed",
+    "name": "Julius Creed",
+    "alignment": "heel",
+    "faction": "diamond-mine",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "brutus-creed",
+    "name": "Brutus Creed",
+    "alignment": "heel",
+    "faction": "diamond-mine",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "bravo-americano",
+    "name": "Bravo Americano",
+    "alignment": "heel",
+    "faction": "los-americanos",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "rayo-americano",
+    "name": "Rayo Americano",
+    "alignment": "heel",
+    "faction": "los-americanos",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "ethan-page",
+    "name": "Ethan Page",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant"
+  },
+  {
+    "id": "rusev",
+    "name": "Rusev",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": "enforcer-muscle",
+    "register": "Constant"
+  },
+  {
+    "id": "jevon-evans",
+    "name": "Je'Von Evans",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Liminal-Warrior"
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qav2.io/skein/schemas/show.schema.json",
+  "title": "Show",
+  "description": "A single broadcast/episode. The atomic unit of analysis is the segment.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "show", "date", "segments"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Stable show id, e.g. 'raw-2026-05-04'. Lowercase, hyphens only."
+    },
+    "show": {
+      "type": "string",
+      "description": "Brand or program name, e.g. 'Raw', 'SmackDown', 'NXT', 'Backlash'."
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO 8601 date of broadcast (YYYY-MM-DD)."
+    },
+    "venue": {
+      "type": "string",
+      "description": "City + arena, free text."
+    },
+    "context": {
+      "type": "string",
+      "description": "Short framing line: where this show sits in the broader build (go-home, post-PPV, debut night, etc.)."
+    },
+    "segments": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/segment" }
+    }
+  },
+  "$defs": {
+    "segment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "type", "carriers"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+-seg-[0-9]+$",
+          "description": "Composite id: '<show-id>-seg-<NN>'."
+        },
+        "type": {
+          "type": "string",
+          "enum": ["match", "promo", "angle", "backstage", "video", "entrance", "contract-signing", "other"],
+          "description": "Kind of segment. 'angle' = physical without match; 'backstage' = pre-tape segment; 'video' = video package or recap."
+        },
+        "position": {
+          "type": "string",
+          "enum": ["cold-open", "A-block", "B-block", "main-event", "dark", "other"],
+          "description": "Slotting in the show. Drives prominence weighting in temperature calc."
+        },
+        "carriers": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "description": "Character ids on screen carrying narrative weight. References characters.json."
+        },
+        "threads_advanced": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "description": "Threads moved forward this segment. References threads.json."
+        },
+        "threads_opened": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "description": "Threads first established this segment."
+        },
+        "threads_closed": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "description": "Threads paid off cleanly this segment."
+        },
+        "threads_transformed": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "description": "Threads that mutated into a new register this segment (e.g. feud absorbed into faction war)."
+        },
+        "outcome": {
+          "type": ["string", "null"],
+          "description": "For matches: who won how. For other types: what happened rhetorically. Free text."
+        },
+        "stand_tall": {
+          "type": "string",
+          "enum": ["babyface", "heel", "split", "none"],
+          "description": "Closing-image alignment. 'split' = ambiguous; 'none' = no clear stand-tall (e.g. squash with no aftermath)."
+        },
+        "register": {
+          "type": "string",
+          "description": "Worked Shoot framework tier (Pantheon, Constant, Liminal-Warrior, etc.). Free string for now; will be enum when archetypes.json stabilizes."
+        },
+        "notes": {
+          "type": "string",
+          "description": "Free-text observation. Not used in compute; carries human-readable context."
+        }
+      }
+    }
+  }
+}

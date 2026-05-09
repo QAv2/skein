@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qav2.io/skein/schemas/archetype.schema.json",
+  "title": "Archetype",
+  "description": "A Worked Shoot framework archetype/tier. Optional but useful for register-aware diagnostics.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "tier": {
+      "type": "string",
+      "enum": ["Pantheon", "Constant", "Liminal-Warrior", "Exile-Returned", "Grail-Pending", "Other"],
+      "description": "Tier within the Worked Shoot framework."
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

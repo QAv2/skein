@@ -1,0 +1,243 @@
+[
+  {
+    "id": "roman-vs-fatu-whc",
+    "name": "Roman Reigns vs Jacob Fatu (WHC)",
+    "type": "feud",
+    "opened_at": "smackdown-2026-05-01",
+    "carriers": ["roman-reigns", "jacob-fatu"],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "backlash-2026-05-09",
+    "notes": "WHC match. Aitu vs Patriarch — worldview clash, not faction war."
+  },
+  {
+    "id": "bron-vs-seth-2026",
+    "name": "Bron Breakker vs Seth Rollins (2026 arc)",
+    "type": "feud",
+    "opened_at": "wrestlemania-42",
+    "carriers": ["bron-breakker", "seth-rollins"],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "backlash-2026-05-09",
+    "notes": "Bound-Loki founding the next devourer. WM42 was unearned interference; Backlash is the on-the-level handoff."
+  },
+  {
+    "id": "cody-vs-gunther-2026",
+    "name": "Cody Rhodes vs Gunther (2026)",
+    "type": "feud",
+    "opened_at": "smackdown-2026-05-01",
+    "carriers": ["cody-rhodes", "gunther"],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "backlash-2026-05-09",
+    "notes": "Sleeper attack on SD 5/01 opened. Cody offscreen tonight 5/04 — thread dormant this show."
+  },
+  {
+    "id": "asuka-vs-iyo-backlash",
+    "name": "Asuka vs IYO Sky (Backlash)",
+    "type": "feud",
+    "opened_at": "raw-2026-04-20",
+    "carriers": ["asuka", "iyo-sky"],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "backlash-2026-05-09",
+    "notes": "Senpai/kohai bond severance. Bombthrower-coded after S12 mist."
+  },
+  {
+    "id": "tongan-death-grip-taboo",
+    "name": "Tongan Death Grip code-violation taboo",
+    "type": "meta",
+    "opened_at": "smackdown-2026-05-01",
+    "carriers": ["jacob-fatu", "roman-reigns", "jimmy-uso", "jey-uso"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Sacred-family-move violation. Consecrated on-air in S15 (Reigns named it), then immediately violated."
+  },
+  {
+    "id": "bloodline-civil-war",
+    "name": "Bloodline civil war (MFTs vs Usos vs Reigns)",
+    "type": "faction",
+    "opened_at": "summerslam-2025",
+    "carriers": ["roman-reigns", "jacob-fatu", "solo-sikoa", "jimmy-uso", "jey-uso"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Multi-vector household fracture. Off-camera tonight on Raw — held to clean 1v1 between Aitu and Patriarch."
+  },
+  {
+    "id": "vision-faction",
+    "name": "The Vision (Logan / Theory / Bron / Heyman)",
+    "type": "faction",
+    "opened_at": "wrestlemania-42",
+    "carriers": ["logan-paul", "austin-theory", "bron-breakker", "paul-heyman"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Operative class. Heyman runs ops; Logan is centerpiece; Theory is disposable; Bron is muscle."
+  },
+  {
+    "id": "jd-coven",
+    "name": "Judgment Day women's coven",
+    "type": "faction",
+    "opened_at": "raw-2026-04-20",
+    "carriers": ["liv-morgan", "roxanne-perez", "raquel-rodriguez"],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Liv as queen, Roxanne as apprentice, Raquel as enforcer. McDonagh + Dom on the men's side."
+  },
+  {
+    "id": "hendry-orphic-bard",
+    "name": "Joe Hendry — Orphic Bard ascent",
+    "type": "arc",
+    "opened_at": "raw-2026-04-13",
+    "carriers": ["joe-hendry"],
+    "register": "Liminal-Warrior",
+    "promised_payoff": "undefined",
+    "notes": "Concert mechanic. 4/27 Laredo (75% singalong, border-carnival) → 5/04 Omaha (full singalong, mat-credibility crowd) = portable congregation."
+  },
+  {
+    "id": "oba-ascension-streak",
+    "name": "Oba Femi — Ascending Orisha (credential streak)",
+    "type": "arc",
+    "opened_at": "wrestlemania-42",
+    "carriers": ["oba-femi"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Streak isn't wins — it's a stack of impossible feats. WM42 (Lesnar/Surtr integration), 5/04 (Otis-mass powerbomb)."
+  },
+  {
+    "id": "rollins-lone-wolf-arc",
+    "name": "Seth Rollins — Bound-Loki preparing the handoff",
+    "type": "arc",
+    "opened_at": "raw-2026-04-13",
+    "carriers": ["seth-rollins"],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "backlash-2026-05-09",
+    "notes": "Must lose to Bron *alone* — coalition would dilute the handoff. Refused alliance with Profits/Hendry in S11."
+  },
+  {
+    "id": "balor-fomorian-exile",
+    "name": "Finn Bálor — Fomorian-Exile / Club House",
+    "type": "arc",
+    "opened_at": "raw-2026-04-06",
+    "carriers": ["finn-balor"],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Ejected from JD; hosting 'Club House' (alt-recruitment register). Two losses to McDonagh in two weeks (won 4/27, lost 5/04 dirty)."
+  },
+  {
+    "id": "becky-nemesis-arc",
+    "name": "Becky Lynch — Nemesis (post-WM42 victory tour)",
+    "type": "arc",
+    "opened_at": "wrestlemania-42",
+    "carriers": ["becky-lynch"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "First Raw post-WM42 win over AJ Lee. Tonight (5/04) made mortal — missed swing, Pearce collateral, took Sol Snatcher."
+  },
+  {
+    "id": "asuka-onryo-register",
+    "name": "Asuka — Onryō register expansion (post-WM42)",
+    "type": "arc",
+    "opened_at": "wrestlemania-42",
+    "carriers": ["asuka"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Three-layer stack: Yamauba authority + Hannya wound + Onryō weapon. S12 added senpai-authority (wakatta? + mist refusal)."
+  },
+  {
+    "id": "sol-ruca-vs-becky-program",
+    "name": "Sol Ruca vs Becky Lynch (Women's IC track)",
+    "type": "feud",
+    "opened_at": "raw-2026-05-04",
+    "opened_by_segment": "raw-2026-05-04-seg-05",
+    "carriers": ["sol-ruca", "becky-lynch"],
+    "register": "Liminal-Warrior",
+    "promised_payoff": "undefined",
+    "notes": "Compressed elevation. New roster vessel landing immediately into a program with the Women's IC champ."
+  },
+  {
+    "id": "lyra-vs-jd",
+    "name": "Lyra + Bayley vs JD coven",
+    "type": "feud",
+    "opened_at": "raw-2026-04-20",
+    "carriers": ["lyra-valkyria", "bayley", "liv-morgan", "roxanne-perez"],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Morrigan-bifurcation answer to JD coven."
+  },
+  {
+    "id": "multi-front-war",
+    "name": "Multi-front war — heel factions vs babyface federation",
+    "type": "meta",
+    "opened_at": "raw-2026-05-04",
+    "opened_by_segment": "raw-2026-05-04-seg-09",
+    "carriers": ["seth-rollins", "joe-hendry", "montez-ford", "angelo-dawkins", "bayley", "lyra-valkyria", "bron-breakker", "logan-paul", "austin-theory", "jd-mcdonagh", "dom-mysterio"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Heels organize as factions, babyfaces as federation. Structural advantage = heel; babyface answer must come from quality of each front."
+  },
+  {
+    "id": "kabuki-warriors-lineage",
+    "name": "Kabuki Warriors lineage (post-Sane release)",
+    "type": "meta",
+    "opened_at": "raw-2025-09-01",
+    "carriers": ["asuka", "iyo-sky"],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Sane released 4/24/26. Asuka claimed whole register S12 (5/04); IYO expelled, must build new ground."
+  },
+  {
+    "id": "roxanne-loyalty-test",
+    "name": "Roxanne Perez loyalty test (after Bálor Club House appearance)",
+    "type": "arc",
+    "opened_at": "raw-2026-04-27",
+    "carriers": ["liv-morgan", "roxanne-perez"],
+    "register": "Constant",
+    "promised_payoff": "next-week",
+    "notes": "Closed S3 (5/04) — Roxanne picked the queen via hammer on Bálor."
+  },
+  {
+    "id": "street-profits-hendry-alliance",
+    "name": "Street Profits + Hendry babyface coalition",
+    "type": "faction",
+    "opened_at": "raw-2026-05-04",
+    "opened_by_segment": "raw-2026-05-04-seg-08",
+    "carriers": ["joe-hendry", "montez-ford", "angelo-dawkins"],
+    "register": "Liminal-Warrior",
+    "promised_payoff": "undefined",
+    "notes": "Babyface tribe forming — Profits' run-in for Hendry vs Vision."
+  },
+  {
+    "id": "lyra-bayley-paired-answer",
+    "name": "Lyra + Bayley paired answer to JD coven",
+    "type": "faction",
+    "opened_at": "raw-2026-05-04",
+    "opened_by_segment": "raw-2026-05-04-seg-09",
+    "carriers": ["lyra-valkyria", "bayley"],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Morrigan-bifurcation. Ripley pointedly absent — Macha held back."
+  },
+  {
+    "id": "diamond-mine-reunion",
+    "name": "Diamond Mine reunion — Creeds via Los Americanos Hermanos",
+    "type": "faction",
+    "opened_at": "raw-2026-05-04",
+    "opened_by_segment": "raw-2026-05-04-seg-13",
+    "carriers": ["chad-gable", "julius-creed", "brutus-creed"],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Mask-as-non-transferable test. Creeds wear Gable's recursive cultural register. Reunion IS the angle — no promo."
+  },
+  {
+    "id": "page-contender-candidacy",
+    "name": "Ethan Page contender candidacy (IC track)",
+    "type": "arc",
+    "opened_at": "raw-2026-05-04",
+    "opened_by_segment": "raw-2026-05-04-seg-14",
+    "carriers": ["ethan-page", "rusev"],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Page pinned Evans not Penta — title shape preserved, contender lane open without committing."
+  }
+]

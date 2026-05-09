@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://qav2.io/skein/schemas/thread.schema.json",
+  "title": "Thread",
+  "description": "A narrative thread. Own attributes only — state, temperature, debt are computed from segment data, never stored here.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "type", "opened_at", "carriers"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Stable thread id, e.g. 'cody-vs-gunther-2026'."
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable thread name."
+    },
+    "type": {
+      "type": "string",
+      "enum": ["feud", "arc", "faction", "prop", "meta"],
+      "description": "feud=A-vs-B w/ match payoff; arc=single-character; faction=group cohesion/war; prop=championship/mystery/MITB; meta=brand-level (taboo, draft, brand-war)."
+    },
+    "opened_at": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Show id where this thread was first established."
+    },
+    "opened_by_segment": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+-seg-[0-9]+$",
+      "description": "Specific segment id that opened the thread."
+    },
+    "carriers": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+      "description": "Character ids carrying the thread. May expand as the thread evolves."
+    },
+    "register": {
+      "type": "string",
+      "description": "Worked Shoot framework tier."
+    },
+    "promised_payoff": {
+      "type": "string",
+      "enum": ["ppv-match", "next-week", "specific-show", "undefined"],
+      "description": "What kind of resolution was promised. 'undefined' = open-ended (carries more debt)."
+    },
+    "promised_payoff_show": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Required when promised_payoff='specific-show' or 'ppv-match'. References a show id."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Free-text framing context."
+    }
+  }
+}
