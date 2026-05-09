@@ -16,7 +16,7 @@
     },
     "tier": {
       "type": "string",
-      "enum": ["Pantheon", "Constant", "Liminal-Warrior", "Exile-Returned", "Grail-Pending", "Other"],
+      "enum": ["Pantheon", "Constant", "Liminal-Warrior", "Exile-Returned", "Grail-Pending", "Shadow", "Other"],
       "description": "Tier within the Worked Shoot framework."
     },
     "description": {

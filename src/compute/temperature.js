@@ -6,7 +6,7 @@
 //
 // "Advance" = appears in segment.threads_advanced OR segment.threads_opened.
 
-const PROMINENT = new Set(["main-event", "A-block"]);
+const PROMINENT = new Set(["cold-open", "main-event", "A-block"]);
 
 export function computeTemperature(thread, shows) {
   const sorted = [...shows].sort((a, b) => a.date.localeCompare(b.date));
