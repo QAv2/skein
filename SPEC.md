@@ -17,7 +17,7 @@ The reframe that drives every decision: ship the **audit**, not the **authoring 
 | AI worker | Cloudflare Worker → Anthropic | Sonnet 4.6 (extraction), Haiku 4.5 (narration) |
 | Data store | Static JSON in `data/` | No DB; corpus is finite + readable |
 | Deploy | Netlify (frontend) + Cloudflare (worker) | Same pattern as QAv2 portfolio |
-| Repo | GitHub `QAv2/skein` (public) | Portfolio-grade transparency |
+| Repo | GitHub `QAv2/skein` (private during build, public on release) | Portfolio-grade transparency once shipped |
 | Theme | Parchment / terracotta / EB Garamond | Visual family with Worked Shoot site |
 
 ## Repo layout
