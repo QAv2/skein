@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skein — Ingest</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  background: #f7f5f0;
+  color: #2a2520;
+  line-height: 1.5;
+  padding: 1.5rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+h1 { font-size: 1.3rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #8b4513; }
+h2 { font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem; }
+h3 { font-size: 0.85rem; font-weight: 600; margin: 0.75rem 0 0.25rem; }
+header { display: flex; align-items: baseline; gap: 1rem; margin-bottom: 1.25rem; border-bottom: 2px solid #8b4513; padding-bottom: 0.5rem; }
+header small { font-size: 0.75rem; color: #888; }
+
+section { margin-bottom: 1.25rem; }
+
+label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #666; }
+
+input, select, textarea {
+  font-family: inherit;
+  font-size: 0.85rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 0.3rem 0.5rem;
+  background: #fff;
+}
+input:focus, select:focus, textarea:focus { outline: none; border-color: #8b4513; }
+
+.field-row { display: flex; gap: 0.75rem; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap; }
+.field-row label { min-width: 4rem; }
+.field-row input { flex: 1; min-width: 120px; }
+.field-row input.short { max-width: 200px; flex: 0 0 200px; }
+
+textarea#markdown {
+  width: 100%;
+  height: 180px;
+  font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+  font-size: 0.8rem;
+  resize: vertical;
+}
+
+.btn-row { display: flex; gap: 0.5rem; margin-top: 0.5rem; align-items: center; }
+button {
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.4rem 1rem;
+  border: 1px solid #8b4513;
+  border-radius: 3px;
+  background: #8b4513;
+  color: #fff;
+  cursor: pointer;
+}
+button:hover { background: #6d360f; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+button.secondary { background: transparent; color: #8b4513; }
+button.secondary:hover { background: #f0ebe0; }
+button.danger { background: transparent; color: #c0392b; border-color: #c0392b; padding: 0.2rem 0.5rem; font-size: 0.75rem; }
+button.danger:hover { background: #fdf0ef; }
+
+.status-working { color: #8b4513; font-style: italic; }
+.status-success { color: #27864a; }
+.status-error { color: #c0392b; }
+#status { font-size: 0.8rem; margin-left: 0.5rem; }
+
+.section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; }
+.section-header .btn-group { display: flex; gap: 0.5rem; }
+
+/* Segment cards */
+.segment-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-left: 4px solid #bbb;
+  border-radius: 3px;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+}
+.segment-card[data-stand-tall="heel"]      { border-left-color: #c0392b; }
+.segment-card[data-stand-tall="babyface"]  { border-left-color: #2980b9; }
+.segment-card[data-stand-tall="split"]     { border-left-color: #8e44ad; }
+.segment-card[data-stand-tall="none"]      { border-left-color: #bbb; }
+
+.seg-head {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0.4rem 0.6rem;
+  background: #faf8f4;
+  border-bottom: 1px solid #eee;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+.seg-num {
+  font-family: monospace;
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: #8b4513;
+  min-width: 1.5rem;
+}
+.seg-head select { font-size: 0.75rem; padding: 0.15rem 0.3rem; }
+.seg-head input  { font-size: 0.75rem; padding: 0.15rem 0.3rem; max-width: 120px; }
+.seg-head .seg-delete { margin-left: auto; }
+
+.seg-body { padding: 0.5rem 0.6rem; }
+.seg-body.collapsed { display: none; }
+
+.seg-row { display: flex; gap: 0.5rem; align-items: flex-start; margin-bottom: 0.35rem; }
+.seg-row label { font-size: 0.7rem; min-width: 5.5rem; padding-top: 0.3rem; }
+.seg-row input {
+  flex: 1;
+  font-family: monospace;
+  font-size: 0.8rem;
+}
+.seg-row textarea {
+  flex: 1;
+  font-size: 0.8rem;
+  height: 2.4rem;
+  resize: vertical;
+}
+
+/* Suggestions */
+.suggestion {
+  background: #fffef5;
+  border: 1px solid #e8e4d0;
+  border-radius: 3px;
+  padding: 0.4rem 0.6rem;
+  margin-bottom: 0.35rem;
+  font-size: 0.8rem;
+}
+.suggestion code { font-size: 0.8rem; color: #8b4513; font-weight: 600; }
+.suggestion small { color: #888; }
+
+/* JSON preview */
+#json-preview {
+  width: 100%;
+  height: 300px;
+  font-family: monospace;
+  font-size: 0.75rem;
+  background: #2a2520;
+  color: #e8e0d4;
+  border: none;
+  border-radius: 3px;
+  padding: 0.75rem;
+  resize: vertical;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Skein — Ingest</h1>
+  <small id="catalog-status">loading catalogs...</small>
+</header>
+
+<section id="config">
+  <div class="field-row">
+    <label>Show ID</label>
+    <input id="show-id" class="short" placeholder="raw-2026-05-04" />
+    <label>Worker</label>
+    <input id="worker-url" class="short" value="http://localhost:8787" />
+  </div>
+</section>
+
+<section id="input">
+  <textarea id="markdown" placeholder="Paste Worked Shoot markdown show log here..."></textarea>
+  <div class="btn-row">
+    <button id="extract-btn" onclick="extract()">Extract</button>
+    <span id="status"></span>
+  </div>
+</section>
+
+<section id="show-meta" hidden>
+  <h2>Show Metadata</h2>
+  <div class="field-row">
+    <label>Show</label>
+    <input id="meta-show" class="short" placeholder="Raw" />
+    <label>Date</label>
+    <input id="meta-date" class="short" type="date" />
+  </div>
+  <div class="field-row">
+    <label>Venue</label>
+    <input id="meta-venue" placeholder="City, Arena" />
+  </div>
+  <div class="field-row">
+    <label>Context</label>
+    <input id="meta-context" placeholder="Where this show sits (go-home, post-PPV, etc.)" />
+  </div>
+</section>
+
+<section id="segments-section" hidden>
+  <div class="section-header">
+    <h2>Segments (<span id="seg-count">0</span>)</h2>
+    <div class="btn-group">
+      <button class="secondary" onclick="addSegment()">+ Add</button>
+      <button class="secondary" onclick="previewJson()">Preview JSON</button>
+      <button onclick="saveShow()">Save ↓</button>
+    </div>
+  </div>
+  <div id="segments"></div>
+</section>
+
+<section id="suggestions-section" hidden>
+  <h2>Suggested Catalog Additions</h2>
+  <div id="new-threads"></div>
+  <div id="new-characters"></div>
+</section>
+
+<section id="preview-section" hidden>
+  <div class="section-header">
+    <h2>JSON Preview</h2>
+    <div class="btn-group">
+      <button class="secondary" onclick="copyJson()">Copy</button>
+      <button class="secondary" onclick="$('preview-section').hidden = true">Close</button>
+    </div>
+  </div>
+  <textarea id="json-preview" readonly></textarea>
+</section>
+
+<datalist id="register-list">
+  <option value="Pantheon">
+  <option value="Constant">
+  <option value="Liminal-Warrior">
+  <option value="Shadow">
+  <option value="Gatekeeper">
+</datalist>
+
+<script>
+const TYPES = ['match','promo','angle','backstage','video','entrance','contract-signing','other'];
+const POSITIONS = ['cold-open','A-block','B-block','main-event','dark','other'];
+const STAND_TALLS = ['babyface','heel','split','none'];
+
+const state = { threads: [], characters: [], newThreads: [], newCharacters: [] };
+
+function $(id) { return document.getElementById(id); }
+
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = String(s ?? '');
+  return d.innerHTML;
+}
+
+function splitComma(s) {
+  return String(s).split(',').map(x => x.trim()).filter(Boolean);
+}
+
+function setStatus(msg, type) {
+  const el = $('status');
+  el.textContent = msg;
+  el.className = 'status-' + type;
+}
+
+function makeSelect(cls, options, selected) {
+  return '<select class="' + cls + '">' +
+    options.map(o => '<option' + (o === selected ? ' selected' : '') + '>' + o + '</option>').join('') +
+    '</select>';
+}
+
+// ── Init ──
+
+async function init() {
+  try { state.threads = await fetch('data/threads.json').then(r => r.json()); } catch { state.threads = []; }
+  try { state.characters = await fetch('data/characters.json').then(r => r.json()); } catch { state.characters = []; }
+  $('catalog-status').textContent = state.threads.length + ' threads, ' + state.characters.length + ' characters loaded';
+}
+
+// ── Extract ──
+
+async function extract() {
+  const markdown = $('markdown').value.trim();
+  const showId = $('show-id').value.trim();
+  const workerUrl = $('worker-url').value.trim();
+
+  if (!markdown) return setStatus('Paste a show log first.', 'error');
+  if (!showId) return setStatus('Enter a show ID.', 'error');
+  if (!workerUrl) return setStatus('Enter a worker URL.', 'error');
+
+  setStatus('Extracting via ' + workerUrl + '...', 'working');
+  $('extract-btn').disabled = true;
+
+  try {
+    const resp = await fetch(workerUrl + '/extract', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        markdown: markdown,
+        show_id: showId,
+        threads: state.threads,
+        characters: state.characters,
+      }),
+    });
+
+    const data = await resp.json();
+    if (!resp.ok) throw new Error(data.error || data.detail || 'HTTP ' + resp.status);
+
+    $('meta-show').value = data.show.show || '';
+    $('meta-date').value = data.show.date || '';
+    $('meta-venue').value = data.show.venue || '';
+    $('meta-context').value = data.show.context || '';
+    $('show-meta').hidden = false;
+
+    renderSegments(data.show.segments || []);
+
+    state.newThreads = data.new_threads || [];
+    state.newCharacters = data.new_characters || [];
+    renderSuggestions();
+
+    setStatus('Extracted ' + (data.show.segments || []).length + ' segments (' + data.model + ').', 'success');
+  } catch (err) {
+    setStatus('Error: ' + err.message, 'error');
+  } finally {
+    $('extract-btn').disabled = false;
+  }
+}
+
+// ── Segment rendering ──
+
+function renderSegments(segments) {
+  const container = $('segments');
+  container.innerHTML = '';
+  segments.forEach((seg, i) => container.appendChild(makeCard(seg, i)));
+  $('seg-count').textContent = segments.length;
+  $('segments-section').hidden = false;
+}
+
+function makeCard(seg, index) {
+  const card = document.createElement('div');
+  card.className = 'segment-card';
+  card.dataset.standTall = seg.stand_tall || 'none';
+
+  const num = String(index + 1).padStart(2, '0');
+
+  card.innerHTML =
+    '<div class="seg-head" onclick="toggleBody(this)">' +
+      '<span class="seg-num">' + num + '</span>' +
+      makeSelect('seg-type', TYPES, seg.type) +
+      makeSelect('seg-position', POSITIONS, seg.position || 'other') +
+      makeSelect('seg-stand-tall', STAND_TALLS, seg.stand_tall || 'none') +
+      '<input class="seg-register" value="' + esc(seg.register || '') + '" list="register-list" placeholder="register" />' +
+      '<button class="danger seg-delete" onclick="event.stopPropagation(); deleteSegment(this)" title="Delete">×</button>' +
+    '</div>' +
+    '<div class="seg-body">' +
+      segRow('Carriers', 'seg-carriers', (seg.carriers || []).join(', ')) +
+      segRow('Advanced', 'seg-threads-advanced', (seg.threads_advanced || []).join(', ')) +
+      segRow('Opened', 'seg-threads-opened', (seg.threads_opened || []).join(', ')) +
+      segRow('Closed', 'seg-threads-closed', (seg.threads_closed || []).join(', ')) +
+      segRow('Transformed', 'seg-threads-transformed', (seg.threads_transformed || []).join(', ')) +
+      segRowArea('Outcome', 'seg-outcome', seg.outcome || '') +
+      segRowArea('Notes', 'seg-notes', seg.notes || '') +
+    '</div>';
+
+  const standTallSelect = card.querySelector('.seg-stand-tall');
+  standTallSelect.addEventListener('change', function() {
+    card.dataset.standTall = this.value;
+  });
+
+  // Stop select/input clicks from toggling the body
+  card.querySelectorAll('.seg-head select, .seg-head input').forEach(el => {
+    el.addEventListener('click', e => e.stopPropagation());
+  });
+
+  return card;
+}
+
+function segRow(label, cls, value) {
+  return '<div class="seg-row"><label>' + label + '</label><input class="' + cls + '" value="' + esc(value) + '" /></div>';
+}
+
+function segRowArea(label, cls, value) {
+  return '<div class="seg-row"><label>' + label + '</label><textarea class="' + cls + '">' + esc(value) + '</textarea></div>';
+}
+
+function toggleBody(headEl) {
+  headEl.nextElementSibling.classList.toggle('collapsed');
+}
+
+function deleteSegment(btn) {
+  const card = btn.closest('.segment-card');
+  card.remove();
+  renumber();
+}
+
+function addSegment() {
+  const container = $('segments');
+  const index = container.children.length;
+  const seg = {
+    type: 'other', position: 'other', carriers: [], stand_tall: 'none', register: '',
+    threads_advanced: [], threads_opened: [], threads_closed: [], threads_transformed: [],
+    outcome: '', notes: '',
+  };
+  container.appendChild(makeCard(seg, index));
+  renumber();
+  $('segments-section').hidden = false;
+}
+
+function renumber() {
+  document.querySelectorAll('.segment-card').forEach((card, i) => {
+    card.querySelector('.seg-num').textContent = String(i + 1).padStart(2, '0');
+  });
+  $('seg-count').textContent = document.querySelectorAll('.segment-card').length;
+}
+
+// ── Suggestions ──
+
+function renderSuggestions() {
+  const t = $('new-threads');
+  const c = $('new-characters');
+  if (state.newThreads.length === 0 && state.newCharacters.length === 0) {
+    $('suggestions-section').hidden = true;
+    return;
+  }
+  $('suggestions-section').hidden = false;
+
+  t.innerHTML = state.newThreads.length === 0 ? '' :
+    '<h3>New Threads (' + state.newThreads.length + ')</h3>' +
+    state.newThreads.map(th =>
+      '<div class="suggestion"><code>' + esc(th.id) + '</code> — ' + esc(th.name) +
+      (th.type ? ' (' + esc(th.type) + ')' : '') +
+      (th.carriers ? '<br><small>carriers: ' + esc(th.carriers.join(', ')) + '</small>' : '') +
+      (th.reason ? '<br><small>' + esc(th.reason) + '</small>' : '') +
+      '</div>'
+    ).join('');
+
+  c.innerHTML = state.newCharacters.length === 0 ? '' :
+    '<h3>New Characters (' + state.newCharacters.length + ')</h3>' +
+    state.newCharacters.map(ch =>
+      '<div class="suggestion"><code>' + esc(ch.id) + '</code> — ' + esc(ch.name) +
+      (ch.reason ? '<br><small>' + esc(ch.reason) + '</small>' : '') +
+      '</div>'
+    ).join('');
+}
+
+// ── Collect + Save ──
+
+function collectShow() {
+  const showId = $('show-id').value.trim();
+  const show = {
+    id: showId,
+    show: $('meta-show').value.trim(),
+    date: $('meta-date').value.trim(),
+  };
+  const venue = $('meta-venue').value.trim();
+  const context = $('meta-context').value.trim();
+  if (venue) show.venue = venue;
+  if (context) show.context = context;
+
+  show.segments = [];
+  document.querySelectorAll('.segment-card').forEach((card, i) => {
+    const num = String(i + 1).padStart(2, '0');
+    show.segments.push({
+      id: showId + '-seg-' + num,
+      type: card.querySelector('.seg-type').value,
+      position: card.querySelector('.seg-position').value,
+      carriers: splitComma(card.querySelector('.seg-carriers').value),
+      threads_advanced: splitComma(card.querySelector('.seg-threads-advanced').value),
+      threads_opened: splitComma(card.querySelector('.seg-threads-opened').value),
+      threads_closed: splitComma(card.querySelector('.seg-threads-closed').value),
+      threads_transformed: splitComma(card.querySelector('.seg-threads-transformed').value),
+      outcome: card.querySelector('.seg-outcome').value.trim() || null,
+      stand_tall: card.querySelector('.seg-stand-tall').value,
+      register: card.querySelector('.seg-register').value.trim(),
+      notes: card.querySelector('.seg-notes').value.trim(),
+    });
+  });
+
+  return show;
+}
+
+function saveShow() {
+  const show = collectShow();
+  if (!show.id) return setStatus('Enter a show ID first.', 'error');
+  if (show.segments.length === 0) return setStatus('No segments to save.', 'error');
+
+  const json = JSON.stringify(show, null, 2);
+  const blob = new Blob([json + '\n'], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = show.id + '.json';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(a.href);
+
+  setStatus('Downloaded ' + show.id + '.json (' + show.segments.length + ' segments).', 'success');
+}
+
+function previewJson() {
+  const show = collectShow();
+  $('json-preview').value = JSON.stringify(show, null, 2);
+  $('preview-section').hidden = false;
+  $('preview-section').scrollIntoView({ behavior: 'smooth' });
+}
+
+function copyJson() {
+  const text = $('json-preview').value;
+  navigator.clipboard.writeText(text).then(() => {
+    setStatus('Copied to clipboard.', 'success');
+  });
+}
+
+init();
+</script>
+</body>
+</html>
