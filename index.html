@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skein — Narrative-Debt Diagnostic</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>Skein</h1>
+  <span class="subtitle">Narrative-debt diagnostic</span>
+</header>
+
+<div class="controls">
+  <span>
+    <label for="mode-select">Rows</label>
+    <select id="mode-select">
+      <option value="threads" selected>Threads</option>
+      <option value="characters">Characters</option>
+    </select>
+  </span>
+  <span>
+    <label for="window-select">Window</label>
+    <select id="window-select">
+      <option value="all" selected>All shows</option>
+      <option value="4">Last 4</option>
+      <option value="8">Last 8</option>
+      <option value="12">Last 12</option>
+    </select>
+  </span>
+</div>
+
+<div class="tapestry-wrap" id="tapestry"></div>
+
+<div class="legend">
+  <span class="legend-item"><span class="legend-swatch" style="background:#b5451b"></span> Hot</span>
+  <span class="legend-item"><span class="legend-swatch" style="background:#c9a227"></span> Warm</span>
+  <span class="legend-item"><span class="legend-swatch" style="background:#9e9e9e"></span> Dormant</span>
+  <span class="legend-item"><span class="legend-line" style="background:#6b6b6b;opacity:0.5"></span> Closed</span>
+  <span class="legend-item"><span class="legend-line" style="background:#7b5ea7;border-top:2px dashed #7b5ea7;height:0"></span> Transformed</span>
+  <span class="legend-item"><span class="legend-swatch" style="background:#3a6ea5"></span> Face stand-tall</span>
+  <span class="legend-item"><span class="legend-swatch" style="background:#b5451b"></span> Heel stand-tall</span>
+  <span class="legend-item"><span class="legend-swatch" style="background:#7b5ea7"></span> Split</span>
+</div>
+
+<div class="metrics-bar" id="metrics"></div>
+
+<script type="module">
+import { renderTapestry } from './src/render/tapestry.js';
+import { computeTemperature } from './src/compute/temperature.js';
+import { computeDebt } from './src/compute/debt.js';
+
+const SHOW_FILES = [
+  'smackdown-2026-04-25',
+  'raw-2026-04-27',
+  'smackdown-2026-05-01',
+  'raw-2026-05-04',
+  'smackdown-2026-05-08',
+  'backlash-2026-05-09',
+];
+
+let allShows = [];
+let threads = [];
+let characters = [];
+
+async function loadData() {
+  const [t, c, ...showResults] = await Promise.all([
+    fetch('data/threads.json').then(r => r.json()),
+    fetch('data/characters.json').then(r => r.json()),
+    ...SHOW_FILES.map(f => fetch(`data/shows/${f}.json`).then(r => r.json())),
+  ]);
+  threads = t;
+  characters = c;
+  allShows = showResults.sort((a, b) => a.date.localeCompare(b.date));
+}
+
+function getWindowedShows() {
+  const val = document.getElementById('window-select').value;
+  if (val === 'all') return allShows;
+  const n = parseInt(val, 10);
+  return allShows.slice(-n);
+}
+
+function renderMetrics(shows) {
+  const el = document.getElementById('metrics');
+  const totalSegs = shows.reduce((s, sh) => s + sh.segments.length, 0);
+  const hot = threads.filter(t => computeTemperature(t, shows) === 'hot').length;
+  const dormant = threads.filter(t => computeTemperature(t, shows) === 'dormant').length;
+  const maxDebt = Math.max(...threads.map(t => computeDebt(t, shows).debt_score));
+
+  el.innerHTML = `
+    <div class="metric"><div class="value">${shows.length}</div><div class="label">Shows</div></div>
+    <div class="metric"><div class="value">${totalSegs}</div><div class="label">Segments</div></div>
+    <div class="metric"><div class="value">${threads.length}</div><div class="label">Threads</div></div>
+    <div class="metric"><div class="value">${hot}</div><div class="label">Hot</div></div>
+    <div class="metric"><div class="value">${dormant}</div><div class="label">Dormant</div></div>
+    <div class="metric"><div class="value">${maxDebt.toFixed(1)}</div><div class="label">Peak Debt</div></div>
+  `;
+}
+
+function render() {
+  const shows = getWindowedShows();
+  const mode = document.getElementById('mode-select').value;
+  renderTapestry(document.getElementById('tapestry'), { shows, threads, characters, mode });
+  renderMetrics(shows);
+}
+
+await loadData();
+render();
+
+document.getElementById('mode-select').addEventListener('change', render);
+document.getElementById('window-select').addEventListener('change', render);
+</script>
+
+</body>
+</html>
