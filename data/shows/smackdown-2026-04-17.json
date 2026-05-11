@@ -1,0 +1,223 @@
+{
+  "id": "smackdown-2026-04-17",
+  "show": "SmackDown",
+  "date": "2026-04-17",
+  "venue": "Unknown, SmackDown Arena",
+  "context": "Go-home show before WrestleMania 42",
+  "segments": [
+    {
+      "type": "promo",
+      "position": "cold-open",
+      "carriers": [
+        "jacob-fatu"
+      ],
+      "threads_advanced": [
+        "bloodline-civil-war"
+      ],
+      "threads_opened": [
+        "fatu-vs-drew-unsanctioned-wm42"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Jacob Fatu delivers a serious, articulate promo standing atop a police car flanked by actors in police uniforms. He addresses Drew McIntyre's attempt to have him locked up, dismisses it as in his 'rear view,' and warns Drew that no one is coming to save him.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Fatu frames himself as a feral-sovereign \u2014 not mindless but deliberate. Civilization's instruments (law enforcement imagery) cannot contain the aitu. This advances the Bloodline civil war arc by positioning Fatu as the dominant force heading into WM42, specifically in the Drew McIntyre unsanctioned match build. The police-car staging is a kayfabe-reality bleed image. Precursor to any dedicated fatu-vs-drew thread if one is cataloged post-Mania.",
+      "id": "smackdown-2026-04-17-seg-01"
+    },
+    {
+      "type": "promo",
+      "position": "A-block",
+      "carriers": [
+        "alexa-bliss",
+        "charlotte-flair"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Alexa Bliss and Charlotte Flair cut a joint promo building their WrestleMania 42 Women's Tag Title match.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "Segment seeds the WM42 tag title match. Analytical read flags Bliss as a 'twice-possessed / medium' archetype with strong hibernation-thesis potential for a Sister Abigail arc if this pairing ends at Mania. No existing catalog thread covers this pairing; logged as WM42 build only. Watch for Wyatt Sicks visual cues at Mania.",
+      "id": "smackdown-2026-04-17-seg-02"
+    },
+    {
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "r-truth",
+        "damian-priest",
+        "kofi-kingston",
+        "greyson-waller"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "waller-new-day-adoption"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Wepa Up (R-Truth and Damian Priest) face Kofi Kingston and Greyson Waller in a tag match. Waller enters using New Day music as an unofficial associate despite Kofi repeatedly calling him 'dummy' and withholding formal membership. Match result not explicitly stated in the log.",
+      "stand_tall": "none",
+      "register": "Constant",
+      "notes": "Waller is in trickster-limbo \u2014 using New Day's entrance but not formally inducted. Log projects Waller officially joins New Day at WM42. Structurally mirrors JC Mateo's adoption into MFTs \u2014 outsider-into-collective motif. No existing catalog thread covers this specific angle; potential new thread if Waller formally joins. Kofi Kingston present but not listed in existing character catalog \u2014 logged as carrier by ring name only.",
+      "id": "smackdown-2026-04-17-seg-03"
+    },
+    {
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "rhea-ripley",
+        "jade-cargill",
+        "b-fab",
+        "michin"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "rhea-vs-jade-wm42"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Rhea Ripley defeats Jade Cargill, B-Fab, and Michin in a 3-on-1 match.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Go-home Morrigan-Macha signal: Rhea wins solo against Cargill's full court. Positions Rhea as immovable force heading into WM42 Oya-vs-Macha match. Vince equilibrium note \u2014 strong go-home win may mean the ledger balances the other way at Mania. No catalog thread exists for this Rhea-Jade feud; precursor to any WM42 women's singles thread.",
+      "id": "smackdown-2026-04-17-seg-04"
+    },
+    {
+      "type": "promo",
+      "position": "A-block",
+      "carriers": [
+        "solo-sikoa",
+        "tama-tonga",
+        "talla-tonga"
+      ],
+      "threads_advanced": [
+        "bloodline-civil-war"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "The Main Event Bloodline (Solo Sikoa's faction) appears in a segment revealing the war-cult is visibly fracturing on the go-home show. Tama Tonga had already defected on 4/13 Raw; the collective is shown in dismantle mode.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "The usurper-king's court collapsing before the siege \u2014 Macbeth's castle emptying. Tama defection already established on Raw 4/13. If MFTs dissolve at/after Mania, Solo reverts to solo-usurper-without-a-court and the Polynesian war-cult archetype enters hibernation. Clean chapter ending for the post-dynasty feral clan arc in Scroll 003 framing.",
+      "id": "smackdown-2026-04-17-seg-05"
+    },
+    {
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "tiffany-stratton",
+        "giulia",
+        "kiana-james"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "stratton-vs-giulia-womens-us"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Tiffany Stratton defeats Jordynne Grace in a Women's Championship contenders match that opens with a mutual handshake. Post-match, Stratton faces down Giulia and Kiana James, signaling entry into the Women's US Championship picture.",
+      "stand_tall": "heel",
+      "register": "Constant",
+      "notes": "Respect-start (mutual handshake) protects Grace's dignity in the loss \u2014 Artemis-warrior walks away intact. Stratton's Transitional-tier read needs upward re-evaluation: winning a clean contenders match on the go-home show signals she may be finding the 'something layered' her archetype was searching for. Post-match Giulia/James staredown establishes Stratton as next challenger for Women's US Championship \u2014 Xochiquetzal-finding-depth vs Athena-strategos. Jordynne Grace not in existing character catalog; logged as carrier by ring name. No catalog thread covers Stratton-Giulia; potential new thread.",
+      "id": "smackdown-2026-04-17-seg-06"
+    },
+    {
+      "type": "angle",
+      "position": "B-block",
+      "carriers": [
+        "trick-williams",
+        "sami-zayn"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "trick-vs-sami-us-title-wm42"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Trick Williams appears in the ring with a person in a gingerbread mascot costume (identity unrevealed). Sami Zayn comes out to confront them. They brawl. Trick Williams stands tall at the end of the segment. Crowd chants 'whoop that trick.' Gingerbread identity not revealed in the log.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "Challenger punching up + crowd support + standing tall on go-home = classic title-change booking signal. Log speculates gingerbread mascot may be iShowSpeed or Lil Yachty. Sami displaying champion dismissiveness. Booking grammar strongly implies Trick wins US Title at WM42, though Vince equilibrium caution noted. No catalog thread covers this specific US Title feud; precursor to any trick-vs-sami-us-title thread.",
+      "id": "smackdown-2026-04-17-seg-07"
+    },
+    {
+      "type": "promo",
+      "position": "B-block",
+      "carriers": [
+        "brie-bella",
+        "nia-jax",
+        "lash-legend"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "bella-twins-wm42-tag-title"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "A promo segment builds the WM42 Women's Tag Title match between the Irresistible Forces (Nia Jax and Lash Legend) and the Bella Twins.",
+      "stand_tall": "none",
+      "register": "Constant",
+      "notes": "Log projects Bella Twins win at WM42 \u2014 returning legends coronation, Dioscuri-feminine paired-archetype validated. Brie Bella present; full Bella Twins not split in catalog. No existing catalog thread for this Women's Tag build.",
+      "id": "smackdown-2026-04-17-seg-08"
+    },
+    {
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "bayley",
+        "lyra-valkyria",
+        "nia-jax",
+        "lash-legend"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Bayley and Lyra Valkyria face Nia Jax and Lash Legend (Irresistible Forces) in a tag match. Result listed as TBD in the log.",
+      "stand_tall": "none",
+      "register": "Constant",
+      "notes": "Loyal Second (Bayley) serving Morrigan-Badb (Valkyria) \u2014 service-archetype in action. Match result not confirmed in the log. Pele (Jax) + Amazon-apprentice (Legend) on the opposite side. Builds same WM42 Women's Tag thread as the Bella Twins promo; both segments are part of the same feud triangle.",
+      "id": "smackdown-2026-04-17-seg-09"
+    },
+    {
+      "type": "video",
+      "position": "B-block",
+      "carriers": [
+        "brock-lesnar",
+        "oba-femi"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "lesnar-vs-oba-femi-wm42"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "A promo package airs hyping Brock Lesnar. WWE's own on-screen language describes him as 'a new titan' with 'time stands still' framing.",
+      "stand_tall": "none",
+      "register": "Pantheon",
+      "notes": "WWE's own copy literally uses 'titan' language \u2014 confirms Surtr/world-devourer register. Analytical ambiguity: 'new titan' may refer to Lesnar as incumbent or to Oba Femi as ascending. The contrast matters for Surtr vs ascending orisha read. No catalog thread exists for Lesnar vs Femi; precursor to any oba-vs-lesnar thread at WM42.",
+      "id": "smackdown-2026-04-17-seg-10"
+    },
+    {
+      "type": "match",
+      "position": "main-event",
+      "carriers": [
+        "royce-keys"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "royce-keys-elevation"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Royce Keys wins the Andr\u00e9 the Giant Memorial Battle Royal.",
+      "stand_tall": "babyface",
+      "register": "Liminal-Warrior",
+      "notes": "Andr\u00e9 trophy win is the 'anointed unknown' beat \u2014 call to adventure, not yet an archetype identity. Keys is a fresh main-roster name; winning on the go-home show signals office earmarking for a post-Mania push. Historical pattern is mixed (Cesaro stalled, Corbin main-evented). Post-Mania booking will confirm whether this is real elevation or go-home crowd pop. No existing catalog thread or character entry for Royce Keys \u2014 added to new_characters.",
+      "id": "smackdown-2026-04-17-seg-11"
+    }
+  ]
+}

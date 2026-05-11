@@ -867,5 +867,17 @@
     "name": "Zaria",
     "brand": "Raw",
     "notes": "Interfered in the Liv Morgan vs Sol Ruca title match, carrying the NXT ZaRuca feud to the main roster. Named explicitly in the log. Not present in the existing character catalog."
+  },
+  {
+    "id": "jordynne-grace",
+    "name": "Jordynne Grace",
+    "brand": "SmackDown",
+    "notes": "Competes in a featured Women's contenders match against Tiffany Stratton; not in existing character catalog."
+  },
+  {
+    "id": "kofi-kingston",
+    "name": "Kofi Kingston",
+    "brand": "SmackDown",
+    "notes": "Active participant in the Waller/New Day tag match; not in existing character catalog."
   }
 ]

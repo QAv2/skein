@@ -872,5 +872,103 @@
     ],
     "register": "Constant",
     "notes": "Vaquer returned immediately after Liv's successful title defense and stood face-to-face with her, signaling the WM42 feud continues. Log identifies this as the A-story for the Women's World title. No catalog thread covers the post-WM42 rematch build."
+  },
+  {
+    "id": "waller-new-day-adoption",
+    "name": "Greyson Waller \u2014 Trickster Adoption into New Day",
+    "type": "arc",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "greyson-waller"
+    ],
+    "register": "Constant",
+    "notes": "Waller using New Day music and associating with Kofi Kingston without formal membership \u2014 trickster-who-wants-to-belong narrative with WM42 payoff projected. No existing catalog thread covers this."
+  },
+  {
+    "id": "stratton-vs-giulia-womens-us",
+    "name": "Stratton vs Giulia \u2014 Women's US Championship",
+    "type": "feud",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "tiffany-stratton",
+      "giulia",
+      "kiana-james"
+    ],
+    "register": "Constant",
+    "notes": "Post-match staredown between Stratton and Giulia/Kiana James after Stratton wins the contenders match signals a new Women's US Title program. Not in existing catalog."
+  },
+  {
+    "id": "trick-vs-sami-us-title-wm42",
+    "name": "Trick Williams vs Sami Zayn \u2014 US Title WM42",
+    "type": "feud",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "trick-williams",
+      "sami-zayn"
+    ],
+    "register": "Constant",
+    "notes": "Go-home brawl with Trick standing tall, clear WM42 US Title match build. No existing catalog thread covers this feud."
+  },
+  {
+    "id": "rhea-vs-jade-wm42",
+    "name": "Rhea Ripley vs Jade Cargill \u2014 WM42",
+    "type": "feud",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "rhea-ripley",
+      "jade-cargill"
+    ],
+    "register": "Constant",
+    "notes": "3-on-1 match on go-home show is the final build for a WM42 singles match between Ripley and Cargill. Not in existing catalog."
+  },
+  {
+    "id": "lesnar-vs-oba-femi-wm42",
+    "name": "Brock Lesnar vs Oba Femi \u2014 WM42",
+    "type": "feud",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "brock-lesnar",
+      "oba-femi"
+    ],
+    "register": "Constant",
+    "notes": "Titan-framing promo package for Lesnar on go-home show implies WM42 match with Oba Femi. No existing catalog thread."
+  },
+  {
+    "id": "royce-keys-elevation",
+    "name": "Royce Keys \u2014 Andr\u00e9 Trophy Elevation Arc",
+    "type": "arc",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "royce-keys"
+    ],
+    "register": "Constant",
+    "notes": "Andr\u00e9 the Giant Memorial Battle Royal win on WM42 go-home show is the 'call to adventure' beat for Keys. Post-Mania booking will define the arc. New character, new thread."
+  },
+  {
+    "id": "fatu-vs-drew-unsanctioned-wm42",
+    "name": "Jacob Fatu vs Drew McIntyre \u2014 Unsanctioned WM42",
+    "type": "feud",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "jacob-fatu",
+      "drew-mcintyre"
+    ],
+    "register": "Constant",
+    "notes": "Fatu's cold-open promo directly addresses Drew and the unsanctioned match build. No existing catalog thread isolated to this feud; the bloodline-civil-war thread was advanced but the Drew-specific build deserves its own thread."
+  },
+  {
+    "id": "bella-twins-wm42-tag-title",
+    "name": "Bella Twins vs Irresistible Forces \u2014 WM42 Women's Tag Title",
+    "type": "feud",
+    "opened_at": "smackdown-2026-04-17",
+    "carriers": [
+      "brie-bella",
+      "nia-jax",
+      "lash-legend",
+      "bayley",
+      "lyra-valkyria"
+    ],
+    "register": "Constant",
+    "notes": "Two separate segments (promo and match) build the WM42 Women's Tag Title picture involving Bella Twins, Irresistible Forces, Bayley, and Valkyria. No existing catalog thread."
   }
 ]
