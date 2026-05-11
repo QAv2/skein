@@ -1,0 +1,415 @@
+{
+  "id": "raw-2026-04-20",
+  "show": "Raw",
+  "date": "2026-04-20",
+  "venue": "Raw After WrestleMania 42",
+  "context": "Post-WrestleMania 42 Raw \u2014 traditional night-after show with NXT call-ups, title-match seeds, and faction realignments following a two-night WrestleMania weekend",
+  "segments": [
+    {
+      "type": "promo",
+      "position": "cold-open",
+      "carriers": [
+        "oba-femi"
+      ],
+      "threads_advanced": [
+        "oba-ascension-streak"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Oba Femi opened Raw with a five-word coronation statement \u2014 'Your ruler is HERE.' \u2014 dropped the mic, and walked out without issuing a challenge or taking questions from the crowd.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Coronation-by-negation. Oba denied the crowd the call-and-response interaction entirely, exiting before they could respond. Log frames this as the post-Surtr-integration ruler, distinct from Roman's 'Acknowledge Me' demand era \u2014 Oba states, does not ask.",
+      "id": "raw-2026-04-20-seg-01"
+    },
+    {
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "iyo-sky",
+        "rhea-ripley",
+        "asuka",
+        "kairi-sane"
+      ],
+      "threads_advanced": [
+        "kabuki-warriors-lineage",
+        "asuka-onryo-register"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "IYO SKY and Rhea Ripley defeated Kairi Sane and Asuka via clean pin. No mist, no betrayal, no post-match angle.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Kabuki Warriors triangulation status unchanged \u2014 Sane remained loyal to Asuka, Asuka remained venomous toward IYO, but they simply lost. Log notes the alliance between IYO and Rhea as functional but uncertain in depth. Kairi Sane is not in the character catalog; flagged as new character below.",
+      "id": "raw-2026-04-20-seg-02"
+    },
+    {
+      "type": "backstage",
+      "position": "A-block",
+      "carriers": [
+        "penta",
+        "adam-pearce",
+        "jevon-evans",
+        "ethan-page"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Penta was shown backstage with GM Adam Pearce. Ethan Page was introduced as a main-roster debut. Adam Pearce approved a match between Javon Evans and Ethan Page, framing it as a continuation of their NXT rivalry.",
+      "stand_tall": "none",
+      "register": "Liminal-Warrior",
+      "notes": "Traditional Raw After Mania debut window for Ethan Page. Log frames the NXT-to-main-roster continuity as validating that NXT history matters. No archetype assigned to Page yet per the log.",
+      "id": "raw-2026-04-20-seg-03"
+    },
+    {
+      "type": "entrance",
+      "position": "A-block",
+      "carriers": [
+        "royce-keys"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Royce Keys was spotted by the camera in the crowd with the line 'They have arrived.' Standard new-talent introduction \u2014 face planted before matches begin. No promo, no confrontation.",
+      "stand_tall": "none",
+      "register": "Liminal-Warrior",
+      "notes": "Seed-only appearance. Log treats this as the first public plant of Royce Keys on the main-roster broadcast. Thread royce-keys-liminal-warrior-arc opened at WM42 Night 2 but no on-screen narrative action occurs here beyond visual introduction; thread not tagged.",
+      "id": "raw-2026-04-20-seg-04"
+    },
+    {
+      "type": "promo",
+      "position": "A-block",
+      "carriers": [
+        "cm-punk"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "CM Punk entered without music, stood in silence while the crowd filled the void, then personally cued 'It's Clobberin' Time' himself. Promo took the WM42 Night 2 title loss with grace \u2014 thanked production crew and unseen labor, no heel pivot, no bitterness. Closed with: 'You never know what opportunity is gonna fall out of the sky.'",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Log frames this as the coniunctio completing on Punk's side \u2014 the man who built his identity on resentment toward the machine now thanking its workers. 'Opportunity' language reads as title-shot seeding delivered as philosophy. No existing thread directly covers a Punk-Cody feud at this date; precursor to a future build noted in next segment.",
+      "id": "raw-2026-04-20-seg-05"
+    },
+    {
+      "type": "promo",
+      "position": "A-block",
+      "carriers": [
+        "cm-punk",
+        "cody-rhodes"
+      ],
+      "threads_advanced": [
+        "cody-third-reign"
+      ],
+      "threads_opened": [
+        "punk-vs-cody-summerslam-build"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Cody Rhodes interrupted Punk, appearing with a visible black eye from the WM42 Orton match. Punk and Cody had a warm, public exchange: Punk praised Cody's win, acknowledged his own loss with relief ('heavy is the head that wears the crown \u2014 man, I'm free as a bird'), and stated his intention to pursue opportunity. Cody's response to Punk's 'opportunity' framing: 'Hey Punk\u2026 just say when.' Punk exited; Cody stood alone in the ring.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "SummerSlam seed planted on-screen via 'just say when.' Log reads this as Punk/Cody SummerSlam build origin. No catalog thread exists for this feud at this date \u2014 flagged in new_threads. The black eye is presented as proof of cost, not weakness. Log frames the dual-layer: surface (title shot seed) and archetypal (Prometheus meets Telemachus).",
+      "id": "raw-2026-04-20-seg-06"
+    },
+    {
+      "type": "promo",
+      "position": "A-block",
+      "carriers": [
+        "finn-balor"
+      ],
+      "threads_advanced": [
+        "balor-fomorian-exile"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Finn B\u00e1lor appeared in street clothes (not as the Demon) and declared his intention to take out JD McDonagh tonight, citing shared Judgment Day history and personal betrayal.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "Log clarifies Finn was expelled from Judgment Day on March 9 Raw (3-on-1 beatdown, JD held him for Dom's 619) rather than leaving voluntarily. Demon settled the mythic debt with Dom at WM42; tonight Finn-the-man targets JD for the personal score. Corrected context logged.",
+      "id": "raw-2026-04-20-seg-07"
+    },
+    {
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "jevon-evans",
+        "ethan-page",
+        "rusev",
+        "penta"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "rusev-ic-title-chase",
+        "evans-vs-page-main-roster"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Ethan Page defeated Javon Evans following Rusev interference. Post-match: Penta came out to confront Rusev; Ethan Page tripped Penta from behind, allowing Rusev to lock in the Accolade. Page retreated while Rusev applied the submission. Rusev then draped the IC Championship over his own shoulder and made a wild face into the camera before the commercial break.",
+      "stand_tall": "heel",
+      "register": "Liminal-Warrior",
+      "notes": "Three-body IC title picture opened: Penta (champion), Rusev (monster challenger signaled by belt-draping), Ethan Page (opportunist-trickster). Log flags Rusev belt-draping as the loudest booking signal \u2014 next IC title challenger. Page used both Rusev and Penta without directly engaging either. Log connects to Penta's Workers' Belt framing. New threads flagged below for Rusev IC chase and Evans/Page rivalry.",
+      "id": "raw-2026-04-20-seg-08"
+    },
+    {
+      "type": "promo",
+      "position": "A-block",
+      "carriers": [
+        "joe-hendry"
+      ],
+      "threads_advanced": [
+        "hendry-orphic-bard"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Joe Hendry performed a concert promo as part of his established gimmick, receiving a showcase slot on Raw After Mania.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "Log describes this as the Everyman-Elevated getting his post-Mania showcase slot. Minimal detail in the log \u2014 treated as a routine gimmick beat advancing his arc.",
+      "id": "raw-2026-04-20-seg-09"
+    },
+    {
+      "type": "angle",
+      "position": "B-block",
+      "carriers": [
+        "liv-morgan",
+        "jd-mcdonagh",
+        "dom-mysterio",
+        "raquel-rodriguez",
+        "roxanne-perez",
+        "stephanie-vaquer",
+        "sol-ruca",
+        "adam-pearce"
+      ],
+      "threads_advanced": [
+        "jd-coven"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Full Judgment Day in-ring celebration for Liv Morgan's Women's World Championship reign. Liv thanked JD, Roxanne, Dom, Raquel by name, and also named Stephanie Vaquer as the opponent who 'reminded her who she is.' Sol Ruca interrupted with a respectful congratulation; Liv dismissed her ('You are no Liv Morgan, sweetie'). Sol held her ground. Adam Pearce emerged and made the title match official on the spot with Jessica Carr as referee.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Log reads Liv's celebration as Inanna post-ascent reassembling her divine powers publicly. The dismissal of Sol vs. the respect given to Vaquer is framed as consistent duality \u2014 Inanna gives respect to those who earned it through trial, not to newcomers. Vaquer named on-screen as the worthy gatekeeper. The instant-challenge booking via Pearce is the Raw After Mania tradition. New thread flagged for Rhea/Liv title trajectory.",
+      "id": "raw-2026-04-20-seg-10"
+    },
+    {
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "liv-morgan",
+        "sol-ruca",
+        "raquel-rodriguez",
+        "roxanne-perez",
+        "jd-mcdonagh",
+        "dom-mysterio",
+        "stephanie-vaquer"
+      ],
+      "threads_advanced": [
+        "jd-coven"
+      ],
+      "threads_opened": [
+        "sol-vs-zaria-main-roster",
+        "vaquer-vs-liv-rematch-build"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Liv Morgan retained the Women's World Championship with a clean pin over Sol Ruca. Zaria interfered during the match \u2014 not against Judgment Day but targeting Sol specifically, stemming from their NXT rivalry (ZaRuca breakup, Feb 2026). Sol survived the interference and made it back into the ring but was pinned clean by Liv. Post-match: Stephanie Vaquer returned and stood face-to-face with Liv; the camera did not show whether Vaquer yielded or held her ground.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Zaria's interference brings the NXT ZaRuca feud to the main roster \u2014 continuity-across-tiers principle. Log notes Sol got proximity to the title in her debut, not the title itself. Vaquer's immediate post-match appearance signals the WM42 feud is the A-story for the Women's World title, not the NXT thread. Zaria is not in the character catalog \u2014 flagged as new character below. New thread flagged for Zaria/Sol rivalry on main roster.",
+      "id": "raw-2026-04-20-seg-11"
+    },
+    {
+      "type": "promo",
+      "position": "B-block",
+      "carriers": [
+        "jd-mcdonagh"
+      ],
+      "threads_advanced": [
+        "balor-fomorian-exile"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "JD McDonagh cut a pre-match promo positioning himself as Finn B\u00e1lor's replacement, not his rival. Declared 'The Finn B\u00e1lor we all knew and loved is dead.' Framed the coming match as claiming the vacancy left by Finn's supposed death.",
+      "stand_tall": "heel",
+      "register": "Constant",
+      "notes": "Log identifies this as a succession claim from within the lineage \u2014 JD claiming Finn's identity, not just his spot. The Lugh Principle is flagged: JD was raised alongside Finn in Judgment Day, positioning him as the most plausible false Lugh figure. 'Dead' language read as psychopomp declaration \u2014 pronouncing a passage JD has no authority to claim.",
+      "id": "raw-2026-04-20-seg-12"
+    },
+    {
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "finn-balor",
+        "jd-mcdonagh",
+        "dom-mysterio"
+      ],
+      "threads_advanced": [
+        "balor-fomorian-exile"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Finn B\u00e1lor defeated JD McDonagh with a clean win. Finn attacked before the bell. No Demon paint \u2014 Finn-the-man won without the Demon persona. Post-match: Dom Mysterio attacked Finn; Finn fended him off and nearly hit a Coup de Gr\u00e2ce, but JD pulled Dom out of the ring. Both slunk away together. Finn stood in the ring, nose bloody but not beaten.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "JD's eulogy rejected by the result \u2014 the man won without the god. Corrected context: Finn was expelled from Judgment Day March 9 (not a voluntary departure). Log tracks Finn's Judgment Day dismantling: Dom \u2713 (WM42 Demon), JD \u2713 (tonight, Finn-the-man). Remaining: Liv, Raquel, Roxanne \u2014 structural barrier via women's division. JD and Dom retreating together confirms faction remains unified against the exile. Log identifies the structural inversion: Fomorian expelled for having integrity, making Judgment Day the chaos faction and Finn the ordered exile.",
+      "id": "raw-2026-04-20-seg-13"
+    },
+    {
+      "type": "backstage",
+      "position": "B-block",
+      "carriers": [
+        "la-knight",
+        "gunther"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "knight-vs-gunther-whc-build"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "LA Knight and Gunther had a backstage setup segment, positioning Knight as a contender against the World Heavyweight Champion. Minimal detail captured in the log.",
+      "stand_tall": "none",
+      "register": "Pantheon",
+      "notes": "Log flags this as a World Heavyweight Championship picture setup segment and defers detailed analysis. New thread flagged for Knight/Gunther WHC build.",
+      "id": "raw-2026-04-20-seg-14"
+    },
+    {
+      "type": "promo",
+      "position": "B-block",
+      "carriers": [
+        "paul-heyman",
+        "logan-paul",
+        "austin-theory",
+        "bron-breakker"
+      ],
+      "threads_advanced": [
+        "vision-faction",
+        "bron-vs-seth-2026"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Paul Heyman opened with a formal in-ring tribute to Brock Lesnar \u2014 invoked the WWE signature line 'then, now, forever' and moved Brock from 'now' to 'forever,' naming him one final time as 'BROCK LESNAR.' Heyman then pivoted to promoting Logan Paul and Austin Theory. Logan thanked Gunther for the Night 1 interference (which helped Breakker and cost Rollins), calling it a favor he intends to repay. Logan introduced Bron Breakker with Lesnar-style framing. Breakker cut a full heel promo \u2014 'Happy to be the one that ruined things' \u2014 expressing no remorse for costing Rollins the match.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Heyman's in-ring Brock tribute is framed as the ritual performing the mythology archiving live \u2014 third instance of institutional myth-processing on this broadcast (alongside Hogan doc and Brock Netflix doc previews). Log identifies Brock destruction-archetype bifurcation: Oba absorbed the mythic weight (audience's destroyer), Breakker absorbs the institutional-weapon function (Wiseman's enforcer). Breakker flagged for a future deep-dive session on Steiner lineage and bifurcation thesis. Logan heat described as Dom-after-Rey-betrayal level \u2014 energetic, not apathetic.",
+      "id": "raw-2026-04-20-seg-15"
+    },
+    {
+      "type": "angle",
+      "position": "B-block",
+      "carriers": [
+        "bron-breakker",
+        "seth-rollins",
+        "logan-paul",
+        "austin-theory",
+        "paul-heyman",
+        "montez-ford",
+        "angelo-dawkins"
+      ],
+      "threads_advanced": [
+        "bron-vs-seth-2026",
+        "vision-faction",
+        "rollins-lone-wolf-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "The crowd sang Seth Rollins's music before it played, summoning him. Rollins appeared with a steel chair. Street Profits (Montez Ford and Angelo Dawkins) also came out as organic allies. A total brawl broke out. Despite the coalition, Breakker ended the segment standing over Rollins. The numbers advantage could not overcome the institutional weapon.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Crowd sang Seth's music before production cued it \u2014 log identifies this as the congregation summoning the vessel. Log frames the post-Mania faction lines being drawn: Heyman stable (Breakker/Logan/Theory) vs. organic coalition (Rollins/Street Profits). Breakker standing over Rollins is the thesis statement for the next arc. Log poses the central question: can Loki trick the weapon into becoming a man? Rollins/Breakker feud confirmed as the next major program.",
+      "id": "raw-2026-04-20-seg-16"
+    },
+    {
+      "type": "backstage",
+      "position": "B-block",
+      "carriers": [
+        "iyo-sky",
+        "rhea-ripley"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "IYO SKY and Rhea Ripley had a backstage heart-to-heart following their tag match win. Described as a respectful parting, not a breakup angle. Rhea's line: 'Let's just not make it forever, ok?' \u2014 framing the separation as 'for now,' not permanent. No betrayal, no heel turn from either side.",
+      "stand_tall": "none",
+      "register": "Pantheon",
+      "notes": "Log identifies this as an extraordinarily rare clean mutual separation \u2014 two sovereign archetypes choosing their own sky with dignity intact. The 'not forever' framing is an explicit seed for a future collision with history of respect rather than betrayal. Log reads this as setting up a richer eventual feud because the parting was honest.",
+      "id": "raw-2026-04-20-seg-17"
+    },
+    {
+      "type": "backstage",
+      "position": "B-block",
+      "carriers": [
+        "rhea-ripley",
+        "liv-morgan"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "rhea-vs-liv-womens-world-build"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Immediately after the IYO/Rhea parting, Rhea walked past Liv Morgan in the backstage area. Liv made a snarky comment; Rhea responded: 'I'll be looking forward to it.' Rhea walked off camera.",
+      "stand_tall": "none",
+      "register": "Pantheon",
+      "notes": "Log reads this as the camera giving the roadmap \u2014 Rhea left IYO to walk toward Liv Morgan and the Women's World Championship. 'I'll be looking forward to it' framed as sovereign confidence matching Oba's opening register. Thread tagged is jade-vs-rhea-rematch as the closest existing thread tracking Rhea's title pursuit; however this segment specifically seeds Rhea vs. Liv for the Women's World Title \u2014 flagged in new_threads as a distinct build.",
+      "id": "raw-2026-04-20-seg-18"
+    },
+    {
+      "type": "angle",
+      "position": "main-event",
+      "carriers": [
+        "roman-reigns",
+        "jimmy-uso",
+        "jey-uso"
+      ],
+      "threads_advanced": [
+        "bloodline-civil-war"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Roman Reigns arrived via a single-shot Goldberg-style tracking camera follow from the parking lot through gorilla. In gorilla, Jimmy and Jey Uso were waiting; Roman asked 'You gonna come with?' \u2014 all three embraced and walked out together in the original spear formation (Roman at tip, Usos flanking). In-ring, Roman addressed the Usos: 'I'm not asking you to serve me, I'm asking you to be my blood and stand with me.' Jimmy and Jey committed with 'We the ones' and fingers up.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Log identifies this as the Bloodline restored to its original family form \u2014 before Solo, before the fracture, before 'acknowledge me.' The shift from 'acknowledge me' (demand) to 'stand with me' (invitation) is read as the thesis of the entire Bloodline saga resolving in one sentence. Crowd held both Jey and Roman loyalties simultaneously \u2014 log notes this as new, the faction that split the crowd for three years briefly unifying it.",
+      "id": "raw-2026-04-20-seg-19"
+    },
+    {
+      "type": "promo",
+      "position": "main-event",
+      "carriers": [
+        "roman-reigns",
+        "jacob-fatu",
+        "jimmy-uso",
+        "jey-uso"
+      ],
+      "threads_advanced": [
+        "bloodline-civil-war"
+      ],
+      "threads_opened": [
+        "roman-vs-fatu-backlash"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Jacob Fatu's music hit. Fatu appeared wearing mostly red on Raw (a brand-color declaration, as he is SmackDown). Crowd chanted 'Fatu, Fatu, Fatu.' Roman suggested Fatu was there to acknowledge him; Fatu denied it. Roman held up the WWE Championship; Fatu said: 'I don't want that title. I need that title. And I'm not here to be the Tribal Chief \u2014 but I'm here to have what the Tribal Chief has.' Listed the material lifestyle of a champion. Called his shot: Backlash. Crowd completed his catchphrase: 'YaddaddaMean Fa\u2014TU.' Roman responded by validating Jacob's claim to want those things, then pivoted to the real test: 'Can you handle the burden of this title? And otherwise \u2014 can you handle the burden of having to acknowledge me?' Gave Jacob a week to think. Called him 'little cousin.' Mic drop. Roman and Usos walked out. Jacob watched. End of episode.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Roman/Fatu \u2014 WWE Championship \u2014 Backlash match set. Log identifies Fatu's framing as extraordinary: separating the crown from its material rewards, claiming the economics not the identity. Roman using 'acknowledge me' as a consequence-warning rather than a dominance demand is framed as the phrase's evolution across the Bloodline arc. 'Little cousin' holds both affection and hierarchy simultaneously. Log reads red-on-Raw as aitu crossing brand lines dressed for war \u2014 doesn't respect borders, goes where the title is. Show structure noted: opened with new order (Oba, five words) and closed with current order challenged from within the bloodline \u2014 succession wave from outside (Oba), inside (Fatu), and below (NXT call-ups).",
+      "id": "raw-2026-04-20-seg-20"
+    }
+  ]
+}

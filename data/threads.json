@@ -776,5 +776,101 @@
     "register": "Pantheon",
     "promised_payoff": "undefined",
     "notes": "Declared for Raw SD 4/25; physical arrival Raw 4/27 closer. Owns power-position openers across both brands consecutive weeks."
+  },
+  {
+    "id": "punk-vs-cody-summerslam-build",
+    "name": "CM Punk vs Cody Rhodes \u2014 SummerSlam Build",
+    "type": "feud",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "cm-punk",
+      "cody-rhodes"
+    ],
+    "register": "Constant",
+    "notes": "On-screen seed planted this episode: Punk's 'opportunity falling from the sky' promo + Cody's 'just say when' acceptance. No catalog thread exists for this feud at this date. SummerSlam is the stated destination."
+  },
+  {
+    "id": "rusev-ic-title-chase",
+    "name": "Rusev \u2014 IC Title Chase",
+    "type": "arc",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "rusev",
+      "penta"
+    ],
+    "register": "Constant",
+    "notes": "Rusev interfered in the Evans/Page match, applied the Accolade to Penta, and draped the IC Championship over his own shoulder \u2014 a declaration of intent. Three-body IC picture (Penta/Rusev/Page) opened this episode. No existing catalog thread covers this."
+  },
+  {
+    "id": "evans-vs-page-main-roster",
+    "name": "Javon Evans vs Ethan Page \u2014 Main Roster Continuation",
+    "type": "feud",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "jevon-evans",
+      "ethan-page"
+    ],
+    "register": "Constant",
+    "notes": "NXT rivalry carried to the main roster with their debut match tonight. Log frames this as continuity-across-tiers; no catalog thread exists for this feud at the main-roster level."
+  },
+  {
+    "id": "sol-vs-zaria-main-roster",
+    "name": "Sol Ruca vs Zaria \u2014 Main Roster NXT Continuation",
+    "type": "feud",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "sol-ruca",
+      "zaria"
+    ],
+    "register": "Constant",
+    "notes": "Zaria interfered in Sol Ruca's main-roster debut title match, bringing their NXT feud (ZaRuca breakup, Stand & Deliver) to Raw. Log explicitly notes this as a feud-with-memory crossing brand lines. No catalog thread covers this at the main-roster level."
+  },
+  {
+    "id": "rhea-vs-liv-womens-world-build",
+    "name": "Rhea Ripley vs Liv Morgan \u2014 Women's World Championship Build",
+    "type": "arc",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "rhea-ripley",
+      "liv-morgan"
+    ],
+    "register": "Constant",
+    "notes": "Rhea's backstage 'I'll be looking forward to it' directly to Liv after cleanly separating from IYO establishes Rhea's next title-chase target as the Women's World Championship. Distinct from jade-vs-rhea-rematch which tracks Rhea vs. Jade."
+  },
+  {
+    "id": "roman-vs-fatu-backlash",
+    "name": "Roman Reigns vs Jacob Fatu \u2014 WWE Championship at Backlash",
+    "type": "feud",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "roman-reigns",
+      "jacob-fatu"
+    ],
+    "register": "Constant",
+    "notes": "Match formally called out in the main-event segment: Fatu challenged Roman for the WWE Championship at Backlash, Roman responded with the 'can you handle the burden' test and gave him a week. No catalog thread exists for this match."
+  },
+  {
+    "id": "knight-vs-gunther-whc-build",
+    "name": "LA Knight vs Gunther \u2014 World Heavyweight Championship Build",
+    "type": "arc",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "la-knight",
+      "gunther"
+    ],
+    "register": "Constant",
+    "notes": "Backstage setup segment positions Knight as a contender against WHC Gunther. No existing catalog thread covers this matchup."
+  },
+  {
+    "id": "vaquer-vs-liv-rematch-build",
+    "name": "Stephanie Vaquer vs Liv Morgan \u2014 Women's World Championship Rematch Build",
+    "type": "arc",
+    "opened_at": "raw-2026-04-20",
+    "carriers": [
+      "stephanie-vaquer",
+      "liv-morgan"
+    ],
+    "register": "Constant",
+    "notes": "Vaquer returned immediately after Liv's successful title defense and stood face-to-face with her, signaling the WM42 feud continues. Log identifies this as the A-story for the Women's World title. No catalog thread covers the post-WM42 rematch build."
   }
 ]
