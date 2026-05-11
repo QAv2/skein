@@ -1,0 +1,93 @@
+{
+  "id": "wrestlemania-42-n2-2026-04-19",
+  "show": "WrestleMania 42 Night 2",
+  "date": "2026-04-19",
+  "venue": "Las Vegas, Nevada",
+  "context": "WrestleMania 42 Night 2 — generational succession night. 6 matches. Loaded gun from Night 1 (Heyman/Breakker) stayed holstered; every match resolved clean.",
+  "segments": [
+    {
+      "id": "wrestlemania-42-n2-2026-04-19-seg-01",
+      "type": "match",
+      "position": "A-block",
+      "carriers": ["oba-femi", "brock-lesnar", "paul-heyman"],
+      "threads_advanced": [],
+      "threads_opened": ["oba-ascension-streak"],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Oba Femi defeated Brock Lesnar decisively and quickly. Post-match, Oba gave Lesnar a symbolic acknowledgment. Lesnar removed gloves and boots, left them in the ring — retirement grammar. Crowd chanted 'Thank you Brock.' Paul Heyman came out and embraced him.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Creation myth and conscious death in the same three-count. WM streak seeded (1-0). Lesnar = Surtr integrated, not hibernated. All integration indicators present: decisive defeat, voluntary symbol release, crowd gratitude, successor's acknowledgment, handler completing emotional arc. Destruction archetype bifurcated: Oba inherits mythic weight, Breakker inherits institutional weapon function."
+    },
+    {
+      "id": "wrestlemania-42-n2-2026-04-19-seg-02",
+      "type": "match",
+      "position": "B-block",
+      "carriers": ["penta", "jd-mcdonagh"],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Penta retained the Intercontinental Championship in a ladder match. JD McDonagh did not capture the title.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "Workers' belt thesis confirmed — IC title tells you who the office crowns as 'the worker.' Penta holds that designation. Ladder matches remain Fortuna's province; resist applying structural logic to chaos formats. JD elevation trajectory (Dom/JD future feud, Liv gravitating toward the earner) remains alive through a different door."
+    },
+    {
+      "id": "wrestlemania-42-n2-2026-04-19-seg-03",
+      "type": "match",
+      "position": "A-block",
+      "carriers": ["finn-balor", "dom-mysterio"],
+      "threads_advanced": ["balor-fomorian-exile"],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Finn Bálor (as The Demon) defeated Dominik Mysterio in a Street Fight. Dom entered with AAA Championship and Spanish/Mexican crew. Full Demon entrance at production scale. WM41 deferred justice paid.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "WM41 debt (Dom pinned Bálor for IC title) paid one year later. Dom's AAA Championship = his one non-borrowed piece of legitimacy. Street fight = Fomorian's natural habitat (outside civilization's constraints). Children scared during Demon entrance; Dom's face showed genuine fear. Steal-the-show candidate. Scroll 001 insert has its shape — the Fomorian eye opened."
+    },
+    {
+      "id": "wrestlemania-42-n2-2026-04-19-seg-04",
+      "type": "match",
+      "position": "B-block",
+      "carriers": ["trick-williams", "sami-zayn"],
+      "threads_advanced": [],
+      "threads_opened": ["trick-us-title-reign"],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Trick Williams defeated Sami Zayn cleanly to win the United States Championship.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Clean finish inverts the 'corrupted demihero shortcuts' thesis — Trick won without cheating. Generational succession (world-state tension #5) overrode integrity tension (#6). Part of Night 2's generational current: Oba over Brock (mythic), Trick over Sami (demihero). Both decisive, respectful, absolute. Sami's Conscience archetype didn't fail — the collective chose differently."
+    },
+    {
+      "id": "wrestlemania-42-n2-2026-04-19-seg-05",
+      "type": "match",
+      "position": "A-block",
+      "carriers": ["rhea-ripley", "jade-cargill", "iyo-sky", "michin", "b-fab"],
+      "threads_advanced": [],
+      "threads_opened": ["jade-vs-rhea-rematch"],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Rhea Ripley defeated Jade Cargill to win the Women's World Championship. Michin and B-Fab interfered for Jade; IYO Sky neutralized them and cleared the path. Rhea won clean. Rhea wore white gear with hand-written text. Jade's entrance featured full wind/storm costume.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "Meta-kayfabe obligation confirmed. Fourth-wall break (Rhea invoked 'Demi') honored with clean coronation. White gear = coronation signal (Undertaker WM20, Cody WM40 pattern). Jade's storm-costume unconsciously confirmed Oya archetype. IYO's intervention = feminine solidarity; Bride-Who-Became-Queen protected another woman's sovereignty. Jade's loss = descent phase of Oya cycle, not burial."
+    },
+    {
+      "id": "wrestlemania-42-n2-2026-04-19-seg-06",
+      "type": "match",
+      "position": "main-event",
+      "carriers": ["roman-reigns", "cm-punk"],
+      "threads_advanced": ["bloodline-civil-war"],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Roman Reigns defeated CM Punk cleanly to win the WWE Championship (7th world title). Roman's entrance honored his full family; Sika's presence acknowledged. No interference from Heyman/Breakker despite Night 1 setup. 10/10 clean finish.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "15-year meta-kayfabe debt paid in full. Alchemical reciprocals resolved without third-force interference. Sika thread closes — Roman's entrance, Punk's go-home apology, and clean finish all honored the family name. Coniunctio completed: mutual confession was the wedding, match was the consummation. Transformed king earned what was originally handed for the wrong reasons. Post-Poseidon completes: rejected by the ocean (2014-20), tyrant of the ocean (2020-24), lost the ocean (WM40), earns it back clean (WM42)."
+    }
+  ]
+}

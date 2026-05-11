@@ -11,13 +11,13 @@
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
     "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Aitu vs Patriarch — worldview clash, not faction war. Fatu declared for Raw on SD 4/25; physical arrival Raw 4/27."
+    "notes": "Aitu vs Patriarch \u2014 worldview clash, not faction war. Fatu declared for Raw on SD 4/25; physical arrival Raw 4/27."
   },
   {
     "id": "bron-vs-seth-2026",
     "name": "Bron Breakker vs Seth Rollins (2026 arc)",
     "type": "feud",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "bron-breakker",
       "seth-rollins"
@@ -40,7 +40,7 @@
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
     "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Sleeper attack post-Cody/Saints SD 5/01 opened. Heyman segment SD 5/08 escalated — 4 sleeper attempts, Gunther embarrassed on go-home."
+    "notes": "Sleeper attack post-Cody/Saints SD 5/01 opened. Heyman segment SD 5/08 escalated \u2014 4 sleeper attempts, Gunther embarrassed on go-home."
   },
   {
     "id": "asuka-vs-iyo-backlash",
@@ -71,7 +71,7 @@
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
     "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Sami descent → gingerbread ambush → funeral → blindside. Successor vs predecessor."
+    "notes": "Sami descent \u2192 gingerbread ambush \u2192 funeral \u2192 blindside. Successor vs predecessor."
   },
   {
     "id": "danhausen-vs-miz-wilson",
@@ -136,13 +136,13 @@
     ],
     "register": "Constant",
     "promised_payoff": "undefined",
-    "notes": "Tama coup → Fatu superkick → Fatu beats Solo clean. SD 5/08: Solo demoted to manager-architect; remnant hierarchy functions."
+    "notes": "Tama coup \u2192 Fatu superkick \u2192 Fatu beats Solo clean. SD 5/08: Solo demoted to manager-architect; remnant hierarchy functions."
   },
   {
     "id": "vision-faction",
     "name": "The Vision (Logan / Theory / Bron / Heyman)",
     "type": "faction",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "logan-paul",
       "austin-theory",
@@ -151,7 +151,7 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Operative class. Heyman + Bron the leash question; Logan + Theory the payoff line. SD 5/08 reframed — Heyman not Vision-locked."
+    "notes": "Operative class. Heyman + Bron the leash question; Logan + Theory the payoff line. SD 5/08 reframed \u2014 Heyman not Vision-locked."
   },
   {
     "id": "jd-coven",
@@ -186,7 +186,7 @@
     "id": "irresistible-forces-arc",
     "name": "Irresistible Forces (Nia + Lash) post-WM42 chase",
     "type": "faction",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "nia-jax",
       "lash-legend"
@@ -208,11 +208,11 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Formal naming deferred. Jade approached Alexa post-debut — recruitment or warning open."
+    "notes": "Formal naming deferred. Jade approached Alexa post-debut \u2014 recruitment or warning open."
   },
   {
     "id": "hendry-orphic-bard",
-    "name": "Joe Hendry — Orphic Bard ascent",
+    "name": "Joe Hendry \u2014 Orphic Bard ascent",
     "type": "arc",
     "opened_at": "raw-2026-04-13",
     "carriers": [
@@ -220,36 +220,36 @@
     ],
     "register": "Liminal-Warrior",
     "promised_payoff": "undefined",
-    "notes": "Concert mechanic. 4/27 Laredo (75% singalong, border crowd) → 5/04 Omaha (full singalong, mat-credibility crowd)."
+    "notes": "Concert mechanic. 4/27 Laredo (75% singalong, border crowd) \u2192 5/04 Omaha (full singalong, mat-credibility crowd)."
   },
   {
     "id": "oba-ascension-streak",
-    "name": "Oba Femi — Ascending Orisha (credential streak)",
+    "name": "Oba Femi \u2014 Ascending Orisha (credential streak)",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n2-2026-04-19",
     "carriers": [
       "oba-femi"
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Streak isn't wins — it's a stack of impossible feats. WM42 (Lesnar/Surtr), Raw 4/27 (Waller squash + open challenge), Raw 5/04 (Otis-mass powerbomb)."
+    "notes": "Streak isn't wins \u2014 it's a stack of impossible feats. WM42 (Lesnar/Surtr), Raw 4/27 (Waller squash + open challenge), Raw 5/04 (Otis-mass powerbomb)."
   },
   {
     "id": "rollins-lone-wolf-arc",
-    "name": "Seth Rollins — Bound-Loki preparing the handoff",
+    "name": "Seth Rollins \u2014 Bound-Loki preparing the handoff",
     "type": "arc",
-    "opened_at": "raw-2026-04-13",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "seth-rollins"
     ],
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
     "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Must lose to Bron *alone* — coalition would dilute the handoff. Refused alliance Raw 5/04 S11."
+    "notes": "Must lose to Bron *alone* \u2014 coalition would dilute the handoff. Refused alliance Raw 5/04 S11."
   },
   {
     "id": "balor-fomorian-exile",
-    "name": "Finn Bálor — Fomorian-Exile / Club House",
+    "name": "Finn B\u00e1lor \u2014 Fomorian-Exile / Club House",
     "type": "arc",
     "opened_at": "raw-2026-04-06",
     "carriers": [
@@ -261,9 +261,9 @@
   },
   {
     "id": "becky-nemesis-arc",
-    "name": "Becky Lynch — Nemesis (post-WM42 victory tour)",
+    "name": "Becky Lynch \u2014 Nemesis (post-WM42 victory tour)",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "becky-lynch"
     ],
@@ -273,15 +273,15 @@
   },
   {
     "id": "asuka-onryo-register",
-    "name": "Asuka — Onryō register expansion (post-WM42)",
+    "name": "Asuka \u2014 Onry\u014d register expansion (post-WM42)",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n2-2026-04-19",
     "carriers": [
       "asuka"
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Three-layer stack: Yamauba authority + Hannya wound + Onryō weapon. Expanded Raw 5/04 with senpai-authority + 'wakatta?'."
+    "notes": "Three-layer stack: Yamauba authority + Hannya wound + Onry\u014d weapon. Expanded Raw 5/04 with senpai-authority + 'wakatta?'."
   },
   {
     "id": "sol-ruca-vs-becky-program",
@@ -295,7 +295,7 @@
     ],
     "register": "Liminal-Warrior",
     "promised_payoff": "undefined",
-    "notes": "Compressed elevation — debutante landing in Women's IC champ's program."
+    "notes": "Compressed elevation \u2014 debutante landing in Women's IC champ's program."
   },
   {
     "id": "lyra-vs-jd",
@@ -314,7 +314,7 @@
   },
   {
     "id": "multi-front-war",
-    "name": "Multi-front war — heel factions vs babyface federation",
+    "name": "Multi-front war \u2014 heel factions vs babyface federation",
     "type": "meta",
     "opened_at": "raw-2026-05-04",
     "opened_by_segment": "raw-2026-05-04-seg-09",
@@ -361,7 +361,7 @@
     ],
     "register": "Constant",
     "promised_payoff": "next-week",
-    "notes": "Closed Raw 5/04 S3 — Roxanne picked the queen via hammer on Bálor."
+    "notes": "Closed Raw 5/04 S3 \u2014 Roxanne picked the queen via hammer on B\u00e1lor."
   },
   {
     "id": "street-profits-hendry-alliance",
@@ -394,7 +394,7 @@
   },
   {
     "id": "diamond-mine-reunion",
-    "name": "Diamond Mine reunion — Creeds via Los Americanos Hermanos",
+    "name": "Diamond Mine reunion \u2014 Creeds via Los Americanos Hermanos",
     "type": "faction",
     "opened_at": "raw-2026-05-04",
     "opened_by_segment": "raw-2026-05-04-seg-13",
@@ -476,11 +476,11 @@
     ],
     "register": "Constant",
     "promised_payoff": "undefined",
-    "notes": "Predicted 2-month turn. Mistimed assist SD 5/08 cost Kiana the title — accelerated."
+    "notes": "Predicted 2-month turn. Mistimed assist SD 5/08 cost Kiana the title \u2014 accelerated."
   },
   {
     "id": "tiffany-women-us-reign",
-    "name": "Tiffany Stratton — Women's US Title reign",
+    "name": "Tiffany Stratton \u2014 Women's US Title reign",
     "type": "prop",
     "opened_at": "smackdown-2026-04-25",
     "carriers": [
@@ -494,31 +494,31 @@
     "id": "cody-third-reign",
     "name": "Cody Rhodes 3rd Undisputed reign",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "cody-rhodes"
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "9 weeks at Backlash. Orbital fracture from Orton WM42 punt — 'wound is the credential'."
+    "notes": "9 weeks at Backlash. Orbital fracture from Orton WM42 punt \u2014 'wound is the credential'."
   },
   {
     "id": "trick-us-title-reign",
-    "name": "Trick Williams — US Title reign",
+    "name": "Trick Williams \u2014 US Title reign",
     "type": "prop",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n2-2026-04-19",
     "carriers": [
       "trick-williams"
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Won from Sami at WM42 — predecessor descent triggered."
+    "notes": "Won from Sami at WM42 \u2014 predecessor descent triggered."
   },
   {
     "id": "inanna-paige-return",
-    "name": "Inanna's return — Paige post-descent",
+    "name": "Inanna's return \u2014 Paige post-descent",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "paige",
       "brie-bella"
@@ -529,9 +529,9 @@
   },
   {
     "id": "womens-tag-reign-paige-brie",
-    "name": "Women's Tag Title reign — Paige + Brie Bella",
+    "name": "Women's Tag Title reign \u2014 Paige + Brie Bella",
     "type": "prop",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "paige",
       "brie-bella"
@@ -544,7 +544,7 @@
     "id": "charlotte-alexa-partnership",
     "name": "Charlotte + Alexa partnership / fragility",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "charlotte-flair",
       "alexa-bliss"
@@ -555,7 +555,7 @@
   },
   {
     "id": "anubis-thoth-judgment",
-    "name": "Hall of Two Truths — Priest + R-Truth judgment apparatus",
+    "name": "Hall of Two Truths \u2014 Priest + R-Truth judgment apparatus",
     "type": "faction",
     "opened_at": "smackdown-2026-04-25",
     "opened_by_segment": "smackdown-2026-04-25-seg-07",
@@ -565,11 +565,11 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Anubis (verdict) + Thoth (witness/recorder). Tested SD 5/08 — weld stress-mark; Royce Keys joins as third body."
+    "notes": "Anubis (verdict) + Thoth (witness/recorder). Tested SD 5/08 \u2014 weld stress-mark; Royce Keys joins as third body."
   },
   {
     "id": "danhausen-sacred-clown-arc",
-    "name": "Danhausen — Sacred Clown / Heyoka arc",
+    "name": "Danhausen \u2014 Sacred Clown / Heyoka arc",
     "type": "arc",
     "opened_at": "smackdown-2026-04-25",
     "carriers": [
@@ -581,7 +581,7 @@
   },
   {
     "id": "sami-descent-arc",
-    "name": "Sami Zayn — predecessor descent",
+    "name": "Sami Zayn \u2014 predecessor descent",
     "type": "arc",
     "opened_at": "smackdown-2026-04-25",
     "opened_by_segment": "smackdown-2026-04-25-seg-08",
@@ -591,11 +591,11 @@
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
     "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Gingerbread costume ambush 4/25 → Cody exile 5/01 → wake/funeral/blindside 5/08. Paranoid spiral coded."
+    "notes": "Gingerbread costume ambush 4/25 \u2192 Cody exile 5/01 \u2192 wake/funeral/blindside 5/08. Paranoid spiral coded."
   },
   {
     "id": "tama-tonga-restless",
-    "name": "Tama Tonga — restless within MFTs",
+    "name": "Tama Tonga \u2014 restless within MFTs",
     "type": "arc",
     "opened_at": "smackdown-2026-04-25",
     "carriers": [
@@ -604,13 +604,13 @@
     ],
     "register": "Constant",
     "promised_payoff": "undefined",
-    "notes": "Mic-grab from Solo 4/25 → Fatu superkick 4/25 → Nakamura disappointment confrontation 5/08."
+    "notes": "Mic-grab from Solo 4/25 \u2192 Fatu superkick 4/25 \u2192 Nakamura disappointment confrontation 5/08."
   },
   {
     "id": "royce-keys-liminal-warrior-arc",
-    "name": "Royce Keys — Liminal Warrior / Guardian-Who-Carries-the-Dead",
+    "name": "Royce Keys \u2014 Liminal Warrior / Guardian-Who-Carries-the-Dead",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n2-2026-04-19",
     "carriers": [
       "royce-keys"
     ],
@@ -620,7 +620,7 @@
   },
   {
     "id": "ricky-saints-debut-arc",
-    "name": "Ricky Saints — main-roster debut arc",
+    "name": "Ricky Saints \u2014 main-roster debut arc",
     "type": "arc",
     "opened_at": "smackdown-2026-05-01",
     "opened_by_segment": "smackdown-2026-05-01-seg-02",
@@ -633,7 +633,7 @@
   },
   {
     "id": "matt-cardona-exile-returned-arc",
-    "name": "Matt Cardona — Exile-Returned",
+    "name": "Matt Cardona \u2014 Exile-Returned",
     "type": "arc",
     "opened_at": "royal-rumble-2026",
     "carriers": [
@@ -641,13 +641,13 @@
     ],
     "register": "Shadow",
     "promised_payoff": "undefined",
-    "notes": "Internet Championship lineage. Returned under indie name Jan 2026. Loss to Saints 5/08 — receipts not closed."
+    "notes": "Internet Championship lineage. Returned under indie name Jan 2026. Loss to Saints 5/08 \u2014 receipts not closed."
   },
   {
     "id": "charlotte-hera-arc",
-    "name": "Charlotte Flair — Hera record-track",
+    "name": "Charlotte Flair \u2014 Hera record-track",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "charlotte-flair"
     ],
@@ -657,21 +657,21 @@
   },
   {
     "id": "alexa-twice-possessed-arc",
-    "name": "Alexa Bliss — Twice-Possessed / Sister Abigail latency",
+    "name": "Alexa Bliss \u2014 Twice-Possessed / Sister Abigail latency",
     "type": "arc",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
       "alexa-bliss"
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Joe's conviction: Alexa must be Sister Abigail. Wyatt Sicks released 4/24 — vacancy open. Jade approach 5/08."
+    "notes": "Joe's conviction: Alexa must be Sister Abigail. Wyatt Sicks released 4/24 \u2014 vacancy open. Jade approach 5/08."
   },
   {
     "id": "jade-vs-rhea-rematch",
-    "name": "Jade Cargill (Oya) vs Rhea Ripley (Macha) — rematch claim",
+    "name": "Jade Cargill (Oya) vs Rhea Ripley (Macha) \u2014 rematch claim",
     "type": "feud",
-    "opened_at": "wrestlemania-42",
+    "opened_at": "wrestlemania-42-n2-2026-04-19",
     "carriers": [
       "jade-cargill",
       "rhea-ripley"
@@ -696,7 +696,7 @@
   },
   {
     "id": "trick-grail-cup-arc",
-    "name": "Trick Williams — Grail Cup ritual",
+    "name": "Trick Williams \u2014 Grail Cup ritual",
     "type": "arc",
     "opened_at": "smackdown-2026-05-08",
     "opened_by_segment": "smackdown-2026-05-08-seg-18",
@@ -705,7 +705,7 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Tiny grail + libation over gingerbread casket. Archetype pending — hold open."
+    "notes": "Tiny grail + libation over gingerbread casket. Archetype pending \u2014 hold open."
   },
   {
     "id": "chelsea-cardona-intergender-watch",
@@ -719,11 +719,11 @@
     ],
     "register": "Constant",
     "promised_payoff": "undefined",
-    "notes": "First married couple to simultaneously hold men's+women's US titles. Possible Parejas-Increíbles-style anchor."
+    "notes": "First married couple to simultaneously hold men's+women's US titles. Possible Parejas-Incre\u00edbles-style anchor."
   },
   {
     "id": "heyman-the-constant-arc",
-    "name": "Paul Heyman — The Constant / Wise Man",
+    "name": "Paul Heyman \u2014 The Constant / Wise Man",
     "type": "arc",
     "opened_at": "smackdown-2026-05-08",
     "opened_by_segment": "smackdown-2026-05-08-seg-08",
@@ -736,7 +736,7 @@
   },
   {
     "id": "gingerbread-shadow-real",
-    "name": "Gingerbread Man — autonomous shadow / kayfabe-real",
+    "name": "Gingerbread Man \u2014 autonomous shadow / kayfabe-real",
     "type": "meta",
     "opened_at": "smackdown-2026-04-25",
     "opened_by_segment": "smackdown-2026-04-25-seg-08",
