@@ -1,0 +1,118 @@
+{
+  "id": "backlash-2026-05-09",
+  "show": "Backlash",
+  "date": "2026-05-09",
+  "venue": "Tampa, Florida — Benchmark International Arena",
+  "context": "First post-WrestleMania 42 PLE; corrective-card stress test — does the WM42 medicine hold?",
+  "segments": [
+    {
+      "id": "backlash-2026-05-09-seg-01",
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "roman-reigns",
+        "jacob-fatu",
+        "jimmy-uso",
+        "jey-uso",
+        "solo-sikoa"
+      ],
+      "threads_advanced": [
+        "roman-vs-fatu-whc",
+        "bloodline-civil-war",
+        "tongan-death-grip-taboo",
+        "mfts-collapse"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Roman Reigns retains the World Heavyweight Championship via contested finish; outside interference (Usos and/or Solo Sikoa) prevents a clean resolution. Fatu exits more dangerous than he entered.",
+      "stand_tall": "split",
+      "register": "Pantheon",
+      "notes": "Predicted dirty retention — ritual reads this as too large for a B-PLE; seeds Roman vs. Fatu for WM43. Usos enforce the family code (Death Grip violation) rather than loyalty to either man. Solo is the chaos variable from the margins. Medium confidence — line movement from -3000 to -700 signals possible Fatu acceleration if Roman is leaving TV."
+    },
+    {
+      "id": "backlash-2026-05-09-seg-02",
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "seth-rollins",
+        "bron-breakker",
+        "paul-heyman"
+      ],
+      "threads_advanced": [
+        "bron-vs-seth-2026",
+        "rollins-lone-wolf-arc",
+        "vision-faction"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Bron Breakker defeats Seth Rollins clean (or near-clean). Breakker earns his credential as Heyman's institutional weapon. Rollins loses as the lone wolf without coalition support.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Predicted Breakker win — Loki founds the monster by losing to it. WM42 debt to Rollins paid in narrative currency (meaningful loss) rather than a corrective W. Steel-stairs grammar from go-home Raw (Bron → Seth Seg 1, Seth → Bron Seg 9) resolved at Backlash. Rollins's refusal to join the multi-front coalition costs him here. Medium-High confidence; -130 Bron at book."
+    },
+    {
+      "id": "backlash-2026-05-09-seg-03",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "iyo-sky",
+        "asuka"
+      ],
+      "threads_advanced": [
+        "asuka-vs-iyo-backlash",
+        "asuka-onryo-register",
+        "kabuki-warriors-lineage"
+      ],
+      "threads_opened": [],
+      "threads_closed": [
+        "asuka-vs-iyo-backlash"
+      ],
+      "threads_transformed": [
+        "kabuki-warriors-lineage"
+      ],
+      "outcome": "IYO Sky defeats Asuka clean. The Kabuki Warriors paired-apparition structure is formally dissolved; both women are now operating as solo entities.",
+      "stand_tall": "babyface",
+      "register": "Constant",
+      "notes": "Predicted IYO win — Queen answers the Onryō. WM41 triple-threat coronation is validated, not cheapened. Kairi Sane appearance possible (F4W >50%) but IYO wins regardless. -400 favorite; mythology and money align. Kabuki Warriors thread transforms from paired-faction to individual arcs for each woman."
+    },
+    {
+      "id": "backlash-2026-05-09-seg-04",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "danhausen",
+        "the-miz",
+        "kit-wilson"
+      ],
+      "threads_advanced": [
+        "danhausen-vs-miz-wilson",
+        "danhausen-sacred-clown-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [
+        "danhausen-vs-miz-wilson"
+      ],
+      "threads_transformed": [],
+      "outcome": "Danhausen and mystery partner defeat The Miz and Kit Wilson. Mystery partner (betting favorite CM Punk at -200, Joe Hendry at +200) provides the pop moment. Danhausen's team wins.",
+      "stand_tall": "babyface",
+      "register": "Liminal-Warrior",
+      "notes": "Predicted Danhausen team win — Scroll 005 live, transparency-potency principle at PLE scale. Sacred Clown's function is to prove the pharmacy works in daylight; a loss collapses the thesis. Mystery partner is the real payload; the match is the vehicle. Very High confidence (-5000 equivalent). If CM Punk: Prometheus meets Heyoka. If Hendry: Orphic Bard meets Sacred Clown. Either pairing is pharmacologically significant."
+    },
+    {
+      "id": "backlash-2026-05-09-seg-05",
+      "type": "other",
+      "position": "other",
+      "carriers": [],
+      "threads_advanced": [],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "John Cena makes a 'history-making announcement' — framed around Club WWE or a subscription/institutional product. Non-wrestling appearance; Cena acts as structural/promotional element rather than performer.",
+      "stand_tall": "none",
+      "register": "Gatekeeper",
+      "notes": "Retired Champion as institutional avatar — the archetype converts from vessel to pharmacy plumbing (recurring revenue mythology). Watch crowd reception: tribute vs. extraction. TKO boo at WM42 is the precedent. Cody vs. Gunther (Undisputed WWE Championship) was pulled from this card and deferred to Clash in Italy, May 31, Turin."
+    }
+  ]
+}
