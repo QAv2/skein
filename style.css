@@ -24,8 +24,8 @@ header {
 header h1 {
   font-size: 1.4rem;
   font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  font-variant: small-caps;
+  letter-spacing: 0.12em;
   color: #8b4513;
 }
 
@@ -47,8 +47,8 @@ header .subtitle {
 .controls label {
   font-size: 0.75rem;
   font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
   color: #666;
 }
 
@@ -80,7 +80,8 @@ header .subtitle {
   display: flex;
   gap: 1.5rem;
   flex-wrap: wrap;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
+  font-style: italic;
   color: #666;
 }
 
@@ -144,7 +145,7 @@ header .subtitle {
 
 .metric .label {
   font-size: 0.7rem;
-  text-transform: uppercase;
+  font-variant: small-caps;
   letter-spacing: 0.06em;
   color: #888;
   margin-top: 0.2rem;
@@ -160,10 +161,10 @@ header .subtitle {
 }
 
 .ledger-section-title {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
   color: #8b4513;
   margin-bottom: 0.75rem;
 }
@@ -193,7 +194,7 @@ header .subtitle {
 
 .ledger-metric-label {
   font-size: 0.7rem;
-  text-transform: uppercase;
+  font-variant: small-caps;
   letter-spacing: 0.06em;
   color: #8b4513;
   margin-top: 0.3rem;
@@ -235,7 +236,7 @@ header .subtitle {
 
 .ledger-alert-tag {
   font-size: 0.65rem;
-  text-transform: uppercase;
+  font-variant: small-caps;
   letter-spacing: 0.04em;
   color: #aaa;
   flex-shrink: 0;
@@ -256,7 +257,7 @@ header .subtitle {
 .ledger-narrate-btn {
   font-family: inherit;
   font-size: 0.7rem;
-  text-transform: uppercase;
+  font-variant: small-caps;
   letter-spacing: 0.04em;
   background: #8b4513;
   color: #f7f5f0;
@@ -293,8 +294,8 @@ header .subtitle {
 
 .ledger-thread-table th {
   text-align: left;
-  font-size: 0.65rem;
-  text-transform: uppercase;
+  font-size: 0.7rem;
+  font-variant: small-caps;
   letter-spacing: 0.05em;
   color: #888;
   border-bottom: 1px solid #ddd5c5;
