@@ -3,18 +3,27 @@
   "show": "WrestleMania 42 Night 1",
   "date": "2026-04-18",
   "venue": "Las Vegas, Nevada",
-  "context": "WrestleMania 42 Night 1 — annual flagship PLE. 7 matches. Corrective card after WM41's fractured Night 2.",
+  "context": "WrestleMania 42 Night 1 \u2014 annual flagship PLE. 7 matches. Corrective card after WM41's fractured Night 2.",
   "segments": [
     {
       "id": "wrestlemania-42-n1-2026-04-18-seg-01",
       "type": "match",
       "position": "A-block",
-      "carriers": ["jimmy-uso", "jey-uso", "la-knight", "logan-paul", "austin-theory", "ishowspeed"],
-      "threads_advanced": ["vision-faction"],
+      "carriers": [
+        "jimmy-uso",
+        "jey-uso",
+        "la-knight",
+        "logan-paul",
+        "austin-theory",
+        "ishowspeed"
+      ],
+      "threads_advanced": [
+        "vision-faction"
+      ],
       "threads_opened": [],
       "threads_closed": [],
       "threads_transformed": [],
-      "outcome": "Usos and LA Knight defeated Logan Paul, Austin Theory, and iShowSpeed. Post-match Logan attacked iShowSpeed; Usos and Knight saved Speed. Speed delivered Logan's frog splash through the announce table — crowd-endorsed initiation.",
+      "outcome": "Usos and LA Knight defeated Logan Paul, Austin Theory, and iShowSpeed. Post-match Logan attacked iShowSpeed; Usos and Knight saved Speed. Speed delivered Logan's frog splash through the announce table \u2014 crowd-endorsed initiation.",
       "stand_tall": "babyface",
       "register": "Constant",
       "notes": "False Gods corrected on third consecutive WrestleMania. iShowSpeed's table spot = real initiation; chaos-streamer crossed from civilian to performer. Adoption-into-collective motif (Waller/New Day, Mateo/MFTs pattern)."
@@ -23,24 +32,52 @@
       "id": "wrestlemania-42-n1-2026-04-18-seg-02",
       "type": "match",
       "position": "A-block",
-      "carriers": ["jacob-fatu", "drew-mcintyre"],
-      "threads_advanced": ["bloodline-civil-war"],
+      "carriers": [
+        "jacob-fatu",
+        "drew-mcintyre"
+      ],
+      "threads_advanced": [
+        "bloodline-civil-war",
+        "fatu-vs-drew-unsanctioned-wm42"
+      ],
       "threads_opened": [],
-      "threads_closed": [],
+      "threads_closed": [
+        "fatu-vs-drew-unsanctioned-wm42"
+      ],
       "threads_transformed": [],
       "outcome": "Jacob Fatu defeated Drew McIntyre in an Unsanctioned match. A war.",
       "stand_tall": "heel",
       "register": "Pantheon",
-      "notes": "Feral-sovereign confirmed at the highest stage. Aitu-vs-Wotan resolved — Drew's containment arc ends. Fatu's credential established for WHC challenge."
+      "notes": "Feral-sovereign confirmed at the highest stage. Aitu-vs-Wotan resolved \u2014 Drew's containment arc ends. Fatu's credential established for WHC challenge."
     },
     {
       "id": "wrestlemania-42-n1-2026-04-18-seg-03",
       "type": "match",
       "position": "A-block",
-      "carriers": ["paige", "brie-bella", "charlotte-flair", "alexa-bliss", "nia-jax", "lash-legend", "bayley", "lyra-valkyria"],
-      "threads_advanced": [],
-      "threads_opened": ["womens-tag-reign-paige-brie", "inanna-paige-return", "charlotte-alexa-partnership", "charlotte-hera-arc", "alexa-twice-possessed-arc", "irresistible-forces-arc"],
-      "threads_closed": [],
+      "carriers": [
+        "paige",
+        "brie-bella",
+        "charlotte-flair",
+        "alexa-bliss",
+        "nia-jax",
+        "lash-legend",
+        "bayley",
+        "lyra-valkyria"
+      ],
+      "threads_advanced": [
+        "bella-twins-wm42-tag-title"
+      ],
+      "threads_opened": [
+        "womens-tag-reign-paige-brie",
+        "inanna-paige-return",
+        "charlotte-alexa-partnership",
+        "charlotte-hera-arc",
+        "alexa-twice-possessed-arc",
+        "irresistible-forces-arc"
+      ],
+      "threads_closed": [
+        "bella-twins-wm42-tag-title"
+      ],
       "threads_transformed": [],
       "outcome": "Brie Bella and surprise returning Paige (substituting for injured Nikki Bella) won Women's Tag Fatal 4-Way. Paige had been told she would never wrestle again. Alexa entered as black/white moth; Charlotte as colorful butterfly.",
       "stand_tall": "babyface",
@@ -51,40 +88,59 @@
       "id": "wrestlemania-42-n1-2026-04-18-seg-04",
       "type": "match",
       "position": "A-block",
-      "carriers": ["becky-lynch", "aj-lee"],
+      "carriers": [
+        "becky-lynch",
+        "aj-lee"
+      ],
       "threads_advanced": [],
-      "threads_opened": ["becky-nemesis-arc"],
+      "threads_opened": [
+        "becky-nemesis-arc"
+      ],
       "threads_closed": [],
       "threads_transformed": [],
       "outcome": "Becky Lynch defeated AJ Lee to win the Women's Championship. AJ's entrance featured a dozen young girls in pink. Becky won clean.",
       "stand_tall": "heel",
       "register": "Pantheon",
-      "notes": "Nemesis over Persephone. 11-year underworld return not honored — system chose consequence over sentiment. AJ received the flowers (crowd ovation); Becky received the gold."
+      "notes": "Nemesis over Persephone. 11-year underworld return not honored \u2014 system chose consequence over sentiment. AJ received the flowers (crowd ovation); Becky received the gold."
     },
     {
       "id": "wrestlemania-42-n1-2026-04-18-seg-05",
       "type": "match",
       "position": "A-block",
-      "carriers": ["seth-rollins", "gunther", "bron-breakker", "paul-heyman"],
+      "carriers": [
+        "seth-rollins",
+        "gunther",
+        "bron-breakker",
+        "paul-heyman"
+      ],
       "threads_advanced": [],
-      "threads_opened": ["bron-vs-seth-2026", "rollins-lone-wolf-arc", "vision-faction"],
+      "threads_opened": [
+        "bron-vs-seth-2026",
+        "rollins-lone-wolf-arc",
+        "vision-faction"
+      ],
       "threads_closed": [],
       "threads_transformed": [],
-      "outcome": "Gunther retained the World Heavyweight Championship via Bron Breakker interference. Post-match, Breakker walked up the ramp to Paul Heyman — alliance confirmed. Heyman's new enforcer revealed.",
+      "outcome": "Gunther retained the World Heavyweight Championship via Bron Breakker interference. Post-match, Breakker walked up the ramp to Paul Heyman \u2014 alliance confirmed. Heyman's new enforcer revealed.",
       "stand_tall": "heel",
       "register": "Pantheon",
-      "notes": "Kronos survived via institutional reinforcement, not his own strength. Breakker as next-gen enforcer protecting current-gen tyrant. Heyman/Breakker = the loaded gun for Night 2. Rollins/Gunther unresolved — correction pressure carries forward."
+      "notes": "Kronos survived via institutional reinforcement, not his own strength. Breakker as next-gen enforcer protecting current-gen tyrant. Heyman/Breakker = the loaded gun for Night 2. Rollins/Gunther unresolved \u2014 correction pressure carries forward."
     },
     {
       "id": "wrestlemania-42-n1-2026-04-18-seg-06",
       "type": "match",
       "position": "A-block",
-      "carriers": ["liv-morgan", "stephanie-vaquer", "jd-mcdonagh", "roxanne-perez"],
+      "carriers": [
+        "liv-morgan",
+        "stephanie-vaquer",
+        "jd-mcdonagh",
+        "roxanne-perez"
+      ],
       "threads_advanced": [],
       "threads_opened": [],
       "threads_closed": [],
       "threads_transformed": [],
-      "outcome": "Liv Morgan defeated Stephanie Vaquer to win the Women's Championship. Judgment Day interference failed — Liv won despite the assist, not because of it. Inanna completed the return on her own terms.",
+      "outcome": "Liv Morgan defeated Stephanie Vaquer to win the Women's Championship. Judgment Day interference failed \u2014 Liv won despite the assist, not because of it. Inanna completed the return on her own terms.",
       "stand_tall": "heel",
       "register": "Pantheon",
       "notes": "Inanna's descent-and-return completes. Rumble-to-Mania investment honored. The dark-feminine coven tried to force the outcome and the myth overrode it. Hekate loses the threshold."
@@ -93,7 +149,10 @@
       "id": "wrestlemania-42-n1-2026-04-18-seg-07",
       "type": "other",
       "position": "other",
-      "carriers": ["bianca-belair", "montez-ford"],
+      "carriers": [
+        "bianca-belair",
+        "montez-ford"
+      ],
       "threads_advanced": [],
       "threads_opened": [],
       "threads_closed": [],
@@ -107,9 +166,14 @@
       "id": "wrestlemania-42-n1-2026-04-18-seg-08",
       "type": "match",
       "position": "main-event",
-      "carriers": ["cody-rhodes", "randy-orton"],
+      "carriers": [
+        "cody-rhodes",
+        "randy-orton"
+      ],
       "threads_advanced": [],
-      "threads_opened": ["cody-third-reign"],
+      "threads_opened": [
+        "cody-third-reign"
+      ],
       "threads_closed": [],
       "threads_transformed": [],
       "outcome": "Cody Rhodes defeated Randy Orton to retain the Undisputed WWE Championship. Jelly Roll elbow-dropped Pat McAfee mid-match; McAfee carted out on stretcher. Cody finished clean.",
