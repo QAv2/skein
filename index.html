@@ -48,10 +48,14 @@
 
 <div class="metrics-bar" id="metrics"></div>
 
+<div id="ledger"></div>
+
 <script type="module">
 import { renderTapestry } from './src/render/tapestry.js';
+import { renderLedger } from './src/render/ledger.js';
 import { computeTemperature } from './src/compute/temperature.js';
 import { computeDebt } from './src/compute/debt.js';
+import { computeDiagnostic } from './src/compute/diagnostic.js';
 
 const SHOW_FILES = [
   'smackdown-2026-04-25',
@@ -101,11 +105,15 @@ function renderMetrics(shows) {
   `;
 }
 
+const WORKER_URL = new URLSearchParams(location.search).get('worker') || 'http://localhost:8787';
+
 function render() {
   const shows = getWindowedShows();
   const mode = document.getElementById('mode-select').value;
   renderTapestry(document.getElementById('tapestry'), { shows, threads, characters, mode });
   renderMetrics(shows);
+  const diagnostic = computeDiagnostic(shows, threads, characters);
+  renderLedger(document.getElementById('ledger'), diagnostic, { workerUrl: WORKER_URL });
 }
 
 await loadData();

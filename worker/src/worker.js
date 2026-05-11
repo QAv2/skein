@@ -78,6 +78,14 @@ Given a markdown show log, extract every discrete broadcast segment into structu
 
 Output strict JSON only — no prose before or after, no code fences.`;
 
+const SYSTEM_NARRATE = `You are Skein's narrative diagnostician. You read structured wrestling show-log metrics and write a concise diagnostic paragraph that a showrunner reads in 8 seconds.
+
+You will receive JSON with: corpus size, stand-tall ledger (heel/face shares), babyface fragmentation index, temperature distribution, peak debt, debt threshold, alerts, carrier overload data, and top debt threads.
+
+Write ONE paragraph, max 120 words. Voice: analytical, confident, terse. No bullet points. No hedging ("it seems," "perhaps"). Name specific threads and characters when the data supports it. End with the single most actionable observation.
+
+Do not explain what the metrics mean — the reader knows the framework. Just deliver the read.`;
+
 // ── Provider adapters ────────────────────────────────────────────
 
 async function callAnthropic({ systemPrompt, userMessage, model, env }) {
@@ -178,9 +186,9 @@ export default {
       }, {}, cors);
     }
 
-    // POST /narrate — reserved for Phase 4
+    // POST /narrate — diagnostic → narrative paragraph
     if (request.method === "POST" && url.pathname === "/narrate") {
-      return json({ error: "not implemented — Phase 4" }, { status: 501 }, cors);
+      return handleNarrate(request, env, cors);
     }
 
     // POST /extract — markdown → show JSON
@@ -191,6 +199,36 @@ export default {
     return json({ error: "not found" }, { status: 404 }, cors);
   },
 };
+
+async function handleNarrate(request, env, cors) {
+  let body;
+  try { body = await request.json(); }
+  catch { return json({ error: "invalid json" }, { status: 400 }, cors); }
+
+  const PROVIDERS = getProviders(env);
+  const providerName = body.provider || env.DEFAULT_PROVIDER || DEFAULT_PROVIDER;
+  const adapter = PROVIDERS[providerName];
+  if (!adapter) {
+    return json({ error: `unknown provider: ${providerName}` }, { status: 400 }, cors);
+  }
+  const model = body.model || env.NARRATE_MODEL || "claude-haiku-4-5-20251001";
+
+  const userMessage = JSON.stringify(body, null, 2);
+
+  let text;
+  try {
+    text = await adapter.call({ systemPrompt: SYSTEM_NARRATE, userMessage, model, env });
+  } catch (err) {
+    return json({
+      error: "provider call failed",
+      provider: providerName,
+      model,
+      detail: String(err.message || err),
+    }, { status: 502 }, cors);
+  }
+
+  return json({ narrative: text.trim(), provider: providerName, model }, {}, cors);
+}
 
 async function handleExtract(request, env, cors) {
   let body;

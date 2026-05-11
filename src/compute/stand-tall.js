@@ -13,10 +13,14 @@ export function computeStandTallLedger(shows) {
       }
     }
   }
+  const graded = ledger.babyface + ledger.heel + ledger.split;
   return {
     ...ledger,
     total,
+    graded,
     babyface_share: total ? ledger.babyface / total : 0,
     heel_share: total ? ledger.heel / total : 0,
+    graded_babyface_share: graded ? ledger.babyface / graded : 0,
+    graded_heel_share: graded ? ledger.heel / graded : 0,
   };
 }
