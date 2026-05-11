@@ -75,6 +75,9 @@ Given a markdown show log, extract every discrete broadcast segment into structu
 4. Use hour headers and segment order for position: first segment is often cold-open, last is main-event, hour 1 segments are A-block, hour 2+ are B-block.
 5. Empty arrays for thread fields when nothing applies — never omit the fields.
 6. Every thread array field (threads_advanced, threads_opened, threads_closed, threads_transformed) must be present on every segment, even if empty [].
+7. TEMPORAL VALIDITY: Each thread in the catalog has an opened_at show-id (which embeds a date). Only reference a cataloged thread in threads_advanced, threads_closed, threads_transformed, or threads_opened if that thread's opened_at date is ON OR BEFORE the show you are extracting. If narrative content matches a cataloged thread that opened AFTER this show, DO NOT use that thread ID anywhere — instead note it in the segment's notes field as a precursor (e.g. "precursor to [thread-id]"). If this show is genuinely the first appearance of that storyline, suggest it in new_threads with a NEW ID and note the possible overlap with the future catalog entry.
+8. When a segment clearly seeds a future storyline that already exists in the catalog with a later opened_at, use threads_opened ONLY if this is the true origin. Otherwise leave thread arrays empty for that thread and document in notes.
+9. CONTENT-DRIVEN TAGGING: Thread arrays must be justified by what happens ON SCREEN in the segment — actions, dialogue, physical presence, or explicit narrative reference in the log text. A thread's carrier being on screen is NECESSARY but NOT SUFFICIENT — the segment must also explicitly advance that specific thread's storyline through on-screen action, dialogue, or narration. A character appearing in an unrelated segment does not advance every thread they carry. Do NOT tag a thread because its catalog metadata (opened_at, carriers) correlates with this show or segment. Do NOT tag a thread because of thematic similarity alone.
 
 Output strict JSON only — no prose before or after, no code fences.`;
 
@@ -154,7 +157,7 @@ function json(body, init, cors) {
 function formatThreadCatalog(threads) {
   if (!Array.isArray(threads) || threads.length === 0) return "No existing threads provided.";
   return threads.map((t) =>
-    `- ${t.id} | ${t.name} | ${t.type || "?"} | carriers: ${(t.carriers || []).join(", ")}`
+    `- ${t.id} | ${t.name} | ${t.type || "?"} | opened_at: ${t.opened_at || "unknown"} | carriers: ${(t.carriers || []).join(", ")}`
   ).join("\n");
 }
 
@@ -163,6 +166,22 @@ function formatCharacterCatalog(characters) {
   return characters.map((c) =>
     `- ${c.id} | ${c.name}`
   ).join("\n");
+}
+
+function extractDateFromShowId(showId) {
+  const m = showId.match(/(\d{4}-\d{2}-\d{2})/);
+  return m ? m[1] : null;
+}
+
+function filterThreadsByDate(threads, showId) {
+  if (!Array.isArray(threads)) return [];
+  const showDate = extractDateFromShowId(showId);
+  if (!showDate) return threads;
+  return threads.filter((t) => {
+    const threadDate = extractDateFromShowId(t.opened_at || "");
+    if (!threadDate) return true;
+    return threadDate <= showDate;
+  });
 }
 
 // ── Request handler ──────────────────────────────────────────────
@@ -257,8 +276,11 @@ async function handleExtract(request, env, cors) {
   }
   const model = body.model || adapter.defaultModel;
 
+  // Filter threads to only those opened on or before this show
+  const eligibleThreads = filterThreadsByDate(body.threads, showId);
+
   // Build user message with catalogs + markdown
-  const threadSection = formatThreadCatalog(body.threads);
+  const threadSection = formatThreadCatalog(eligibleThreads);
   const charSection = formatCharacterCatalog(body.characters);
 
   const userMessage = `Show ID: ${showId}
