@@ -1147,5 +1147,101 @@
     "register": "Constant",
     "promised_payoff": "undefined",
     "notes": "Peer-rival vector. Tiffany = ascending operator declining alliance; Chelsea = supplicant. Structurally consistent with relative stock \u2014 doesn't humiliate Chelsea, just confirms the gap. Possible 'Top Star Walks Out Of Major Faction' iTR-headline candidate."
+  },
+  {
+    "id": "roman-vs-fatu-tribal-combat",
+    "name": "Roman Reigns vs Jacob Fatu \u2014 Tribal Combat",
+    "type": "feud",
+    "opened_at": "raw-2026-05-18",
+    "opened_by_segment": "raw-2026-05-18-seg-05",
+    "carriers": [
+      "roman-reigns",
+      "jacob-fatu",
+      "jimmy-uso",
+      "jey-uso",
+      "adam-pearce"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "saudi-2026-summer",
+    "notes": "Tribal Combat \u2014 family's most sacred match-type, ritual that exists OUTSIDE company's booking infrastructure. Jacob invoked from the mat after gang beatdown; Pearce blocked; Roman accepted with private 'I have to' (off-mic to cousin) + public 'I accept' (into mic to crowd). Whole Bloodline arc reframes: Jacob has been LITIGATING for family-jurisdiction, not rejecting the family. Almost certainly SNME or next PLE / Saudi season main event."
+  },
+  {
+    "id": "americano-mask-vs-mask-noche",
+    "name": "El Grande Americano \u2014 Mask vs Mask at Noche de Los Grandes",
+    "type": "feud",
+    "opened_at": "raw-2026-05-18",
+    "opened_by_segment": "raw-2026-05-18-seg-10",
+    "carriers": [
+      "chad-gable",
+      "ludwig-kaiser",
+      "pete-dunne",
+      "tyler-bate",
+      "julius-creed",
+      "brutus-creed"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "noche-de-los-grandes-2026-05-30",
+    "notes": "Mask vs Mask \u2014 most sacred lucha stipulation. Gable vs Kaiser at Monterrey 5/30. WWE-aligned heels (Kaiser + Dunne/Bate as Rayo/Bravo masked) vs AAA-aligned tecnicos (Gable + Creeds as Hermanos). Trios tornado at Raw 5/18 = stage setup; Gable took the pin = max sympathy build. Lucha narrative grammar honored. Joe's secondary read flagged: AAA may be functioning as dose-ceiling laboratory."
+  },
+  {
+    "id": "oba-vs-brock-italy-rematch",
+    "name": "Oba Femi vs Brock Lesnar \u2014 rematch at Clash in Italy",
+    "type": "feud",
+    "opened_at": "raw-2026-05-18",
+    "opened_by_segment": "raw-2026-05-18-seg-14",
+    "carriers": [
+      "oba-femi",
+      "brock-lesnar",
+      "paul-heyman",
+      "adam-pearce"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "clash-italy-2026-05-31",
+    "notes": "Forging #3 in double-forging architecture (WM42 Brock loses \u2192 5/18 Brock attacks during entrance \u2192 Italy rematch). Brock returned mid-Oba-entrance with 4 F-5s before any opponent answered the open challenge; Heyman handed Pearce pre-signed rematch contract for Italy. Integration mode revealed as CONDITIONAL (Brock retired WITH a rematch condition). Surtr-return: Norse mythology accommodates the patient return. Undertaker-streak-rival architecture made explicit."
+  },
+  {
+    "id": "profits-tag-title-with-fracture",
+    "name": "Street Profits \u2014 champions-with-fracture-seed",
+    "type": "arc",
+    "opened_at": "raw-2026-05-18",
+    "opened_by_segment": "raw-2026-05-18-seg-18",
+    "carriers": [
+      "montez-ford",
+      "angelo-dawkins"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Champions-with-fracture-seed booking. SNME tag title shot upcoming. Ford warned Dawkins to stay focused on Seth question; Dawkins peeled off anyway. Post-main-event (seg-19) Ford ran to ring shaking head AT Dawkins \u2014 rift visible on camera. Championship reign as pressure-cooker for eventual defection. Multi-thread participation by same carriers with internal contradiction."
+  },
+  {
+    "id": "seth-ragnarok-army",
+    "name": "Seth Rollins \u2014 Ragnarok army forming (Loki recruiting the rejected)",
+    "type": "arc",
+    "opened_at": "raw-2026-05-18",
+    "opened_by_segment": "raw-2026-05-18-seg-18",
+    "carriers": [
+      "seth-rollins",
+      "angelo-dawkins"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Bound-Loki recruiting the rejected ones (the babyface coalition exclusivity pattern's anti-pattern). Dawkins = first recruit (Hod-figure recruited through helpfulness). Seth's chest-smack = mistletoe gesture. Dawkins SPRINTED to ring for the save in main event post-match = seed germinated in same broadcast. Time between framework prediction and booking execution: <30 minutes."
+  },
+  {
+    "id": "dom-mysterio-dumuzi-substitute-arc",
+    "name": "Dom Mysterio \u2014 Dumuzi awaiting substitute-sacrifice",
+    "type": "arc",
+    "opened_at": "raw-2026-05-18",
+    "opened_by_segment": "raw-2026-05-18-seg-16",
+    "carriers": [
+      "dom-mysterio",
+      "liv-morgan"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Per Scroll 003 The Eight-Pointed Star: Dom = Dumuzi (the consort who didn't mourn during Inanna's descent). Inanna myth REQUIRES substitute payment from consort. Dom mythologically required to stay until Liv casts him out. Substitute-stripping already begun: Dom won IC at Survivor Series 2025 (Liv's return); Dom lost IC to B\u00e1lor's Demon at WM42 (day after Liv's coronation). Substitute-payment timeline delayed by JD-women title-loss at Raw 5/18; trigger event pending."
   }
 ]

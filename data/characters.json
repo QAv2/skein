@@ -949,5 +949,25 @@
     "archetype": null,
     "register": "Constant",
     "notes": "Married to Gargano. SD 5/15: 'I'm entitled to have a husband who does anything but just lay around.' Vocabulary-echo: same 'entitled' word Aldis used at Sami earlier."
+  },
+  {
+    "id": "pete-dunne",
+    "name": "Pete Dunne",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "British Strong Style core member ('The Bruiserweight'); former NXT UK / WWE UK Champion. Currently wrestling as Rayo Americano (masked) on WWE-aligned heel side of El Grande Americano feud."
+  },
+  {
+    "id": "tyler-bate",
+    "name": "Tyler Bate",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Inaugural WWE UK Champion ('Big Strong Boy'), British Strong Style. Currently wrestling as Bravo Americano (masked) on WWE-aligned heel side. Bate-Dunne reunion under lucha masks for Noche de Los Grandes build."
   }
 ]
