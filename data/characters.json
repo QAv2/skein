@@ -909,5 +909,45 @@
     "archetype": null,
     "register": "Constant",
     "notes": "Fox News anchor. Media-crossover appearance on Raw 5/11 backstage with Logan Paul + Theory ('That was a good promo, Logan')."
+  },
+  {
+    "id": "carmelo-hayes",
+    "name": "Carmelo Hayes",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "SmackDown",
+    "archetype": "framework-vocab-carrier",
+    "register": "Pantheon",
+    "notes": "Returned from hiatus SD 5/15. Mirror-vocab carrier — 'this place humbles you,' 'dirty mirror' (twice in same broadcast). Won via feet-on-ropes = recursive proof. US title contender mix vs Sami."
+  },
+  {
+    "id": "rey-fenix",
+    "name": "Rey Fenix",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "SmackDown",
+    "archetype": "truth-teller",
+    "register": "Constant",
+    "notes": "Lucha-brotherhood register. Truth-teller to Sami Zayn ('I don't even know who you are right now') SD 5/15."
+  },
+  {
+    "id": "johnny-gargano",
+    "name": "Johnny Gargano",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "SmackDown",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Comedy-register appearance SD 5/15 (found laying around backstage by Sami). Married to Candice LeRae."
+  },
+  {
+    "id": "candice-lerae",
+    "name": "Candice LeRae",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "SmackDown",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Married to Gargano. SD 5/15: 'I'm entitled to have a husband who does anything but just lay around.' Vocabulary-echo: same 'entitled' word Aldis used at Sami earlier."
   }
 ]

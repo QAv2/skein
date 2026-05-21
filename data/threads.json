@@ -39,8 +39,8 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Sleeper attack post-Cody/Saints SD 5/01 opened. Heyman segment SD 5/08 escalated \u2014 4 sleeper attempts, Gunther embarrassed on go-home."
+    "promised_payoff_show": "clash-italy-2026-05-31",
+    "notes": "Sleeper attack post-Cody/Saints SD 5/01 opened. Heyman segment SD 5/08 escalated \u2014 4 sleeper attempts, Gunther embarrassed on go-home. Match did NOT happen at Backlash; rescheduled to Clash in Italy 5/31 Turin (Riyadh Season-sponsored). SD 5/15: Cody set up contract himself (one-man-crew); Keys interrupted; Aldis booked Keys vs Gunther as #1 contender match. Gunther beat Keys; Cody Cross-Rhodes on Gunther post-match."
   },
   {
     "id": "asuka-vs-iyo-backlash",
@@ -1062,5 +1062,90 @@
     "register": "Pantheon",
     "promised_payoff": "undefined",
     "notes": "Evolution of Yoruba-open from 'who is worthy to answer' into 'orisha takes what he needs.' Pearce tried to cancel; Oba went through gorilla position, dragged Garza+Humberto to ring, beat them down. Production boundary treated as kayfabe space. Behavioral credential added to oba-ascension-streak."
+  },
+  {
+    "id": "mello-dirty-mirror-arc",
+    "name": "Carmelo Hayes \u2014 framework-vocab carrier / dirty-mirror arc",
+    "type": "arc",
+    "opened_at": "smackdown-2026-05-15",
+    "opened_by_segment": "smackdown-2026-05-15-seg-04",
+    "carriers": [
+      "carmelo-hayes"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Framework-vocabulary carrier \u2014 'mirror' (Worked Shoot framework's central diagnostic word) enters WWE promo product. Two 'dirty mirror' invocations same broadcast (backstage + pre-match). Mello won via feet-on-ropes (the dirty mirror by mechanism) = recursive proof. Third instance would be load-bearing. Second confirmed external-pharmacy mirror-vocab event (after Artemis II)."
+  },
+  {
+    "id": "keys-vs-gunther-italy-contender",
+    "name": "Royce Keys vs Gunther \u2014 #1 contender match for Clash in Italy",
+    "type": "feud",
+    "opened_at": "smackdown-2026-05-15",
+    "opened_by_segment": "smackdown-2026-05-15-seg-14",
+    "carriers": [
+      "royce-keys",
+      "gunther",
+      "solo-sikoa"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "specific-show",
+    "promised_payoff_show": "smackdown-2026-05-15",
+    "notes": "One-show arc. Opened seg-14 (Aldis booking after Keys interrupt of Cody contract setup). Closed seg-17 (Gunther won via powerbomb when Keys threw chair at Solo instead of using it on Gunther). Chair refusal = the storyline; cost of refusing the dirty mirror is losing the clean match. Inverse exemplar of Mello dirty-mirror arc (Mello won BY being the dirty mirror; Keys lost BY refusing)."
+  },
+  {
+    "id": "keys-vs-solo-feud",
+    "name": "Royce Keys vs Solo Sikoa \u2014 consolation feud",
+    "type": "feud",
+    "opened_at": "smackdown-2026-05-15",
+    "opened_by_segment": "smackdown-2026-05-15-seg-17",
+    "carriers": [
+      "royce-keys",
+      "solo-sikoa"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Consolation feud from Solo's chair-flip retaliation at end of main event. Braids back into Hall-of-Two-Truths alliance (Priest + Truth + Keys). MFT vs Hall-of-Two-Truths escalation."
+  },
+  {
+    "id": "talla-brother-hold-arc",
+    "name": "Talla Tonga \u2014 brother-as-hold dynamic externalized",
+    "type": "arc",
+    "opened_at": "smackdown-2026-05-15",
+    "opened_by_segment": "smackdown-2026-05-15-seg-13",
+    "carriers": [
+      "talla-tonga",
+      "tama-tonga",
+      "shinsuke-nakamura"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Brother-as-hold dynamic externalized \u2014 Talla performs loyalty-enforcement on Tama's behalf. Tama remains contemplative; brother does physical work of keeping him captive. Escalated 5/8 \u2192 5/15 (verbal to violent \u2014 Talla sent Nakamura through a table backstage). Tama vs Nakamura announced for next week SmackDown."
+  },
+  {
+    "id": "danhausen-cm-punk-mystery-tease",
+    "name": "Danhausen \u2014 CM Punk mystery-partner clone-machine arc",
+    "type": "arc",
+    "opened_at": "smackdown-2026-05-15",
+    "opened_by_segment": "smackdown-2026-05-15-seg-16",
+    "carriers": [
+      "danhausen"
+    ],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Pepsi-color beakers (red + blue = CM Punk's shoulder tattoo) in Danhausen lab segment. Same corner as Backlash clone-machine reveal = backstage-corner-as-sacred-site. Joe's prediction: future segment Danhausen reuses clone machine, CM Punk emerges in Danhausen-trademarked facepaint (completes clone-box-form-trilogy: Backlash Minihousen \u2192 SD 5/15 Pepsi tease \u2192 future Punk-in-facepaint)."
+  },
+  {
+    "id": "chelsea-tiff-decline-arc",
+    "name": "Chelsea Green / Tiffany Stratton \u2014 ascending-vs-supplicant decline",
+    "type": "arc",
+    "opened_at": "smackdown-2026-05-15",
+    "opened_by_segment": "smackdown-2026-05-15-seg-08",
+    "carriers": [
+      "chelsea-green",
+      "tiffany-stratton"
+    ],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Peer-rival vector. Tiffany = ascending operator declining alliance; Chelsea = supplicant. Structurally consistent with relative stock \u2014 doesn't humiliate Chelsea, just confirms the gap. Possible 'Top Star Walks Out Of Major Faction' iTR-headline candidate."
   }
 ]
