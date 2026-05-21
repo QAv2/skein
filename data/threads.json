@@ -970,5 +970,97 @@
     ],
     "register": "Constant",
     "notes": "Two separate segments (promo and match) build the WM42 Women's Tag Title picture involving Bella Twins, Irresistible Forces, Bayley, and Valkyria. No existing catalog thread."
+  },
+  {
+    "id": "bloodline-triage-system",
+    "name": "Bloodline triage system \u2014 twins as EMTs",
+    "type": "arc",
+    "opened_at": "raw-2026-05-11",
+    "opened_by_segment": "raw-2026-05-11-seg-11",
+    "carriers": [
+      "jimmy-uso",
+      "jey-uso",
+      "roman-reigns",
+      "jacob-fatu"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Family-as-system: Jimmy + Jey as EMTs distributing across both sides of the family wound. Evolved through four registers in two shows: triage as diplomacy (5/11 close, failed) \u2192 triage as wall (5/18 S1 open, united front) \u2192 triage as offensive unit (5/18 S1 mid, gang beatdown) \u2192 patriarch private confession + public acceptance (5/18 S1 close). Scroll seed 'The Subdued Yeet.'"
+  },
+  {
+    "id": "jd-women-tag-title-consolidation",
+    "name": "Judgment Day women's title-consolidation project",
+    "type": "arc",
+    "opened_at": "raw-2026-05-11",
+    "opened_by_segment": "raw-2026-05-11-seg-08",
+    "carriers": [
+      "liv-morgan",
+      "raquel-rodriguez",
+      "roxanne-perez",
+      "paige",
+      "brie-bella"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "JD women targeting Paige/Brie's tag titles. Three belts in ring at close of 5/11 segment = title-consolidation thesis. Confirmed at production-graphic level on Raw 5/18 (WWE production graphic showed 'Judgment Day = the three women' with no men). Foiled interference at Raw 5/18 = attempt deferred not closed; substitute-payment timeline pushed forward."
+  },
+  {
+    "id": "page-vs-penta-ic-snme",
+    "name": "Ethan Page vs Penta \u2014 IC Title at SNME",
+    "type": "feud",
+    "opened_at": "raw-2026-05-11",
+    "opened_by_segment": "raw-2026-05-11-seg-05",
+    "carriers": [
+      "ethan-page",
+      "penta"
+    ],
+    "register": "Constant",
+    "promised_payoff": "specific-show",
+    "promised_payoff_show": "snme-2026-spring",
+    "notes": "IC title match. Page demanded SNME stage (heel vanity); Penta accepted. Raw 5/18: Page Cole interview (cue-card grab + 'rename the IC title' vow) + Penta video package = institution setting equal-weight stage."
+  },
+  {
+    "id": "evans-elevation-6-7",
+    "name": "Je'Von Evans \u2014 '6-7' generational marker elevation",
+    "type": "arc",
+    "opened_at": "raw-2026-05-11",
+    "opened_by_segment": "raw-2026-05-11-seg-06",
+    "carriers": [
+      "jevon-evans"
+    ],
+    "register": "Liminal-Warrior",
+    "promised_payoff": "undefined",
+    "notes": "Generational succession marker. Steven spotted '6-7' twice on broadcast (shirt + finishing-move setup). Clean win over Rusev. Institution investing in vessel \u2014 Greensboro 5/18 is also Evans' hometown (double-duty venue)."
+  },
+  {
+    "id": "iyo-senpai-inheritance",
+    "name": "IYO Sky \u2014 phoenix function / senpai-inheritance from Asuka",
+    "type": "arc",
+    "opened_at": "raw-2026-05-11",
+    "opened_by_segment": "raw-2026-05-11-seg-07",
+    "carriers": [
+      "iyo-sky",
+      "asuka",
+      "sol-ruca"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Phoenix function transferred inside same broadcast \u2014 senpai role from Asuka (single black line benediction seg-07) to IYO (immediate senpai-generosity match with Sol Ruca seg-10). Asuka departure mode = benediction (voluntary role-transfer, not release). IYO countered Sol Snatcher at point of execution = senpai finish."
+  },
+  {
+    "id": "oba-conscription-rite",
+    "name": "Oba Femi conscription rite \u2014 Yoruba-open escalation",
+    "type": "meta",
+    "opened_at": "raw-2026-05-11",
+    "opened_by_segment": "raw-2026-05-11-seg-13",
+    "carriers": [
+      "oba-femi",
+      "angel-garza",
+      "humberto-carrillo",
+      "adam-pearce"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Evolution of Yoruba-open from 'who is worthy to answer' into 'orisha takes what he needs.' Pearce tried to cancel; Oba went through gorilla position, dragged Garza+Humberto to ring, beat them down. Production boundary treated as kayfabe space. Behavioral credential added to oba-ascension-streak."
   }
 ]

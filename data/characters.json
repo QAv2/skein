@@ -879,5 +879,35 @@
     "name": "Kofi Kingston",
     "brand": "SmackDown",
     "notes": "Active participant in the Waller/New Day tag match; not in existing character catalog."
+  },
+  {
+    "id": "angel-garza",
+    "name": "Angel Garza",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Legado del Fantasma remnant (anti-LWO from Santos Escobar era). Conscripted by Oba on Raw 5/11 via gorilla-position breach."
+  },
+  {
+    "id": "humberto-carrillo",
+    "name": "Humberto Carrillo",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Legado del Fantasma remnant. Conscripted by Oba on Raw 5/11 alongside Garza."
+  },
+  {
+    "id": "megyn-kelly",
+    "name": "Megyn Kelly",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "offscreen",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Fox News anchor. Media-crossover appearance on Raw 5/11 backstage with Logan Paul + Theory ('That was a good promo, Logan')."
   }
 ]
