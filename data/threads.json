@@ -151,7 +151,7 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Operative class. Heyman + Bron the leash question; Logan + Theory the payoff line. SD 5/08 reframed \u2014 Heyman not Vision-locked."
+    "notes": "Operative class. Heyman + Bron the leash question; Logan + Theory the payoff line. SD 5/08 reframed \u2014 Heyman not Vision-locked. SNME: retained tags dirty (brass knux + Heyman foot-on-rope). Raw 5/25: Logan Paul torn triceps \u2014 OUT for months. Bron replaces Logan as Theory's tag partner. Faction becomes pure wrestling-operative unit. Theory rampage (3 chair attacks: Hendry + Dawkins x2) led to SUSPENSION by Pearce. Theory/Maxxine Dupri romantic angle seeded = potential exit vector. Heyman comforts not disciplines."
   },
   {
     "id": "jd-coven",
@@ -236,16 +236,17 @@
   },
   {
     "id": "rollins-lone-wolf-arc",
-    "name": "Seth Rollins \u2014 Bound-Loki preparing the handoff",
+    "name": "Seth Rollins \u2014 Bound-Loki isolation-to-coalition arc",
     "type": "arc",
     "opened_at": "wrestlemania-42-n1-2026-04-18",
     "carriers": [
-      "seth-rollins"
+      "seth-rollins",
+      "montez-ford",
+      "angelo-dawkins"
     ],
     "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Must lose to Bron *alone* \u2014 coalition would dilute the handoff. Refused alliance Raw 5/04 S11."
+    "promised_payoff": "undefined",
+    "notes": "WM42-Backlash: must lose to Bron alone. Post-Backlash: three consecutive rejections (Profits 5/11, Usos\u2192Knight 5/18, Knight\u2192Seth 5/18). Raw 5/18: admitted isolation, Dawkins first recruit. Raw 5/25: isolation BROKE \u2014 Ford agreed to team after competitive test (Stomp) + Theory chair-attacking Dawkins. Breaking condition identified: requires BOTH competitive respect AND shared enemy action. Now see seth-ragnarok-army for active coalition thread."
   },
   {
     "id": "balor-fomorian-exile",
@@ -285,7 +286,7 @@
   },
   {
     "id": "sol-ruca-vs-becky-program",
-    "name": "Sol Ruca vs Becky Lynch (Women's IC track)",
+    "name": "Sol Ruca vs Becky Lynch \u2014 Women's IC at Clash in Italy",
     "type": "feud",
     "opened_at": "raw-2026-05-04",
     "opened_by_segment": "raw-2026-05-04-seg-05",
@@ -294,8 +295,9 @@
       "becky-lynch"
     ],
     "register": "Liminal-Warrior",
-    "promised_payoff": "undefined",
-    "notes": "Compressed elevation \u2014 debutante landing in Women's IC champ's program."
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "clash-italy-2026-05-31",
+    "notes": "Compressed elevation \u2014 debutante landing in Women's IC champ's program. SNME: Sol beat Becky by DQ (Becky pulled ref into Snatcher). Institution closed the escape hatch \u2014 Aldis booked title match at Clash in Italy. Raw 5/25: Becky interview ('stone vs sand' frame war). Becky's only play left is verbal \u2014 institution already granted the match Sol demanded."
   },
   {
     "id": "lyra-vs-jd",
@@ -1150,7 +1152,7 @@
   },
   {
     "id": "roman-vs-fatu-tribal-combat",
-    "name": "Roman Reigns vs Jacob Fatu \u2014 Tribal Combat",
+    "name": "Roman Reigns vs Jacob Fatu \u2014 Tribal Combat at Clash in Italy",
     "type": "feud",
     "opened_at": "raw-2026-05-18",
     "opened_by_segment": "raw-2026-05-18-seg-05",
@@ -1163,8 +1165,8 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
-    "promised_payoff_show": "saudi-2026-summer",
-    "notes": "Tribal Combat \u2014 family's most sacred match-type, ritual that exists OUTSIDE company's booking infrastructure. Jacob invoked from the mat after gang beatdown; Pearce blocked; Roman accepted with private 'I have to' (off-mic to cousin) + public 'I accept' (into mic to crowd). Whole Bloodline arc reframes: Jacob has been LITIGATING for family-jurisdiction, not rejecting the family. Almost certainly SNME or next PLE / Saudi season main event."
+    "promised_payoff_show": "clash-italy-2026-05-31",
+    "notes": "Tribal Combat \u2014 family's most sacred match-type, ritual that exists OUTSIDE company's booking infrastructure. Jacob invoked from the mat after gang beatdown (5/18); Pearce blocked; Roman accepted ('I have to' off-mic / 'I accept' into mic). Raw 5/25: CONTRACT SIGNED for Clash in Italy. Feudal stipulation: LOSER SERVES THE WINNER. Fatu: 'I will dog walk his ass.' Roman: 'I will domesticate Fatu.' Heads pressed together (hongi). Roman's birthday (41) on signing night. Sovereignty litigation formalized \u2014 not competition, but who rules whom."
   },
   {
     "id": "americano-mask-vs-mask-noche",
@@ -1200,7 +1202,7 @@
     "register": "Pantheon",
     "promised_payoff": "ppv-match",
     "promised_payoff_show": "clash-italy-2026-05-31",
-    "notes": "Forging #3 in double-forging architecture (WM42 Brock loses \u2192 5/18 Brock attacks during entrance \u2192 Italy rematch). Brock returned mid-Oba-entrance with 4 F-5s before any opponent answered the open challenge; Heyman handed Pearce pre-signed rematch contract for Italy. Integration mode revealed as CONDITIONAL (Brock retired WITH a rematch condition). Surtr-return: Norse mythology accommodates the patient return. Undertaker-streak-rival architecture made explicit."
+    "notes": "Forging #3 in double-forging architecture (WM42 Brock loses \u2192 5/18 Brock attacks during entrance \u2192 Italy rematch). Raw 5/25: CONTRACT SIGNED (opening segment). Lesnar video package: 'will cost him more than he can imagine,' vows to 'rule over' Femi. Femi: 'This time he's fighting to kill him.' Sovereignty-register language from both. Brock kept off-site via video \u2014 institution investing in rematch without burning live appearance on go-home."
   },
   {
     "id": "profits-tag-title-with-fracture",
@@ -1214,7 +1216,7 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Champions-with-fracture-seed booking. SNME tag title shot upcoming. Ford warned Dawkins to stay focused on Seth question; Dawkins peeled off anyway. Post-main-event (seg-19) Ford ran to ring shaking head AT Dawkins \u2014 rift visible on camera. Championship reign as pressure-cooker for eventual defection. Multi-thread participation by same carriers with internal contradiction."
+    "notes": "Champions-with-fracture-seed booking. SNME: Vision retained tags dirty (Ford's From The Heavens pin broken by Heyman foot-on-rope + Logan brass knuckles). Raw 5/25: Ford agreed to team with Seth only AFTER Theory chair-attacked Dawkins \u2014 the crisis that made partnership pragmatic. Ford wrestled Rollins first (lost to Stomp), then joined from competitive respect + external force. Fracture-seed = Ford's reluctance vs Dawkins' commitment to the Seth alliance. Championship reign as pressure-cooker."
   },
   {
     "id": "seth-ragnarok-army",
@@ -1228,7 +1230,7 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Bound-Loki recruiting the rejected ones (the babyface coalition exclusivity pattern's anti-pattern). Dawkins = first recruit (Hod-figure recruited through helpfulness). Seth's chest-smack = mistletoe gesture. Dawkins SPRINTED to ring for the save in main event post-match = seed germinated in same broadcast. Time between framework prediction and booking execution: <30 minutes."
+    "notes": "Bound-Loki recruiting the rejected ones (the babyface coalition exclusivity pattern's anti-pattern). Dawkins = first recruit (Hod-figure recruited through helpfulness). Seth's chest-smack = mistletoe gesture. Dawkins SPRINTED to ring for the save in main event post-match = seed germinated in same broadcast. Time between framework prediction and booking execution: <30 minutes. Raw 5/25: Ford agreed to team after competitive test (Stomp) + Dawkins chair-attacked by Theory — external violence broke the isolationism, not diplomacy. Three-member army: Seth + Dawkins (committed) + Ford (reluctant). Rollins demands Bron next."
   },
   {
     "id": "dom-mysterio-dumuzi-substitute-arc",
@@ -1242,6 +1244,85 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Per Scroll 003 The Eight-Pointed Star: Dom = Dumuzi (the consort who didn't mourn during Inanna's descent). Inanna myth REQUIRES substitute payment from consort. Dom mythologically required to stay until Liv casts him out. Substitute-stripping already begun: Dom won IC at Survivor Series 2025 (Liv's return); Dom lost IC to B\u00e1lor's Demon at WM42 (day after Liv's coronation). Substitute-payment timeline delayed by JD-women title-loss at Raw 5/18; trigger event pending."
+    "notes": "Per Scroll 003 The Eight-Pointed Star: Dom = Dumuzi (the consort who didn't mourn during Inanna's descent). Inanna myth REQUIRES substitute payment from consort. Dom mythologically required to stay until Liv casts him out. Substitute-stripping already begun: Dom won IC at Survivor Series 2025 (Liv's return); Dom lost IC to B\u00e1lor's Demon at WM42 (day after Liv's coronation). Substitute-payment timeline delayed by JD-women title-loss at Raw 5/18; trigger event pending. Raw 5/25: Dom's AAA Championship interference BACKFIRED \u2014 distracted ref, Roxanne accidentally hit Dom with the belt, Bayley rolled up Perez. The consort's attempt to help caused the loss. Myth machinery operating."
+  },
+  {
+    "id": "theory-rampage-arc",
+    "name": "Austin Theory \u2014 operative rampage / suspension arc",
+    "type": "arc",
+    "opened_at": "raw-2026-05-25",
+    "opened_by_segment": "raw-2026-05-25-seg-03",
+    "carriers": [
+      "austin-theory",
+      "joe-hendry",
+      "angelo-dawkins",
+      "adam-pearce",
+      "paul-heyman"
+    ],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Three steel-chair attacks in one show (Hendry backstage, Dawkins on stage x2). Misdirected rage after Logan Paul injury destabilized Theory's position. Suspended by Pearce. Heyman comforts not disciplines = architect protecting soldier from institution. Irony: Theory's rampage CREATED the Seth/Profits alliance Vision was trying to prevent. The expendable operative became a liability generating counter-coalitions."
+  },
+  {
+    "id": "theory-maxxine-angle",
+    "name": "Austin Theory / Maxxine Dupri \u2014 romantic angle",
+    "type": "arc",
+    "opened_at": "raw-2026-05-25",
+    "opened_by_segment": "raw-2026-05-25-seg-13",
+    "carriers": [
+      "austin-theory",
+      "maxxine-dupri",
+      "otis"
+    ],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Seeded during Theory's suspension segment. Maxxine is Alpha Academy-adjacent \u2014 romantic pull toward non-Vision woman = classic defection setup. Otis as protective/jealous figure. Potential slow-burn Vision exit vector for Theory."
+  },
+  {
+    "id": "logan-paul-injury-vision-reshuffle",
+    "name": "Logan Paul injury \u2014 Vision reshuffle",
+    "type": "arc",
+    "opened_at": "raw-2026-05-25",
+    "opened_by_segment": "raw-2026-05-25-seg-02",
+    "carriers": [
+      "logan-paul",
+      "bron-breakker",
+      "austin-theory"
+    ],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Logan Paul torn triceps \u2014 out for months. Bron Breakker named as Theory's new tag partner. Vision reshuffle: celebrity-class operative removed, monster-class elevated to permanent tag position. Faction becomes pure wrestling-operative unit."
+  },
+  {
+    "id": "rey-ic-contender-arc",
+    "name": "Rey Mysterio \u2014 IC #1 contender / legend's final title chase",
+    "type": "arc",
+    "opened_at": "raw-2026-05-25",
+    "opened_by_segment": "raw-2026-05-25-seg-06",
+    "carriers": [
+      "rey-mysterio",
+      "penta",
+      "dragon-lee",
+      "rusev",
+      "ethan-page"
+    ],
+    "register": "Constant",
+    "promised_payoff": "ppv-match",
+    "notes": "Rey requested IC title shot 'to cement his legacy.' Earned #1 contender by defeating Rusev (roll-up counter of Accolade). Dragon Lee as lucha-lineage ally (post-match save + 619 combo on Rusev + Page). AAA GM requesting WWE title shot = cross-institutional intersection. Future Penta vs Rey IC Championship match."
+  },
+  {
+    "id": "knight-kotr-whc-path",
+    "name": "LA Knight \u2014 King of the Ring / World Championship path",
+    "type": "arc",
+    "opened_at": "raw-2026-05-25",
+    "opened_by_segment": "raw-2026-05-25-seg-08",
+    "carriers": [
+      "la-knight",
+      "jimmy-uso",
+      "roman-reigns"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Knight announced KOTR entry targeting World Championship. Confronted Jimmy Uso \u2014 escalation from 'NOT NOW' deflection (5/18) to active confrontation. Knight positions OUTSIDE Bloodline family system entirely (not litigating within it like Jacob, but threatening to shut it down from outside). Two different sovereignty challenges to Roman: Jacob from inside the code, Knight from outside."
   }
 ]

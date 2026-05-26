@@ -969,5 +969,25 @@
     "archetype": null,
     "register": "Constant",
     "notes": "Inaugural WWE UK Champion ('Big Strong Boy'), British Strong Style. Currently wrestling as Bravo Americano (masked) on WWE-aligned heel side. Bate-Dunne reunion under lucha masks for Noche de Los Grandes build."
+  },
+  {
+    "id": "dragon-lee",
+    "name": "Dragon Lee",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Lucha-lineage ally to Rey Mysterio. Post-match save on Raw 5/25 (dive + 619 combo with Rey vs Rusev/Page). AAA-WWE bridge performer."
+  },
+  {
+    "id": "maxxine-dupri",
+    "name": "Maxxine Dupri",
+    "alignment": "babyface",
+    "faction": "alpha-academy",
+    "brand": "Raw",
+    "archetype": null,
+    "register": "Constant",
+    "notes": "Alpha Academy member. Theory/Maxxine romantic angle seeded Raw 5/25 — potential Vision exit vector."
   }
 ]
