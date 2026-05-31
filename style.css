@@ -35,6 +35,46 @@ header .subtitle {
   color: #888;
 }
 
+.promo-bar {
+  max-width: 1200px;
+  margin: 0 auto 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.promo-bar-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  color: #666;
+  margin-right: 0.25rem;
+}
+
+.promo-btn {
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #666;
+  border-radius: 3px;
+  padding: 0.25rem 0.85rem;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+
+.promo-btn:hover { border-color: #8b4513; color: #8b4513; }
+
+.promo-btn.active {
+  background: #8b4513;
+  border-color: #8b4513;
+  color: #f7f5f0;
+}
+
 .controls {
   max-width: 1200px;
   margin: 0 auto 1rem;
@@ -317,6 +357,7 @@ header .subtitle {
   body { padding: 0.5in; font-size: 10pt; }
   header { page-break-after: avoid; }
 
+  .promo-bar,
   .controls,
   .legend,
   .ledger-narrate-btn { display: none; }

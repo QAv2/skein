@@ -14,6 +14,13 @@
   <span class="subtitle">Narrative-debt diagnostic</span>
 </header>
 
+<nav class="promo-bar" id="promo-bar" aria-label="Promotion">
+  <span class="promo-bar-label">Promotion</span>
+  <button class="promo-btn active" data-promo="all">All</button>
+  <button class="promo-btn" data-promo="WWE">WWE</button>
+  <button class="promo-btn" data-promo="AAA">AAA</button>
+</nav>
+
 <div class="controls">
   <span>
     <label for="mode-select">Rows</label>
@@ -72,11 +79,26 @@ const SHOW_FILES = [
   'smackdown-2026-05-15',
   'raw-2026-05-18',
   'raw-2026-05-25',
+  'noche-de-los-grandes-2026-05-30',
 ];
+
+// --- Promotion axis (WWE | AAA), DERIVED (there is no `promotion` field) ----
+// A show belongs to one promotion (from its id/name). A thread or character
+// belongs to EVERY promotion it actually appears in, so cross-promotional acts
+// (Rey Fenix, Rey Mysterio, Omos, War Raiders) and the mask feud that paid off
+// across both surface under BOTH tabs.
+const AAA_RE = /aaa|noche|triplemania|tripleman|lucha|rey de reyes/i;
+function showPromotion(s) {
+  return AAA_RE.test(`${s.id || ''} ${s.show || ''} ${s.venue || ''}`) ? 'AAA' : 'WWE';
+}
+function brandPromotion(brand) {
+  return brand === 'AAA' ? 'AAA' : 'WWE';
+}
 
 let allShows = [];
 let threads = [];
 let characters = [];
+let activePromotion = 'all'; // 'all' | 'WWE' | 'AAA'
 
 async function loadData() {
   const [t, c, ...showResults] = await Promise.all([
@@ -87,26 +109,77 @@ async function loadData() {
   threads = t;
   characters = c;
   allShows = showResults.sort((a, b) => a.date.localeCompare(b.date));
+  derivePromotions();
 }
+
+function derivePromotions() {
+  for (const s of allShows) s._promotion = showPromotion(s);
+
+  const threadPromos = new Map(threads.map(t => [t.id, new Set()]));
+  const charPromos = new Map(characters.map(c => [c.id, new Set()]));
+
+  // by appearance across shows
+  for (const s of allShows) {
+    const p = s._promotion;
+    for (const seg of s.segments || []) {
+      for (const cid of seg.carriers || []) {
+        if (charPromos.has(cid)) charPromos.get(cid).add(p);
+      }
+      for (const tid of [
+        ...(seg.threads_advanced || []),
+        ...(seg.threads_opened || []),
+        ...(seg.threads_closed || []),
+        ...(seg.threads_transformed || []),
+      ]) {
+        if (threadPromos.has(tid)) threadPromos.get(tid).add(p);
+      }
+    }
+  }
+
+  // characters: + brand baseline so a wrestler with no loaded appearances still lands in a tab
+  for (const c of characters) {
+    const set = charPromos.get(c.id);
+    set.add(brandPromotion(c.brand));
+    c._promotions = [...set];
+  }
+  // threads: + their carriers' promotions (covers threads not yet in a loaded show of that promotion)
+  for (const t of threads) {
+    const set = threadPromos.get(t.id);
+    for (const cid of t.carriers || []) {
+      const cp = charPromos.get(cid);
+      if (cp) for (const p of cp) set.add(p);
+    }
+    if (set.size === 0) set.add('WWE');
+    t._promotions = [...set];
+  }
+}
+
+function inPromo(promos) {
+  return activePromotion === 'all' || (promos || []).includes(activePromotion);
+}
+function scopedShows()      { return allShows.filter(s => activePromotion === 'all' || s._promotion === activePromotion); }
+function scopedThreads()    { return threads.filter(t => inPromo(t._promotions)); }
+function scopedCharacters() { return characters.filter(c => inPromo(c._promotions)); }
 
 function getWindowedShows() {
   const val = document.getElementById('window-select').value;
-  if (val === 'all') return allShows;
+  const shows = scopedShows();
+  if (val === 'all') return shows;
   const n = parseInt(val, 10);
-  return allShows.slice(-n);
+  return shows.slice(-n);
 }
 
-function renderMetrics(shows) {
+function renderMetrics(shows, scThreads) {
   const el = document.getElementById('metrics');
   const totalSegs = shows.reduce((s, sh) => s + sh.segments.length, 0);
-  const hot = threads.filter(t => computeTemperature(t, shows) === 'hot').length;
-  const dormant = threads.filter(t => computeTemperature(t, shows) === 'dormant').length;
-  const maxDebt = Math.max(...threads.map(t => computeDebt(t, shows).debt_score));
+  const hot = scThreads.filter(t => computeTemperature(t, shows) === 'hot').length;
+  const dormant = scThreads.filter(t => computeTemperature(t, shows) === 'dormant').length;
+  const maxDebt = scThreads.length ? Math.max(...scThreads.map(t => computeDebt(t, shows).debt_score)) : 0;
 
   el.innerHTML = `
     <div class="metric"><div class="value">${shows.length}</div><div class="label">Shows</div></div>
     <div class="metric"><div class="value">${totalSegs}</div><div class="label">Segments</div></div>
-    <div class="metric"><div class="value">${threads.length}</div><div class="label">Threads</div></div>
+    <div class="metric"><div class="value">${scThreads.length}</div><div class="label">Threads</div></div>
     <div class="metric"><div class="value">${hot}</div><div class="label">Hot</div></div>
     <div class="metric"><div class="value">${dormant}</div><div class="label">Dormant</div></div>
     <div class="metric"><div class="value">${maxDebt.toFixed(1)}</div><div class="label">Peak Debt</div></div>
@@ -118,10 +191,12 @@ const WORKER_URL = new URLSearchParams(location.search).get('worker')
 
 function render() {
   const shows = getWindowedShows();
+  const scThreads = scopedThreads();
+  const scChars = scopedCharacters();
   const mode = document.getElementById('mode-select').value;
-  renderTapestry(document.getElementById('tapestry'), { shows, threads, characters, mode });
-  renderMetrics(shows);
-  const diagnostic = computeDiagnostic(shows, threads, characters);
+  renderTapestry(document.getElementById('tapestry'), { shows, threads: scThreads, characters: scChars, mode });
+  renderMetrics(shows, scThreads);
+  const diagnostic = computeDiagnostic(shows, scThreads, scChars);
   renderLedger(document.getElementById('ledger'), diagnostic, { workerUrl: WORKER_URL });
 }
 
@@ -130,6 +205,15 @@ render();
 
 document.getElementById('mode-select').addEventListener('change', render);
 document.getElementById('window-select').addEventListener('change', render);
+
+document.getElementById('promo-bar').addEventListener('click', (e) => {
+  const btn = e.target.closest('.promo-btn');
+  if (!btn) return;
+  document.querySelectorAll('#promo-bar .promo-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activePromotion = btn.dataset.promo;
+  render();
+});
 </script>
 
 </body>
