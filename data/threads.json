@@ -1440,5 +1440,32 @@
     "register": "Constant",
     "promised_payoff": "undefined",
     "notes": "Joe logged a live youth-prospect spotlight package (read as Rey-Mysterio-early-days). UNVERIFIED in print \u2014 no outlet names it; Rey's Night-1 role was commentary/acting GM only (no solo segment). Possible succession seed on the renaissance card IF real; resolvable only via the broadcast VOD. Do NOT canonize the Rey-anoints-successor read until confirmed."
+  },
+  {
+    "id": "saints-vs-hayes-feud",
+    "name": "Ricky Saints vs Carmelo Hayes -- feud",
+    "type": "feud",
+    "opened_at": "smackdown-2026-05-22",
+    "opened_by_segment": "smackdown-2026-05-22-seg-05",
+    "carriers": [
+      "ricky-saints",
+      "carmelo-hayes"
+    ],
+    "register": "meta-trickster chaos-agent vs dirty-mirror",
+    "promised_payoff": "undefined",
+    "notes": "Saints cost Hayes the US Title match (5/22 interference) -> Hayes attacked Saints. 5/29: double count-out, Hayes First 48 to stand tall. The US-title-lane chaos feud running under Trick's reign."
+  },
+  {
+    "id": "blake-monroe-debut-arc",
+    "name": "Blake Monroe -- SmackDown debut, eyeing Rhea",
+    "type": "arc",
+    "opened_at": "smackdown-2026-05-29",
+    "opened_by_segment": "smackdown-2026-05-29-seg-07",
+    "carriers": [
+      "blake-monroe"
+    ],
+    "register": "challenger-stacking / future-gold seed",
+    "promised_payoff": "undefined",
+    "notes": "Vignette announcing her arrival, setting sights on Rhea Ripley. The next challenger planted under the current Jade program -- the division stacked rather than cycled."
   }
 ]

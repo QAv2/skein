@@ -1,0 +1,175 @@
+{
+  "id": "smackdown-2026-05-29",
+  "show": "SmackDown",
+  "date": "2026-05-29",
+  "venue": "Olimpic Arena, Badalona (Barcelona), Spain",
+  "context": "Clash in Italy (Turin, 5/31) go-home, staged in Europe. Live on Netflix ~2pm ET / USA tape-delay 8pm ET. Outlet-reconciled (PWTorch Keller PBP, WWE.com, Fightful, Cageside, SI, Yahoo, WrestleView, WrestlingInc). 6 matches, ZERO title changes, closed on a Cody/Gunther verbal (no main-event match). Key correction vs live log: the babyface 'stood tall together' beat is NOT supported -- Jade fled before any unified save and Rhea/Charlotte friction continued backstage (fracture poked, not healed). 'Consider Madrid' was a backstage Aldis line, not the main promo.",
+  "segments": [
+    {
+      "id": "smackdown-2026-05-29-seg-01",
+      "type": "match",
+      "position": "cold-open",
+      "carriers": [
+        "jade-cargill",
+        "alexa-bliss",
+        "charlotte-flair",
+        "rhea-ripley",
+        "michin",
+        "b-fab"
+      ],
+      "threads_advanced": [
+        "jade-vs-rhea-rematch",
+        "charlotte-alexa-partnership",
+        "jade-faction-debut"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Jade Cargill (w/ Michin & B-Fab) def. Alexa Bliss (w/ Charlotte & Rhea) via Jaded. Post-match: a second Jaded onto a steel chair on Bliss; Jade FLED up the ramp before any unified babyface save. Backstage Rhea/Charlotte friction continued (Charlotte: if Rhea won't handle Jade, she will). The connector (Bliss) took the damage; the fracture was poked, not healed.",
+      "stand_tall": "heel",
+      "register": "Oya storm-faction; the bridge-builder's body sacrificed, unity withheld"
+    },
+    {
+      "id": "smackdown-2026-05-29-seg-02",
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "axiom",
+        "nathan-frazer",
+        "the-miz",
+        "danhausen"
+      ],
+      "threads_advanced": [
+        "danhausen-sacred-clown-arc",
+        "danhausen-vs-miz-wilson"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Axiom (hometown Barcelona luchador, w/ Nathan Frazer) def. The Miz via Spanish Fly into Golden Ratio. Miz tried to walk out early; Frazer stopped him. Danhausen's customs/power-outage chaos ran through the show (fire-extinguisher spot backstage). Territory rewards its native son; the visitor-heel can't escape.",
+      "stand_tall": "babyface",
+      "register": "tour-as-text; Sacred Clown chaos lands for the local hero"
+    },
+    {
+      "id": "smackdown-2026-05-29-seg-03",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "tama-tonga",
+        "talla-tonga",
+        "solo-sikoa",
+        "damian-priest",
+        "royce-keys",
+        "r-truth"
+      ],
+      "threads_advanced": [
+        "mfts-collapse",
+        "anubis-thoth-judgment",
+        "tama-tonga-restless",
+        "royce-keys-liminal-warrior-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "MFT (Tama & Talla, w/ Solo) def. Damian Priest & Royce Keys; Talla finish (chokeslam/T-Bomb, on Priest per majority of outlets; PWTorch says Keys -- split). R-Truth written out via storyline 'not medically cleared' but baited the bickering Priest/Keys into teaming and ran in on Solo. Solo's ringside Spike on Priest behind the ref. 'F*** you Solo' crowd chant.",
+      "stand_tall": "heel",
+      "register": "judgment-unit swaps bodies (Truth out, Keys in) but persists; crowd-perception lag (Solo still read as boss)"
+    },
+    {
+      "id": "smackdown-2026-05-29-seg-04",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "sami-zayn",
+        "matt-cardona"
+      ],
+      "threads_advanced": [
+        "sami-descent-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Sami Zayn def. Matt Cardona via Helluva Kick (clean). Backstage Candice LeRae / comatose Johnny Gargano beat (exact emotional framing varies by outlet). Sami winning matches while the human ties rot -- the wilderness-walk was never about in-ring losing.",
+      "stand_tall": "babyface",
+      "register": "heel-drift via righteousness; winning the ring, losing the people"
+    },
+    {
+      "id": "smackdown-2026-05-29-seg-05",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "carmelo-hayes",
+        "ricky-saints",
+        "trick-williams"
+      ],
+      "threads_advanced": [
+        "saints-vs-hayes-feud",
+        "ricky-saints-debut-arc",
+        "trick-us-title-reign",
+        "mello-dirty-mirror-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Carmelo Hayes vs. Ricky Saints ended in a double count-out; Hayes hit First 48 post-match to stand tall (both protected). Trick Williams + Lil Yachty on guest commentary; Trick had declared for King of the Ring and backhanded Saints. Trick (c) vs. Hayes for the US Title set for next week.",
+      "stand_tall": "none",
+      "register": "US-lane chaos-agent (Saints) vs dirty-mirror (Hayes); champion asserts hierarchy over both"
+    },
+    {
+      "id": "smackdown-2026-05-29-seg-06",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "chelsea-green",
+        "nia-jax",
+        "lash-legend",
+        "tiffany-stratton"
+      ],
+      "threads_advanced": [
+        "chelsea-tiff-decline-arc",
+        "tiffany-women-us-reign"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Chelsea Green def. Nia Jax (w/ Lash Legend) via roll-up after Tiffany Stratton cracked Jax with the Women's US Title behind the ref's back. Tiffany refused to escort Green pre-match, then helped on her own terms -- the patron extends patronage downward on her own clock.",
+      "stand_tall": "babyface",
+      "register": "Xochiquetzal patronage, conditional; the alliance thaws on the champion's terms"
+    },
+    {
+      "id": "smackdown-2026-05-29-seg-07",
+      "type": "video",
+      "position": "B-block",
+      "carriers": [
+        "blake-monroe"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "blake-monroe-debut-arc"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Blake Monroe vignette: arriving on SmackDown, setting her sights on Rhea Ripley (plus a backstage bit disrespecting Chelsea Green). The next challenger planted UNDER the current one -- the women's division is being stacked, not cycled.",
+      "stand_tall": "none",
+      "register": "challenger-stacking; future-gold seed against Rhea"
+    },
+    {
+      "id": "smackdown-2026-05-29-seg-08",
+      "type": "promo",
+      "position": "main-event",
+      "carriers": [
+        "cody-rhodes",
+        "gunther"
+      ],
+      "threads_advanced": [
+        "cody-vs-gunther-2026"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Closing face-to-face (no match; contract already signed 5/15). Gunther prosecuted Cody as 'the symbol of the crumbling American dream', an 'entitled brat', 'your biggest fan is Cody / a mark for himself', and produced his kill-list ('I retired AJ Styles, Goldberg and John Cena, and I did'). Cody's WALTER callback (single-sourced) accused Gunther of sanding off his raw indie self. Reported chants pro-Cody; Gunther's points landed as 'true' (Mark Henry: Cody came off the heel). The America-as-shadow inversion.",
+      "stand_tall": "none",
+      "register": "Cronus-Imperator indicts Telemachus on European soil; the foreign shadow turned (America wears it)"
+    }
+  ]
+}

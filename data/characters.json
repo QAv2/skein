@@ -115,7 +115,7 @@
   },
   {
     "id": "finn-balor",
-    "name": "Finn Bálor",
+    "name": "Finn B\u00e1lor",
     "alignment": "tweener",
     "faction": null,
     "brand": "Raw",
@@ -177,7 +177,7 @@
     "brand": "free-agent",
     "archetype": "wise-man",
     "register": "Constant",
-    "notes": "The Constant — appears across eras, owes favors, advocates for the throne not the man. Cross-brand. Scroll 007 archetype locked SD 5/08."
+    "notes": "The Constant \u2014 appears across eras, owes favors, advocates for the throne not the man. Cross-brand. Scroll 007 archetype locked SD 5/08."
   },
   {
     "id": "austin-theory",
@@ -321,7 +321,7 @@
     "brand": "Raw",
     "archetype": "onryo",
     "register": "Pantheon",
-    "notes": "Register expanded 5/04 — onryō + senpai-authority."
+    "notes": "Register expanded 5/04 \u2014 onry\u014d + senpai-authority."
   },
   {
     "id": "iyo-sky",
@@ -358,7 +358,7 @@
     "brand": "Raw",
     "archetype": "og-el-grande-americano",
     "register": "Constant",
-    "notes": "OG El Grande Americano — mask-lineage carrier."
+    "notes": "OG El Grande Americano \u2014 mask-lineage carrier."
   },
   {
     "id": "ludwig-kaiser",
@@ -451,7 +451,7 @@
     "brand": "SmackDown",
     "archetype": null,
     "register": "Pantheon",
-    "notes": "US Champion (post-WM42 win over Sami). Grail Cup ritual SD 5/08 — archetype pending."
+    "notes": "US Champion (post-WM42 win over Sami). Grail Cup ritual SD 5/08 \u2014 archetype pending."
   },
   {
     "id": "lil-yachty",
@@ -471,7 +471,7 @@
     "brand": "SmackDown",
     "archetype": "sacred-clown",
     "register": "Constant",
-    "notes": "Heyoka register — comedy as the dose."
+    "notes": "Heyoka register \u2014 comedy as the dose."
   },
   {
     "id": "the-miz",
@@ -705,7 +705,7 @@
     "brand": "SmackDown",
     "archetype": null,
     "register": "Constant",
-    "notes": "Hit Row lineage — cultural-current carrier."
+    "notes": "Hit Row lineage \u2014 cultural-current carrier."
   },
   {
     "id": "royce-keys",
@@ -715,7 +715,7 @@
     "brand": "SmackDown",
     "archetype": "liminal-warrior",
     "register": "Liminal-Warrior",
-    "notes": "Andre Battle Royal winner WM42. Honda Civic / APW history with Fatu — pre-fame brotherhood. Refused MFT recruitment SD 5/08."
+    "notes": "Andre Battle Royal winner WM42. Honda Civic / APW history with Fatu \u2014 pre-fame brotherhood. Refused MFT recruitment SD 5/08."
   },
   {
     "id": "ricky-saints",
@@ -765,7 +765,7 @@
     "brand": "SmackDown",
     "archetype": null,
     "register": "Liminal-Warrior",
-    "notes": "Tag team handle — Axiom + Frazer."
+    "notes": "Tag team handle \u2014 Axiom + Frazer."
   },
   {
     "id": "greyson-waller",
@@ -918,7 +918,7 @@
     "brand": "SmackDown",
     "archetype": "framework-vocab-carrier",
     "register": "Pantheon",
-    "notes": "Returned from hiatus SD 5/15. Mirror-vocab carrier — 'this place humbles you,' 'dirty mirror' (twice in same broadcast). Won via feet-on-ropes = recursive proof. US title contender mix vs Sami."
+    "notes": "Returned from hiatus SD 5/15. Mirror-vocab carrier \u2014 'this place humbles you,' 'dirty mirror' (twice in same broadcast). Won via feet-on-ropes = recursive proof. US title contender mix vs Sami."
   },
   {
     "id": "rey-fenix",
@@ -988,7 +988,7 @@
     "brand": "Raw",
     "archetype": null,
     "register": "Constant",
-    "notes": "Alpha Academy member. Theory/Maxxine romantic angle seeded Raw 5/25 — potential Vision exit vector."
+    "notes": "Alpha Academy member. Theory/Maxxine romantic angle seeded Raw 5/25 \u2014 potential Vision exit vector."
   },
   {
     "id": "hijo-del-vikingo",
@@ -1089,5 +1089,15 @@
     "archetype": "berserker",
     "register": "Demihero",
     "notes": "WWE Einherjar/Norse-berserker duo; NEW AAA World Tag Champions (5/30/26). The external-invasion vector of the absorption-shadow - annexed lucha gold on Mexican soil."
+  },
+  {
+    "id": "blake-monroe",
+    "name": "Blake Monroe",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "SmackDown",
+    "archetype": "vain-aspirant",
+    "register": "Transitional",
+    "notes": "Vignette-introduced on SD 5/29 (Barcelona) -- arriving on SmackDown eyeing Rhea Ripley; disrespected Chelsea Green. The next women's challenger planted under the current one."
   }
 ]
