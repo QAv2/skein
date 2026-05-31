@@ -1230,7 +1230,7 @@
     ],
     "register": "Pantheon",
     "promised_payoff": "undefined",
-    "notes": "Bound-Loki recruiting the rejected ones (the babyface coalition exclusivity pattern's anti-pattern). Dawkins = first recruit (Hod-figure recruited through helpfulness). Seth's chest-smack = mistletoe gesture. Dawkins SPRINTED to ring for the save in main event post-match = seed germinated in same broadcast. Time between framework prediction and booking execution: <30 minutes. Raw 5/25: Ford agreed to team after competitive test (Stomp) + Dawkins chair-attacked by Theory — external violence broke the isolationism, not diplomacy. Three-member army: Seth + Dawkins (committed) + Ford (reluctant). Rollins demands Bron next."
+    "notes": "Bound-Loki recruiting the rejected ones (the babyface coalition exclusivity pattern's anti-pattern). Dawkins = first recruit (Hod-figure recruited through helpfulness). Seth's chest-smack = mistletoe gesture. Dawkins SPRINTED to ring for the save in main event post-match = seed germinated in same broadcast. Time between framework prediction and booking execution: <30 minutes. Raw 5/25: Ford agreed to team after competitive test (Stomp) + Dawkins chair-attacked by Theory \u2014 external violence broke the isolationism, not diplomacy. Three-member army: Seth + Dawkins (committed) + Ford (reluctant). Rollins demands Bron next."
   },
   {
     "id": "dom-mysterio-dumuzi-substitute-arc",
@@ -1324,5 +1324,121 @@
     "register": "Pantheon",
     "promised_payoff": "undefined",
     "notes": "Knight announced KOTR entry targeting World Championship. Confronted Jimmy Uso \u2014 escalation from 'NOT NOW' deflection (5/18) to active confrontation. Knight positions OUTSIDE Bloodline family system entirely (not litigating within it like Jacob, but threatening to shut it down from outside). Two different sovereignty challenges to Roman: Jacob from inside the code, Knight from outside."
+  },
+  {
+    "id": "fenix-aaa-cruiserweight-reign",
+    "name": "Rey Fenix \u2014 AAA Cruiserweight reign (the prodigal's homecoming)",
+    "type": "arc",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-01",
+    "carriers": [
+      "rey-fenix",
+      "laredo-kid"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Fenix won the AAA Cruiserweight Title from Laredo Kid (Muscle Buster, ~11:51), ending a 500+ day reign. The prodigal luchador (AEW/WWE 2019-25, now WWE SmackDown) reclaims lucha gold on Mexican soil = the night's opening renaissance dose. WWE-contracted talent holding AAA gold but pointed toward homecoming, not absorption \u2014 the light pole opposite the War Raiders annexation."
+  },
+  {
+    "id": "vikingo-latin-american-reign",
+    "name": "El Hijo del Vikingo \u2014 Latin American reign (the assisted ascent)",
+    "type": "arc",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-03",
+    "carriers": [
+      "hijo-del-vikingo",
+      "hijo-de-dr-wagner-jr",
+      "omos",
+      "dorian-roldan"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "Vikingo won the AAA Latin American Title from Hijo de Dr. Wagner Jr. (630 splash, ~7:18) \u2014 but NOT clean: Omos + Dorian Roldan aided him (Galeno del Mal ran in for Wagner; Mini Vikingo interfered against Vikingo and backfired). The feathered serpent ascends shadow-tinted. Watch the Omos + Dorian Roldan helping bloc for an alliance reveal / faction-collecting."
+  },
+  {
+    "id": "omos-wwe-muscle-into-aaa",
+    "name": "Omos \u2014 WWE muscle inserting into AAA finishes (absorption-vector)",
+    "type": "arc",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-03",
+    "carriers": [
+      "omos",
+      "hijo-del-vikingo",
+      "dorian-roldan"
+    ],
+    "register": "Shadow",
+    "promised_payoff": "undefined",
+    "notes": "Omos (WWE-contracted giant) interfered to swing the Latin American title finish to Vikingo = WWE-muscle absorption operating inside an AAA title match, same register as the War Raiders. The internal-collaboration vector of the absorption-shadow (alongside the external-invasion vector). Whose faction Omos serves = open."
+  },
+  {
+    "id": "war-raiders-aaa-tag-reign",
+    "name": "War Raiders \u2014 AAA World Tag reign (the annexation) + 6/6 reclamation watch",
+    "type": "arc",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-04",
+    "carriers": [
+      "war-raiders",
+      "psycho-clown",
+      "pagano"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "noche-de-los-grandes-2026-06-06",
+    "notes": "War Raiders (Einherjar/Norse berserkers, WWE-contracted) won the AAA World Tag Titles on Mexican soil \u2014 the external-invasion vector of the absorption-shadow, won through Pagano's internal betrayal. Open question for 6/6 (Noche night 2): permanent annexation (true absorption) or week-1 cliffhanger reversed (home-soil reclamation = the antidote a week later)."
+  },
+  {
+    "id": "pagano-heel-turn-psycho-circus-revenge",
+    "name": "Pagano heel turn \u2014 Psycho Circus mystery-attacker payoff + revenge arc",
+    "type": "feud",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-04",
+    "carriers": [
+      "pagano",
+      "psycho-clown"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "ppv-match",
+    "promised_payoff_show": "noche-de-los-grandes-2026-06-06",
+    "notes": "After losing the tag titles to War Raiders, Pagano turned on Psycho Clown and walked out on him to the beatdown. Pays off the built storyline (mystery backstage attacker hospitalizing Psycho Circus members; Psycho suspecting Pagano) \u2014 Pagano = the mastermind. Pagano = Xipe-Totec (the flayer) visiting the flaying on his abandoned partner. Psycho's revenge arc opens -> 6/6. (Joe's live 'face without skin' read squares with PWDotNet's second-mask detail; single-source, held loosely.)"
+  },
+  {
+    "id": "gable-back-in-aaa-tease",
+    "name": "Chad Gable \u2014 'I'll be back in AAA' (the shadow's open door)",
+    "type": "arc",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-06",
+    "carriers": [
+      "chad-gable",
+      "ludwig-kaiser"
+    ],
+    "register": "Pantheon",
+    "promised_payoff": "undefined",
+    "notes": "In his unmask promo Gable said 'I don't know when, and I don't know how, but Chad Gable will be back in AAA.' The foreign-shadow's door left open \u2014 the appropriator-menace becomes a future return/ally, received by the crowd he mocked ('Thank you Gable'). The foreign-shadow inversion verbalized by the vessel himself (Scroll 007)."
+  },
+  {
+    "id": "gable-shorty-g-return",
+    "name": "Chad Gable \u2014 unmasked, 'Shorty G' return + face-rub (WWE side)",
+    "type": "arc",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-06",
+    "carriers": [
+      "chad-gable"
+    ],
+    "register": "Demihero",
+    "promised_payoff": "undefined",
+    "notes": "Gable lost the mask and reclaimed his real name in the ring with his family present; the honorable loss + 'Thank you Gable' chant rubs him toward a face turn. WWE-side watch: expected return to 'Shorty G.' / Chad Gable proper now that the El Grande Americano gimmick is spent on his side."
+  },
+  {
+    "id": "aaa-youth-prospect-lineage",
+    "name": "AAA youth-prospect vignette \u2014 succession seed (UNVERIFIED)",
+    "type": "arc",
+    "opened_at": "noche-de-los-grandes-2026-05-30",
+    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-02",
+    "carriers": [
+      "rey-mysterio"
+    ],
+    "register": "Constant",
+    "promised_payoff": "undefined",
+    "notes": "Joe logged a live youth-prospect spotlight package (read as Rey-Mysterio-early-days). UNVERIFIED in print \u2014 no outlet names it; Rey's Night-1 role was commentary/acting GM only (no solo segment). Possible succession seed on the renaissance card IF real; resolvable only via the broadcast VOD. Do NOT canonize the Rey-anoints-successor read until confirmed."
   }
 ]

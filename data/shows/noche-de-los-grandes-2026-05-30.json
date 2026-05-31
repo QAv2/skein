@@ -1,0 +1,134 @@
+{
+  "id": "noche-de-los-grandes-2026-05-30",
+  "show": "AAA Noche de Los Grandes",
+  "date": "2026-05-30",
+  "venue": "Arena Monterrey, Monterrey, Mexico",
+  "context": "First AAA show ingested into the Skein corpus (closes the AAA-ingest gap). Night 1 of a two-week broadcast event (airs 5/30 -> 6/6 on AAA on FOX). Home-soil lucha celebration weekend; Rey Mysterio on-screen AAA GM. The card resolved the El Grande Americano mask feud (the published-call payoff) and ran a macro-structure the framework read 4-for-4: an OPENING renaissance dose (Fenix homecoming) + a CLOSING inclusion dose (Kaiser keeps mask) bookending a MIDDLE absorption-shadow (War Raiders annex the tag titles via Pagano's betrayal; Omos interferes for Vikingo). The denial in the middle (Vince principle) set up the bookend doses. Markers source: ~/the-worked-shoot/shows/_markers-noche-de-los-grandes-2026-05-30.md. Verbatim-quote pass for the Gable unmask promo pending.",
+  "segments": [
+    {
+      "id": "noche-de-los-grandes-2026-05-30-seg-01",
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "rey-fenix",
+        "laredo-kid"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "fenix-aaa-cruiserweight-reign"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Rey Fenix def. Laredo Kid (c) to win the AAA World Cruiserweight Championship. NEW CHAMPION. Ended Laredo Kid's 500+ day reign (since 12/7/24).",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "The renaissance dose fires FIRST. Fenix = the prodigal luchador (left for AEW/WWE 2019-25, now WWE SmackDown roster) returning to reclaim lucha gold on Mexican soil = homecoming, the OPPOSITE pole from the War Raiders absorption-shadow later in the card. WWE-contracted talent holding AAA gold, but pointed toward homecoming, not annexation. Joe's session-open signal: 'if we get the main event right, the pharmacy gave good medicine the whole night through' — the bottom of the weekend hierarchy delivering its connecting-dose from the first bell."
+    },
+    {
+      "id": "noche-de-los-grandes-2026-05-30-seg-02",
+      "type": "video",
+      "position": "other",
+      "carriers": [
+        "rey-mysterio"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "aaa-youth-prospect-lineage"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Vignette package spotlighting a young luchador prospect (name not surfaced on the broadcast; ID pending recap pass). Read pre-cognitively by Joe as Rey-Mysterio-early-days body grammar.",
+      "stand_tall": "none",
+      "register": "Constant",
+      "notes": "Rey Mysterio is the on-screen patriarch-GM. A youth prospect packaged under his banner the same night he runs the show = the institution literalizing succession on the renaissance card (crowning the returning son [Fenix] + the adopted foreigner [Kaiser] + seeding the next generation). ID UNKNOWN — auto-research flagged. Joe drift-check: do NOT canonize the snap correlation that this vignette kid = the 'mini-vikingo' interferer in seg-03; three separate unlinked observations until the recap settles it."
+    },
+    {
+      "id": "noche-de-los-grandes-2026-05-30-seg-03",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "hijo-del-vikingo",
+        "hijo-de-dr-wagner-jr",
+        "omos",
+        "dorian-roldan",
+        "galeno-del-mal",
+        "mini-vikingo"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "vikingo-latin-american-reign",
+        "omos-wwe-muscle-into-aaa"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "El Hijo del Vikingo def. El Hijo de Dr. Wagner Jr. (c) to win the AAA Latin American Championship. NEW CHAMPION. ~7:18; finish = the 630 splash. Won amid a multi-party run-in: OMOS + Dorian Roldan (AAA heel authority) aided Vikingo; Galeno del Mal ran in for Wagner (steel chair on Omos); Mini Vikingo attacked his mentor Vikingo but the interference backfired. Net help fell to Vikingo.",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "Vikingo = Quetzalcoatl-fallen, twice-denied the Mega (lost to Dom 9/12/25, banned at Rey de Reyes 3/14/26). He ascends tonight, but NOT clean. Omos = WWE-contracted muscle inserting into an AAA title finish = the first absorption-vector of the night (same register as the Raiders). A babyface ace winning via interference is a wrinkle: alliance reveal / tweener seed / faction collecting him (Omos + Dorian Roldan = the helping bloc to watch). The Rey-de-Reyes hospital feud continues: Mini Vikingo (anti-Vikingo) interfered and backfired. stand_tall=heel reflects the tainted/assisted finish, not Vikingo's alignment."
+    },
+    {
+      "id": "noche-de-los-grandes-2026-05-30-seg-04",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "war-raiders",
+        "psycho-clown",
+        "pagano"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "pagano-heel-turn-psycho-circus-revenge",
+        "war-raiders-aaa-tag-reign"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "War Raiders def. Psycho Clown & Pagano (c) to win the AAA World Tag Team Championship. NEW CHAMPIONS. ~9:11; finish = War Raiders' Doomsday-Device variation ('DTM') / Ivar bulldog-powerslam on Psycho Clown. Post-match: Psycho Clown furious at Pagano -> shoving match (Pro Wrestling Dot Net notes Psycho revealed a second mask underneath) -> Pagano walked out and abandoned Psycho Clown to the War Raiders. PAGANO HEEL TURN (majority read; two outlets hedge it as 'dissension').",
+      "stand_tall": "heel",
+      "register": "Pantheon",
+      "notes": "The absorption-shadow, the middle of the sandwich. WWE monster-unit (Einherjar/Norse berserkers) annex lucha's tag gold on AAA's own celebration weekend. The shadow operates on BOTH vectors at once: external invasion (Raiders) AND internal betrayal (Pagano). The Pagano turn is the PAYOFF of a built storyline — Psycho Circus members attacked, a mystery backstage attacker hospitalizing clowns, Psycho suspecting Pagano; tonight Pagano = the mastermind. Recruitment, not raid. Pagano = Xipe-Totec (flayer); the betrayal visits the flaying on his abandoned partner. The Vince-principle denial here de-risks/frees the main event to be the clean cathartic give. 6/6 (night 2): home-soil reclamation + Psycho revenge watch."
+    },
+    {
+      "id": "noche-de-los-grandes-2026-05-30-seg-05",
+      "type": "match",
+      "position": "main-event",
+      "carriers": [
+        "ludwig-kaiser",
+        "chad-gable"
+      ],
+      "threads_advanced": [
+        "el-grande-americano-mask-feud"
+      ],
+      "threads_opened": [],
+      "threads_closed": [
+        "americano-mask-vs-mask-noche"
+      ],
+      "threads_transformed": [],
+      "outcome": "El Grande Americano (Ludwig Kaiser) def. 'Original' El Grande Americano (Chad Gable) in a Mask vs Mask (No-DQ) match. Kaiser KEPT his mask; Gable UNMASKED permanently. ~33:22; finish = Kaiser's running headbutt (Gable charged into the ring post). Bloody, pre-bell guitar attack by Gable, table spots, multi-party run-ins (Creeds for Gable; Dunne & Bate then Rayo & Bravo Americano; Bravo balcony dive; Pimpinela Escarlata guitar shot on Gable; Andrea Bazarte ringside). Reported Match-of-the-Year contender (Meltzer/Undertaker/Alvarez praise).",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "THE PUBLISHED CALL LANDS. Predicted in the substack 'America's Greatest Export' BEFORE the bell (Kaiser keeps / Gable unmasked) and validated live on publish night. The sincere foreigner who played the gimmick straight (Kaiser/green Mexican tricolor, learned the language, honored the tradition) unmasks the mocking appropriator (Gable/American flag). 'The mask stays with the one the crowd made real, not the one who built it to mock.' Inclusion-LIGHT administered as the card's close = the renaissance dose at the top of the AAA card, exactly where the weekend-thesis placed it."
+    },
+    {
+      "id": "noche-de-los-grandes-2026-05-30-seg-06",
+      "type": "promo",
+      "position": "main-event",
+      "carriers": [
+        "chad-gable",
+        "ludwig-kaiser"
+      ],
+      "threads_advanced": [],
+      "threads_opened": [
+        "gable-back-in-aaa-tease",
+        "gable-shorty-g-return"
+      ],
+      "threads_closed": [
+        "el-grande-americano-mask-feud"
+      ],
+      "threads_transformed": [],
+      "outcome": "Gable unmask promo (bloody, in defeat): conceded 'the Mexican spirit,' crowned Kaiser the unico Grande Americano (surrendered the unqualified name he invented), reclaimed his real name ('Mi nombre es Chad Gable') and let it be translated into Spanish, brought his real family into the ring; crowd chanted 'GABLE, GABLE' / 'Thank you Gable'; teased he'll be back in AAA. Then the Kaiser coronation.",
+      "stand_tall": "babyface",
+      "register": "Pantheon",
+      "notes": "The foreign-shadow inversion VERBALIZED by the vessel himself (Scroll 007 'The Foreign Shadow' enacted live). The appropriator/creator concedes that authenticity is earned by devotion, not claimed by invention; crowns Kaiser unico; honors the Mexican spirit; reclaims his man-name and lets it be translated; and the crowd he mocked thanks him. Membrane/kayfabe dissolution: 'not a mask but a man' made literal (real family in the ring at the moment of the loss). The shadow's door left open (return tease). Joe's peak validation: 'single biggest validation of my thesis.' VERBATIM-QUOTE PASS PENDING — paraphrases above must be verified against outlet recaps."
+    }
+  ]
+}

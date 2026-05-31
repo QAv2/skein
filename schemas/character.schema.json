@@ -27,7 +27,7 @@
     },
     "brand": {
       "type": "string",
-      "enum": ["Raw", "SmackDown", "NXT", "free-agent", "released", "offscreen"],
+      "enum": ["Raw", "SmackDown", "NXT", "AAA", "free-agent", "released", "offscreen"],
       "description": "Roster placement."
     },
     "archetype": {
