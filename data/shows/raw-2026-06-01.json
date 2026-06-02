@@ -1,0 +1,219 @@
+{
+ "id": "raw-2026-06-01",
+ "show": "WWE Monday Night Raw",
+ "date": "2026-06-01",
+ "venue": "Inalpi Arena, Turin, Italy",
+ "context": "Clash in Italy fallout, staged in the SAME building as the 5/31 PLE (special early start, ~2pm EST on Netflix for the European time zone). Two throughlines: (1) the Bloodline ABSORBS Jacob Fatu (he acknowledges Roman the night after losing Tribal Combat); (2) the King of the Ring + Queen of the Ring tournaments kick off — winners earn title shots (final venue SOURCE-SPLIT: results outlets say Night of Champions/Riyadh; angle recaps say SummerSlam; Jey's stated path = challenge Cody at SummerSlam). Cody Rhodes NOT live (referenced/replay only). Cross-checked HIGH-confidence across WWE.com, PWTorch/Keller, CBS Sports, SI/FanNation, Fightful, Wrestleview, PWMania. FLAGS: Finn Bálor -> SmackDown is single-sourced (Wrestling Attitude) — UNVERIFIED; 'Rollins has left The Vision' is recappers' inference, not on-air explicit (track as implied).",
+ "segments": [
+  {
+   "id": "raw-2026-06-01-seg-01",
+   "type": "angle",
+   "position": "A-block",
+   "carriers": [
+    "roman-reigns",
+    "jacob-fatu",
+    "jey-uso",
+    "jimmy-uso"
+   ],
+   "threads_advanced": [
+    "bloodline-mft-realignment"
+   ],
+   "threads_opened": [
+    "jey-fatu-friction-watch"
+   ],
+   "threads_closed": [
+    "fatu-absorbed-bloodline",
+    "fatu-physical-arrival-raw"
+   ],
+   "threads_transformed": [
+    "bloodline-civil-war"
+   ],
+   "outcome": "'Acknowledgment Day': Roman Reigns (World Heavyweight Champion) opened with the Usos. Jacob Fatu came out, addressed his Clash Tribal-Combat loss ('I knew the consequences'), pointedly said he did NOT lose to 'Jey's punk ass' but to his Tribal Chief, then TOOK A KNEE and acknowledged Reigns. Roman pulled him up: 'I love him.' Jimmy framed Fatu's induction as a 'warning shot.' Bloodline reunited; Fatu folded in on a leash.",
+   "stand_tall": "heel",
+   "register": "Pantheon (family consolidation) vs Aitu (subjugated)",
+   "notes": "Pays off the weekend's absorption throughline (AAA: Raiders/Pagano/Omos; WWE: Fatu) — the aitu neutered -> domesticated -> ABSORBED by his own acceptance = the most complete containment. Reverses Fatu's babyface challenger run. Hierarchy set: Roman 'the one,' Usos 'the twos,' Fatu in the fold. Jey/Fatu friction explicitly preserved (the kept tension)."
+  },
+  {
+   "id": "raw-2026-06-01-seg-02",
+   "type": "match",
+   "position": "A-block",
+   "carriers": [
+    "oba-femi",
+    "solo-sikoa",
+    "penta",
+    "carmelo-hayes",
+    "talla-tonga"
+   ],
+   "threads_advanced": [
+    "oba-ascension-streak",
+    "oba-brock-summerslam-forging"
+   ],
+   "threads_opened": [
+    "king-of-the-ring-2026"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "King of the Ring R1 Fatal 4-Way: Oba Femi def. Solo Sikoa (w/ Talla Tonga), Penta (IC Champion) & Carmelo Hayes via Fall From Grace on Solo (~9:00). Post-match Femi addressed Brock Lesnar — coming off the Clash loss, said they're 'one and one,' that he 'took Brock's best shot and is still here,' and called for the rubber match while vowing to win KOTR.",
+   "stand_tall": "babyface",
+   "register": "Ascending Orisha (tournament agon)",
+   "notes": "Femi rebounds from the Clash forging-loss into the tournament; the Brock trilogy is now openly seeded, KOTR as the vehicle. Solo eats the fall (Bloodline-adjacent side absorbing the L)."
+  },
+  {
+   "id": "raw-2026-06-01-seg-03",
+   "type": "angle",
+   "position": "A-block",
+   "carriers": [
+    "roman-reigns",
+    "jey-uso",
+    "jimmy-uso"
+   ],
+   "threads_advanced": [
+    "bloodline-mft-realignment",
+    "cody-third-reign"
+   ],
+   "threads_opened": [
+    "jey-kotr-cody-summerslam"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Roman told Jey to win King of the Ring so he can challenge Cody Rhodes for the Undisputed WWE Title at SummerSlam — the 'two ends of the table' line (Roman holds one title, wants the family to take the other). Kept Jimmy at his side; told Jey to 'do this on his own'; framed Fatu as needing control ('tough love').",
+   "stand_tall": "heel",
+   "register": "Bloodline -> the throne",
+   "notes": "Points the Bloodline squarely at Cody's title and gives Jey a singles proving-ground. The KOTR bracket becomes the Bloodline's path to a second crown."
+  },
+  {
+   "id": "raw-2026-06-01-seg-04",
+   "type": "angle",
+   "position": "B-block",
+   "carriers": [
+    "sol-ruca",
+    "lyra-valkyria",
+    "bayley",
+    "kathy-kelley"
+   ],
+   "threads_advanced": [
+    "sol-ruca-ic-reign"
+   ],
+   "threads_opened": [
+    "sol-ruca-vs-lyra-ic"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [
+    "lyra-bayley-paired-answer"
+   ],
+   "outcome": "New Women's IC Champion Sol Ruca (won from Becky at Clash) cut a 'fighting champion' celebration (interviewed by Cathy Kelley), thanked Becky, vowed she'll 'have their soul if they underestimate her.' Backstage, Lyra Valkyria — the FIRST-ever Women's IC Champion, who 'couldn't challenge while Becky held it' — congratulated Ruca and asked for a shot; Ruca accepted. Lyra left Bayley hanging mid-interview to do it.",
+   "stand_tall": "babyface",
+   "register": "Successor-champion legitimized / challenger rises",
+   "notes": "Legitimizes Ruca as ascending babyface champ and immediately seeds her first defense vs the title's originator. Bayley/Lyra pairing fractures (Bayley was steering toward tag titles, visibly annoyed) -> the paired-answer thread transforms toward a split."
+  },
+  {
+   "id": "raw-2026-06-01-seg-05",
+   "type": "match",
+   "position": "B-block",
+   "carriers": [
+    "rey-mysterio",
+    "dragon-lee",
+    "ethan-page",
+    "rusev",
+    "penta",
+    "adam-pearce"
+   ],
+   "threads_advanced": [
+    "rey-ic-contender-arc",
+    "rusev-ic-title-chase"
+   ],
+   "threads_opened": [
+    "rey-vs-penta-ic"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Rey Mysterio & Dragon Lee def. Ethan Page & Rusev (~12:00) — Rey hit the 619 + Drop the Dime on Page; Dragon Lee handled Rusev outside. Backstage tie-in: Adam Pearce told Penta he's arranging Rey Mysterio vs Penta for the (men's) Intercontinental Title.",
+   "stand_tall": "babyface",
+   "register": "lucha kin vs heels / IC contendership",
+   "notes": "Positions Rey toward a Penta IC title shot (separate men's IC program from Ruca's women's belt). Rusev's IC chase stalls with the loss."
+  },
+  {
+   "id": "raw-2026-06-01-seg-06",
+   "type": "match",
+   "position": "B-block",
+   "carriers": [
+    "iyo-sky",
+    "giulia",
+    "roxanne-perez",
+    "lash-legend",
+    "liv-morgan",
+    "raquel-rodriguez"
+   ],
+   "threads_advanced": [
+    "iyo-senpai-inheritance",
+    "roxanne-loyalty-test"
+   ],
+   "threads_opened": [
+    "queen-of-the-ring-2026",
+    "judgment-day-fracture"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Queen of the Ring R1 Fatal 4-Way: Iyo Sky def. Giulia, Roxanne Perez & Lash Legend via Over the Moonsault on Giulia (~11:00). Backstage fallout: a frustrated Roxanne Perez ('I was supposed to be Queen of the Ring') clashed with Liv Morgan & Raquel Rodriguez; Liv hyped herself + Dom as 'King and Queen of the Ring' ('still family'); Roxanne shot back she 'could've used family to help out.'",
+   "stand_tall": "babyface",
+   "register": "Senpai (tournament agon) / court turning on itself",
+   "notes": "Iyo through to QOTR R2. The real beat is the Judgment Day internal fracture seeded (Perez vs Liv, Raquel in the middle, a Liv/Dom 'power couple' thread) — the loyalty-test thread tips toward open fissure."
+  },
+  {
+   "id": "raw-2026-06-01-seg-07",
+   "type": "angle",
+   "position": "B-block",
+   "carriers": [
+    "la-knight",
+    "adam-pearce",
+    "maxxine-dupri",
+    "austin-theory",
+    "otis",
+    "dom-mysterio",
+    "jd-mcdonagh"
+   ],
+   "threads_advanced": [
+    "theory-maxxine-angle"
+   ],
+   "threads_opened": [
+    "la-knight-vs-authority-bloodline"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Backstage seeds: (a) LA Knight confronted Adam Pearce, accusing him of Bloodline favoritism ('feeling Ucey?') and threatening to 'take Pearce out of retirement'; Pearce called keeping the Bloodline in line his job and Fatu 'a liability.' (b) Otis & Tozawa warned Maxxine Dupri that hanging with Austin Theory is 'bad news'; Maxxine asked for trust. (c) Dom & JD McDonagh hyped Dom's KOTR R1 (Friday/SmackDown); JD said 'good riddance' to Finn Bálor, claimed 'relocated to SmackDown.'",
+   "stand_tall": "none",
+   "register": "anti-authority voice + slow-burn betrayal seeds",
+   "notes": "Three forward seeds: LA Knight as the anti-Bloodline/anti-authority voice; Maxxine drifting toward Theory (betrayal/split watch with Otis/Tozawa); Dom/JD as a unit through KOTR. FLAG: Finn Bálor -> SmackDown is single-sourced/UNVERIFIED — did NOT open a thread for it pending confirmation."
+  },
+  {
+   "id": "raw-2026-06-01-seg-08",
+   "type": "match",
+   "position": "main-event",
+   "carriers": [
+    "seth-rollins",
+    "bron-breakker",
+    "paul-heyman",
+    "austin-theory",
+    "montez-ford"
+   ],
+   "threads_advanced": [
+    "seth-ragnarok-army"
+   ],
+   "threads_opened": [
+    "montez-ford-rollins-alliance",
+    "heyman-breakker-tension"
+   ],
+   "threads_closed": [
+    "bron-vs-seth-2026"
+   ],
+   "threads_transformed": [
+    "vision-faction",
+    "rollins-lone-wolf-arc"
+   ],
+   "outcome": "Seth Rollins def. Bron Breakker (w/ Paul Heyman) via the Stomp (~22:00) — rubber match (Backlash trilogy). Chaos finish: Austin Theory interfered (belt shot) -> Montez Ford flew in and took Theory out (siding with Rollins); Heyman put Breakker's boot on the rope to break a pin; Rollins pulled Heyman into the line of fire and Breakker's spear sent HEYMAN (and Rollins) through the barricade; back in, Breakker speared the title belt Rollins held to his chest and knocked himself loopy -> Stomp, pin. Earlier: two Pedigrees (one through the announce table). Post-match Rollins & Ford put differences aside.",
+   "stand_tall": "babyface",
+   "register": "Loki's host reforms / the Vision shatters",
+   "notes": "Settles the Breakker rubber match (trilogy closed). The Vision fractures: Rollins splits from the group with Montez Ford as a NEW ally, and Heyman-Breakker tension opens via the accidental spear. FLAG: the clean 'Rollins has left The Vision' framing is recappers' inference (on-air facts solid: Rollins beats Bron, Ford sides with Rollins, Bron spears Heyman) — track as strongly-implied, not stated. Watch Profits implications (Ford)."
+  }
+ ]
+}

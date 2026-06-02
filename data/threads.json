@@ -1,1471 +1,1916 @@
 [
-  {
-    "id": "roman-vs-fatu-whc",
-    "name": "Roman Reigns vs Jacob Fatu (WHC)",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-25",
-    "carriers": [
-      "roman-reigns",
-      "jacob-fatu"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Aitu vs Patriarch \u2014 worldview clash, not faction war. Fatu declared for Raw on SD 4/25; physical arrival Raw 4/27."
-  },
-  {
-    "id": "bron-vs-seth-2026",
-    "name": "Bron Breakker vs Seth Rollins (2026 arc)",
-    "type": "feud",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "bron-breakker",
-      "seth-rollins"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Bound-Loki founding the next devourer. WM42 was unearned; Backlash is the on-the-level handoff."
-  },
-  {
-    "id": "cody-vs-gunther-2026",
-    "name": "Cody Rhodes vs Gunther (2026)",
-    "type": "feud",
-    "opened_at": "smackdown-2026-05-01",
-    "opened_by_segment": "smackdown-2026-05-01-seg-12",
-    "carriers": [
-      "cody-rhodes",
-      "gunther"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "clash-italy-2026-05-31",
-    "notes": "Sleeper attack post-Cody/Saints SD 5/01 opened. Heyman segment SD 5/08 escalated \u2014 4 sleeper attempts, Gunther embarrassed on go-home. Match did NOT happen at Backlash; rescheduled to Clash in Italy 5/31 Turin (Riyadh Season-sponsored). SD 5/15: Cody set up contract himself (one-man-crew); Keys interrupted; Aldis booked Keys vs Gunther as #1 contender match. Gunther beat Keys; Cody Cross-Rhodes on Gunther post-match."
-  },
-  {
-    "id": "asuka-vs-iyo-backlash",
-    "name": "Asuka vs IYO Sky (Backlash)",
-    "type": "feud",
-    "opened_at": "raw-2026-04-27",
-    "opened_by_segment": "raw-2026-04-27-seg-10",
-    "carriers": [
-      "asuka",
-      "iyo-sky"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Senpai/kohai bond severance. Bombthrower-coded after S12 mist Raw 5/04."
-  },
-  {
-    "id": "trick-vs-sami-backlash",
-    "name": "Trick Williams vs Sami Zayn (Backlash)",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-08",
-    "carriers": [
-      "trick-williams",
-      "sami-zayn",
-      "lil-yachty"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Sami descent \u2192 gingerbread ambush \u2192 funeral \u2192 blindside. Successor vs predecessor."
-  },
-  {
-    "id": "danhausen-vs-miz-wilson",
-    "name": "Danhausen + mystery partner vs Miz & Kit Wilson (Backlash)",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-11",
-    "carriers": [
-      "danhausen",
-      "the-miz",
-      "kit-wilson"
-    ],
-    "register": "Constant",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Sacred Clown vs Hollywood-heel pipeline. Mystery partner reveal at Backlash; CM Punk -200 odds."
-  },
-  {
-    "id": "tongan-death-grip-taboo",
-    "name": "Tongan Death Grip code-violation taboo",
-    "type": "meta",
-    "opened_at": "raw-2026-04-27",
-    "opened_by_segment": "raw-2026-04-27-seg-12",
-    "carriers": [
-      "jacob-fatu",
-      "roman-reigns",
-      "jimmy-uso",
-      "jey-uso"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Sacred-family-move violation. First applied Raw 4/27 closer. Consecrated on-air Raw 5/04 (S15) then re-violated."
-  },
-  {
-    "id": "bloodline-civil-war",
-    "name": "Bloodline civil war (MFTs vs Usos vs Reigns)",
-    "type": "faction",
-    "opened_at": "summerslam-2025",
-    "carriers": [
-      "roman-reigns",
-      "jacob-fatu",
-      "solo-sikoa",
-      "jimmy-uso",
-      "jey-uso",
-      "tama-tonga",
-      "talla-tonga"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Multi-vector household fracture. Three factions claim variations of the name."
-  },
-  {
-    "id": "mfts-collapse",
-    "name": "MFTs faction collapse + remnant restructure",
-    "type": "faction",
-    "opened_at": "smackdown-2026-04-25",
-    "carriers": [
-      "solo-sikoa",
-      "tama-tonga",
-      "talla-tonga",
-      "jacob-fatu"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Tama coup \u2192 Fatu superkick \u2192 Fatu beats Solo clean. SD 5/08: Solo demoted to manager-architect; remnant hierarchy functions."
-  },
-  {
-    "id": "vision-faction",
-    "name": "The Vision (Logan / Theory / Bron / Heyman)",
-    "type": "faction",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "logan-paul",
-      "austin-theory",
-      "bron-breakker",
-      "paul-heyman"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Operative class. Heyman + Bron the leash question; Logan + Theory the payoff line. SD 5/08 reframed \u2014 Heyman not Vision-locked. SNME: retained tags dirty (brass knux + Heyman foot-on-rope). Raw 5/25: Logan Paul torn triceps \u2014 OUT for months. Bron replaces Logan as Theory's tag partner. Faction becomes pure wrestling-operative unit. Theory rampage (3 chair attacks: Hendry + Dawkins x2) led to SUSPENSION by Pearce. Theory/Maxxine Dupri romantic angle seeded = potential exit vector. Heyman comforts not disciplines."
-  },
-  {
-    "id": "jd-coven",
-    "name": "Judgment Day women's coven",
-    "type": "faction",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "liv-morgan",
-      "roxanne-perez",
-      "raquel-rodriguez"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Liv as queen, Roxanne as apprentice, Raquel as enforcer. Operating with McDonagh + Dom on the men's side."
-  },
-  {
-    "id": "fatal-influence-arc",
-    "name": "Fatal Influence (Jacy + Fallon + Lainey) main-roster arc",
-    "type": "faction",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-06",
-    "carriers": [
-      "jacy-jayne",
-      "fallon-henley",
-      "lainey-reid"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "NXT call-ups debut SD 4/25 (2 DQs); SD 5/01 first dirty win (Jacy over Charlotte); SD 5/08 main-event win via Jade interference."
-  },
-  {
-    "id": "irresistible-forces-arc",
-    "name": "Irresistible Forces (Nia + Lash) post-WM42 chase",
-    "type": "faction",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "nia-jax",
-      "lash-legend"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Lost titles WM42 + rematch SD 5/01. Returned SD 5/08 to challenge Paige + Brie; Rhea cut their exit."
-  },
-  {
-    "id": "jade-faction-debut",
-    "name": "Jade + Michin + B-Fab faction debut (unnamed)",
-    "type": "faction",
-    "opened_at": "smackdown-2026-05-08",
-    "opened_by_segment": "smackdown-2026-05-08-seg-14",
-    "carriers": [
-      "jade-cargill",
-      "michin",
-      "b-fab"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Formal naming deferred. Jade approached Alexa post-debut \u2014 recruitment or warning open."
-  },
-  {
-    "id": "hendry-orphic-bard",
-    "name": "Joe Hendry \u2014 Orphic Bard ascent",
-    "type": "arc",
-    "opened_at": "raw-2026-04-13",
-    "carriers": [
-      "joe-hendry"
-    ],
-    "register": "Liminal-Warrior",
-    "promised_payoff": "undefined",
-    "notes": "Concert mechanic. 4/27 Laredo (75% singalong, border crowd) \u2192 5/04 Omaha (full singalong, mat-credibility crowd)."
-  },
-  {
-    "id": "oba-ascension-streak",
-    "name": "Oba Femi \u2014 Ascending Orisha (credential streak)",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n2-2026-04-19",
-    "carriers": [
-      "oba-femi"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Streak isn't wins \u2014 it's a stack of impossible feats. WM42 (Lesnar/Surtr), Raw 4/27 (Waller squash + open challenge), Raw 5/04 (Otis-mass powerbomb)."
-  },
-  {
-    "id": "rollins-lone-wolf-arc",
-    "name": "Seth Rollins \u2014 Bound-Loki isolation-to-coalition arc",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "seth-rollins",
-      "montez-ford",
-      "angelo-dawkins"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "WM42-Backlash: must lose to Bron alone. Post-Backlash: three consecutive rejections (Profits 5/11, Usos\u2192Knight 5/18, Knight\u2192Seth 5/18). Raw 5/18: admitted isolation, Dawkins first recruit. Raw 5/25: isolation BROKE \u2014 Ford agreed to team after competitive test (Stomp) + Theory chair-attacking Dawkins. Breaking condition identified: requires BOTH competitive respect AND shared enemy action. Now see seth-ragnarok-army for active coalition thread."
-  },
-  {
-    "id": "balor-fomorian-exile",
-    "name": "Finn B\u00e1lor \u2014 Fomorian-Exile / Club House",
-    "type": "arc",
-    "opened_at": "raw-2026-04-06",
-    "carriers": [
-      "finn-balor"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Ejected from JD; hosting 'Club House'. Two losses to McDonagh in two weeks (won 4/27 dossier loss, lost 5/04 dirty)."
-  },
-  {
-    "id": "becky-nemesis-arc",
-    "name": "Becky Lynch \u2014 Nemesis (post-WM42 victory tour)",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "becky-lynch"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Controlled IYO sequence Raw 4/27. Made mortal Raw 5/04 (Sol Ruca Sol Snatcher)."
-  },
-  {
-    "id": "asuka-onryo-register",
-    "name": "Asuka \u2014 Onry\u014d register expansion (post-WM42)",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n2-2026-04-19",
-    "carriers": [
-      "asuka"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Three-layer stack: Yamauba authority + Hannya wound + Onry\u014d weapon. Expanded Raw 5/04 with senpai-authority + 'wakatta?'."
-  },
-  {
-    "id": "sol-ruca-vs-becky-program",
-    "name": "Sol Ruca vs Becky Lynch \u2014 Women's IC at Clash in Italy",
-    "type": "feud",
-    "opened_at": "raw-2026-05-04",
-    "opened_by_segment": "raw-2026-05-04-seg-05",
-    "carriers": [
-      "sol-ruca",
-      "becky-lynch"
-    ],
-    "register": "Liminal-Warrior",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "clash-italy-2026-05-31",
-    "notes": "Compressed elevation \u2014 debutante landing in Women's IC champ's program. SNME: Sol beat Becky by DQ (Becky pulled ref into Snatcher). Institution closed the escape hatch \u2014 Aldis booked title match at Clash in Italy. Raw 5/25: Becky interview ('stone vs sand' frame war). Becky's only play left is verbal \u2014 institution already granted the match Sol demanded."
-  },
-  {
-    "id": "lyra-vs-jd",
-    "name": "Lyra + Bayley vs JD coven",
-    "type": "feud",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "lyra-valkyria",
-      "bayley",
-      "liv-morgan",
-      "roxanne-perez"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Morrigan-bifurcation answer to JD coven."
-  },
-  {
-    "id": "multi-front-war",
-    "name": "Multi-front war \u2014 heel factions vs babyface federation",
-    "type": "meta",
-    "opened_at": "raw-2026-05-04",
-    "opened_by_segment": "raw-2026-05-04-seg-09",
-    "carriers": [
-      "seth-rollins",
-      "joe-hendry",
-      "montez-ford",
-      "angelo-dawkins",
-      "bayley",
-      "lyra-valkyria",
-      "bron-breakker",
-      "logan-paul",
-      "austin-theory",
-      "jd-mcdonagh",
-      "dom-mysterio"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Heels organize as factions, babyfaces as federation."
-  },
-  {
-    "id": "kabuki-warriors-lineage",
-    "name": "Kabuki Warriors lineage (post-Sane release)",
-    "type": "meta",
-    "opened_at": "raw-2025-09-01",
-    "carriers": [
-      "asuka",
-      "iyo-sky"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Sane released 4/24/26. Asuka claimed whole register Raw 5/04 S12; IYO expelled."
-  },
-  {
-    "id": "roxanne-loyalty-test",
-    "name": "Roxanne Perez loyalty test",
-    "type": "arc",
-    "opened_at": "raw-2026-04-27",
-    "opened_by_segment": "raw-2026-04-27-seg-11",
-    "carriers": [
-      "liv-morgan",
-      "roxanne-perez",
-      "finn-balor"
-    ],
-    "register": "Constant",
-    "promised_payoff": "next-week",
-    "notes": "Closed Raw 5/04 S3 \u2014 Roxanne picked the queen via hammer on B\u00e1lor."
-  },
-  {
-    "id": "street-profits-hendry-alliance",
-    "name": "Street Profits + Hendry babyface coalition",
-    "type": "faction",
-    "opened_at": "raw-2026-04-27",
-    "opened_by_segment": "raw-2026-04-27-seg-07",
-    "carriers": [
-      "joe-hendry",
-      "montez-ford",
-      "angelo-dawkins"
-    ],
-    "register": "Liminal-Warrior",
-    "promised_payoff": "undefined",
-    "notes": "First save Raw 4/27 (Vision beatdown rescue); reinforced Raw 5/04 (run-in for Hendry vs Theory)."
-  },
-  {
-    "id": "lyra-bayley-paired-answer",
-    "name": "Lyra + Bayley paired answer to JD coven",
-    "type": "faction",
-    "opened_at": "raw-2026-05-04",
-    "opened_by_segment": "raw-2026-05-04-seg-09",
-    "carriers": [
-      "lyra-valkyria",
-      "bayley"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Morrigan-bifurcation. Ripley pointedly absent."
-  },
-  {
-    "id": "diamond-mine-reunion",
-    "name": "Diamond Mine reunion \u2014 Creeds via Los Americanos Hermanos",
-    "type": "faction",
-    "opened_at": "raw-2026-05-04",
-    "opened_by_segment": "raw-2026-05-04-seg-13",
-    "carriers": [
-      "chad-gable",
-      "julius-creed",
-      "brutus-creed"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined"
-  },
-  {
-    "id": "page-contender-candidacy",
-    "name": "Ethan Page contender candidacy (IC track)",
-    "type": "arc",
-    "opened_at": "raw-2026-05-04",
-    "opened_by_segment": "raw-2026-05-04-seg-14",
-    "carriers": [
-      "ethan-page",
-      "rusev"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined"
-  },
-  {
-    "id": "el-grande-americano-mask-feud",
-    "name": "OG El Grande Americano vs Kaiser-imposter (mask feud)",
-    "type": "feud",
-    "opened_at": "raw-2026-04-27",
-    "opened_by_segment": "raw-2026-04-27-seg-08",
-    "carriers": [
-      "chad-gable",
-      "ludwig-kaiser",
-      "rey-mysterio"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "AAA crossover. Lucha tradition's inclusivity correcting the system that excluded it."
-  },
-  {
-    "id": "vaquer-injury-writeoff",
-    "name": "Stephanie Vaquer JD ambush + write-off",
-    "type": "arc",
-    "opened_at": "raw-2026-04-27",
-    "opened_by_segment": "raw-2026-04-27-seg-03",
-    "carriers": [
-      "stephanie-vaquer",
-      "raquel-rodriguez",
-      "liv-morgan"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Legit AC sprain; written off indefinitely. JD coven enforcement."
-  },
-  {
-    "id": "becky-vs-iyo-precursor",
-    "name": "Becky vs IYO precursor (pre-Asuka split)",
-    "type": "feud",
-    "opened_at": "raw-2026-04-27",
-    "opened_by_segment": "raw-2026-04-27-seg-06",
-    "carriers": [
-      "becky-lynch",
-      "iyo-sky",
-      "asuka"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Becky controlled the sequence; Asuka interference robbed IYO. Set up IYO/Asuka Backlash."
-  },
-  {
-    "id": "kiana-giulia-pipeline",
-    "name": "Kiana James / Giulia ally-to-challenger pipeline",
-    "type": "arc",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-03",
-    "carriers": [
-      "kiana-james",
-      "giulia"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Predicted 2-month turn. Mistimed assist SD 5/08 cost Kiana the title \u2014 accelerated."
-  },
-  {
-    "id": "tiffany-women-us-reign",
-    "name": "Tiffany Stratton \u2014 Women's US Title reign",
-    "type": "prop",
-    "opened_at": "smackdown-2026-04-25",
-    "carriers": [
-      "tiffany-stratton"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Defended vs Giulia 4/25; vs Kiana 5/08."
-  },
-  {
-    "id": "cody-third-reign",
-    "name": "Cody Rhodes 3rd Undisputed reign",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "cody-rhodes"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "9 weeks at Backlash. Orbital fracture from Orton WM42 punt \u2014 'wound is the credential'."
-  },
-  {
-    "id": "trick-us-title-reign",
-    "name": "Trick Williams \u2014 US Title reign",
-    "type": "prop",
-    "opened_at": "wrestlemania-42-n2-2026-04-19",
-    "carriers": [
-      "trick-williams"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Won from Sami at WM42 \u2014 predecessor descent triggered."
-  },
-  {
-    "id": "inanna-paige-return",
-    "name": "Inanna's return \u2014 Paige post-descent",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "paige",
-      "brie-bella"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Paige descended through 7 gates (injury, leak, substance, narrative, retirement, exile, name) and returned. Bella twins as gatekeepers."
-  },
-  {
-    "id": "womens-tag-reign-paige-brie",
-    "name": "Women's Tag Title reign \u2014 Paige + Brie Bella",
-    "type": "prop",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "paige",
-      "brie-bella"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Won Night 1 WM42; defended SD 4/25 (DQ via Fatal Influence) + SD 5/01 (vs Nia/Lash)."
-  },
-  {
-    "id": "charlotte-alexa-partnership",
-    "name": "Charlotte + Alexa partnership / fragility",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "charlotte-flair",
-      "alexa-bliss"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Zero-gimmick transparency operating. Tested by 3-way w/ Rhea SD 5/01 + green-room friction SD 5/08."
-  },
-  {
-    "id": "anubis-thoth-judgment",
-    "name": "Hall of Two Truths \u2014 Priest + R-Truth judgment apparatus",
-    "type": "faction",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-07",
-    "carriers": [
-      "damian-priest",
-      "r-truth"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Anubis (verdict) + Thoth (witness/recorder). Tested SD 5/08 \u2014 weld stress-mark; Royce Keys joins as third body."
-  },
-  {
-    "id": "danhausen-sacred-clown-arc",
-    "name": "Danhausen \u2014 Sacred Clown / Heyoka arc",
-    "type": "arc",
-    "opened_at": "smackdown-2026-04-25",
-    "carriers": [
-      "danhausen"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Comedy as the dose. Undertaker sit-up callback 4/25; trap-refusal 5/01; chemistry-lab partner-summon 5/08."
-  },
-  {
-    "id": "sami-descent-arc",
-    "name": "Sami Zayn \u2014 predecessor descent",
-    "type": "arc",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-08",
-    "carriers": [
-      "sami-zayn"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "backlash-2026-05-09",
-    "notes": "Gingerbread costume ambush 4/25 \u2192 Cody exile 5/01 \u2192 wake/funeral/blindside 5/08. Paranoid spiral coded."
-  },
-  {
-    "id": "tama-tonga-restless",
-    "name": "Tama Tonga \u2014 restless within MFTs",
-    "type": "arc",
-    "opened_at": "smackdown-2026-04-25",
-    "carriers": [
-      "tama-tonga",
-      "shinsuke-nakamura"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Mic-grab from Solo 4/25 \u2192 Fatu superkick 4/25 \u2192 Nakamura disappointment confrontation 5/08."
-  },
-  {
-    "id": "royce-keys-liminal-warrior-arc",
-    "name": "Royce Keys \u2014 Liminal Warrior / Guardian-Who-Carries-the-Dead",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n2-2026-04-19",
-    "carriers": [
-      "royce-keys"
-    ],
-    "register": "Liminal-Warrior",
-    "promised_payoff": "undefined",
-    "notes": "Andre BR winner. Pre-fame Honda Civic / APW history with Fatu. Refused Solo MFT recruitment 5/08; chose face-side."
-  },
-  {
-    "id": "ricky-saints-debut-arc",
-    "name": "Ricky Saints \u2014 main-roster debut arc",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-01",
-    "opened_by_segment": "smackdown-2026-05-01-seg-02",
-    "carriers": [
-      "ricky-saints"
-    ],
-    "register": "Liminal-Warrior",
-    "promised_payoff": "undefined",
-    "notes": "Debut night main event vs Cody. Won SD 5/08 over Cardona."
-  },
-  {
-    "id": "matt-cardona-exile-returned-arc",
-    "name": "Matt Cardona \u2014 Exile-Returned",
-    "type": "arc",
-    "opened_at": "royal-rumble-2026",
-    "carriers": [
-      "matt-cardona"
-    ],
-    "register": "Shadow",
-    "promised_payoff": "undefined",
-    "notes": "Internet Championship lineage. Returned under indie name Jan 2026. Loss to Saints 5/08 \u2014 receipts not closed."
-  },
-  {
-    "id": "charlotte-hera-arc",
-    "name": "Charlotte Flair \u2014 Hera record-track",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "charlotte-flair"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Institutional sovereignty. Joe locked structural prediction: record-breaking title win must be against Rhea (Macha)."
-  },
-  {
-    "id": "alexa-twice-possessed-arc",
-    "name": "Alexa Bliss \u2014 Twice-Possessed / Sister Abigail latency",
-    "type": "arc",
-    "opened_at": "wrestlemania-42-n1-2026-04-18",
-    "carriers": [
-      "alexa-bliss"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Joe's conviction: Alexa must be Sister Abigail. Wyatt Sicks released 4/24 \u2014 vacancy open. Jade approach 5/08."
-  },
-  {
-    "id": "jade-vs-rhea-rematch",
-    "name": "Jade Cargill (Oya) vs Rhea Ripley (Macha) \u2014 rematch claim",
-    "type": "feud",
-    "opened_at": "wrestlemania-42-n2-2026-04-19",
-    "carriers": [
-      "jade-cargill",
-      "rhea-ripley"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Oya's claim on Macha's crown. Jade interference SD 5/08 specifically prevented Rhea standing tall."
-  },
-  {
-    "id": "lash-vs-rhea-future",
-    "name": "Lash Legend vs Rhea Ripley (future-gold flag)",
-    "type": "feud",
-    "opened_at": "smackdown-2026-05-08",
-    "opened_by_segment": "smackdown-2026-05-08-seg-12",
-    "carriers": [
-      "lash-legend",
-      "rhea-ripley"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Mid-ramp staredown post-Paige/Brie attack. Joe's call: locked future program."
-  },
-  {
-    "id": "trick-grail-cup-arc",
-    "name": "Trick Williams \u2014 Grail Cup ritual",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-08",
-    "opened_by_segment": "smackdown-2026-05-08-seg-18",
-    "carriers": [
-      "trick-williams"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Tiny grail + libation over gingerbread casket. Archetype pending \u2014 hold open."
-  },
-  {
-    "id": "chelsea-cardona-intergender-watch",
-    "name": "Chelsea Green / Cardona inter-gender watch",
-    "type": "meta",
-    "opened_at": "smackdown-2026-05-08",
-    "opened_by_segment": "smackdown-2026-05-08-seg-02",
-    "carriers": [
-      "chelsea-green",
-      "matt-cardona"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "First married couple to simultaneously hold men's+women's US titles. Possible Parejas-Incre\u00edbles-style anchor."
-  },
-  {
-    "id": "heyman-the-constant-arc",
-    "name": "Paul Heyman \u2014 The Constant / Wise Man",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-08",
-    "opened_by_segment": "smackdown-2026-05-08-seg-08",
-    "carriers": [
-      "paul-heyman"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Scroll 007 archetype: Nestor + Norse Wanderer. New tier: The Constant. Repaying favor to Gunther + fan of Cody."
-  },
-  {
-    "id": "gingerbread-shadow-real",
-    "name": "Gingerbread Man \u2014 autonomous shadow / kayfabe-real",
-    "type": "meta",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-08",
-    "carriers": [
-      "sami-zayn",
-      "lil-yachty",
-      "trick-williams"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Sami's shadow given full institutional canonization SD 5/08 (career retrospective + funeral + Yachty inside casket emergence)."
-  },
-  {
-    "id": "nakamura-disappointment-thread",
-    "name": "Nakamura disappointment-as-destabilizer",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-08",
-    "opened_by_segment": "smackdown-2026-05-08-seg-17",
-    "carriers": [
-      "shinsuke-nakamura",
-      "tama-tonga",
-      "talla-tonga"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Disappointment requires prior expectation. Talla as the hold."
-  },
-  {
-    "id": "fatu-physical-arrival-raw",
-    "name": "Fatu's Raw arrival arc",
-    "type": "arc",
-    "opened_at": "smackdown-2026-04-25",
-    "opened_by_segment": "smackdown-2026-04-25-seg-13",
-    "carriers": [
-      "jacob-fatu"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Declared for Raw SD 4/25; physical arrival Raw 4/27 closer. Owns power-position openers across both brands consecutive weeks."
-  },
-  {
-    "id": "punk-vs-cody-summerslam-build",
-    "name": "CM Punk vs Cody Rhodes \u2014 SummerSlam Build",
-    "type": "feud",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "cm-punk",
-      "cody-rhodes"
-    ],
-    "register": "Constant",
-    "notes": "On-screen seed planted this episode: Punk's 'opportunity falling from the sky' promo + Cody's 'just say when' acceptance. No catalog thread exists for this feud at this date. SummerSlam is the stated destination."
-  },
-  {
-    "id": "rusev-ic-title-chase",
-    "name": "Rusev \u2014 IC Title Chase",
-    "type": "arc",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "rusev",
-      "penta"
-    ],
-    "register": "Constant",
-    "notes": "Rusev interfered in the Evans/Page match, applied the Accolade to Penta, and draped the IC Championship over his own shoulder \u2014 a declaration of intent. Three-body IC picture (Penta/Rusev/Page) opened this episode. No existing catalog thread covers this."
-  },
-  {
-    "id": "evans-vs-page-main-roster",
-    "name": "Javon Evans vs Ethan Page \u2014 Main Roster Continuation",
-    "type": "feud",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "jevon-evans",
-      "ethan-page"
-    ],
-    "register": "Constant",
-    "notes": "NXT rivalry carried to the main roster with their debut match tonight. Log frames this as continuity-across-tiers; no catalog thread exists for this feud at the main-roster level."
-  },
-  {
-    "id": "sol-vs-zaria-main-roster",
-    "name": "Sol Ruca vs Zaria \u2014 Main Roster NXT Continuation",
-    "type": "feud",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "sol-ruca",
-      "zaria"
-    ],
-    "register": "Constant",
-    "notes": "Zaria interfered in Sol Ruca's main-roster debut title match, bringing their NXT feud (ZaRuca breakup, Stand & Deliver) to Raw. Log explicitly notes this as a feud-with-memory crossing brand lines. No catalog thread covers this at the main-roster level."
-  },
-  {
-    "id": "rhea-vs-liv-womens-world-build",
-    "name": "Rhea Ripley vs Liv Morgan \u2014 Women's World Championship Build",
-    "type": "arc",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "rhea-ripley",
-      "liv-morgan"
-    ],
-    "register": "Constant",
-    "notes": "Rhea's backstage 'I'll be looking forward to it' directly to Liv after cleanly separating from IYO establishes Rhea's next title-chase target as the Women's World Championship. Distinct from jade-vs-rhea-rematch which tracks Rhea vs. Jade."
-  },
-  {
-    "id": "roman-vs-fatu-backlash",
-    "name": "Roman Reigns vs Jacob Fatu \u2014 WWE Championship at Backlash",
-    "type": "feud",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "roman-reigns",
-      "jacob-fatu"
-    ],
-    "register": "Constant",
-    "notes": "Match formally called out in the main-event segment: Fatu challenged Roman for the WWE Championship at Backlash, Roman responded with the 'can you handle the burden' test and gave him a week. No catalog thread exists for this match."
-  },
-  {
-    "id": "knight-vs-gunther-whc-build",
-    "name": "LA Knight vs Gunther \u2014 World Heavyweight Championship Build",
-    "type": "arc",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "la-knight",
-      "gunther"
-    ],
-    "register": "Constant",
-    "notes": "Backstage setup segment positions Knight as a contender against WHC Gunther. No existing catalog thread covers this matchup."
-  },
-  {
-    "id": "vaquer-vs-liv-rematch-build",
-    "name": "Stephanie Vaquer vs Liv Morgan \u2014 Women's World Championship Rematch Build",
-    "type": "arc",
-    "opened_at": "raw-2026-04-20",
-    "carriers": [
-      "stephanie-vaquer",
-      "liv-morgan"
-    ],
-    "register": "Constant",
-    "notes": "Vaquer returned immediately after Liv's successful title defense and stood face-to-face with her, signaling the WM42 feud continues. Log identifies this as the A-story for the Women's World title. No catalog thread covers the post-WM42 rematch build."
-  },
-  {
-    "id": "waller-new-day-adoption",
-    "name": "Greyson Waller \u2014 Trickster Adoption into New Day",
-    "type": "arc",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "greyson-waller"
-    ],
-    "register": "Constant",
-    "notes": "Waller using New Day music and associating with Kofi Kingston without formal membership \u2014 trickster-who-wants-to-belong narrative with WM42 payoff projected. No existing catalog thread covers this."
-  },
-  {
-    "id": "stratton-vs-giulia-womens-us",
-    "name": "Stratton vs Giulia \u2014 Women's US Championship",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "tiffany-stratton",
-      "giulia",
-      "kiana-james"
-    ],
-    "register": "Constant",
-    "notes": "Post-match staredown between Stratton and Giulia/Kiana James after Stratton wins the contenders match signals a new Women's US Title program. Not in existing catalog."
-  },
-  {
-    "id": "trick-vs-sami-us-title-wm42",
-    "name": "Trick Williams vs Sami Zayn \u2014 US Title WM42",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "trick-williams",
-      "sami-zayn"
-    ],
-    "register": "Constant",
-    "notes": "Go-home brawl with Trick standing tall, clear WM42 US Title match build. No existing catalog thread covers this feud."
-  },
-  {
-    "id": "rhea-vs-jade-wm42",
-    "name": "Rhea Ripley vs Jade Cargill \u2014 WM42",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "rhea-ripley",
-      "jade-cargill"
-    ],
-    "register": "Constant",
-    "notes": "3-on-1 match on go-home show is the final build for a WM42 singles match between Ripley and Cargill. Not in existing catalog."
-  },
-  {
-    "id": "lesnar-vs-oba-femi-wm42",
-    "name": "Brock Lesnar vs Oba Femi \u2014 WM42",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "brock-lesnar",
-      "oba-femi"
-    ],
-    "register": "Constant",
-    "notes": "Titan-framing promo package for Lesnar on go-home show implies WM42 match with Oba Femi. No existing catalog thread."
-  },
-  {
-    "id": "royce-keys-elevation",
-    "name": "Royce Keys \u2014 Andr\u00e9 Trophy Elevation Arc",
-    "type": "arc",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "royce-keys"
-    ],
-    "register": "Constant",
-    "notes": "Andr\u00e9 the Giant Memorial Battle Royal win on WM42 go-home show is the 'call to adventure' beat for Keys. Post-Mania booking will define the arc. New character, new thread."
-  },
-  {
-    "id": "fatu-vs-drew-unsanctioned-wm42",
-    "name": "Jacob Fatu vs Drew McIntyre \u2014 Unsanctioned WM42",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "jacob-fatu",
-      "drew-mcintyre"
-    ],
-    "register": "Constant",
-    "notes": "Fatu's cold-open promo directly addresses Drew and the unsanctioned match build. No existing catalog thread isolated to this feud; the bloodline-civil-war thread was advanced but the Drew-specific build deserves its own thread."
-  },
-  {
-    "id": "bella-twins-wm42-tag-title",
-    "name": "Bella Twins vs Irresistible Forces \u2014 WM42 Women's Tag Title",
-    "type": "feud",
-    "opened_at": "smackdown-2026-04-17",
-    "carriers": [
-      "brie-bella",
-      "nia-jax",
-      "lash-legend",
-      "bayley",
-      "lyra-valkyria"
-    ],
-    "register": "Constant",
-    "notes": "Two separate segments (promo and match) build the WM42 Women's Tag Title picture involving Bella Twins, Irresistible Forces, Bayley, and Valkyria. No existing catalog thread."
-  },
-  {
-    "id": "bloodline-triage-system",
-    "name": "Bloodline triage system \u2014 twins as EMTs",
-    "type": "arc",
-    "opened_at": "raw-2026-05-11",
-    "opened_by_segment": "raw-2026-05-11-seg-11",
-    "carriers": [
-      "jimmy-uso",
-      "jey-uso",
-      "roman-reigns",
-      "jacob-fatu"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Family-as-system: Jimmy + Jey as EMTs distributing across both sides of the family wound. Evolved through four registers in two shows: triage as diplomacy (5/11 close, failed) \u2192 triage as wall (5/18 S1 open, united front) \u2192 triage as offensive unit (5/18 S1 mid, gang beatdown) \u2192 patriarch private confession + public acceptance (5/18 S1 close). Scroll seed 'The Subdued Yeet.'"
-  },
-  {
-    "id": "jd-women-tag-title-consolidation",
-    "name": "Judgment Day women's title-consolidation project",
-    "type": "arc",
-    "opened_at": "raw-2026-05-11",
-    "opened_by_segment": "raw-2026-05-11-seg-08",
-    "carriers": [
-      "liv-morgan",
-      "raquel-rodriguez",
-      "roxanne-perez",
-      "paige",
-      "brie-bella"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "JD women targeting Paige/Brie's tag titles. Three belts in ring at close of 5/11 segment = title-consolidation thesis. Confirmed at production-graphic level on Raw 5/18 (WWE production graphic showed 'Judgment Day = the three women' with no men). Foiled interference at Raw 5/18 = attempt deferred not closed; substitute-payment timeline pushed forward."
-  },
-  {
-    "id": "page-vs-penta-ic-snme",
-    "name": "Ethan Page vs Penta \u2014 IC Title at SNME",
-    "type": "feud",
-    "opened_at": "raw-2026-05-11",
-    "opened_by_segment": "raw-2026-05-11-seg-05",
-    "carriers": [
-      "ethan-page",
-      "penta"
-    ],
-    "register": "Constant",
-    "promised_payoff": "specific-show",
-    "promised_payoff_show": "snme-2026-spring",
-    "notes": "IC title match. Page demanded SNME stage (heel vanity); Penta accepted. Raw 5/18: Page Cole interview (cue-card grab + 'rename the IC title' vow) + Penta video package = institution setting equal-weight stage."
-  },
-  {
-    "id": "evans-elevation-6-7",
-    "name": "Je'Von Evans \u2014 '6-7' generational marker elevation",
-    "type": "arc",
-    "opened_at": "raw-2026-05-11",
-    "opened_by_segment": "raw-2026-05-11-seg-06",
-    "carriers": [
-      "jevon-evans"
-    ],
-    "register": "Liminal-Warrior",
-    "promised_payoff": "undefined",
-    "notes": "Generational succession marker. Steven spotted '6-7' twice on broadcast (shirt + finishing-move setup). Clean win over Rusev. Institution investing in vessel \u2014 Greensboro 5/18 is also Evans' hometown (double-duty venue)."
-  },
-  {
-    "id": "iyo-senpai-inheritance",
-    "name": "IYO Sky \u2014 phoenix function / senpai-inheritance from Asuka",
-    "type": "arc",
-    "opened_at": "raw-2026-05-11",
-    "opened_by_segment": "raw-2026-05-11-seg-07",
-    "carriers": [
-      "iyo-sky",
-      "asuka",
-      "sol-ruca"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Phoenix function transferred inside same broadcast \u2014 senpai role from Asuka (single black line benediction seg-07) to IYO (immediate senpai-generosity match with Sol Ruca seg-10). Asuka departure mode = benediction (voluntary role-transfer, not release). IYO countered Sol Snatcher at point of execution = senpai finish."
-  },
-  {
-    "id": "oba-conscription-rite",
-    "name": "Oba Femi conscription rite \u2014 Yoruba-open escalation",
-    "type": "meta",
-    "opened_at": "raw-2026-05-11",
-    "opened_by_segment": "raw-2026-05-11-seg-13",
-    "carriers": [
-      "oba-femi",
-      "angel-garza",
-      "humberto-carrillo",
-      "adam-pearce"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Evolution of Yoruba-open from 'who is worthy to answer' into 'orisha takes what he needs.' Pearce tried to cancel; Oba went through gorilla position, dragged Garza+Humberto to ring, beat them down. Production boundary treated as kayfabe space. Behavioral credential added to oba-ascension-streak."
-  },
-  {
-    "id": "mello-dirty-mirror-arc",
-    "name": "Carmelo Hayes \u2014 framework-vocab carrier / dirty-mirror arc",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-15",
-    "opened_by_segment": "smackdown-2026-05-15-seg-04",
-    "carriers": [
-      "carmelo-hayes"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Framework-vocabulary carrier \u2014 'mirror' (Worked Shoot framework's central diagnostic word) enters WWE promo product. Two 'dirty mirror' invocations same broadcast (backstage + pre-match). Mello won via feet-on-ropes (the dirty mirror by mechanism) = recursive proof. Third instance would be load-bearing. Second confirmed external-pharmacy mirror-vocab event (after Artemis II)."
-  },
-  {
-    "id": "keys-vs-gunther-italy-contender",
-    "name": "Royce Keys vs Gunther \u2014 #1 contender match for Clash in Italy",
-    "type": "feud",
-    "opened_at": "smackdown-2026-05-15",
-    "opened_by_segment": "smackdown-2026-05-15-seg-14",
-    "carriers": [
-      "royce-keys",
-      "gunther",
-      "solo-sikoa"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "specific-show",
-    "promised_payoff_show": "smackdown-2026-05-15",
-    "notes": "One-show arc. Opened seg-14 (Aldis booking after Keys interrupt of Cody contract setup). Closed seg-17 (Gunther won via powerbomb when Keys threw chair at Solo instead of using it on Gunther). Chair refusal = the storyline; cost of refusing the dirty mirror is losing the clean match. Inverse exemplar of Mello dirty-mirror arc (Mello won BY being the dirty mirror; Keys lost BY refusing)."
-  },
-  {
-    "id": "keys-vs-solo-feud",
-    "name": "Royce Keys vs Solo Sikoa \u2014 consolation feud",
-    "type": "feud",
-    "opened_at": "smackdown-2026-05-15",
-    "opened_by_segment": "smackdown-2026-05-15-seg-17",
-    "carriers": [
-      "royce-keys",
-      "solo-sikoa"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Consolation feud from Solo's chair-flip retaliation at end of main event. Braids back into Hall-of-Two-Truths alliance (Priest + Truth + Keys). MFT vs Hall-of-Two-Truths escalation."
-  },
-  {
-    "id": "talla-brother-hold-arc",
-    "name": "Talla Tonga \u2014 brother-as-hold dynamic externalized",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-15",
-    "opened_by_segment": "smackdown-2026-05-15-seg-13",
-    "carriers": [
-      "talla-tonga",
-      "tama-tonga",
-      "shinsuke-nakamura"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Brother-as-hold dynamic externalized \u2014 Talla performs loyalty-enforcement on Tama's behalf. Tama remains contemplative; brother does physical work of keeping him captive. Escalated 5/8 \u2192 5/15 (verbal to violent \u2014 Talla sent Nakamura through a table backstage). Tama vs Nakamura announced for next week SmackDown."
-  },
-  {
-    "id": "danhausen-cm-punk-mystery-tease",
-    "name": "Danhausen \u2014 CM Punk mystery-partner clone-machine arc",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-15",
-    "opened_by_segment": "smackdown-2026-05-15-seg-16",
-    "carriers": [
-      "danhausen"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Pepsi-color beakers (red + blue = CM Punk's shoulder tattoo) in Danhausen lab segment. Same corner as Backlash clone-machine reveal = backstage-corner-as-sacred-site. Joe's prediction: future segment Danhausen reuses clone machine, CM Punk emerges in Danhausen-trademarked facepaint (completes clone-box-form-trilogy: Backlash Minihousen \u2192 SD 5/15 Pepsi tease \u2192 future Punk-in-facepaint)."
-  },
-  {
-    "id": "chelsea-tiff-decline-arc",
-    "name": "Chelsea Green / Tiffany Stratton \u2014 ascending-vs-supplicant decline",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-15",
-    "opened_by_segment": "smackdown-2026-05-15-seg-08",
-    "carriers": [
-      "chelsea-green",
-      "tiffany-stratton"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Peer-rival vector. Tiffany = ascending operator declining alliance; Chelsea = supplicant. Structurally consistent with relative stock \u2014 doesn't humiliate Chelsea, just confirms the gap. Possible 'Top Star Walks Out Of Major Faction' iTR-headline candidate."
-  },
-  {
-    "id": "roman-vs-fatu-tribal-combat",
-    "name": "Roman Reigns vs Jacob Fatu \u2014 Tribal Combat at Clash in Italy",
-    "type": "feud",
-    "opened_at": "raw-2026-05-18",
-    "opened_by_segment": "raw-2026-05-18-seg-05",
-    "carriers": [
-      "roman-reigns",
-      "jacob-fatu",
-      "jimmy-uso",
-      "jey-uso",
-      "adam-pearce"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "clash-italy-2026-05-31",
-    "notes": "Tribal Combat \u2014 family's most sacred match-type, ritual that exists OUTSIDE company's booking infrastructure. Jacob invoked from the mat after gang beatdown (5/18); Pearce blocked; Roman accepted ('I have to' off-mic / 'I accept' into mic). Raw 5/25: CONTRACT SIGNED for Clash in Italy. Feudal stipulation: LOSER SERVES THE WINNER. Fatu: 'I will dog walk his ass.' Roman: 'I will domesticate Fatu.' Heads pressed together (hongi). Roman's birthday (41) on signing night. Sovereignty litigation formalized \u2014 not competition, but who rules whom."
-  },
-  {
-    "id": "americano-mask-vs-mask-noche",
-    "name": "El Grande Americano \u2014 Mask vs Mask at Noche de Los Grandes",
-    "type": "feud",
-    "opened_at": "raw-2026-05-18",
-    "opened_by_segment": "raw-2026-05-18-seg-10",
-    "carriers": [
-      "chad-gable",
-      "ludwig-kaiser",
-      "pete-dunne",
-      "tyler-bate",
-      "julius-creed",
-      "brutus-creed"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "noche-de-los-grandes-2026-05-30",
-    "notes": "Mask vs Mask \u2014 most sacred lucha stipulation. Gable vs Kaiser at Monterrey 5/30. WWE-aligned heels (Kaiser + Dunne/Bate as Rayo/Bravo masked) vs AAA-aligned tecnicos (Gable + Creeds as Hermanos). Trios tornado at Raw 5/18 = stage setup; Gable took the pin = max sympathy build. Lucha narrative grammar honored. Joe's secondary read flagged: AAA may be functioning as dose-ceiling laboratory."
-  },
-  {
-    "id": "oba-vs-brock-italy-rematch",
-    "name": "Oba Femi vs Brock Lesnar \u2014 rematch at Clash in Italy",
-    "type": "feud",
-    "opened_at": "raw-2026-05-18",
-    "opened_by_segment": "raw-2026-05-18-seg-14",
-    "carriers": [
-      "oba-femi",
-      "brock-lesnar",
-      "paul-heyman",
-      "adam-pearce"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "clash-italy-2026-05-31",
-    "notes": "Forging #3 in double-forging architecture (WM42 Brock loses \u2192 5/18 Brock attacks during entrance \u2192 Italy rematch). Raw 5/25: CONTRACT SIGNED (opening segment). Lesnar video package: 'will cost him more than he can imagine,' vows to 'rule over' Femi. Femi: 'This time he's fighting to kill him.' Sovereignty-register language from both. Brock kept off-site via video \u2014 institution investing in rematch without burning live appearance on go-home."
-  },
-  {
-    "id": "profits-tag-title-with-fracture",
-    "name": "Street Profits \u2014 champions-with-fracture-seed",
-    "type": "arc",
-    "opened_at": "raw-2026-05-18",
-    "opened_by_segment": "raw-2026-05-18-seg-18",
-    "carriers": [
-      "montez-ford",
-      "angelo-dawkins"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Champions-with-fracture-seed booking. SNME: Vision retained tags dirty (Ford's From The Heavens pin broken by Heyman foot-on-rope + Logan brass knuckles). Raw 5/25: Ford agreed to team with Seth only AFTER Theory chair-attacked Dawkins \u2014 the crisis that made partnership pragmatic. Ford wrestled Rollins first (lost to Stomp), then joined from competitive respect + external force. Fracture-seed = Ford's reluctance vs Dawkins' commitment to the Seth alliance. Championship reign as pressure-cooker."
-  },
-  {
-    "id": "seth-ragnarok-army",
-    "name": "Seth Rollins \u2014 Ragnarok army forming (Loki recruiting the rejected)",
-    "type": "arc",
-    "opened_at": "raw-2026-05-18",
-    "opened_by_segment": "raw-2026-05-18-seg-18",
-    "carriers": [
-      "seth-rollins",
-      "angelo-dawkins"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Bound-Loki recruiting the rejected ones (the babyface coalition exclusivity pattern's anti-pattern). Dawkins = first recruit (Hod-figure recruited through helpfulness). Seth's chest-smack = mistletoe gesture. Dawkins SPRINTED to ring for the save in main event post-match = seed germinated in same broadcast. Time between framework prediction and booking execution: <30 minutes. Raw 5/25: Ford agreed to team after competitive test (Stomp) + Dawkins chair-attacked by Theory \u2014 external violence broke the isolationism, not diplomacy. Three-member army: Seth + Dawkins (committed) + Ford (reluctant). Rollins demands Bron next."
-  },
-  {
-    "id": "dom-mysterio-dumuzi-substitute-arc",
-    "name": "Dom Mysterio \u2014 Dumuzi awaiting substitute-sacrifice",
-    "type": "arc",
-    "opened_at": "raw-2026-05-18",
-    "opened_by_segment": "raw-2026-05-18-seg-16",
-    "carriers": [
-      "dom-mysterio",
-      "liv-morgan"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Per Scroll 003 The Eight-Pointed Star: Dom = Dumuzi (the consort who didn't mourn during Inanna's descent). Inanna myth REQUIRES substitute payment from consort. Dom mythologically required to stay until Liv casts him out. Substitute-stripping already begun: Dom won IC at Survivor Series 2025 (Liv's return); Dom lost IC to B\u00e1lor's Demon at WM42 (day after Liv's coronation). Substitute-payment timeline delayed by JD-women title-loss at Raw 5/18; trigger event pending. Raw 5/25: Dom's AAA Championship interference BACKFIRED \u2014 distracted ref, Roxanne accidentally hit Dom with the belt, Bayley rolled up Perez. The consort's attempt to help caused the loss. Myth machinery operating."
-  },
-  {
-    "id": "theory-rampage-arc",
-    "name": "Austin Theory \u2014 operative rampage / suspension arc",
-    "type": "arc",
-    "opened_at": "raw-2026-05-25",
-    "opened_by_segment": "raw-2026-05-25-seg-03",
-    "carriers": [
-      "austin-theory",
-      "joe-hendry",
-      "angelo-dawkins",
-      "adam-pearce",
-      "paul-heyman"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Three steel-chair attacks in one show (Hendry backstage, Dawkins on stage x2). Misdirected rage after Logan Paul injury destabilized Theory's position. Suspended by Pearce. Heyman comforts not disciplines = architect protecting soldier from institution. Irony: Theory's rampage CREATED the Seth/Profits alliance Vision was trying to prevent. The expendable operative became a liability generating counter-coalitions."
-  },
-  {
-    "id": "theory-maxxine-angle",
-    "name": "Austin Theory / Maxxine Dupri \u2014 romantic angle",
-    "type": "arc",
-    "opened_at": "raw-2026-05-25",
-    "opened_by_segment": "raw-2026-05-25-seg-13",
-    "carriers": [
-      "austin-theory",
-      "maxxine-dupri",
-      "otis"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Seeded during Theory's suspension segment. Maxxine is Alpha Academy-adjacent \u2014 romantic pull toward non-Vision woman = classic defection setup. Otis as protective/jealous figure. Potential slow-burn Vision exit vector for Theory."
-  },
-  {
-    "id": "logan-paul-injury-vision-reshuffle",
-    "name": "Logan Paul injury \u2014 Vision reshuffle",
-    "type": "arc",
-    "opened_at": "raw-2026-05-25",
-    "opened_by_segment": "raw-2026-05-25-seg-02",
-    "carriers": [
-      "logan-paul",
-      "bron-breakker",
-      "austin-theory"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Logan Paul torn triceps \u2014 out for months. Bron Breakker named as Theory's new tag partner. Vision reshuffle: celebrity-class operative removed, monster-class elevated to permanent tag position. Faction becomes pure wrestling-operative unit."
-  },
-  {
-    "id": "rey-ic-contender-arc",
-    "name": "Rey Mysterio \u2014 IC #1 contender / legend's final title chase",
-    "type": "arc",
-    "opened_at": "raw-2026-05-25",
-    "opened_by_segment": "raw-2026-05-25-seg-06",
-    "carriers": [
-      "rey-mysterio",
-      "penta",
-      "dragon-lee",
-      "rusev",
-      "ethan-page"
-    ],
-    "register": "Constant",
-    "promised_payoff": "ppv-match",
-    "notes": "Rey requested IC title shot 'to cement his legacy.' Earned #1 contender by defeating Rusev (roll-up counter of Accolade). Dragon Lee as lucha-lineage ally (post-match save + 619 combo on Rusev + Page). AAA GM requesting WWE title shot = cross-institutional intersection. Future Penta vs Rey IC Championship match."
-  },
-  {
-    "id": "knight-kotr-whc-path",
-    "name": "LA Knight \u2014 King of the Ring / World Championship path",
-    "type": "arc",
-    "opened_at": "raw-2026-05-25",
-    "opened_by_segment": "raw-2026-05-25-seg-08",
-    "carriers": [
-      "la-knight",
-      "jimmy-uso",
-      "roman-reigns"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Knight announced KOTR entry targeting World Championship. Confronted Jimmy Uso \u2014 escalation from 'NOT NOW' deflection (5/18) to active confrontation. Knight positions OUTSIDE Bloodline family system entirely (not litigating within it like Jacob, but threatening to shut it down from outside). Two different sovereignty challenges to Roman: Jacob from inside the code, Knight from outside."
-  },
-  {
-    "id": "fenix-aaa-cruiserweight-reign",
-    "name": "Rey Fenix \u2014 AAA Cruiserweight reign (the prodigal's homecoming)",
-    "type": "arc",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-01",
-    "carriers": [
-      "rey-fenix",
-      "laredo-kid"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Fenix won the AAA Cruiserweight Title from Laredo Kid (Muscle Buster, ~11:51), ending a 500+ day reign. The prodigal luchador (AEW/WWE 2019-25, now WWE SmackDown) reclaims lucha gold on Mexican soil = the night's opening renaissance dose. WWE-contracted talent holding AAA gold but pointed toward homecoming, not absorption \u2014 the light pole opposite the War Raiders annexation."
-  },
-  {
-    "id": "vikingo-latin-american-reign",
-    "name": "El Hijo del Vikingo \u2014 Latin American reign (the assisted ascent)",
-    "type": "arc",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-03",
-    "carriers": [
-      "hijo-del-vikingo",
-      "hijo-de-dr-wagner-jr",
-      "omos",
-      "dorian-roldan"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "Vikingo won the AAA Latin American Title from Hijo de Dr. Wagner Jr. (630 splash, ~7:18) \u2014 but NOT clean: Omos + Dorian Roldan aided him (Galeno del Mal ran in for Wagner; Mini Vikingo interfered against Vikingo and backfired). The feathered serpent ascends shadow-tinted. Watch the Omos + Dorian Roldan helping bloc for an alliance reveal / faction-collecting."
-  },
-  {
-    "id": "omos-wwe-muscle-into-aaa",
-    "name": "Omos \u2014 WWE muscle inserting into AAA finishes (absorption-vector)",
-    "type": "arc",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-03",
-    "carriers": [
-      "omos",
-      "hijo-del-vikingo",
-      "dorian-roldan"
-    ],
-    "register": "Shadow",
-    "promised_payoff": "undefined",
-    "notes": "Omos (WWE-contracted giant) interfered to swing the Latin American title finish to Vikingo = WWE-muscle absorption operating inside an AAA title match, same register as the War Raiders. The internal-collaboration vector of the absorption-shadow (alongside the external-invasion vector). Whose faction Omos serves = open."
-  },
-  {
-    "id": "war-raiders-aaa-tag-reign",
-    "name": "War Raiders \u2014 AAA World Tag reign (the annexation) + 6/6 reclamation watch",
-    "type": "arc",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-04",
-    "carriers": [
-      "war-raiders",
-      "psycho-clown",
-      "pagano"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "noche-de-los-grandes-2026-06-06",
-    "notes": "War Raiders (Einherjar/Norse berserkers, WWE-contracted) won the AAA World Tag Titles on Mexican soil \u2014 the external-invasion vector of the absorption-shadow, won through Pagano's internal betrayal. Open question for 6/6 (Noche night 2): permanent annexation (true absorption) or week-1 cliffhanger reversed (home-soil reclamation = the antidote a week later)."
-  },
-  {
-    "id": "pagano-heel-turn-psycho-circus-revenge",
-    "name": "Pagano heel turn \u2014 Psycho Circus mystery-attacker payoff + revenge arc",
-    "type": "feud",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-04",
-    "carriers": [
-      "pagano",
-      "psycho-clown"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "ppv-match",
-    "promised_payoff_show": "noche-de-los-grandes-2026-06-06",
-    "notes": "After losing the tag titles to War Raiders, Pagano turned on Psycho Clown and walked out on him to the beatdown. Pays off the built storyline (mystery backstage attacker hospitalizing Psycho Circus members; Psycho suspecting Pagano) \u2014 Pagano = the mastermind. Pagano = Xipe-Totec (the flayer) visiting the flaying on his abandoned partner. Psycho's revenge arc opens -> 6/6. (Joe's live 'face without skin' read squares with PWDotNet's second-mask detail; single-source, held loosely.)"
-  },
-  {
-    "id": "gable-back-in-aaa-tease",
-    "name": "Chad Gable \u2014 'I'll be back in AAA' (the shadow's open door)",
-    "type": "arc",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-06",
-    "carriers": [
-      "chad-gable",
-      "ludwig-kaiser"
-    ],
-    "register": "Pantheon",
-    "promised_payoff": "undefined",
-    "notes": "In his unmask promo Gable said 'I don't know when, and I don't know how, but Chad Gable will be back in AAA.' The foreign-shadow's door left open \u2014 the appropriator-menace becomes a future return/ally, received by the crowd he mocked ('Thank you Gable'). The foreign-shadow inversion verbalized by the vessel himself (Scroll 007)."
-  },
-  {
-    "id": "gable-shorty-g-return",
-    "name": "Chad Gable \u2014 unmasked, 'Shorty G' return + face-rub (WWE side)",
-    "type": "arc",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-06",
-    "carriers": [
-      "chad-gable"
-    ],
-    "register": "Demihero",
-    "promised_payoff": "undefined",
-    "notes": "Gable lost the mask and reclaimed his real name in the ring with his family present; the honorable loss + 'Thank you Gable' chant rubs him toward a face turn. WWE-side watch: expected return to 'Shorty G.' / Chad Gable proper now that the El Grande Americano gimmick is spent on his side."
-  },
-  {
-    "id": "aaa-youth-prospect-lineage",
-    "name": "AAA youth-prospect vignette \u2014 succession seed (UNVERIFIED)",
-    "type": "arc",
-    "opened_at": "noche-de-los-grandes-2026-05-30",
-    "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-02",
-    "carriers": [
-      "rey-mysterio"
-    ],
-    "register": "Constant",
-    "promised_payoff": "undefined",
-    "notes": "Joe logged a live youth-prospect spotlight package (read as Rey-Mysterio-early-days). UNVERIFIED in print \u2014 no outlet names it; Rey's Night-1 role was commentary/acting GM only (no solo segment). Possible succession seed on the renaissance card IF real; resolvable only via the broadcast VOD. Do NOT canonize the Rey-anoints-successor read until confirmed."
-  },
-  {
-    "id": "saints-vs-hayes-feud",
-    "name": "Ricky Saints vs Carmelo Hayes -- feud",
-    "type": "feud",
-    "opened_at": "smackdown-2026-05-22",
-    "opened_by_segment": "smackdown-2026-05-22-seg-05",
-    "carriers": [
-      "ricky-saints",
-      "carmelo-hayes"
-    ],
-    "register": "meta-trickster chaos-agent vs dirty-mirror",
-    "promised_payoff": "undefined",
-    "notes": "Saints cost Hayes the US Title match (5/22 interference) -> Hayes attacked Saints. 5/29: double count-out, Hayes First 48 to stand tall. The US-title-lane chaos feud running under Trick's reign."
-  },
-  {
-    "id": "blake-monroe-debut-arc",
-    "name": "Blake Monroe -- SmackDown debut, eyeing Rhea",
-    "type": "arc",
-    "opened_at": "smackdown-2026-05-29",
-    "opened_by_segment": "smackdown-2026-05-29-seg-07",
-    "carriers": [
-      "blake-monroe"
-    ],
-    "register": "challenger-stacking / future-gold seed",
-    "promised_payoff": "undefined",
-    "notes": "Vignette announcing her arrival, setting sights on Rhea Ripley. The next challenger planted under the current Jade program -- the division stacked rather than cycled."
-  }
+ {
+  "id": "roman-vs-fatu-whc",
+  "name": "Roman Reigns vs Jacob Fatu (WHC)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-25",
+  "carriers": [
+   "roman-reigns",
+   "jacob-fatu"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "backlash-2026-05-09",
+  "notes": "Aitu vs Patriarch — worldview clash, not faction war. Fatu declared for Raw on SD 4/25; physical arrival Raw 4/27."
+ },
+ {
+  "id": "bron-vs-seth-2026",
+  "name": "Bron Breakker vs Seth Rollins (2026 arc)",
+  "type": "feud",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "bron-breakker",
+   "seth-rollins"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "backlash-2026-05-09",
+  "notes": "Bound-Loki founding the next devourer. WM42 was unearned; Backlash is the on-the-level handoff."
+ },
+ {
+  "id": "cody-vs-gunther-2026",
+  "name": "Cody Rhodes vs Gunther (2026)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-05-01",
+  "opened_by_segment": "smackdown-2026-05-01-seg-12",
+  "carriers": [
+   "cody-rhodes",
+   "gunther"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "clash-italy-2026-05-31",
+  "notes": "Sleeper attack post-Cody/Saints SD 5/01 opened. Heyman segment SD 5/08 escalated — 4 sleeper attempts, Gunther embarrassed on go-home. Match did NOT happen at Backlash; rescheduled to Clash in Italy 5/31 Turin (Riyadh Season-sponsored). SD 5/15: Cody set up contract himself (one-man-crew); Keys interrupted; Aldis booked Keys vs Gunther as #1 contender match. Gunther beat Keys; Cody Cross-Rhodes on Gunther post-match."
+ },
+ {
+  "id": "asuka-vs-iyo-backlash",
+  "name": "Asuka vs IYO Sky (Backlash)",
+  "type": "feud",
+  "opened_at": "raw-2026-04-27",
+  "opened_by_segment": "raw-2026-04-27-seg-10",
+  "carriers": [
+   "asuka",
+   "iyo-sky"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "backlash-2026-05-09",
+  "notes": "Senpai/kohai bond severance. Bombthrower-coded after S12 mist Raw 5/04."
+ },
+ {
+  "id": "trick-vs-sami-backlash",
+  "name": "Trick Williams vs Sami Zayn (Backlash)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-08",
+  "carriers": [
+   "trick-williams",
+   "sami-zayn",
+   "lil-yachty"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "backlash-2026-05-09",
+  "notes": "Sami descent → gingerbread ambush → funeral → blindside. Successor vs predecessor."
+ },
+ {
+  "id": "danhausen-vs-miz-wilson",
+  "name": "Danhausen + mystery partner vs Miz & Kit Wilson (Backlash)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-11",
+  "carriers": [
+   "danhausen",
+   "the-miz",
+   "kit-wilson"
+  ],
+  "register": "Constant",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "backlash-2026-05-09",
+  "notes": "Sacred Clown vs Hollywood-heel pipeline. Mystery partner reveal at Backlash; CM Punk -200 odds."
+ },
+ {
+  "id": "tongan-death-grip-taboo",
+  "name": "Tongan Death Grip code-violation taboo",
+  "type": "meta",
+  "opened_at": "raw-2026-04-27",
+  "opened_by_segment": "raw-2026-04-27-seg-12",
+  "carriers": [
+   "jacob-fatu",
+   "roman-reigns",
+   "jimmy-uso",
+   "jey-uso"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Sacred-family-move violation. First applied Raw 4/27 closer. Consecrated on-air Raw 5/04 (S15) then re-violated."
+ },
+ {
+  "id": "bloodline-civil-war",
+  "name": "Bloodline civil war (MFTs vs Usos vs Reigns)",
+  "type": "faction",
+  "opened_at": "summerslam-2025",
+  "carriers": [
+   "roman-reigns",
+   "jacob-fatu",
+   "solo-sikoa",
+   "jimmy-uso",
+   "jey-uso",
+   "tama-tonga",
+   "talla-tonga"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Multi-vector household fracture. Three factions claim variations of the name."
+ },
+ {
+  "id": "mfts-collapse",
+  "name": "MFTs faction collapse + remnant restructure",
+  "type": "faction",
+  "opened_at": "smackdown-2026-04-25",
+  "carriers": [
+   "solo-sikoa",
+   "tama-tonga",
+   "talla-tonga",
+   "jacob-fatu"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Tama coup → Fatu superkick → Fatu beats Solo clean. SD 5/08: Solo demoted to manager-architect; remnant hierarchy functions."
+ },
+ {
+  "id": "vision-faction",
+  "name": "The Vision (Logan / Theory / Bron / Heyman)",
+  "type": "faction",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "logan-paul",
+   "austin-theory",
+   "bron-breakker",
+   "paul-heyman"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Operative class. Heyman + Bron the leash question; Logan + Theory the payoff line. SD 5/08 reframed — Heyman not Vision-locked. SNME: retained tags dirty (brass knux + Heyman foot-on-rope). Raw 5/25: Logan Paul torn triceps — OUT for months. Bron replaces Logan as Theory's tag partner. Faction becomes pure wrestling-operative unit. Theory rampage (3 chair attacks: Hendry + Dawkins x2) led to SUSPENSION by Pearce. Theory/Maxxine Dupri romantic angle seeded = potential exit vector. Heyman comforts not disciplines."
+ },
+ {
+  "id": "jd-coven",
+  "name": "Judgment Day women's coven",
+  "type": "faction",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "liv-morgan",
+   "roxanne-perez",
+   "raquel-rodriguez"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Liv as queen, Roxanne as apprentice, Raquel as enforcer. Operating with McDonagh + Dom on the men's side."
+ },
+ {
+  "id": "fatal-influence-arc",
+  "name": "Fatal Influence (Jacy + Fallon + Lainey) main-roster arc",
+  "type": "faction",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-06",
+  "carriers": [
+   "jacy-jayne",
+   "fallon-henley",
+   "lainey-reid"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "NXT call-ups debut SD 4/25 (2 DQs); SD 5/01 first dirty win (Jacy over Charlotte); SD 5/08 main-event win via Jade interference."
+ },
+ {
+  "id": "irresistible-forces-arc",
+  "name": "Irresistible Forces (Nia + Lash) post-WM42 chase",
+  "type": "faction",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "nia-jax",
+   "lash-legend"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Lost titles WM42 + rematch SD 5/01. Returned SD 5/08 to challenge Paige + Brie; Rhea cut their exit."
+ },
+ {
+  "id": "jade-faction-debut",
+  "name": "Jade + Michin + B-Fab faction debut (unnamed)",
+  "type": "faction",
+  "opened_at": "smackdown-2026-05-08",
+  "opened_by_segment": "smackdown-2026-05-08-seg-14",
+  "carriers": [
+   "jade-cargill",
+   "michin",
+   "b-fab"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Formal naming deferred. Jade approached Alexa post-debut — recruitment or warning open."
+ },
+ {
+  "id": "hendry-orphic-bard",
+  "name": "Joe Hendry — Orphic Bard ascent",
+  "type": "arc",
+  "opened_at": "raw-2026-04-13",
+  "carriers": [
+   "joe-hendry"
+  ],
+  "register": "Liminal-Warrior",
+  "promised_payoff": "undefined",
+  "notes": "Concert mechanic. 4/27 Laredo (75% singalong, border crowd) → 5/04 Omaha (full singalong, mat-credibility crowd)."
+ },
+ {
+  "id": "oba-ascension-streak",
+  "name": "Oba Femi — Ascending Orisha (credential streak)",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n2-2026-04-19",
+  "carriers": [
+   "oba-femi"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Streak isn't wins — it's a stack of impossible feats. WM42 (Lesnar/Surtr), Raw 4/27 (Waller squash + open challenge), Raw 5/04 (Otis-mass powerbomb)."
+ },
+ {
+  "id": "rollins-lone-wolf-arc",
+  "name": "Seth Rollins — Bound-Loki isolation-to-coalition arc",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "seth-rollins",
+   "montez-ford",
+   "angelo-dawkins"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "WM42-Backlash: must lose to Bron alone. Post-Backlash: three consecutive rejections (Profits 5/11, Usos→Knight 5/18, Knight→Seth 5/18). Raw 5/18: admitted isolation, Dawkins first recruit. Raw 5/25: isolation BROKE — Ford agreed to team after competitive test (Stomp) + Theory chair-attacking Dawkins. Breaking condition identified: requires BOTH competitive respect AND shared enemy action. Now see seth-ragnarok-army for active coalition thread."
+ },
+ {
+  "id": "balor-fomorian-exile",
+  "name": "Finn Bálor — Fomorian-Exile / Club House",
+  "type": "arc",
+  "opened_at": "raw-2026-04-06",
+  "carriers": [
+   "finn-balor"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Ejected from JD; hosting 'Club House'. Two losses to McDonagh in two weeks (won 4/27 dossier loss, lost 5/04 dirty)."
+ },
+ {
+  "id": "becky-nemesis-arc",
+  "name": "Becky Lynch — Nemesis (post-WM42 victory tour)",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "becky-lynch"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Controlled IYO sequence Raw 4/27. Made mortal Raw 5/04 (Sol Ruca Sol Snatcher)."
+ },
+ {
+  "id": "asuka-onryo-register",
+  "name": "Asuka — Onryō register expansion (post-WM42)",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n2-2026-04-19",
+  "carriers": [
+   "asuka"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Three-layer stack: Yamauba authority + Hannya wound + Onryō weapon. Expanded Raw 5/04 with senpai-authority + 'wakatta?'."
+ },
+ {
+  "id": "sol-ruca-vs-becky-program",
+  "name": "Sol Ruca vs Becky Lynch — Women's IC at Clash in Italy",
+  "type": "feud",
+  "opened_at": "raw-2026-05-04",
+  "opened_by_segment": "raw-2026-05-04-seg-05",
+  "carriers": [
+   "sol-ruca",
+   "becky-lynch"
+  ],
+  "register": "Liminal-Warrior",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "clash-italy-2026-05-31",
+  "notes": "Compressed elevation — debutante landing in Women's IC champ's program. SNME: Sol beat Becky by DQ (Becky pulled ref into Snatcher). Institution closed the escape hatch — Aldis booked title match at Clash in Italy. Raw 5/25: Becky interview ('stone vs sand' frame war). Becky's only play left is verbal — institution already granted the match Sol demanded."
+ },
+ {
+  "id": "lyra-vs-jd",
+  "name": "Lyra + Bayley vs JD coven",
+  "type": "feud",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "lyra-valkyria",
+   "bayley",
+   "liv-morgan",
+   "roxanne-perez"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Morrigan-bifurcation answer to JD coven."
+ },
+ {
+  "id": "multi-front-war",
+  "name": "Multi-front war — heel factions vs babyface federation",
+  "type": "meta",
+  "opened_at": "raw-2026-05-04",
+  "opened_by_segment": "raw-2026-05-04-seg-09",
+  "carriers": [
+   "seth-rollins",
+   "joe-hendry",
+   "montez-ford",
+   "angelo-dawkins",
+   "bayley",
+   "lyra-valkyria",
+   "bron-breakker",
+   "logan-paul",
+   "austin-theory",
+   "jd-mcdonagh",
+   "dom-mysterio"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Heels organize as factions, babyfaces as federation."
+ },
+ {
+  "id": "kabuki-warriors-lineage",
+  "name": "Kabuki Warriors lineage (post-Sane release)",
+  "type": "meta",
+  "opened_at": "raw-2025-09-01",
+  "carriers": [
+   "asuka",
+   "iyo-sky"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Sane released 4/24/26. Asuka claimed whole register Raw 5/04 S12; IYO expelled."
+ },
+ {
+  "id": "roxanne-loyalty-test",
+  "name": "Roxanne Perez loyalty test",
+  "type": "arc",
+  "opened_at": "raw-2026-04-27",
+  "opened_by_segment": "raw-2026-04-27-seg-11",
+  "carriers": [
+   "liv-morgan",
+   "roxanne-perez",
+   "finn-balor"
+  ],
+  "register": "Constant",
+  "promised_payoff": "next-week",
+  "notes": "Closed Raw 5/04 S3 — Roxanne picked the queen via hammer on Bálor."
+ },
+ {
+  "id": "street-profits-hendry-alliance",
+  "name": "Street Profits + Hendry babyface coalition",
+  "type": "faction",
+  "opened_at": "raw-2026-04-27",
+  "opened_by_segment": "raw-2026-04-27-seg-07",
+  "carriers": [
+   "joe-hendry",
+   "montez-ford",
+   "angelo-dawkins"
+  ],
+  "register": "Liminal-Warrior",
+  "promised_payoff": "undefined",
+  "notes": "First save Raw 4/27 (Vision beatdown rescue); reinforced Raw 5/04 (run-in for Hendry vs Theory)."
+ },
+ {
+  "id": "lyra-bayley-paired-answer",
+  "name": "Lyra + Bayley paired answer to JD coven",
+  "type": "faction",
+  "opened_at": "raw-2026-05-04",
+  "opened_by_segment": "raw-2026-05-04-seg-09",
+  "carriers": [
+   "lyra-valkyria",
+   "bayley"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Morrigan-bifurcation. Ripley pointedly absent."
+ },
+ {
+  "id": "diamond-mine-reunion",
+  "name": "Diamond Mine reunion — Creeds via Los Americanos Hermanos",
+  "type": "faction",
+  "opened_at": "raw-2026-05-04",
+  "opened_by_segment": "raw-2026-05-04-seg-13",
+  "carriers": [
+   "chad-gable",
+   "julius-creed",
+   "brutus-creed"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "page-contender-candidacy",
+  "name": "Ethan Page contender candidacy (IC track)",
+  "type": "arc",
+  "opened_at": "raw-2026-05-04",
+  "opened_by_segment": "raw-2026-05-04-seg-14",
+  "carriers": [
+   "ethan-page",
+   "rusev"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "el-grande-americano-mask-feud",
+  "name": "OG El Grande Americano vs Kaiser-imposter (mask feud)",
+  "type": "feud",
+  "opened_at": "raw-2026-04-27",
+  "opened_by_segment": "raw-2026-04-27-seg-08",
+  "carriers": [
+   "chad-gable",
+   "ludwig-kaiser",
+   "rey-mysterio"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "AAA crossover. Lucha tradition's inclusivity correcting the system that excluded it."
+ },
+ {
+  "id": "vaquer-injury-writeoff",
+  "name": "Stephanie Vaquer JD ambush + write-off",
+  "type": "arc",
+  "opened_at": "raw-2026-04-27",
+  "opened_by_segment": "raw-2026-04-27-seg-03",
+  "carriers": [
+   "stephanie-vaquer",
+   "raquel-rodriguez",
+   "liv-morgan"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Legit AC sprain; written off indefinitely. JD coven enforcement."
+ },
+ {
+  "id": "becky-vs-iyo-precursor",
+  "name": "Becky vs IYO precursor (pre-Asuka split)",
+  "type": "feud",
+  "opened_at": "raw-2026-04-27",
+  "opened_by_segment": "raw-2026-04-27-seg-06",
+  "carriers": [
+   "becky-lynch",
+   "iyo-sky",
+   "asuka"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Becky controlled the sequence; Asuka interference robbed IYO. Set up IYO/Asuka Backlash."
+ },
+ {
+  "id": "kiana-giulia-pipeline",
+  "name": "Kiana James / Giulia ally-to-challenger pipeline",
+  "type": "arc",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-03",
+  "carriers": [
+   "kiana-james",
+   "giulia"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Predicted 2-month turn. Mistimed assist SD 5/08 cost Kiana the title — accelerated."
+ },
+ {
+  "id": "tiffany-women-us-reign",
+  "name": "Tiffany Stratton — Women's US Title reign",
+  "type": "prop",
+  "opened_at": "smackdown-2026-04-25",
+  "carriers": [
+   "tiffany-stratton"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Defended vs Giulia 4/25; vs Kiana 5/08."
+ },
+ {
+  "id": "cody-third-reign",
+  "name": "Cody Rhodes 3rd Undisputed reign",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "cody-rhodes"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "9 weeks at Backlash. Orbital fracture from Orton WM42 punt — 'wound is the credential'."
+ },
+ {
+  "id": "trick-us-title-reign",
+  "name": "Trick Williams — US Title reign",
+  "type": "prop",
+  "opened_at": "wrestlemania-42-n2-2026-04-19",
+  "carriers": [
+   "trick-williams"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Won from Sami at WM42 — predecessor descent triggered."
+ },
+ {
+  "id": "inanna-paige-return",
+  "name": "Inanna's return — Paige post-descent",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "paige",
+   "brie-bella"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Paige descended through 7 gates (injury, leak, substance, narrative, retirement, exile, name) and returned. Bella twins as gatekeepers."
+ },
+ {
+  "id": "womens-tag-reign-paige-brie",
+  "name": "Women's Tag Title reign — Paige + Brie Bella",
+  "type": "prop",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "paige",
+   "brie-bella"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Won Night 1 WM42; defended SD 4/25 (DQ via Fatal Influence) + SD 5/01 (vs Nia/Lash)."
+ },
+ {
+  "id": "charlotte-alexa-partnership",
+  "name": "Charlotte + Alexa partnership / fragility",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "charlotte-flair",
+   "alexa-bliss"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Zero-gimmick transparency operating. Tested by 3-way w/ Rhea SD 5/01 + green-room friction SD 5/08."
+ },
+ {
+  "id": "anubis-thoth-judgment",
+  "name": "Hall of Two Truths — Priest + R-Truth judgment apparatus",
+  "type": "faction",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-07",
+  "carriers": [
+   "damian-priest",
+   "r-truth"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Anubis (verdict) + Thoth (witness/recorder). Tested SD 5/08 — weld stress-mark; Royce Keys joins as third body."
+ },
+ {
+  "id": "danhausen-sacred-clown-arc",
+  "name": "Danhausen — Sacred Clown / Heyoka arc",
+  "type": "arc",
+  "opened_at": "smackdown-2026-04-25",
+  "carriers": [
+   "danhausen"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Comedy as the dose. Undertaker sit-up callback 4/25; trap-refusal 5/01; chemistry-lab partner-summon 5/08."
+ },
+ {
+  "id": "sami-descent-arc",
+  "name": "Sami Zayn — predecessor descent",
+  "type": "arc",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-08",
+  "carriers": [
+   "sami-zayn"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "backlash-2026-05-09",
+  "notes": "Gingerbread costume ambush 4/25 → Cody exile 5/01 → wake/funeral/blindside 5/08. Paranoid spiral coded."
+ },
+ {
+  "id": "tama-tonga-restless",
+  "name": "Tama Tonga — restless within MFTs",
+  "type": "arc",
+  "opened_at": "smackdown-2026-04-25",
+  "carriers": [
+   "tama-tonga",
+   "shinsuke-nakamura"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Mic-grab from Solo 4/25 → Fatu superkick 4/25 → Nakamura disappointment confrontation 5/08."
+ },
+ {
+  "id": "royce-keys-liminal-warrior-arc",
+  "name": "Royce Keys — Liminal Warrior / Guardian-Who-Carries-the-Dead",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n2-2026-04-19",
+  "carriers": [
+   "royce-keys"
+  ],
+  "register": "Liminal-Warrior",
+  "promised_payoff": "undefined",
+  "notes": "Andre BR winner. Pre-fame Honda Civic / APW history with Fatu. Refused Solo MFT recruitment 5/08; chose face-side."
+ },
+ {
+  "id": "ricky-saints-debut-arc",
+  "name": "Ricky Saints — main-roster debut arc",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-01",
+  "opened_by_segment": "smackdown-2026-05-01-seg-02",
+  "carriers": [
+   "ricky-saints"
+  ],
+  "register": "Liminal-Warrior",
+  "promised_payoff": "undefined",
+  "notes": "Debut night main event vs Cody. Won SD 5/08 over Cardona."
+ },
+ {
+  "id": "matt-cardona-exile-returned-arc",
+  "name": "Matt Cardona — Exile-Returned",
+  "type": "arc",
+  "opened_at": "royal-rumble-2026",
+  "carriers": [
+   "matt-cardona"
+  ],
+  "register": "Shadow",
+  "promised_payoff": "undefined",
+  "notes": "Internet Championship lineage. Returned under indie name Jan 2026. Loss to Saints 5/08 — receipts not closed."
+ },
+ {
+  "id": "charlotte-hera-arc",
+  "name": "Charlotte Flair — Hera record-track",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "charlotte-flair"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Institutional sovereignty. Joe locked structural prediction: record-breaking title win must be against Rhea (Macha)."
+ },
+ {
+  "id": "alexa-twice-possessed-arc",
+  "name": "Alexa Bliss — Twice-Possessed / Sister Abigail latency",
+  "type": "arc",
+  "opened_at": "wrestlemania-42-n1-2026-04-18",
+  "carriers": [
+   "alexa-bliss"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Joe's conviction: Alexa must be Sister Abigail. Wyatt Sicks released 4/24 — vacancy open. Jade approach 5/08."
+ },
+ {
+  "id": "jade-vs-rhea-rematch",
+  "name": "Jade Cargill (Oya) vs Rhea Ripley (Macha) — rematch claim",
+  "type": "feud",
+  "opened_at": "wrestlemania-42-n2-2026-04-19",
+  "carriers": [
+   "jade-cargill",
+   "rhea-ripley"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Oya's claim on Macha's crown. Jade interference SD 5/08 specifically prevented Rhea standing tall."
+ },
+ {
+  "id": "lash-vs-rhea-future",
+  "name": "Lash Legend vs Rhea Ripley (future-gold flag)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-05-08",
+  "opened_by_segment": "smackdown-2026-05-08-seg-12",
+  "carriers": [
+   "lash-legend",
+   "rhea-ripley"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Mid-ramp staredown post-Paige/Brie attack. Joe's call: locked future program."
+ },
+ {
+  "id": "trick-grail-cup-arc",
+  "name": "Trick Williams — Grail Cup ritual",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-08",
+  "opened_by_segment": "smackdown-2026-05-08-seg-18",
+  "carriers": [
+   "trick-williams"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Tiny grail + libation over gingerbread casket. Archetype pending — hold open."
+ },
+ {
+  "id": "chelsea-cardona-intergender-watch",
+  "name": "Chelsea Green / Cardona inter-gender watch",
+  "type": "meta",
+  "opened_at": "smackdown-2026-05-08",
+  "opened_by_segment": "smackdown-2026-05-08-seg-02",
+  "carriers": [
+   "chelsea-green",
+   "matt-cardona"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "First married couple to simultaneously hold men's+women's US titles. Possible Parejas-Increíbles-style anchor."
+ },
+ {
+  "id": "heyman-the-constant-arc",
+  "name": "Paul Heyman — The Constant / Wise Man",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-08",
+  "opened_by_segment": "smackdown-2026-05-08-seg-08",
+  "carriers": [
+   "paul-heyman"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Scroll 007 archetype: Nestor + Norse Wanderer. New tier: The Constant. Repaying favor to Gunther + fan of Cody."
+ },
+ {
+  "id": "gingerbread-shadow-real",
+  "name": "Gingerbread Man — autonomous shadow / kayfabe-real",
+  "type": "meta",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-08",
+  "carriers": [
+   "sami-zayn",
+   "lil-yachty",
+   "trick-williams"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Sami's shadow given full institutional canonization SD 5/08 (career retrospective + funeral + Yachty inside casket emergence)."
+ },
+ {
+  "id": "nakamura-disappointment-thread",
+  "name": "Nakamura disappointment-as-destabilizer",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-08",
+  "opened_by_segment": "smackdown-2026-05-08-seg-17",
+  "carriers": [
+   "shinsuke-nakamura",
+   "tama-tonga",
+   "talla-tonga"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Disappointment requires prior expectation. Talla as the hold."
+ },
+ {
+  "id": "fatu-physical-arrival-raw",
+  "name": "Fatu's Raw arrival arc",
+  "type": "arc",
+  "opened_at": "smackdown-2026-04-25",
+  "opened_by_segment": "smackdown-2026-04-25-seg-13",
+  "carriers": [
+   "jacob-fatu"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Declared for Raw SD 4/25; physical arrival Raw 4/27 closer. Owns power-position openers across both brands consecutive weeks."
+ },
+ {
+  "id": "punk-vs-cody-summerslam-build",
+  "name": "CM Punk vs Cody Rhodes — SummerSlam Build",
+  "type": "feud",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "cm-punk",
+   "cody-rhodes"
+  ],
+  "register": "Constant",
+  "notes": "On-screen seed planted this episode: Punk's 'opportunity falling from the sky' promo + Cody's 'just say when' acceptance. No catalog thread exists for this feud at this date. SummerSlam is the stated destination.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "rusev-ic-title-chase",
+  "name": "Rusev — IC Title Chase",
+  "type": "arc",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "rusev",
+   "penta"
+  ],
+  "register": "Constant",
+  "notes": "Rusev interfered in the Evans/Page match, applied the Accolade to Penta, and draped the IC Championship over his own shoulder — a declaration of intent. Three-body IC picture (Penta/Rusev/Page) opened this episode. No existing catalog thread covers this.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "evans-vs-page-main-roster",
+  "name": "Javon Evans vs Ethan Page — Main Roster Continuation",
+  "type": "feud",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "jevon-evans",
+   "ethan-page"
+  ],
+  "register": "Constant",
+  "notes": "NXT rivalry carried to the main roster with their debut match tonight. Log frames this as continuity-across-tiers; no catalog thread exists for this feud at the main-roster level.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "sol-vs-zaria-main-roster",
+  "name": "Sol Ruca vs Zaria — Main Roster NXT Continuation",
+  "type": "feud",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "sol-ruca",
+   "zaria"
+  ],
+  "register": "Constant",
+  "notes": "Zaria interfered in Sol Ruca's main-roster debut title match, bringing their NXT feud (ZaRuca breakup, Stand & Deliver) to Raw. Log explicitly notes this as a feud-with-memory crossing brand lines. No catalog thread covers this at the main-roster level.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "rhea-vs-liv-womens-world-build",
+  "name": "Rhea Ripley vs Liv Morgan — Women's World Championship Build",
+  "type": "arc",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "rhea-ripley",
+   "liv-morgan"
+  ],
+  "register": "Constant",
+  "notes": "Rhea's backstage 'I'll be looking forward to it' directly to Liv after cleanly separating from IYO establishes Rhea's next title-chase target as the Women's World Championship. Distinct from jade-vs-rhea-rematch which tracks Rhea vs. Jade.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "roman-vs-fatu-backlash",
+  "name": "Roman Reigns vs Jacob Fatu — WWE Championship at Backlash",
+  "type": "feud",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "roman-reigns",
+   "jacob-fatu"
+  ],
+  "register": "Constant",
+  "notes": "Match formally called out in the main-event segment: Fatu challenged Roman for the WWE Championship at Backlash, Roman responded with the 'can you handle the burden' test and gave him a week. No catalog thread exists for this match.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "knight-vs-gunther-whc-build",
+  "name": "LA Knight vs Gunther — World Heavyweight Championship Build",
+  "type": "arc",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "la-knight",
+   "gunther"
+  ],
+  "register": "Constant",
+  "notes": "Backstage setup segment positions Knight as a contender against WHC Gunther. No existing catalog thread covers this matchup.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "vaquer-vs-liv-rematch-build",
+  "name": "Stephanie Vaquer vs Liv Morgan — Women's World Championship Rematch Build",
+  "type": "arc",
+  "opened_at": "raw-2026-04-20",
+  "carriers": [
+   "stephanie-vaquer",
+   "liv-morgan"
+  ],
+  "register": "Constant",
+  "notes": "Vaquer returned immediately after Liv's successful title defense and stood face-to-face with her, signaling the WM42 feud continues. Log identifies this as the A-story for the Women's World title. No catalog thread covers the post-WM42 rematch build.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "waller-new-day-adoption",
+  "name": "Greyson Waller — Trickster Adoption into New Day",
+  "type": "arc",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "greyson-waller"
+  ],
+  "register": "Constant",
+  "notes": "Waller using New Day music and associating with Kofi Kingston without formal membership — trickster-who-wants-to-belong narrative with WM42 payoff projected. No existing catalog thread covers this.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "stratton-vs-giulia-womens-us",
+  "name": "Stratton vs Giulia — Women's US Championship",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "tiffany-stratton",
+   "giulia",
+   "kiana-james"
+  ],
+  "register": "Constant",
+  "notes": "Post-match staredown between Stratton and Giulia/Kiana James after Stratton wins the contenders match signals a new Women's US Title program. Not in existing catalog.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "trick-vs-sami-us-title-wm42",
+  "name": "Trick Williams vs Sami Zayn — US Title WM42",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "trick-williams",
+   "sami-zayn"
+  ],
+  "register": "Constant",
+  "notes": "Go-home brawl with Trick standing tall, clear WM42 US Title match build. No existing catalog thread covers this feud.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "rhea-vs-jade-wm42",
+  "name": "Rhea Ripley vs Jade Cargill — WM42",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "rhea-ripley",
+   "jade-cargill"
+  ],
+  "register": "Constant",
+  "notes": "3-on-1 match on go-home show is the final build for a WM42 singles match between Ripley and Cargill. Not in existing catalog.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "lesnar-vs-oba-femi-wm42",
+  "name": "Brock Lesnar vs Oba Femi — WM42",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "brock-lesnar",
+   "oba-femi"
+  ],
+  "register": "Constant",
+  "notes": "Titan-framing promo package for Lesnar on go-home show implies WM42 match with Oba Femi. No existing catalog thread.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "royce-keys-elevation",
+  "name": "Royce Keys — André Trophy Elevation Arc",
+  "type": "arc",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "royce-keys"
+  ],
+  "register": "Constant",
+  "notes": "André the Giant Memorial Battle Royal win on WM42 go-home show is the 'call to adventure' beat for Keys. Post-Mania booking will define the arc. New character, new thread.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "fatu-vs-drew-unsanctioned-wm42",
+  "name": "Jacob Fatu vs Drew McIntyre — Unsanctioned WM42",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "jacob-fatu",
+   "drew-mcintyre"
+  ],
+  "register": "Constant",
+  "notes": "Fatu's cold-open promo directly addresses Drew and the unsanctioned match build. No existing catalog thread isolated to this feud; the bloodline-civil-war thread was advanced but the Drew-specific build deserves its own thread.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "bella-twins-wm42-tag-title",
+  "name": "Bella Twins vs Irresistible Forces — WM42 Women's Tag Title",
+  "type": "feud",
+  "opened_at": "smackdown-2026-04-17",
+  "carriers": [
+   "brie-bella",
+   "nia-jax",
+   "lash-legend",
+   "bayley",
+   "lyra-valkyria"
+  ],
+  "register": "Constant",
+  "notes": "Two separate segments (promo and match) build the WM42 Women's Tag Title picture involving Bella Twins, Irresistible Forces, Bayley, and Valkyria. No existing catalog thread.",
+  "promised_payoff": "undefined"
+ },
+ {
+  "id": "bloodline-triage-system",
+  "name": "Bloodline triage system — twins as EMTs",
+  "type": "arc",
+  "opened_at": "raw-2026-05-11",
+  "opened_by_segment": "raw-2026-05-11-seg-11",
+  "carriers": [
+   "jimmy-uso",
+   "jey-uso",
+   "roman-reigns",
+   "jacob-fatu"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Family-as-system: Jimmy + Jey as EMTs distributing across both sides of the family wound. Evolved through four registers in two shows: triage as diplomacy (5/11 close, failed) → triage as wall (5/18 S1 open, united front) → triage as offensive unit (5/18 S1 mid, gang beatdown) → patriarch private confession + public acceptance (5/18 S1 close). Scroll seed 'The Subdued Yeet.'"
+ },
+ {
+  "id": "jd-women-tag-title-consolidation",
+  "name": "Judgment Day women's title-consolidation project",
+  "type": "arc",
+  "opened_at": "raw-2026-05-11",
+  "opened_by_segment": "raw-2026-05-11-seg-08",
+  "carriers": [
+   "liv-morgan",
+   "raquel-rodriguez",
+   "roxanne-perez",
+   "paige",
+   "brie-bella"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "JD women targeting Paige/Brie's tag titles. Three belts in ring at close of 5/11 segment = title-consolidation thesis. Confirmed at production-graphic level on Raw 5/18 (WWE production graphic showed 'Judgment Day = the three women' with no men). Foiled interference at Raw 5/18 = attempt deferred not closed; substitute-payment timeline pushed forward."
+ },
+ {
+  "id": "page-vs-penta-ic-snme",
+  "name": "Ethan Page vs Penta — IC Title at SNME",
+  "type": "feud",
+  "opened_at": "raw-2026-05-11",
+  "opened_by_segment": "raw-2026-05-11-seg-05",
+  "carriers": [
+   "ethan-page",
+   "penta"
+  ],
+  "register": "Constant",
+  "promised_payoff": "specific-show",
+  "promised_payoff_show": "snme-2026-spring",
+  "notes": "IC title match. Page demanded SNME stage (heel vanity); Penta accepted. Raw 5/18: Page Cole interview (cue-card grab + 'rename the IC title' vow) + Penta video package = institution setting equal-weight stage."
+ },
+ {
+  "id": "evans-elevation-6-7",
+  "name": "Je'Von Evans — '6-7' generational marker elevation",
+  "type": "arc",
+  "opened_at": "raw-2026-05-11",
+  "opened_by_segment": "raw-2026-05-11-seg-06",
+  "carriers": [
+   "jevon-evans"
+  ],
+  "register": "Liminal-Warrior",
+  "promised_payoff": "undefined",
+  "notes": "Generational succession marker. Steven spotted '6-7' twice on broadcast (shirt + finishing-move setup). Clean win over Rusev. Institution investing in vessel — Greensboro 5/18 is also Evans' hometown (double-duty venue)."
+ },
+ {
+  "id": "iyo-senpai-inheritance",
+  "name": "IYO Sky — phoenix function / senpai-inheritance from Asuka",
+  "type": "arc",
+  "opened_at": "raw-2026-05-11",
+  "opened_by_segment": "raw-2026-05-11-seg-07",
+  "carriers": [
+   "iyo-sky",
+   "asuka",
+   "sol-ruca"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Phoenix function transferred inside same broadcast — senpai role from Asuka (single black line benediction seg-07) to IYO (immediate senpai-generosity match with Sol Ruca seg-10). Asuka departure mode = benediction (voluntary role-transfer, not release). IYO countered Sol Snatcher at point of execution = senpai finish."
+ },
+ {
+  "id": "oba-conscription-rite",
+  "name": "Oba Femi conscription rite — Yoruba-open escalation",
+  "type": "meta",
+  "opened_at": "raw-2026-05-11",
+  "opened_by_segment": "raw-2026-05-11-seg-13",
+  "carriers": [
+   "oba-femi",
+   "angel-garza",
+   "humberto-carrillo",
+   "adam-pearce"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Evolution of Yoruba-open from 'who is worthy to answer' into 'orisha takes what he needs.' Pearce tried to cancel; Oba went through gorilla position, dragged Garza+Humberto to ring, beat them down. Production boundary treated as kayfabe space. Behavioral credential added to oba-ascension-streak."
+ },
+ {
+  "id": "mello-dirty-mirror-arc",
+  "name": "Carmelo Hayes — framework-vocab carrier / dirty-mirror arc",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-15",
+  "opened_by_segment": "smackdown-2026-05-15-seg-04",
+  "carriers": [
+   "carmelo-hayes"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Framework-vocabulary carrier — 'mirror' (Worked Shoot framework's central diagnostic word) enters WWE promo product. Two 'dirty mirror' invocations same broadcast (backstage + pre-match). Mello won via feet-on-ropes (the dirty mirror by mechanism) = recursive proof. Third instance would be load-bearing. Second confirmed external-pharmacy mirror-vocab event (after Artemis II)."
+ },
+ {
+  "id": "keys-vs-gunther-italy-contender",
+  "name": "Royce Keys vs Gunther — #1 contender match for Clash in Italy",
+  "type": "feud",
+  "opened_at": "smackdown-2026-05-15",
+  "opened_by_segment": "smackdown-2026-05-15-seg-14",
+  "carriers": [
+   "royce-keys",
+   "gunther",
+   "solo-sikoa"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "specific-show",
+  "promised_payoff_show": "smackdown-2026-05-15",
+  "notes": "One-show arc. Opened seg-14 (Aldis booking after Keys interrupt of Cody contract setup). Closed seg-17 (Gunther won via powerbomb when Keys threw chair at Solo instead of using it on Gunther). Chair refusal = the storyline; cost of refusing the dirty mirror is losing the clean match. Inverse exemplar of Mello dirty-mirror arc (Mello won BY being the dirty mirror; Keys lost BY refusing)."
+ },
+ {
+  "id": "keys-vs-solo-feud",
+  "name": "Royce Keys vs Solo Sikoa — consolation feud",
+  "type": "feud",
+  "opened_at": "smackdown-2026-05-15",
+  "opened_by_segment": "smackdown-2026-05-15-seg-17",
+  "carriers": [
+   "royce-keys",
+   "solo-sikoa"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Consolation feud from Solo's chair-flip retaliation at end of main event. Braids back into Hall-of-Two-Truths alliance (Priest + Truth + Keys). MFT vs Hall-of-Two-Truths escalation."
+ },
+ {
+  "id": "talla-brother-hold-arc",
+  "name": "Talla Tonga — brother-as-hold dynamic externalized",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-15",
+  "opened_by_segment": "smackdown-2026-05-15-seg-13",
+  "carriers": [
+   "talla-tonga",
+   "tama-tonga",
+   "shinsuke-nakamura"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Brother-as-hold dynamic externalized — Talla performs loyalty-enforcement on Tama's behalf. Tama remains contemplative; brother does physical work of keeping him captive. Escalated 5/8 → 5/15 (verbal to violent — Talla sent Nakamura through a table backstage). Tama vs Nakamura announced for next week SmackDown."
+ },
+ {
+  "id": "danhausen-cm-punk-mystery-tease",
+  "name": "Danhausen — CM Punk mystery-partner clone-machine arc",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-15",
+  "opened_by_segment": "smackdown-2026-05-15-seg-16",
+  "carriers": [
+   "danhausen"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Pepsi-color beakers (red + blue = CM Punk's shoulder tattoo) in Danhausen lab segment. Same corner as Backlash clone-machine reveal = backstage-corner-as-sacred-site. Joe's prediction: future segment Danhausen reuses clone machine, CM Punk emerges in Danhausen-trademarked facepaint (completes clone-box-form-trilogy: Backlash Minihousen → SD 5/15 Pepsi tease → future Punk-in-facepaint)."
+ },
+ {
+  "id": "chelsea-tiff-decline-arc",
+  "name": "Chelsea Green / Tiffany Stratton — ascending-vs-supplicant decline",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-15",
+  "opened_by_segment": "smackdown-2026-05-15-seg-08",
+  "carriers": [
+   "chelsea-green",
+   "tiffany-stratton"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Peer-rival vector. Tiffany = ascending operator declining alliance; Chelsea = supplicant. Structurally consistent with relative stock — doesn't humiliate Chelsea, just confirms the gap. Possible 'Top Star Walks Out Of Major Faction' iTR-headline candidate."
+ },
+ {
+  "id": "roman-vs-fatu-tribal-combat",
+  "name": "Roman Reigns vs Jacob Fatu — Tribal Combat at Clash in Italy",
+  "type": "feud",
+  "opened_at": "raw-2026-05-18",
+  "opened_by_segment": "raw-2026-05-18-seg-05",
+  "carriers": [
+   "roman-reigns",
+   "jacob-fatu",
+   "jimmy-uso",
+   "jey-uso",
+   "adam-pearce"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "clash-italy-2026-05-31",
+  "notes": "Tribal Combat — family's most sacred match-type, ritual that exists OUTSIDE company's booking infrastructure. Jacob invoked from the mat after gang beatdown (5/18); Pearce blocked; Roman accepted ('I have to' off-mic / 'I accept' into mic). Raw 5/25: CONTRACT SIGNED for Clash in Italy. Feudal stipulation: LOSER SERVES THE WINNER. Fatu: 'I will dog walk his ass.' Roman: 'I will domesticate Fatu.' Heads pressed together (hongi). Roman's birthday (41) on signing night. Sovereignty litigation formalized — not competition, but who rules whom."
+ },
+ {
+  "id": "americano-mask-vs-mask-noche",
+  "name": "El Grande Americano — Mask vs Mask at Noche de Los Grandes",
+  "type": "feud",
+  "opened_at": "raw-2026-05-18",
+  "opened_by_segment": "raw-2026-05-18-seg-10",
+  "carriers": [
+   "chad-gable",
+   "ludwig-kaiser",
+   "pete-dunne",
+   "tyler-bate",
+   "julius-creed",
+   "brutus-creed"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "noche-de-los-grandes-2026-05-30",
+  "notes": "Mask vs Mask — most sacred lucha stipulation. Gable vs Kaiser at Monterrey 5/30. WWE-aligned heels (Kaiser + Dunne/Bate as Rayo/Bravo masked) vs AAA-aligned tecnicos (Gable + Creeds as Hermanos). Trios tornado at Raw 5/18 = stage setup; Gable took the pin = max sympathy build. Lucha narrative grammar honored. Joe's secondary read flagged: AAA may be functioning as dose-ceiling laboratory."
+ },
+ {
+  "id": "oba-vs-brock-italy-rematch",
+  "name": "Oba Femi vs Brock Lesnar — rematch at Clash in Italy",
+  "type": "feud",
+  "opened_at": "raw-2026-05-18",
+  "opened_by_segment": "raw-2026-05-18-seg-14",
+  "carriers": [
+   "oba-femi",
+   "brock-lesnar",
+   "paul-heyman",
+   "adam-pearce"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "clash-italy-2026-05-31",
+  "notes": "Forging #3 in double-forging architecture (WM42 Brock loses → 5/18 Brock attacks during entrance → Italy rematch). Raw 5/25: CONTRACT SIGNED (opening segment). Lesnar video package: 'will cost him more than he can imagine,' vows to 'rule over' Femi. Femi: 'This time he's fighting to kill him.' Sovereignty-register language from both. Brock kept off-site via video — institution investing in rematch without burning live appearance on go-home."
+ },
+ {
+  "id": "profits-tag-title-with-fracture",
+  "name": "Street Profits — champions-with-fracture-seed",
+  "type": "arc",
+  "opened_at": "raw-2026-05-18",
+  "opened_by_segment": "raw-2026-05-18-seg-18",
+  "carriers": [
+   "montez-ford",
+   "angelo-dawkins"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Champions-with-fracture-seed booking. SNME: Vision retained tags dirty (Ford's From The Heavens pin broken by Heyman foot-on-rope + Logan brass knuckles). Raw 5/25: Ford agreed to team with Seth only AFTER Theory chair-attacked Dawkins — the crisis that made partnership pragmatic. Ford wrestled Rollins first (lost to Stomp), then joined from competitive respect + external force. Fracture-seed = Ford's reluctance vs Dawkins' commitment to the Seth alliance. Championship reign as pressure-cooker."
+ },
+ {
+  "id": "seth-ragnarok-army",
+  "name": "Seth Rollins — Ragnarok army forming (Loki recruiting the rejected)",
+  "type": "arc",
+  "opened_at": "raw-2026-05-18",
+  "opened_by_segment": "raw-2026-05-18-seg-18",
+  "carriers": [
+   "seth-rollins",
+   "angelo-dawkins"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Bound-Loki recruiting the rejected ones (the babyface coalition exclusivity pattern's anti-pattern). Dawkins = first recruit (Hod-figure recruited through helpfulness). Seth's chest-smack = mistletoe gesture. Dawkins SPRINTED to ring for the save in main event post-match = seed germinated in same broadcast. Time between framework prediction and booking execution: <30 minutes. Raw 5/25: Ford agreed to team after competitive test (Stomp) + Dawkins chair-attacked by Theory — external violence broke the isolationism, not diplomacy. Three-member army: Seth + Dawkins (committed) + Ford (reluctant). Rollins demands Bron next."
+ },
+ {
+  "id": "dom-mysterio-dumuzi-substitute-arc",
+  "name": "Dom Mysterio — Dumuzi awaiting substitute-sacrifice",
+  "type": "arc",
+  "opened_at": "raw-2026-05-18",
+  "opened_by_segment": "raw-2026-05-18-seg-16",
+  "carriers": [
+   "dom-mysterio",
+   "liv-morgan"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Per Scroll 003 The Eight-Pointed Star: Dom = Dumuzi (the consort who didn't mourn during Inanna's descent). Inanna myth REQUIRES substitute payment from consort. Dom mythologically required to stay until Liv casts him out. Substitute-stripping already begun: Dom won IC at Survivor Series 2025 (Liv's return); Dom lost IC to Bálor's Demon at WM42 (day after Liv's coronation). Substitute-payment timeline delayed by JD-women title-loss at Raw 5/18; trigger event pending. Raw 5/25: Dom's AAA Championship interference BACKFIRED — distracted ref, Roxanne accidentally hit Dom with the belt, Bayley rolled up Perez. The consort's attempt to help caused the loss. Myth machinery operating."
+ },
+ {
+  "id": "theory-rampage-arc",
+  "name": "Austin Theory — operative rampage / suspension arc",
+  "type": "arc",
+  "opened_at": "raw-2026-05-25",
+  "opened_by_segment": "raw-2026-05-25-seg-03",
+  "carriers": [
+   "austin-theory",
+   "joe-hendry",
+   "angelo-dawkins",
+   "adam-pearce",
+   "paul-heyman"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Three steel-chair attacks in one show (Hendry backstage, Dawkins on stage x2). Misdirected rage after Logan Paul injury destabilized Theory's position. Suspended by Pearce. Heyman comforts not disciplines = architect protecting soldier from institution. Irony: Theory's rampage CREATED the Seth/Profits alliance Vision was trying to prevent. The expendable operative became a liability generating counter-coalitions."
+ },
+ {
+  "id": "theory-maxxine-angle",
+  "name": "Austin Theory / Maxxine Dupri — romantic angle",
+  "type": "arc",
+  "opened_at": "raw-2026-05-25",
+  "opened_by_segment": "raw-2026-05-25-seg-13",
+  "carriers": [
+   "austin-theory",
+   "maxxine-dupri",
+   "otis"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Seeded during Theory's suspension segment. Maxxine is Alpha Academy-adjacent — romantic pull toward non-Vision woman = classic defection setup. Otis as protective/jealous figure. Potential slow-burn Vision exit vector for Theory."
+ },
+ {
+  "id": "logan-paul-injury-vision-reshuffle",
+  "name": "Logan Paul injury — Vision reshuffle",
+  "type": "arc",
+  "opened_at": "raw-2026-05-25",
+  "opened_by_segment": "raw-2026-05-25-seg-02",
+  "carriers": [
+   "logan-paul",
+   "bron-breakker",
+   "austin-theory"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Logan Paul torn triceps — out for months. Bron Breakker named as Theory's new tag partner. Vision reshuffle: celebrity-class operative removed, monster-class elevated to permanent tag position. Faction becomes pure wrestling-operative unit."
+ },
+ {
+  "id": "rey-ic-contender-arc",
+  "name": "Rey Mysterio — IC #1 contender / legend's final title chase",
+  "type": "arc",
+  "opened_at": "raw-2026-05-25",
+  "opened_by_segment": "raw-2026-05-25-seg-06",
+  "carriers": [
+   "rey-mysterio",
+   "penta",
+   "dragon-lee",
+   "rusev",
+   "ethan-page"
+  ],
+  "register": "Constant",
+  "promised_payoff": "ppv-match",
+  "notes": "Rey requested IC title shot 'to cement his legacy.' Earned #1 contender by defeating Rusev (roll-up counter of Accolade). Dragon Lee as lucha-lineage ally (post-match save + 619 combo on Rusev + Page). AAA GM requesting WWE title shot = cross-institutional intersection. Future Penta vs Rey IC Championship match."
+ },
+ {
+  "id": "knight-kotr-whc-path",
+  "name": "LA Knight — King of the Ring / World Championship path",
+  "type": "arc",
+  "opened_at": "raw-2026-05-25",
+  "opened_by_segment": "raw-2026-05-25-seg-08",
+  "carriers": [
+   "la-knight",
+   "jimmy-uso",
+   "roman-reigns"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Knight announced KOTR entry targeting World Championship. Confronted Jimmy Uso — escalation from 'NOT NOW' deflection (5/18) to active confrontation. Knight positions OUTSIDE Bloodline family system entirely (not litigating within it like Jacob, but threatening to shut it down from outside). Two different sovereignty challenges to Roman: Jacob from inside the code, Knight from outside."
+ },
+ {
+  "id": "fenix-aaa-cruiserweight-reign",
+  "name": "Rey Fenix — AAA Cruiserweight reign (the prodigal's homecoming)",
+  "type": "arc",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-01",
+  "carriers": [
+   "rey-fenix",
+   "laredo-kid"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Fenix won the AAA Cruiserweight Title from Laredo Kid (Muscle Buster, ~11:51), ending a 500+ day reign. The prodigal luchador (AEW/WWE 2019-25, now WWE SmackDown) reclaims lucha gold on Mexican soil = the night's opening renaissance dose. WWE-contracted talent holding AAA gold but pointed toward homecoming, not absorption — the light pole opposite the War Raiders annexation."
+ },
+ {
+  "id": "vikingo-latin-american-reign",
+  "name": "El Hijo del Vikingo — Latin American reign (the assisted ascent)",
+  "type": "arc",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-03",
+  "carriers": [
+   "hijo-del-vikingo",
+   "hijo-de-dr-wagner-jr",
+   "omos",
+   "dorian-roldan"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "Vikingo won the AAA Latin American Title from Hijo de Dr. Wagner Jr. (630 splash, ~7:18) — but NOT clean: Omos + Dorian Roldan aided him (Galeno del Mal ran in for Wagner; Mini Vikingo interfered against Vikingo and backfired). The feathered serpent ascends shadow-tinted. Watch the Omos + Dorian Roldan helping bloc for an alliance reveal / faction-collecting."
+ },
+ {
+  "id": "omos-wwe-muscle-into-aaa",
+  "name": "Omos — WWE muscle inserting into AAA finishes (absorption-vector)",
+  "type": "arc",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-03",
+  "carriers": [
+   "omos",
+   "hijo-del-vikingo",
+   "dorian-roldan"
+  ],
+  "register": "Shadow",
+  "promised_payoff": "undefined",
+  "notes": "Omos (WWE-contracted giant) interfered to swing the Latin American title finish to Vikingo = WWE-muscle absorption operating inside an AAA title match, same register as the War Raiders. The internal-collaboration vector of the absorption-shadow (alongside the external-invasion vector). Whose faction Omos serves = open."
+ },
+ {
+  "id": "war-raiders-aaa-tag-reign",
+  "name": "War Raiders — AAA World Tag reign (the annexation) + 6/6 reclamation watch",
+  "type": "arc",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-04",
+  "carriers": [
+   "war-raiders",
+   "psycho-clown",
+   "pagano"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "noche-de-los-grandes-2026-06-06",
+  "notes": "War Raiders (Einherjar/Norse berserkers, WWE-contracted) won the AAA World Tag Titles on Mexican soil — the external-invasion vector of the absorption-shadow, won through Pagano's internal betrayal. Open question for 6/6 (Noche night 2): permanent annexation (true absorption) or week-1 cliffhanger reversed (home-soil reclamation = the antidote a week later)."
+ },
+ {
+  "id": "pagano-heel-turn-psycho-circus-revenge",
+  "name": "Pagano heel turn — Psycho Circus mystery-attacker payoff + revenge arc",
+  "type": "feud",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-04",
+  "carriers": [
+   "pagano",
+   "psycho-clown"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "noche-de-los-grandes-2026-06-06",
+  "notes": "After losing the tag titles to War Raiders, Pagano turned on Psycho Clown and walked out on him to the beatdown. Pays off the built storyline (mystery backstage attacker hospitalizing Psycho Circus members; Psycho suspecting Pagano) — Pagano = the mastermind. Pagano = Xipe-Totec (the flayer) visiting the flaying on his abandoned partner. Psycho's revenge arc opens -> 6/6. (Joe's live 'face without skin' read squares with PWDotNet's second-mask detail; single-source, held loosely.)"
+ },
+ {
+  "id": "gable-back-in-aaa-tease",
+  "name": "Chad Gable — 'I'll be back in AAA' (the shadow's open door)",
+  "type": "arc",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-06",
+  "carriers": [
+   "chad-gable",
+   "ludwig-kaiser"
+  ],
+  "register": "Pantheon",
+  "promised_payoff": "undefined",
+  "notes": "In his unmask promo Gable said 'I don't know when, and I don't know how, but Chad Gable will be back in AAA.' The foreign-shadow's door left open — the appropriator-menace becomes a future return/ally, received by the crowd he mocked ('Thank you Gable'). The foreign-shadow inversion verbalized by the vessel himself (Scroll 007)."
+ },
+ {
+  "id": "gable-shorty-g-return",
+  "name": "Chad Gable — unmasked, 'Shorty G' return + face-rub (WWE side)",
+  "type": "arc",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-06",
+  "carriers": [
+   "chad-gable"
+  ],
+  "register": "Demihero",
+  "promised_payoff": "undefined",
+  "notes": "Gable lost the mask and reclaimed his real name in the ring with his family present; the honorable loss + 'Thank you Gable' chant rubs him toward a face turn. WWE-side watch: expected return to 'Shorty G.' / Chad Gable proper now that the El Grande Americano gimmick is spent on his side."
+ },
+ {
+  "id": "aaa-youth-prospect-lineage",
+  "name": "AAA youth-prospect vignette — succession seed (UNVERIFIED)",
+  "type": "arc",
+  "opened_at": "noche-de-los-grandes-2026-05-30",
+  "opened_by_segment": "noche-de-los-grandes-2026-05-30-seg-02",
+  "carriers": [
+   "rey-mysterio"
+  ],
+  "register": "Constant",
+  "promised_payoff": "undefined",
+  "notes": "Joe logged a live youth-prospect spotlight package (read as Rey-Mysterio-early-days). UNVERIFIED in print — no outlet names it; Rey's Night-1 role was commentary/acting GM only (no solo segment). Possible succession seed on the renaissance card IF real; resolvable only via the broadcast VOD. Do NOT canonize the Rey-anoints-successor read until confirmed."
+ },
+ {
+  "id": "saints-vs-hayes-feud",
+  "name": "Ricky Saints vs Carmelo Hayes -- feud",
+  "type": "feud",
+  "opened_at": "smackdown-2026-05-22",
+  "opened_by_segment": "smackdown-2026-05-22-seg-05",
+  "carriers": [
+   "ricky-saints",
+   "carmelo-hayes"
+  ],
+  "register": "meta-trickster chaos-agent vs dirty-mirror",
+  "promised_payoff": "undefined",
+  "notes": "Saints cost Hayes the US Title match (5/22 interference) -> Hayes attacked Saints. 5/29: double count-out, Hayes First 48 to stand tall. The US-title-lane chaos feud running under Trick's reign."
+ },
+ {
+  "id": "blake-monroe-debut-arc",
+  "name": "Blake Monroe -- SmackDown debut, eyeing Rhea",
+  "type": "arc",
+  "opened_at": "smackdown-2026-05-29",
+  "opened_by_segment": "smackdown-2026-05-29-seg-07",
+  "carriers": [
+   "blake-monroe"
+  ],
+  "register": "challenger-stacking / future-gold seed",
+  "promised_payoff": "undefined",
+  "notes": "Vignette announcing her arrival, setting sights on Rhea Ripley. The next challenger planted under the current Jade program -- the division stacked rather than cycled."
+ },
+ {
+  "id": "cody-gunther-rematch-controversy",
+  "name": "Cody vs Gunther -- controversial-finish rematch",
+  "type": "arc",
+  "opened_at": "clash-in-italy-2026-05-31",
+  "opened_by_segment": "clash-in-italy-2026-05-31-seg-01",
+  "carriers": [
+   "cody-rhodes",
+   "gunther"
+  ],
+  "register": "controversial-finish / rematch-engine",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: rematch (Cody offered post-show; Gunther robbed via missed rope-break). Sec.10 controversial-finish -> owed-rematch engine. Gunther = the foreign-shadow truth-teller correct on the merits and denied; Cody owns the bad call. Foreign-shadow INVERTED (Scroll 007)."
+ },
+ {
+  "id": "charlotte-rhea-fracture-debt",
+  "name": "Charlotte/Rhea -- the owed debt after the assist",
+  "type": "arc",
+  "opened_at": "clash-in-italy-2026-05-31",
+  "opened_by_segment": "clash-in-italy-2026-05-31-seg-02",
+  "carriers": [
+   "charlotte-flair",
+   "rhea-ripley"
+  ],
+  "register": "dynastic fracture / owed debt",
+  "promised_payoff": "undefined",
+  "notes": "Charlotte's foot-on-rope counter saved Rhea, but motive is OUTLET-AMBIGUOUS (Joe's read: 'receipts' for a Jade-faction attack on Alexa = vendetta, not reconciliation -> fracture stays open, Rhea owes a debt tied to Charlotte's agenda). Motive UNVERIFIED in text -- verify on video."
+ },
+ {
+  "id": "oba-brock-summerslam-forging",
+  "name": "Oba Femi triple-forging -> SummerSlam coronation",
+  "type": "arc",
+  "opened_at": "clash-in-italy-2026-05-31",
+  "opened_by_segment": "clash-in-italy-2026-05-31-seg-03",
+  "carriers": [
+   "oba-femi",
+   "brock-lesnar"
+  ],
+  "register": "triple-forging / made-man coronation",
+  "promised_payoff": "ppv-match",
+  "notes": "Payoff intent: SummerSlam (Oba over Brock decisively = made man). WM42 Oba beats Brock (#1) -> Clash Brock wins via WAR, Oba elevated-in-defeat (#2, the middle) -> SummerSlam Oba over Brock decisively (#3, the coronation). Forged by belonging in the fire with Surtr."
+ },
+ {
+  "id": "brock-surtr-active",
+  "name": "Brock Lesnar -- Surtr active (the retirement-feint / gatekeeper)",
+  "type": "arc",
+  "opened_at": "clash-in-italy-2026-05-31",
+  "opened_by_segment": "clash-in-italy-2026-05-31-seg-03",
+  "carriers": [
+   "brock-lesnar"
+  ],
+  "register": "Surtr-active / gatekeeper-feint",
+  "promised_payoff": "undefined",
+  "notes": "Joe's read (loose): the 'conditional retirement' reads as a FEINT; Oba = the rightful equal that drew Surtr out. Open question: full-time vs recurring gatekeeper-fire (scarcity = the Surtr aura, so lean recurring). Pairs with the Ragnarok convergence (seth-ragnarok-army)."
+ },
+ {
+  "id": "sol-ruca-ic-reign",
+  "name": "Sol Ruca -- Women's IC reign (the successor ascendant)",
+  "type": "arc",
+  "opened_at": "clash-in-italy-2026-05-31",
+  "opened_by_segment": "clash-in-italy-2026-05-31-seg-04",
+  "carriers": [
+   "sol-ruca"
+  ],
+  "register": "successor ascendant / new champion",
+  "promised_payoff": "undefined",
+  "notes": "NEW Women's IC Champion via clean succession over Becky (Nemesis). Helios ascends; the prophecy ('Lynch will know the next generation is here') fulfilled. The renaissance/youth-elevation beat on the flagship -- and the card's only clean title change."
+ },
+ {
+  "id": "fatu-absorbed-bloodline",
+  "name": "Jacob Fatu -- absorbed into the Bloodline (aitu domesticated)",
+  "type": "arc",
+  "opened_at": "clash-in-italy-2026-05-31",
+  "opened_by_segment": "clash-in-italy-2026-05-31-seg-06",
+  "carriers": [
+   "jacob-fatu",
+   "roman-reigns"
+  ],
+  "register": "aitu domesticated / absorption-by-consent",
+  "promised_payoff": "undefined",
+  "notes": "The aitu neutered -> domesticated -> absorbed, by his own acceptance (ramp beat). Now at the BACK of the family pecking order; rematch hooks = the hand-injury + 'robbed by a foul.' WATCH the rendering (dignified subordination vs JYD/degradation -- worked-shoot-discrimination-blindness)."
+ },
+ {
+  "id": "bloodline-mft-realignment",
+  "name": "Bloodline realignment -- Usos+Fatu in, MFT out",
+  "type": "arc",
+  "opened_at": "clash-in-italy-2026-05-31",
+  "opened_by_segment": "clash-in-italy-2026-05-31-seg-06",
+  "carriers": [
+   "roman-reigns",
+   "jey-uso",
+   "jimmy-uso",
+   "solo-sikoa",
+   "tama-tonga",
+   "talla-tonga"
+  ],
+  "register": "faction realignment",
+  "promised_payoff": "undefined",
+  "notes": "Post-Tribal-Combat: Roman + Usos + absorbed-Fatu = the new core; Solo's MFT remnant left outside-looking-in (front row). Roman acknowledged the MFT with no conflict but did not bring them in = the pecking-order statement."
+ },
+ {
+  "id": "king-of-the-ring-2026",
+  "name": "King of the Ring 2026",
+  "type": "arc",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "oba-femi",
+   "jey-uso",
+   "dom-mysterio",
+   "seth-rollins",
+   "jevon-evans",
+   "ricky-saints",
+   "talla-tonga",
+   "solo-sikoa",
+   "penta",
+   "carmelo-hayes"
+  ],
+  "register": "Agon / tournament",
+  "promised_payoff": "ppv-match",
+  "notes": "Payoff intent: KOTR winner earns an Undisputed WWE Title shot (Jey's stated path: challenge Cody at SummerSlam). Bracket opened on the post-Clash Raw (6/1). R1 Raw: Oba Femi def. Solo Sikoa/Penta/Carmelo Hayes. R1 SmackDown: Dominik Mysterio. Next Raw (6/8) R1: Rollins vs Je'Von Evans vs Ricky Saints vs Talla Tonga. SOURCE-SPLIT on the FINAL venue: results outlets say Night of Champions (Riyadh); angle recaps say SummerSlam."
+ },
+ {
+  "id": "queen-of-the-ring-2026",
+  "name": "Queen of the Ring 2026",
+  "type": "arc",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "iyo-sky",
+   "giulia",
+   "roxanne-perez",
+   "lash-legend",
+   "becky-lynch",
+   "liv-morgan",
+   "alexa-bliss",
+   "chelsea-green"
+  ],
+  "register": "Agon / tournament",
+  "promised_payoff": "ppv-match",
+  "notes": "Payoff intent: QOTR winner earns a Women's World Title shot (vs the champ at SummerSlam per angle recaps; final venue source-split). Opened 6/1. R1 Raw: Iyo Sky def. Giulia/Roxanne Perez/Lash Legend. Next Raw (6/8) R1: Becky Lynch vs Liv Morgan vs Alexa Bliss vs Chelsea Green (Becky's post-IC-loss landing spot)."
+ },
+ {
+  "id": "jey-kotr-cody-summerslam",
+  "name": "Jey's KOTR road to Cody",
+  "type": "arc",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "jey-uso",
+   "roman-reigns",
+   "cody-rhodes"
+  ],
+  "register": "Bloodline -> the throne",
+  "promised_payoff": "ppv-match",
+  "notes": "Payoff intent: Jey wins KOTR -> challenges Cody Rhodes for the Undisputed WWE Title at SummerSlam. Roman tasked Jey (solo; Jimmy kept at Roman's side) to take 'the other end of the table' -- Cody's title. The Bloodline pointed at Cody."
+ },
+ {
+  "id": "jey-fatu-friction-watch",
+  "name": "Jey / Fatu friction (kept tension)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "jey-uso",
+   "jacob-fatu"
+  ],
+  "register": "Aitu under the leash",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Jey/Fatu tension resurfaces despite the Bloodline reunion. On the acknowledgment Raw, Fatu pointedly said he lost to his Tribal Chief, 'not Jey's punk ass'; Jimmy called the induction a 'warning shot.' Latent intra-Bloodline tension preserved."
+ },
+ {
+  "id": "sol-ruca-vs-lyra-ic",
+  "name": "Sol Ruca vs Lyra Valkyria (Women's IC)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "sol-ruca",
+   "lyra-valkyria"
+  ],
+  "register": "successor-champion vs the title's originator",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Lyra Valkyria challenges Sol Ruca for the Women's Intercontinental Title. Lyra (the FIRST-ever Women's IC Champion, who 'couldn't challenge while Becky held it') asked Ruca for a shot; Ruca accepted. Lyra left Bayley hanging to do it."
+ },
+ {
+  "id": "rey-vs-penta-ic",
+  "name": "Rey Mysterio vs Penta (Intercontinental Title)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "rey-mysterio",
+   "penta",
+   "adam-pearce"
+  ],
+  "register": "lucha kin / IC title",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Rey Mysterio challenges Penta for the (men's) Intercontinental Title. Adam Pearce told Penta he's arranging Rey vs Penta for the IC Title; Rey & Dragon Lee beat Page & Rusev to position it."
+ },
+ {
+  "id": "la-knight-vs-authority-bloodline",
+  "name": "LA Knight vs the favored family (authority bias)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "la-knight",
+   "adam-pearce",
+   "roman-reigns"
+  ],
+  "register": "the people's voice vs the favored family",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: LA Knight pushes against perceived Bloodline favoritism / authority bias. Knight accused Pearce of favoring the Bloodline and ignoring him; threatened to 'take Pearce out of retirement.' Pearce called Fatu 'a liability.' Anti-Bloodline/anti-authority voice seeded."
+ },
+ {
+  "id": "judgment-day-fracture",
+  "name": "Judgment Day internal fracture",
+  "type": "feud",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "roxanne-perez",
+   "liv-morgan",
+   "raquel-rodriguez",
+   "dom-mysterio"
+  ],
+  "register": "court turning on itself",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Judgment Day splits (Perez vs Liv; Raquel in the middle; Liv/Dom 'power couple'). Post-QOTR-loss, Roxanne ('I was supposed to be Queen') clashed with Liv & Raquel; Liv hyped herself + Dom as 'King and Queen of the Ring.' Fracture seeded."
+ },
+ {
+  "id": "montez-ford-rollins-alliance",
+  "name": "Montez Ford / Seth Rollins alliance",
+  "type": "arc",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "montez-ford",
+   "seth-rollins"
+  ],
+  "register": "the new lieutenant",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Montez Ford aligns with Rollins out of the Vision wreckage (Street Profits implications). Ford flew in to take out Austin Theory and save Rollins in the main event; the two put differences aside, Rollins acknowledged him. Watch Profits fallout."
+ },
+ {
+  "id": "heyman-breakker-tension",
+  "name": "Heyman / Breakker tension",
+  "type": "feud",
+  "opened_at": "raw-2026-06-01",
+  "carriers": [
+   "paul-heyman",
+   "bron-breakker"
+  ],
+  "register": "the Oracle and the beast misfire",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Breakker/Heyman crack after Bron spears Heyman through the barricade. In the main event Breakker accidentally speared Heyman through the ringside barricade; seeds tension within the Vision's remainder."
+ },
+ {
+  "id": "dangelo-nxt-title-reign",
+  "name": "Tony D'Angelo's NXT Title reign",
+  "type": "arc",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "tony-dangelo",
+   "naraku",
+   "kam-hendrix",
+   "mason-rook"
+  ],
+  "register": "Chthonic-Don holds the territory",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: D'Angelo's reign tested by a challenger gauntlet (Hendrix, Rook) + the Naraku question. D'Angelo won the NXT Title at Stand & Deliver (4/4/26). Now fielding Hendrix/Rook while Naraku appoints himself 'protector.'"
+ },
+ {
+  "id": "dangelo-naraku-destined-war",
+  "name": "D'Angelo & Naraku -- 'destined to war'",
+  "type": "feud",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "tony-dangelo",
+   "naraku"
+  ],
+  "register": "ambiguous protector / future adversary",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Naraku's 'protection' resolves into a title challenge / betrayal. Naraku says he'll keep D'Angelo champion because they're 'destined to go to war'; clotheslined Hendrix and bowed to the champ. Alliance-or-betrayal slow burn."
+ },
+ {
+  "id": "dangelo-vs-hendrix-nxt-title",
+  "name": "D'Angelo vs Kam Hendrix (NXT Title)",
+  "type": "feud",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "tony-dangelo",
+   "kam-hendrix"
+  ],
+  "register": "champion vs cocky riser",
+  "promised_payoff": "next-week",
+  "notes": "Payoff intent: Hendrix's NXT Title shot (set for the 6/2 NXT). Title match booked for the following week's TV; Mason Rook & Naraku both circling."
+ },
+ {
+  "id": "mason-rook-title-insertion",
+  "name": "Mason Rook forces into the title picture",
+  "type": "arc",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "mason-rook",
+   "tony-dangelo"
+  ],
+  "register": "the lurking heavy",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Rook takes 'matters into his own hands' for a title shot. Demanded the D'Angelo shot from GM Robert Stone (claimed a technical pin); Naraku blocked him from ruining the title match."
+ },
+ {
+  "id": "darkstate-shugars-revenge",
+  "name": "Saquon Shugars vs DarkState (revenge)",
+  "type": "feud",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "saquon-shugars",
+   "darkstate"
+  ],
+  "register": "the cast-out returns",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Shugars' revenge on DarkState for the ousting. DarkState ousted Shugars (announce-table beatdown 5/19); 5/26 closed with Shugars silhouetted on a production truck, watching = the revenge hook."
+ },
+ {
+  "id": "darkstate-hunt-champions",
+  "name": "DarkState hunt the champions",
+  "type": "arc",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "darkstate",
+   "myles-borne",
+   "tavion-heights"
+  ],
+  "register": "the young wolves chase gold",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: DarkState targets NXT champions; near-term feud w/ Borne & Heights. Maskless promo justified ousting Shugars (collegiate athletes vs the 'indie' guy); refocused on hunting gold; ambushed Borne & Heights backstage."
+ },
+ {
+  "id": "lola-vice-womens-reign",
+  "name": "Lola Vice's NXT Women's reign",
+  "type": "arc",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "lola-vice",
+   "izzi-dame",
+   "kelani-jordan",
+   "kendal-grey"
+  ],
+  "register": "striker-queen vs the contender pileup",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Vice defends against a forming contender logjam (Dame/Jordan/Grey/Armstrong). Vice won the title at S&D (4/4/26); retained vs Izzi Dame 5/26 (overbooked, Culling interference). Kali Armstrong declaring for both women's titles."
+ },
+ {
+  "id": "paxley-zaria-na-title",
+  "name": "Tatum Paxley vs Zaria (Women's NA Title)",
+  "type": "feud",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "tatum-paxley",
+   "zaria",
+   "lizzy-rain"
+  ],
+  "register": "the obsessive champ vs the stalking power",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Zaria challenges Paxley for the Women's North American Title. Zaria attacked Paxley & Lizzy Rain and grabbed the belt; Paxley/Rain alliance formed in response. Near-term TV: Lizzy Rain vs Zaria."
+ },
+ {
+  "id": "speed-tournament-2026",
+  "name": "Speed Title No. 1 Contender Tournament",
+  "type": "arc",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "romeo-moreno",
+   "nathan-frazer",
+   "sean-legacy",
+   "dorian-van-dux",
+   "noam-dar"
+  ],
+  "register": "Agon / the fastest",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Tournament winner challenges Lexis King for the WWE (men's) Speed Title. 5/26: Romeo Moreno (w/ Noam Dar) beat returning Nathan Frazer; Sean Legacy vs Dorian Van Dux went to a 3-min draw (both eliminated). Pointed at Lexis King."
+ },
+ {
+  "id": "mr-nxt-pageant",
+  "name": "The 'Mr. NXT' Pageant (Hill vs Angels)",
+  "type": "feud",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "shiloh-hill",
+   "tristan-angels",
+   "charlie-dempsey"
+  ],
+  "register": "carnival / comedy midcard",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Shiloh Hill vs Tristan Angels at the 'Mr. NXT' pageant (booked ~2 wks out). Hill (cowboy) pushed a joke petition; Angels (posh 'Mr. England') mocked it. Hill beat Dempsey 5/26; GM Robert Stone approved the pageant."
+ },
+ {
+  "id": "culling-vs-otm",
+  "name": "The Culling vs OTM",
+  "type": "feud",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "the-culling",
+   "otm"
+  ],
+  "register": "faction-vs-faction brawl",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: The Culling vs OTM tag war (+ Spears-rogue tension inside the Culling). Shawn Spears blindsided OTM with a chair pre-bell (scrapping their match); OTM retaliated during the main event. Izzi Dame papered over Spears' rogue 'timing.'"
+ },
+ {
+  "id": "nattie-diggs-vs-parker",
+  "name": "Natalya & Layla Diggs vs Jaida Parker",
+  "type": "feud",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "natalya",
+   "layla-diggs",
+   "jaida-parker"
+  ],
+  "register": "vet-and-prospect vs the brash heel",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Natalya (w/ Diggs) steps back in vs Jaida Parker. Diggs debuted 5/26 (lost to Parker); Nattie aligned with her; Parker/Nattie staredown teases the vet's in-ring return."
+ },
+ {
+  "id": "grey-sinclair-breakup",
+  "name": "Kendal Grey / Wren Sinclair friendship breakup",
+  "type": "arc",
+  "opened_at": "nxt-2026-05-26",
+  "carriers": [
+   "kendal-grey",
+   "wren-sinclair"
+  ],
+  "register": "the slow betrayal",
+  "promised_payoff": "undefined",
+  "notes": "Payoff intent: Best-friends Grey & Sinclair tip into a singles feud. Sinclair (Speed Champ, working hurt) attacked Grey from behind to set a singles match -- classic teased-betrayal seed."
+ }
 ]

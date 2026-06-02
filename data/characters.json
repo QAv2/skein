@@ -1099,5 +1099,275 @@
     "archetype": "vain-aspirant",
     "register": "Transitional",
     "notes": "Vignette-introduced on SD 5/29 (Barcelona) -- arriving on SmackDown eyeing Rhea Ripley; disrespected Chelsea Green. The next women's challenger planted under the current one."
+  },
+  {
+    "id": "tony-dangelo",
+    "name": "Tony D'Angelo",
+    "alignment": "tweener",
+    "faction": "The D'Angelo Family (defunct)",
+    "brand": "NXT",
+    "archetype": "Mob boss / Chthonic-Don",
+    "register": "Pantheon-adj",
+    "notes": "Reigning NXT Champion (won Stand & Deliver 4/4/26, fatal-4-way over Hendry/Page/Saints). 'Don of NXT' mob gimmick. Naraku has self-appointed as his protector."
+  },
+  {
+    "id": "naraku",
+    "name": "Naraku",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Ambiguous enforcer / self-styled protector",
+    "register": "Shadow",
+    "notes": "Says he'll keep D'Angelo champion because they're 'destined to go to war.' Spelling varies (Naraku/Nakuru); WWE.com = Naraku."
+  },
+  {
+    "id": "kam-hendrix",
+    "name": "Kam Hendrix",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Cocky athletic riser",
+    "register": "Transitional",
+    "notes": "NXT Title challenger vs D'Angelo (set 6/2). Spelling varies (Hendrix/Kendrix)."
+  },
+  {
+    "id": "mason-rook",
+    "name": "Mason Rook",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Moonsaulting big-man novelty heavy",
+    "register": "Transitional",
+    "notes": "Inserting himself into the NXT Title picture; demanded the shot from GM Robert Stone."
+  },
+  {
+    "id": "myles-borne",
+    "name": "Myles Borne",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Amateur-wrestling scrapper",
+    "register": "Demihero",
+    "notes": "NXT North American Champion (since 2/24/26). Tags w/ Tavion Heights; targeted by DarkState. Spelling varies (Myles Borne/Miles Bourne)."
+  },
+  {
+    "id": "tavion-heights",
+    "name": "Tavion Heights",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Collegiate-wrestling powerhouse",
+    "register": "Demihero",
+    "notes": "Amateur-base powerhouse; tags w/ Myles Borne; ambushed by DarkState 5/26."
+  },
+  {
+    "id": "darkstate",
+    "name": "DarkState",
+    "alignment": "heel",
+    "faction": "DarkState",
+    "brand": "NXT",
+    "archetype": "Menacing young-heel stable",
+    "register": "Shadow",
+    "notes": "Dion Lennox, Cutler James, Osiris Griffin (after ousting Saquon Shugars 5/19). 'Hunt the champions' mission; Lennox asserting leadership."
+  },
+  {
+    "id": "saquon-shugars",
+    "name": "Saquon Shugars",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "The cast-out seeking revenge",
+    "register": "Demihero",
+    "notes": "Ousted by DarkState (announce-table beatdown 5/19); shown silhouetted on a production truck 5/26 = the revenge hook."
+  },
+  {
+    "id": "lola-vice",
+    "name": "Lola Vice",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "MMA striker",
+    "register": "Pantheon-adj",
+    "notes": "Reigning NXT Women's Champion (won S&D 4/4/26). Backfist finish. Retained vs Izzi Dame 5/26. Contender pileup forming."
+  },
+  {
+    "id": "izzi-dame",
+    "name": "Izzi Dame",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Imposing power-heel",
+    "register": "Pantheon-adj",
+    "notes": "Top NXT Women's contender; aligned with The Culling at ringside; lost the overbooked title match to Vice 5/26."
+  },
+  {
+    "id": "kelani-jordan",
+    "name": "Kelani Jordan",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Gymnastic high-flyer",
+    "register": "Demihero",
+    "notes": "Beat Wren Sinclair 5/26 (worked the injured knee). Spelling varies (Kelani/Kalani/Kehlani)."
+  },
+  {
+    "id": "wren-sinclair",
+    "name": "Wren Sinclair",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Plucky underdog",
+    "register": "Demihero",
+    "notes": "WWE Women's Speed Champion (defended on NXT), working injured. Friendship-breakup tease w/ Kendal Grey."
+  },
+  {
+    "id": "kendal-grey",
+    "name": "Kendal Grey",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Amateur-wrestling babyface",
+    "register": "Transitional",
+    "notes": "Best-friend tension w/ Wren Sinclair (slow-burn breakup seed)."
+  },
+  {
+    "id": "tatum-paxley",
+    "name": "Tatum Paxley",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Eccentric / obsessive",
+    "register": "Demihero",
+    "notes": "NXT Women's North American Champion (since 3/7/26). Allied w/ Lizzy Rain vs a stalking Zaria."
+  },
+  {
+    "id": "lizzy-rain",
+    "name": "Lizzy Rain",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "'80s heavy-metal retro",
+    "register": "Transitional",
+    "notes": "Rising worker; allied w/ Paxley vs Zaria. Spelling varies (Lizzie/Lizzy)."
+  },
+  {
+    "id": "jaida-parker",
+    "name": "Jaida Parker",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Brash hard-hitter",
+    "register": "Demihero",
+    "notes": "Feud w/ Natalya & Layla Diggs; beat Diggs in her debut 5/26. 'Hipnotic' finish."
+  },
+  {
+    "id": "layla-diggs",
+    "name": "Layla Diggs",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Young prospect",
+    "register": "Transitional",
+    "notes": "NXT debut 5/26 (w/ Natalya); lost to Jaida Parker."
+  },
+  {
+    "id": "natalya",
+    "name": "Natalya",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Hart-dynasty veteran",
+    "register": "Demihero",
+    "notes": "Vet mentoring Layla Diggs; feud w/ Jaida Parker; staredown teases an in-ring return."
+  },
+  {
+    "id": "romeo-moreno",
+    "name": "Romeo Moreno",
+    "alignment": "tweener",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "High-flyer",
+    "register": "Transitional",
+    "notes": "In Noam Dar's orbit; advanced in the Speed #1-contender tournament (beat Nathan Frazer 5/26) -> toward Lexis King."
+  },
+  {
+    "id": "noam-dar",
+    "name": "Noam Dar",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Cocky technician / cornerman",
+    "register": "Trickster",
+    "notes": "'Supernova'; in Romeo Moreno's corner; Speed-division fixture; tension w/ Axiom."
+  },
+  {
+    "id": "shiloh-hill",
+    "name": "Shiloh Hill",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Cowboy / Western",
+    "register": "Transitional",
+    "notes": "Beat Charlie Dempsey 5/26; 'Mr. NXT' pageant feud w/ Tristan Angels (booked ~2 wks out)."
+  },
+  {
+    "id": "charlie-dempsey",
+    "name": "Charlie Dempsey",
+    "alignment": "heel",
+    "faction": "No Quarter Catch Crew",
+    "brand": "NXT",
+    "archetype": "Technical British grappler",
+    "register": "Shadow-adj",
+    "notes": "Son of William Regal; gatekeeper (WALTER/Dempsey lineage). Lost to Shiloh Hill 5/26."
+  },
+  {
+    "id": "tristan-angels",
+    "name": "Tristan Angels",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Posh 'Mr. England' nobleman",
+    "register": "Trickster",
+    "notes": "British sheep-farmer-noble gimmick; hot debut; 'Mr. NXT' pageant feud w/ Shiloh Hill."
+  },
+  {
+    "id": "the-culling",
+    "name": "The Culling",
+    "alignment": "heel",
+    "faction": "The Culling",
+    "brand": "NXT",
+    "archetype": "Vet-led enforcer unit",
+    "register": "Shadow",
+    "notes": "Shawn Spears (grizzled leader) & Niko Vance (powerhouse). Spears went rogue w/ a chair on OTM 5/26; feud w/ OTM."
+  },
+  {
+    "id": "otm",
+    "name": "OTM",
+    "alignment": "tweener",
+    "faction": "OTM (Of The Machine)",
+    "brand": "NXT",
+    "archetype": "Bruiser tag unit",
+    "register": "Demihero",
+    "notes": "Bronco Nima & Lucien Price; brawling w/ The Culling."
+  },
+  {
+    "id": "sean-legacy",
+    "name": "Sean Legacy",
+    "alignment": "babyface",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Chosen-heir high-flyer",
+    "register": "Transitional",
+    "notes": "'Super' Sean Legacy; Speed-tournament entrant (3-min draw w/ Van Dux 5/26, both eliminated)."
+  },
+  {
+    "id": "dorian-van-dux",
+    "name": "Dorian Van Dux",
+    "alignment": "heel",
+    "faction": null,
+    "brand": "NXT",
+    "archetype": "Continental aristocrat / Dorian-Gray aesthete",
+    "register": "Transitional",
+    "notes": "Belgian ex-wXw European Champ; Speed-tournament entrant (draw w/ Sean Legacy 5/26)."
   }
 ]
