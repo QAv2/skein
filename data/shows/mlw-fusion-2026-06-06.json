@@ -12,10 +12,10 @@
    "carriers": [
     "killer-kross"
    ],
-   "threads_advanced": [],
-   "threads_opened": [
+   "threads_advanced": [
     "kross-world-title-reign"
    ],
+   "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
    "outcome": "Kross's first address as World Champion. Declines the victory-lap: 'I want to talk about this company and about some of you.' Names the fans' sacrifice (tickets, hours driven, flights), then the thesis run: 'It's not about social trends. It's not about stockholders. It's not about viral moments... not about tribalism, not about throwing shade. What it's about, at its core, is professional wrestling.' Closes to first-time viewers: 'Welcome to the new beginning.'",
@@ -36,7 +36,8 @@
     "shotzi-monster-hunt"
    ],
    "threads_closed": [
-    "nakajima-womens-reign"
+    "nakajima-womens-reign",
+    "shotzi-featherweight-challenge"
    ],
    "threads_transformed": [],
    "outcome": "TITLE CHANGE — Shotzi Blackheart def. Shoko Nakajima (senton, leg hooked) to win the MLW Women's World Championship, ending Nakajima's 14-month reign (champion since April 2025, MLW's most dominant women's champion to date). Back-and-forth war: tiger fade kicks and senton battles both ways; Shotzi survived the northern-lights bridge and the top-rope senton, won the senton exchange. Post-match: 'Now that I've got gold, it's time I hunt some monsters.'",
@@ -54,11 +55,10 @@
     "blue-panther"
    ],
    "threads_advanced": [
-    "mistico-world-title-pursuit"
-   ],
-   "threads_opened": [
+    "mistico-world-title-pursuit",
     "diego-hill-ascent"
    ],
+   "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
    "outcome": "Místico def. Diego Hill (w/ Blue Panther ringside) — spinning headscissors, flip piledriver, frog splash. Commentary scored it near 50/50 ('a 10-10 round') until Místico's late surge. Post-match: full respect ceremony — Místico endorses Hill before the crowd ('you belong here'), Blue Panther approving, 'DIEGO' chants.",
@@ -75,16 +75,16 @@
     "blue-panther",
     "diego-hill"
    ],
-   "threads_advanced": [],
-   "threads_opened": [
+   "threads_advanced": [
     "aries-blue-panther-national-title"
    ],
+   "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
    "outcome": "Austin Aries (pre-tape with Rich Bocchini, signing 'autographed tortillas') challenges Blue Panther for the National Openweight Championship: 'teach your protégé that you've still got some cojones and put that title on the line against the one, the only Austin Aries.' Tells Diego Hill to sit ringside and learn that Blue Panther 'no vale nada.'",
    "stand_tall": "heel",
    "register": "the self-anointed great disrespects the maestro",
-   "notes": "Classic heel-challenge construction: the insult targets the mentorship itself (the thing the Místico match just consecrated), not just the champion. Sets a three-sided thread: champion, challenger, watching protégé."
+   "notes": "Second beat of the challenge issued in-ring on the premiere — this pre-tape re-aims it at the mentorship itself (the thing the Místico match just consecrated). Three-sided thread: champion, challenger, watching protégé."
   },
   {
    "id": "mlw-fusion-2026-06-06-seg-05",
@@ -116,11 +116,10 @@
     "mads-krueger"
    ],
    "threads_advanced": [
-    "contra-unit-terror"
-   ],
-   "threads_opened": [
+    "contra-unit-terror",
     "krueger-contra-reckoning"
    ],
+   "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
    "outcome": "Video package: Mads Krueger, five years the 'Black Hand of Contra' and a former World Champion under their banner, declared independence — and hasn't been seen since Battle Riot in January. 'If they can do such damage to the monster they created, what will they be capable of doing to us all?'",
@@ -135,10 +134,10 @@
    "carriers": [
     "alexander-hammerstone"
    ],
-   "threads_advanced": [],
-   "threads_opened": [
+   "threads_advanced": [
     "hammerstone-title-claim"
    ],
+   "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
    "outcome": "Hammerstone with Rich Bocchini: calls next week's Kross–Riddle title match 'two of the biggest stars MLW has to offer... excluding me, of course,' refers to the World title as 'my championship,' and leans on Bocchini to book him travel and a ringside seat for the sellout.",
@@ -151,15 +150,15 @@
    "type": "video",
    "position": "other",
    "carriers": [
-    "somaya"
+    "zamaya"
    ],
    "threads_advanced": [
-    "somaya-arrival"
+    "zamaya-arrival"
    ],
    "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
-   "outcome": "Hype recap: Somaya, one week into the MLW women's division — 'physical force... violent and unforgiving.'",
+   "outcome": "Hype recap: Zamaya, one week into the MLW women's division — 'physical force... violent and unforgiving.'",
    "stand_tall": "heel",
    "register": "the destroyer arrives as the division's throne changes hands",
    "notes": "Placed the same night the Women's title changes — the division gets a new champion and a new monster in one episode. Natural collision course with Shotzi's 'monster hunting' mission statement (not yet acknowledged on-screen)."
@@ -195,14 +194,13 @@
     "matt-riddle"
    ],
    "threads_advanced": [
+    "kross-vs-riddle-rematch",
     "kross-world-title-reign"
    ],
-   "threads_opened": [
-    "kross-vs-riddle-rematch"
-   ],
+   "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
-   "outcome": "Closing package: Kross–Riddle 2 confirmed for next week's Fusion, World title on the line. Riddle signed an open contract 'earlier today.' Package frames a one-time friendship torn apart ('I'm a sicko. You're a sicko. That's why we always get along'); Riddle promises the choke, Kross answers 'I'm going to leave you where I find you. Tick tock.'",
+   "outcome": "Closing package: Kross–Riddle 2 confirmed for next week's Fusion, World title on the line — re-airing the signing saga from the premiere (Riddle signed the open contract there; the 'open contract I signed earlier today' line is Kross's press-conference announcement, replayed). Package frames a one-time friendship torn apart ('I'm a sicko. You're a sicko. That's why we always get along'); Riddle promises the choke, Kross answers 'I'm going to leave you where I find you. Tick tock.'",
    "stand_tall": "split",
    "register": "broken brotherhood as title program — the sicko mirror",
    "notes": "Also teased for next week: Cesar Duran in the house with a front-office source claiming 'no turning back,' and MLW's newest championship to be detailed (commentary's 'Southern Crown' rumor from seg-03 is the likely referent). Three converging next-week hooks on one show = heavy load-in for the 6/13 episode."

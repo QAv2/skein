@@ -1917,28 +1917,29 @@
   "id": "kross-world-title-reign",
   "name": "Kross's World title reign — the new beginning",
   "type": "arc",
-  "opened_at": "mlw-fusion-2026-06-06",
-  "opened_by_segment": "mlw-fusion-2026-06-06-seg-01",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-01",
   "carriers": [
    "killer-kross"
   ],
   "register": "the discarded man crowned by the groundswell",
   "promised_payoff": "next-week",
-  "notes": "Reign began at Battle Riot 8 (pre-corpus); corpus picks it up at the coronation address. First defense: Riddle, 6/13 Fusion. The reign is being written as the company's own thesis — champion and relaunch as one arc."
+  "notes": "Won at Battle Riot 8 (Contra destroyed defending champion Krueger mid-Riot; Kross outlasted 39). Corpus opens with the recap + press conference + open contract; the 6/6 coronation thesis promo is the reign's mission statement. First defense: Riddle, 6/13."
  },
  {
   "id": "kross-vs-riddle-rematch",
   "name": "Kross vs Riddle 2 — broken brotherhood, title stakes",
   "type": "feud",
-  "opened_at": "mlw-fusion-2026-06-06",
-  "opened_by_segment": "mlw-fusion-2026-06-06-seg-10",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-08",
   "carriers": [
    "killer-kross",
    "matt-riddle"
   ],
   "register": "the sicko mirror — friendship torn by the desire to be the man",
-  "promised_payoff": "next-week",
-  "notes": "Riddle signed an open contract day-of-show. History: Riddle has choked Kross out before ('every time we roll'). Hammerstone angling to be ringside (seg-07) = third-man shadow over the match."
+  "promised_payoff": "specific-show",
+  "notes": "Riddle signed the open contract on the premiere (hour one closer); match set for 6/13 Fusion. History: former friends/sparring partners with choke-out wagers; Riddle is a FORMER champion with a prior loss to Kross. Hammerstone circling ringside = third-man shadow.",
+  "promised_payoff_show": "mlw-fusion-2026-06-13"
  },
  {
   "id": "nakajima-womens-reign",
@@ -1960,11 +1961,11 @@
   "opened_by_segment": "mlw-fusion-2026-06-06-seg-02",
   "carriers": [
    "shotzi-blackheart",
-   "somaya"
+   "zamaya"
   ],
   "register": "chaos crowned — the hunter's mission statement",
   "promised_payoff": "undefined",
-  "notes": "Opened in the win itself: 'now that I've got gold, it's time I hunt some monsters.' Somaya (arrived one week prior, monster-coded) is the obvious unacknowledged collision; carrier listed speculatively for the convergence read."
+  "notes": "Opened in the win itself: 'now that I've got gold, it's time I hunt some monsters.' Zamaya (arrived one week prior, monster-coded) is the obvious unacknowledged collision; carrier listed speculatively for the convergence read."
  },
  {
   "id": "mistico-world-title-pursuit",
@@ -1983,8 +1984,8 @@
   "id": "diego-hill-ascent",
   "name": "Diego Hill's ascent",
   "type": "arc",
-  "opened_at": "mlw-fusion-2026-06-06",
-  "opened_by_segment": "mlw-fusion-2026-06-06-seg-03",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-11",
   "carriers": [
    "diego-hill",
    "blue-panther",
@@ -1992,14 +1993,14 @@
   ],
   "register": "elevation in defeat — the endorsement ceremony",
   "promised_payoff": "undefined",
-  "notes": "Hung 50/50 with Místico; Místico's public 'you belong here' + Blue Panther's approval = the promotion formally consecrating a future star. Aries dragging him into the National-title challenge (seg-04) gives the arc its first test of loyalty."
+  "notes": "Opens with the gritted-out Adam Brooks war (premiere hour two) — the win that earns the Místico match one week later, where he's consecrated in defeat ('you belong here'). Aries dragging him into the National-title challenge gives the arc its first loyalty test."
  },
  {
   "id": "aries-blue-panther-national-title",
   "name": "Aries challenges Blue Panther — National Openweight",
   "type": "feud",
-  "opened_at": "mlw-fusion-2026-06-06",
-  "opened_by_segment": "mlw-fusion-2026-06-06-seg-04",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-07",
   "carriers": [
    "austin-aries",
    "blue-panther",
@@ -2013,8 +2014,8 @@
   "id": "contra-unit-terror",
   "name": "Contra Unit — sports terrorism resumes",
   "type": "arc",
-  "opened_at": "mlw-fusion-2026-06-06",
-  "opened_by_segment": "mlw-fusion-2026-06-06-seg-05",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-06",
   "carriers": [
    "kushida",
    "okumura",
@@ -2043,8 +2044,8 @@
   "id": "krueger-contra-reckoning",
   "name": "Krueger's reckoning with Contra",
   "type": "arc",
-  "opened_at": "mlw-fusion-2026-06-06",
-  "opened_by_segment": "mlw-fusion-2026-06-06-seg-06",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-06",
   "carriers": [
    "mads-krueger",
    "kushida",
@@ -2058,8 +2059,8 @@
   "id": "hammerstone-title-claim",
   "name": "Hammerstone's claim on 'my championship'",
   "type": "arc",
-  "opened_at": "mlw-fusion-2026-06-06",
-  "opened_by_segment": "mlw-fusion-2026-06-06-seg-07",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-04",
   "carriers": [
    "alexander-hammerstone",
    "killer-kross",
@@ -2070,16 +2071,17 @@
   "notes": "Former champion maneuvering toward ringside at Kross–Riddle 2. Comedy surface, succession-threat core."
  },
  {
-  "id": "somaya-arrival",
-  "name": "Somaya's arrival",
+  "id": "zamaya-arrival",
+  "name": "Zamaya's arrival",
   "type": "arc",
   "opened_at": "mlw-fusion-2026-05-30",
   "carriers": [
-   "somaya"
+   "zamaya"
   ],
   "register": "the destroyer in week two",
   "promised_payoff": "undefined",
-  "notes": "Debuted the prior week (pre-corpus by one episode); advanced 6/6 via hype recap the same night the division's throne changed hands."
+  "notes": "Debuted the prior week (pre-corpus by one episode); advanced 6/6 via hype recap the same night the division's throne changed hands.",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-13"
  },
  {
   "id": "skyscrapers-good-brothers",
@@ -2108,5 +2110,62 @@
   "register": "the stronghold — reigning since June 2025",
   "promised_payoff": "undefined",
   "notes": "Pre-corpus reign; survived its sternest test yet 6/6. 'Still the team of MLW's tag division.'"
+ },
+ {
+  "id": "shotzi-featherweight-challenge",
+  "name": "Shotzi's challenge to the Big Kaiju",
+  "type": "feud",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-02",
+  "carriers": [
+   "shotzi-blackheart",
+   "shoko-nakajima"
+  ],
+  "register": "the undefeated hunter calls the champion home from Japan",
+  "promised_payoff": "next-week",
+  "promised_payoff_show": "mlw-fusion-2026-06-06",
+  "notes": "Two-beat build: challenge (hour one) → satellite acceptance (hour two) → PAID IN FULL 6/6 (title change). Skein's first complete MLW promise-to-payoff arc."
+ },
+ {
+  "id": "kelly-spotlight-hunt",
+  "name": "Priscilla Kelly's spotlight hunt",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-02",
+  "carriers": [
+   "priscilla-kelly"
+  ],
+  "register": "all eyes or else",
+  "promised_payoff": "undefined",
+  "notes": "Lost the opener but the gimmick IS the thread: interrupted 'Chachi's Graveyard', brands rivals parasites. Natural re-entry once the new champion needs challengers."
+ },
+ {
+  "id": "scarlett-unbeaten-run",
+  "name": "Scarlett's unbeaten return",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-05",
+  "carriers": [
+   "scarlett-bordeaux",
+   "killer-kross"
+  ],
+  "register": "the household holds two ledgers — 'a new pedestal... but that makes them targets'",
+  "promised_payoff": "undefined",
+  "notes": "Built deliberately parallel to Kross's reign; Kross listed as carrier for the household framing only."
+ },
+ {
+  "id": "gallus-arrival",
+  "name": "The Coffey Brothers arrive (Gallus)",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "opened_by_segment": "mlw-fusion-2026-05-30-seg-09",
+  "carriers": [
+   "joe-coffey",
+   "mark-coffey",
+   "wolfgang"
+  ],
+  "register": "designer violence joins the tag war — a third pack circles the belts",
+  "promised_payoff": "undefined",
+  "notes": "Debut loss to the Good Brothers with the champions watching from commentary; eyed the belts on the way in. The tag division now holds three credible packs."
  }
 ]
