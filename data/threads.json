@@ -1912,5 +1912,201 @@
   "register": "the slow betrayal",
   "promised_payoff": "undefined",
   "notes": "Payoff intent: Best-friends Grey & Sinclair tip into a singles feud. Sinclair (Speed Champ, working hurt) attacked Grey from behind to set a singles match -- classic teased-betrayal seed."
+ },
+ {
+  "id": "kross-world-title-reign",
+  "name": "Kross's World title reign — the new beginning",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-01",
+  "carriers": [
+   "killer-kross"
+  ],
+  "register": "the discarded man crowned by the groundswell",
+  "promised_payoff": "next-week",
+  "notes": "Reign began at Battle Riot 8 (pre-corpus); corpus picks it up at the coronation address. First defense: Riddle, 6/13 Fusion. The reign is being written as the company's own thesis — champion and relaunch as one arc."
+ },
+ {
+  "id": "kross-vs-riddle-rematch",
+  "name": "Kross vs Riddle 2 — broken brotherhood, title stakes",
+  "type": "feud",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-10",
+  "carriers": [
+   "killer-kross",
+   "matt-riddle"
+  ],
+  "register": "the sicko mirror — friendship torn by the desire to be the man",
+  "promised_payoff": "next-week",
+  "notes": "Riddle signed an open contract day-of-show. History: Riddle has choked Kross out before ('every time we roll'). Hammerstone angling to be ringside (seg-07) = third-man shadow over the match."
+ },
+ {
+  "id": "nakajima-womens-reign",
+  "name": "Nakajima's Women's World reign",
+  "type": "arc",
+  "opened_at": "mlw-2025-04",
+  "carriers": [
+   "shoko-nakajima"
+  ],
+  "register": "the Big Kaiju — 14 months of manifested mindset",
+  "promised_payoff": "undefined",
+  "notes": "Pre-corpus reign (April 2025); entered the corpus only to close — Shotzi ends it 6/6. Defended across US/Japan/Singapore; MLW's most dominant women's champion to date."
+ },
+ {
+  "id": "shotzi-monster-hunt",
+  "name": "Shotzi's reign — the monster hunt",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-02",
+  "carriers": [
+   "shotzi-blackheart",
+   "somaya"
+  ],
+  "register": "chaos crowned — the hunter's mission statement",
+  "promised_payoff": "undefined",
+  "notes": "Opened in the win itself: 'now that I've got gold, it's time I hunt some monsters.' Somaya (arrived one week prior, monster-coded) is the obvious unacknowledged collision; carrier listed speculatively for the convergence read."
+ },
+ {
+  "id": "mistico-world-title-pursuit",
+  "name": "Místico's World title pursuit",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-03",
+  "carriers": [
+   "mistico"
+  ],
+  "register": "the legend's claim — does the Opera Cup entitle the shot?",
+  "promised_payoff": "undefined",
+  "notes": "SI-stated goal: World title this year. Back-to-back Opera Cup credential debated on commentary as automatic-contendership question. Converges eventually with the Kross reign arc."
+ },
+ {
+  "id": "diego-hill-ascent",
+  "name": "Diego Hill's ascent",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-03",
+  "carriers": [
+   "diego-hill",
+   "blue-panther",
+   "mistico"
+  ],
+  "register": "elevation in defeat — the endorsement ceremony",
+  "promised_payoff": "undefined",
+  "notes": "Hung 50/50 with Místico; Místico's public 'you belong here' + Blue Panther's approval = the promotion formally consecrating a future star. Aries dragging him into the National-title challenge (seg-04) gives the arc its first test of loyalty."
+ },
+ {
+  "id": "aries-blue-panther-national-title",
+  "name": "Aries challenges Blue Panther — National Openweight",
+  "type": "feud",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-04",
+  "carriers": [
+   "austin-aries",
+   "blue-panther",
+   "diego-hill"
+  ],
+  "register": "the self-anointed vs the maestro — mentorship as the real target",
+  "promised_payoff": "undefined",
+  "notes": "Challenge issued, not yet accepted. Aries aimed the insult at the teaching ('no vale nada'), and summoned Hill ringside — three-sided by design."
+ },
+ {
+  "id": "contra-unit-terror",
+  "name": "Contra Unit — sports terrorism resumes",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-05",
+  "carriers": [
+   "kushida",
+   "okumura",
+   "mads-krueger"
+  ],
+  "register": "the faction that devours outward and inward alike",
+  "promised_payoff": "undefined",
+  "notes": "Pre-corpus institution (5+ years per the Krueger package); corpus picks it up at the Kushida reveal. Same-night construction: recruit a champion (seg-05), be shown destroying your former centerpiece (seg-06)."
+ },
+ {
+  "id": "kushida-vs-angels",
+  "name": "Kushida vs Alan Angels — postponed by ambush",
+  "type": "feud",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-05",
+  "carriers": [
+   "kushida",
+   "alan-angels",
+   "okumura"
+  ],
+  "register": "the stolen match — injury heat as IOU",
+  "promised_payoff": "undefined",
+  "notes": "Scheduled match converted into a promised payoff by the Contra ambush. Angels with the league physician; date unannounced."
+ },
+ {
+  "id": "krueger-contra-reckoning",
+  "name": "Krueger's reckoning with Contra",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-06",
+  "carriers": [
+   "mads-krueger",
+   "kushida",
+   "okumura"
+  ],
+  "register": "the severed Black Hand — absence banked as menace",
+  "promised_payoff": "undefined",
+  "notes": "Unseen since Battle Riot (January). The package's open question ('what will they be capable of doing to us all?') frames his return as the division-wide stake."
+ },
+ {
+  "id": "hammerstone-title-claim",
+  "name": "Hammerstone's claim on 'my championship'",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-06-06",
+  "opened_by_segment": "mlw-fusion-2026-06-06-seg-07",
+  "carriers": [
+   "alexander-hammerstone",
+   "killer-kross",
+   "matt-riddle"
+  ],
+  "register": "the displaced king at ringside",
+  "promised_payoff": "undefined",
+  "notes": "Former champion maneuvering toward ringside at Kross–Riddle 2. Comedy surface, succession-threat core."
+ },
+ {
+  "id": "somaya-arrival",
+  "name": "Somaya's arrival",
+  "type": "arc",
+  "opened_at": "mlw-fusion-2026-05-30",
+  "carriers": [
+   "somaya"
+  ],
+  "register": "the destroyer in week two",
+  "promised_payoff": "undefined",
+  "notes": "Debuted the prior week (pre-corpus by one episode); advanced 6/6 via hype recap the same night the division's throne changed hands."
+ },
+ {
+  "id": "skyscrapers-good-brothers",
+  "name": "Skyscrapers vs Good Brothers",
+  "type": "feud",
+  "opened_at": "mlw-2025-charleston",
+  "carriers": [
+   "donovan-dijak",
+   "bishop-dyer",
+   "karl-anderson",
+   "doc-gallows"
+  ],
+  "register": "two towers vs eight crowns — the war the bell can't end",
+  "promised_payoff": "undefined",
+  "notes": "Pre-corpus lineage cited on air: Charleston (2025) → Battle Riot → Chicago tables match (6/6, champs retain). Post-match brawl continued past the broadcast — explicitly NOT closed."
+ },
+ {
+  "id": "skyscrapers-tag-reign",
+  "name": "The Skyscrapers' tag reign",
+  "type": "arc",
+  "opened_at": "mlw-2025-06",
+  "carriers": [
+   "donovan-dijak",
+   "bishop-dyer"
+  ],
+  "register": "the stronghold — reigning since June 2025",
+  "promised_payoff": "undefined",
+  "notes": "Pre-corpus reign; survived its sternest test yet 6/6. 'Still the team of MLW's tag division.'"
  }
 ]

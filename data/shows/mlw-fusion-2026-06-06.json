@@ -1,0 +1,211 @@
+{
+ "id": "mlw-fusion-2026-06-06",
+ "show": "MLW Fusion",
+ "date": "2026-06-06",
+ "venue": "Cicero Stadium, Chicago, IL (sold out)",
+ "context": "First MLW show ingested into Skein — the relaunch-era Fusion (free on YouTube since May 30). Post-Battle Riot 8 landscape: Killer Kross = new MLW World Heavyweight Champion ('blood king of the Battle Riot'), opening the show with his first address as champion. Chicago billed as 'title town': Women's World title + World Tag titles both contested. Curated by hand from the full episode transcript (YouTube vpLw7ceafes, auto-captions — names normalized: Kross not 'Cross', Nakajima, Dijak, Bocchini). One backstage comedy vignette (tequila/'Dangato' bit, ~46:00) omitted as a segment — captions too garbled to attribute carriers honestly.",
+ "segments": [
+  {
+   "id": "mlw-fusion-2026-06-06-seg-01",
+   "type": "promo",
+   "position": "cold-open",
+   "carriers": [
+    "killer-kross"
+   ],
+   "threads_advanced": [],
+   "threads_opened": [
+    "kross-world-title-reign"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Kross's first address as World Champion. Declines the victory-lap: 'I want to talk about this company and about some of you.' Names the fans' sacrifice (tickets, hours driven, flights), then the thesis run: 'It's not about social trends. It's not about stockholders. It's not about viral moments... not about tribalism, not about throwing shade. What it's about, at its core, is professional wrestling.' Closes to first-time viewers: 'Welcome to the new beginning.'",
+   "stand_tall": "babyface",
+   "register": "coronation as company thesis — the champion speaks for the promotion, not himself",
+   "notes": "Structurally a mission-statement promo wearing a coronation's clothes: WWE (stockholders) and AEW (tribalism/throwing shade) dismissed in one breath, unnamed. The 'world moves on without you... do not ever give up on yourself' passage is the WWE-release-diaspora arc spoken from inside it — Kross as living proof. 'New beginning' = relaunch language made canon."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-02",
+   "type": "match",
+   "position": "A-block",
+   "carriers": [
+    "shotzi-blackheart",
+    "shoko-nakajima"
+   ],
+   "threads_advanced": [],
+   "threads_opened": [
+    "shotzi-monster-hunt"
+   ],
+   "threads_closed": [
+    "nakajima-womens-reign"
+   ],
+   "threads_transformed": [],
+   "outcome": "TITLE CHANGE — Shotzi Blackheart def. Shoko Nakajima (senton, leg hooked) to win the MLW Women's World Championship, ending Nakajima's 14-month reign (champion since April 2025, MLW's most dominant women's champion to date). Back-and-forth war: tiger fade kicks and senton battles both ways; Shotzi survived the northern-lights bridge and the top-rope senton, won the senton exchange. Post-match: 'Now that I've got gold, it's time I hunt some monsters.'",
+   "stand_tall": "babyface",
+   "register": "chaos dethrones control — the kaiju falls to the monster hunter",
+   "notes": "Commentary framed the style clash explicitly: Nakajima control/poise vs Shotzi chaos/no-recovery-wanted. The 'monster hunting' line both honors the kaiju gimmick she beat and opens her reign's mission statement. The episode title's 'TITLE CHANGE' is this match."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-03",
+   "type": "match",
+   "position": "B-block",
+   "carriers": [
+    "mistico",
+    "diego-hill",
+    "blue-panther"
+   ],
+   "threads_advanced": [
+    "mistico-world-title-pursuit"
+   ],
+   "threads_opened": [
+    "diego-hill-ascent"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Místico def. Diego Hill (w/ Blue Panther ringside) — spinning headscissors, flip piledriver, frog splash. Commentary scored it near 50/50 ('a 10-10 round') until Místico's late surge. Post-match: full respect ceremony — Místico endorses Hill before the crowd ('you belong here'), Blue Panther approving, 'DIEGO' chants.",
+   "stand_tall": "babyface",
+   "register": "the legend tests the protégé — lucha lineage as living institution",
+   "notes": "Místico billed as back-to-back Opera Cup winner, 1M+ tickets at Arena México in 2025, only one MLW loss; SI quote: he wants the World title this year — commentary debated whether Opera Cup wins should entitle the shot. Hill (27, Blue Panther trainee, Puerto Rican heritage, Battle Riot 8 standout) elevated in defeat. Commentary also floated 'Southern Crown Championship' rumors mid-match — seeds the new-title tease."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-04",
+   "type": "backstage",
+   "position": "B-block",
+   "carriers": [
+    "austin-aries",
+    "blue-panther",
+    "diego-hill"
+   ],
+   "threads_advanced": [],
+   "threads_opened": [
+    "aries-blue-panther-national-title"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Austin Aries (pre-tape with Rich Bocchini, signing 'autographed tortillas') challenges Blue Panther for the National Openweight Championship: 'teach your protégé that you've still got some cojones and put that title on the line against the one, the only Austin Aries.' Tells Diego Hill to sit ringside and learn that Blue Panther 'no vale nada.'",
+   "stand_tall": "heel",
+   "register": "the self-anointed great disrespects the maestro",
+   "notes": "Classic heel-challenge construction: the insult targets the mentorship itself (the thing the Místico match just consecrated), not just the champion. Sets a three-sided thread: champion, challenger, watching protégé."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-05",
+   "type": "angle",
+   "position": "B-block",
+   "carriers": [
+    "kushida",
+    "okumura",
+    "alan-angels"
+   ],
+   "threads_advanced": [
+    "contra-unit-terror"
+   ],
+   "threads_opened": [
+    "kushida-vs-angels"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Kushida (new Middleweight Champion, revealed as Contra Unit's newest member) and Okumura stomp Alan Angels in a backstage ambush before their scheduled match. Angels taken to the league physician; MLW postpones Kushida vs Angels.",
+   "stand_tall": "heel",
+   "register": "the faction swallows a champion — sports terrorism resumes",
+   "notes": "The Kushida-joins-Contra reveal lands as an attack, not an announcement. The postponed match converts directly into a promised payoff with injury heat attached."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-06",
+   "type": "video",
+   "position": "B-block",
+   "carriers": [
+    "mads-krueger"
+   ],
+   "threads_advanced": [
+    "contra-unit-terror"
+   ],
+   "threads_opened": [
+    "krueger-contra-reckoning"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Video package: Mads Krueger, five years the 'Black Hand of Contra' and a former World Champion under their banner, declared independence — and hasn't been seen since Battle Riot in January. 'If they can do such damage to the monster they created, what will they be capable of doing to us all?'",
+   "stand_tall": "heel",
+   "register": "the faction devours its own — absence as menace",
+   "notes": "Pairs deliberately with seg-05: Contra adds a champion in one segment and is shown destroying its former centerpiece in the next. Krueger's absence is being banked as a return story."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-07",
+   "type": "backstage",
+   "position": "B-block",
+   "carriers": [
+    "alexander-hammerstone"
+   ],
+   "threads_advanced": [],
+   "threads_opened": [
+    "hammerstone-title-claim"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Hammerstone with Rich Bocchini: calls next week's Kross–Riddle title match 'two of the biggest stars MLW has to offer... excluding me, of course,' refers to the World title as 'my championship,' and leans on Bocchini to book him travel and a ringside seat for the sellout.",
+   "stand_tall": "heel",
+   "register": "the displaced king invites himself to the coronation rematch",
+   "notes": "Comedy register over a serious wedge: a former champion positioning himself at ringside for a title match is a third-man tease. 'Rifling MY championship' is the tell."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-08",
+   "type": "video",
+   "position": "other",
+   "carriers": [
+    "somaya"
+   ],
+   "threads_advanced": [
+    "somaya-arrival"
+   ],
+   "threads_opened": [],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Hype recap: Somaya, one week into the MLW women's division — 'physical force... violent and unforgiving.'",
+   "stand_tall": "heel",
+   "register": "the destroyer arrives as the division's throne changes hands",
+   "notes": "Placed the same night the Women's title changes — the division gets a new champion and a new monster in one episode. Natural collision course with Shotzi's 'monster hunting' mission statement (not yet acknowledged on-screen)."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-09",
+   "type": "match",
+   "position": "main-event",
+   "carriers": [
+    "donovan-dijak",
+    "bishop-dyer",
+    "karl-anderson",
+    "doc-gallows"
+   ],
+   "threads_advanced": [
+    "skyscrapers-good-brothers",
+    "skyscrapers-tag-reign"
+   ],
+   "threads_opened": [],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "The Skyscrapers (Donovan Dijak & Bishop Dyer) def. The Good Brothers (Karl Anderson & Doc Gallows) in a double-tables match to RETAIN the MLW World Tag Team Championships — both opponents must go through tables. Brawl started before the bell, through the crowd and merch area; Gallows bled heavily, was put through a table by the 2-on-1; Anderson answered by driving Dyer through one, then Dijak threw Anderson through the final table. Post-match: the brawl CONTINUES — refs can't separate them ('can we get Chicago PD here?').",
+   "stand_tall": "heel",
+   "register": "the stronghold holds — but the war doesn't end at the bell",
+   "notes": "Commentary's literal call: 'Skyscrapers still stand tall.' Good Brothers face-coded in defeat ('fought their hearts out', 8x world tag champs chasing #9). Explicit feud lineage cited on air: Charleston (last year) → Battle Riot → tonight. Non-finish heat preserved: the thread stays open by design."
+  },
+  {
+   "id": "mlw-fusion-2026-06-06-seg-10",
+   "type": "video",
+   "position": "other",
+   "carriers": [
+    "killer-kross",
+    "matt-riddle"
+   ],
+   "threads_advanced": [
+    "kross-world-title-reign"
+   ],
+   "threads_opened": [
+    "kross-vs-riddle-rematch"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Closing package: Kross–Riddle 2 confirmed for next week's Fusion, World title on the line. Riddle signed an open contract 'earlier today.' Package frames a one-time friendship torn apart ('I'm a sicko. You're a sicko. That's why we always get along'); Riddle promises the choke, Kross answers 'I'm going to leave you where I find you. Tick tock.'",
+   "stand_tall": "split",
+   "register": "broken brotherhood as title program — the sicko mirror",
+   "notes": "Also teased for next week: Cesar Duran in the house with a front-office source claiming 'no turning back,' and MLW's newest championship to be detailed (commentary's 'Southern Crown' rumor from seg-03 is the likely referent). Three converging next-week hooks on one show = heavy load-in for the 6/13 episode."
+  }
+ ]
+}

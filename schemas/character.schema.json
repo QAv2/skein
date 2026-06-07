@@ -5,7 +5,10 @@
   "description": "A carrier of threads. Stable roster entry; alignment/faction can shift via arc, but the character id is stable.",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "name"],
+  "required": [
+    "id",
+    "name"
+  ],
   "properties": {
     "id": {
       "type": "string",
@@ -18,20 +21,40 @@
     },
     "alignment": {
       "type": "string",
-      "enum": ["babyface", "heel", "tweener", "unknown"],
+      "enum": [
+        "babyface",
+        "heel",
+        "tweener",
+        "unknown"
+      ],
       "description": "Current alignment. Snapshots; revise when the character turns."
     },
     "faction": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Faction id or null. References factions if faction registry added later."
     },
     "brand": {
       "type": "string",
-      "enum": ["Raw", "SmackDown", "NXT", "AAA", "free-agent", "released", "offscreen"],
+      "enum": [
+        "Raw",
+        "SmackDown",
+        "NXT",
+        "AAA",
+        "MLW",
+        "free-agent",
+        "released",
+        "offscreen"
+      ],
       "description": "Roster placement."
     },
     "archetype": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Worked Shoot archetype assignment, e.g. 'Grail', 'Bound-Loki'. Null if not framework-tagged."
     },
     "register": {

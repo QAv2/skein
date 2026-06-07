@@ -1,1373 +1,1553 @@
 [
-  {
-    "id": "cody-rhodes",
-    "name": "Cody Rhodes",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "grail",
-    "register": "Pantheon",
-    "notes": "Undisputed WWE Champion (3rd reign, 9wks at Backlash). WM42 orbital fracture from Orton punt."
-  },
-  {
-    "id": "roman-reigns",
-    "name": "Roman Reigns",
-    "alignment": "tweener",
-    "faction": "bloodline-original",
-    "brand": "Raw",
-    "archetype": "patriarch",
-    "register": "Pantheon"
-  },
-  {
-    "id": "jacob-fatu",
-    "name": "Jacob Fatu",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "aitu",
-    "register": "Pantheon",
-    "notes": "Free-agent aitu. Declared for Raw on SD 4/25."
-  },
-  {
-    "id": "seth-rollins",
-    "name": "Seth Rollins",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "bound-loki",
-    "register": "Pantheon"
-  },
-  {
-    "id": "bron-breakker",
-    "name": "Bron Breakker",
-    "alignment": "heel",
-    "faction": "vision",
-    "brand": "Raw",
-    "archetype": "devourer-rising",
-    "register": "Pantheon"
-  },
-  {
-    "id": "gunther",
-    "name": "Gunther",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "career-killer",
-    "register": "Pantheon",
-    "notes": "Sleeper attack on Cody SD 5/01 opened the Backlash feud."
-  },
-  {
-    "id": "penta",
-    "name": "Penta",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "lucha-warrior",
-    "register": "Constant",
-    "notes": "IC Champion. Aztec / Tezcatlipoca-jaguar register."
-  },
-  {
-    "id": "becky-lynch",
-    "name": "Becky Lynch",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "nemesis",
-    "register": "Pantheon",
-    "notes": "Women's IC Champion."
-  },
-  {
-    "id": "joe-hendry",
-    "name": "Joe Hendry",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "orphic-bard",
-    "register": "Liminal-Warrior"
-  },
-  {
-    "id": "oba-femi",
-    "name": "Oba Femi",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "ascending-orisha",
-    "register": "Pantheon"
-  },
-  {
-    "id": "stephanie-vaquer",
-    "name": "Stephanie Vaquer",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "offscreen",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Legit AC sprain after JD coven ambush 4/27; written off indefinitely."
-  },
-  {
-    "id": "jd-mcdonagh",
-    "name": "JD McDonagh",
-    "alignment": "heel",
-    "faction": "judgment-day",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "finn-balor",
-    "name": "Finn B\u00e1lor",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "fomorian-exile",
-    "register": "Constant",
-    "notes": "Hosting 'Club House' since JD ejection."
-  },
-  {
-    "id": "dom-mysterio",
-    "name": "Dominik Mysterio",
-    "alignment": "heel",
-    "faction": "judgment-day",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "liv-morgan",
-    "name": "Liv Morgan",
-    "alignment": "heel",
-    "faction": "judgment-day",
-    "brand": "Raw",
-    "archetype": "inanna",
-    "register": "Constant",
-    "notes": "JD coven leader."
-  },
-  {
-    "id": "roxanne-perez",
-    "name": "Roxanne Perez",
-    "alignment": "heel",
-    "faction": "judgment-day",
-    "brand": "Raw",
-    "archetype": "jd-apprentice",
-    "register": "Constant"
-  },
-  {
-    "id": "raquel-rodriguez",
-    "name": "Raquel Rodriguez",
-    "alignment": "heel",
-    "faction": "judgment-day",
-    "brand": "Raw",
-    "archetype": "jd-enforcer",
-    "register": "Constant"
-  },
-  {
-    "id": "logan-paul",
-    "name": "Logan Paul",
-    "alignment": "heel",
-    "faction": "vision",
-    "brand": "Raw",
-    "archetype": "false-god-influencer",
-    "register": "Pantheon"
-  },
-  {
-    "id": "paul-heyman",
-    "name": "Paul Heyman",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "free-agent",
-    "archetype": "wise-man",
-    "register": "Constant",
-    "notes": "The Constant \u2014 appears across eras, owes favors, advocates for the throne not the man. Cross-brand. Scroll 007 archetype locked SD 5/08."
-  },
-  {
-    "id": "austin-theory",
-    "name": "Austin Theory",
-    "alignment": "heel",
-    "faction": "vision",
-    "brand": "Raw",
-    "archetype": "disposable",
-    "register": "Constant"
-  },
-  {
-    "id": "sol-ruca",
-    "name": "Sol Ruca",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "liminal-warrior",
-    "register": "Liminal-Warrior",
-    "notes": "Officially Raw roster as of 5/04."
-  },
-  {
-    "id": "adam-pearce",
-    "name": "Adam Pearce",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "gatekeeper-institution",
-    "register": "Constant",
-    "notes": "On-screen GM (Raw)."
-  },
-  {
-    "id": "nick-aldis",
-    "name": "Nick Aldis",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "gatekeeper-institution",
-    "register": "Constant",
-    "notes": "On-screen GM (SmackDown)."
-  },
-  {
-    "id": "jimmy-uso",
-    "name": "Jimmy Uso",
-    "alignment": "babyface",
-    "faction": "usos",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Pantheon"
-  },
-  {
-    "id": "jey-uso",
-    "name": "Jey Uso",
-    "alignment": "babyface",
-    "faction": "usos",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Pantheon"
-  },
-  {
-    "id": "solo-sikoa",
-    "name": "Solo Sikoa",
-    "alignment": "heel",
-    "faction": "mfts",
-    "brand": "SmackDown",
-    "archetype": "fallen-chief",
-    "register": "Constant",
-    "notes": "Faction destroyed SD 4/25; demoted to manager-architect SD 5/08."
-  },
-  {
-    "id": "tama-tonga",
-    "name": "Tama Tonga",
-    "alignment": "heel",
-    "faction": "mfts",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Restless within MFTs; took mic from Solo SD 4/25, got superkicked by Fatu."
-  },
-  {
-    "id": "talla-tonga",
-    "name": "Talla Tonga",
-    "alignment": "heel",
-    "faction": "mfts",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Hikuleo / Haku's son / Tama's brother."
-  },
-  {
-    "id": "montez-ford",
-    "name": "Montez Ford",
-    "alignment": "babyface",
-    "faction": "street-profits",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "angelo-dawkins",
-    "name": "Angelo Dawkins",
-    "alignment": "babyface",
-    "faction": "street-profits",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "bayley",
-    "name": "Bayley",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "lyra-valkyria",
-    "name": "Lyra Valkyria",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "badb",
-    "register": "Constant",
-    "notes": "Morrigan-bifurcation aspect."
-  },
-  {
-    "id": "rhea-ripley",
-    "name": "Rhea Ripley",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "macha",
-    "register": "Pantheon",
-    "notes": "Women's Champion (won from Jade at WM42)."
-  },
-  {
-    "id": "asuka",
-    "name": "Asuka",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "onryo",
-    "register": "Pantheon",
-    "notes": "Register expanded 5/04 \u2014 onry\u014d + senpai-authority."
-  },
-  {
-    "id": "iyo-sky",
-    "name": "IYO Sky",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "bride-who-became-queen",
-    "register": "Pantheon"
-  },
-  {
-    "id": "otis",
-    "name": "Otis",
-    "alignment": "babyface",
-    "faction": "alpha-academy",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "akira-tozawa",
-    "name": "Akira Tozawa",
-    "alignment": "babyface",
-    "faction": "alpha-academy",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "chad-gable",
-    "name": "Chad Gable",
-    "alignment": "tweener",
-    "faction": "diamond-mine",
-    "brand": "Raw",
-    "archetype": "og-el-grande-americano",
-    "register": "Constant",
-    "notes": "OG El Grande Americano \u2014 mask-lineage carrier."
-  },
-  {
-    "id": "ludwig-kaiser",
-    "name": "Ludwig Kaiser",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Imposter El Grande Americano (Kaiser version, since June 2025)."
-  },
-  {
-    "id": "rey-mysterio",
-    "name": "Rey Mysterio",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Pantheon",
-    "notes": "AAA crossover ally to OG Gable."
-  },
-  {
-    "id": "julius-creed",
-    "name": "Julius Creed",
-    "alignment": "tweener",
-    "faction": "diamond-mine",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "brutus-creed",
-    "name": "Brutus Creed",
-    "alignment": "tweener",
-    "faction": "diamond-mine",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "bravo-americano",
-    "name": "Bravo Americano",
-    "alignment": "heel",
-    "faction": "los-americanos",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "rayo-americano",
-    "name": "Rayo Americano",
-    "alignment": "heel",
-    "faction": "los-americanos",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "ethan-page",
-    "name": "Ethan Page",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "rusev",
-    "name": "Rusev",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "enforcer-muscle",
-    "register": "Constant"
-  },
-  {
-    "id": "jevon-evans",
-    "name": "Je'Von Evans",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Liminal-Warrior"
-  },
-  {
-    "id": "trick-williams",
-    "name": "Trick Williams",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Pantheon",
-    "notes": "US Champion (post-WM42 win over Sami). Grail Cup ritual SD 5/08 \u2014 archetype pending."
-  },
-  {
-    "id": "lil-yachty",
-    "name": "Lil Yachty",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Celebrity ally to Trick Williams; was inside the gingerbread casket SD 5/08."
-  },
-  {
-    "id": "danhausen",
-    "name": "Danhausen",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "sacred-clown",
-    "register": "Constant",
-    "notes": "Heyoka register \u2014 comedy as the dose."
-  },
-  {
-    "id": "the-miz",
-    "name": "The Miz",
-    "alignment": "heel",
-    "faction": "pretty-deadly-allies",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "kit-wilson",
-    "name": "Kit Wilson",
-    "alignment": "heel",
-    "faction": "pretty-deadly-allies",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Pretty Deadly. Hollywood-heel pipeline alongside Miz."
-  },
-  {
-    "id": "axiom",
-    "name": "Axiom",
-    "alignment": "babyface",
-    "faction": "fraxiom",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Liminal-Warrior"
-  },
-  {
-    "id": "nathan-frazer",
-    "name": "Nathan Frazer",
-    "alignment": "babyface",
-    "faction": "fraxiom",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Liminal-Warrior"
-  },
-  {
-    "id": "damian-priest",
-    "name": "Damian Priest",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "anubis",
-    "register": "Pantheon",
-    "notes": "Hall of Two Truths judgment apparatus."
-  },
-  {
-    "id": "r-truth",
-    "name": "R-Truth",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "thoth",
-    "register": "Constant",
-    "notes": "Recorder of truth; trickster-wisdom."
-  },
-  {
-    "id": "sami-zayn",
-    "name": "Sami Zayn",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "predecessor-in-descent",
-    "register": "Pantheon",
-    "notes": "Descent arc since gingerbread ambush SD 4/25."
-  },
-  {
-    "id": "giulia",
-    "name": "Giulia",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "syncretic-shinto-roman",
-    "register": "Constant",
-    "notes": "Half-Japanese, half-Italian. Women's US Champion (former). STARDOM lineage."
-  },
-  {
-    "id": "tiffany-stratton",
-    "name": "Tiffany Stratton",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Pantheon",
-    "notes": "Women's US Champion (current after defending vs Giulia, then Kiana)."
-  },
-  {
-    "id": "kiana-james",
-    "name": "Kiana James",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Ally-to-challenger pipeline with Giulia, prediction logged 4/25."
-  },
-  {
-    "id": "kathy-kelley",
-    "name": "Kathy Kelley",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "interviewer",
-    "register": "Constant"
-  },
-  {
-    "id": "byron-saxton",
-    "name": "Byron Saxton",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "interviewer",
-    "register": "Constant"
-  },
-  {
-    "id": "paige",
-    "name": "Paige (Saraya)",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "inanna-returned",
-    "register": "Pantheon",
-    "notes": "Returned at WM42; Women's Tag Champion w/ Brie Bella."
-  },
-  {
-    "id": "brie-bella",
-    "name": "Brie Bella",
-    "alignment": "babyface",
-    "faction": "bella-twins",
-    "brand": "SmackDown",
-    "archetype": "dioskouri-gatekeeper",
-    "register": "Constant",
-    "notes": "Women's Tag Champion w/ Paige. Gatekeeper opening Inanna's return."
-  },
-  {
-    "id": "charlotte-flair",
-    "name": "Charlotte Flair",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "hera",
-    "register": "Pantheon",
-    "notes": "Record-track sovereign; institutional/numerical authority."
-  },
-  {
-    "id": "alexa-bliss",
-    "name": "Alexa Bliss",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "twice-possessed-moth",
-    "register": "Pantheon",
-    "notes": "Vessel-of-others; Sister Abigail latent watch."
-  },
-  {
-    "id": "jacy-jayne",
-    "name": "Jacy Jayne",
-    "alignment": "heel",
-    "faction": "fatal-influence",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Fatal Influence; NXT call-up 4/25."
-  },
-  {
-    "id": "fallon-henley",
-    "name": "Fallon Henley",
-    "alignment": "heel",
-    "faction": "fatal-influence",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Fatal Influence; NXT call-up 4/25."
-  },
-  {
-    "id": "lainey-reid",
-    "name": "Lainey Reid",
-    "alignment": "heel",
-    "faction": "fatal-influence",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Fatal Influence (3rd member)."
-  },
-  {
-    "id": "nia-jax",
-    "name": "Nia Jax",
-    "alignment": "heel",
-    "faction": "irresistible-forces",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Former tag champ; lost titles WM42 + rematch SD 5/01."
-  },
-  {
-    "id": "lash-legend",
-    "name": "Lash Legend",
-    "alignment": "heel",
-    "faction": "irresistible-forces",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "6'1\" basketball background. Engaged-to-Trick subtext."
-  },
-  {
-    "id": "jade-cargill",
-    "name": "Jade Cargill",
-    "alignment": "heel",
-    "faction": "jade-faction-unnamed",
-    "brand": "SmackDown",
-    "archetype": "oya",
-    "register": "Pantheon",
-    "notes": "Storm orisha; rematch claim on Macha."
-  },
-  {
-    "id": "michin",
-    "name": "Michin",
-    "alignment": "heel",
-    "faction": "jade-faction-unnamed",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "b-fab",
-    "name": "B-Fab",
-    "alignment": "heel",
-    "faction": "jade-faction-unnamed",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Hit Row lineage \u2014 cultural-current carrier."
-  },
-  {
-    "id": "royce-keys",
-    "name": "Royce Keys",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "liminal-warrior",
-    "register": "Liminal-Warrior",
-    "notes": "Andre Battle Royal winner WM42. Honda Civic / APW history with Fatu \u2014 pre-fame brotherhood. Refused MFT recruitment SD 5/08."
-  },
-  {
-    "id": "ricky-saints",
-    "name": "Ricky Saints",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Liminal-Warrior",
-    "notes": "Former NXT Champion + AEW Ricky Starks. Main roster debut SD 5/01 vs Cody."
-  },
-  {
-    "id": "matt-cardona",
-    "name": "Matt Cardona",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "exile-returned",
-    "register": "Shadow",
-    "notes": "Indy God / Internet Champion lineage. Returned to WWE Jan 2026 under indie name."
-  },
-  {
-    "id": "chelsea-green",
-    "name": "Chelsea Green",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Married to Cardona. First married couple to simultaneously hold men's+women's US titles."
-  },
-  {
-    "id": "shinsuke-nakamura",
-    "name": "Shinsuke Nakamura",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Pantheon",
-    "notes": "Confronts Tama via disappointment; Japanese-register destabilizer."
-  },
-  {
-    "id": "fraxiom-collective",
-    "name": "Fraxiom (collective)",
-    "alignment": "babyface",
-    "faction": "fraxiom",
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Liminal-Warrior",
-    "notes": "Tag team handle \u2014 Axiom + Frazer."
-  },
-  {
-    "id": "greyson-waller",
-    "name": "Greyson Waller",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Open-challenge complainant; Oba squashed him Raw 4/27."
-  },
-  {
-    "id": "la-knight",
-    "name": "LA Knight",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant"
-  },
-  {
-    "id": "drew-mcintyre",
-    "name": "Drew McIntyre",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "wotan-bitter",
-    "register": "Pantheon",
-    "notes": "Containment arc ended at WM42 (lost to Fatu unsanctioned)."
-  },
-  {
-    "id": "ishowspeed",
-    "name": "iShowSpeed",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "offscreen",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Chaos-streamer; earned initiation via frog splash through table at WM42 Night 1."
-  },
-  {
-    "id": "aj-lee",
-    "name": "AJ Lee",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "persephone",
-    "register": "Pantheon",
-    "notes": "Returned after 11-year absence; lost Women's Championship to Becky at WM42."
-  },
-  {
-    "id": "bianca-belair",
-    "name": "Bianca Belair",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "offscreen",
-    "archetype": "isis-maternal",
-    "register": "Pantheon",
-    "notes": "Announced pregnancy at WM42 Night 1. EST brand shifting from Artemis-competitive to generative."
-  },
-  {
-    "id": "randy-orton",
-    "name": "Randy Orton",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "anubis-judge",
-    "register": "Pantheon",
-    "notes": "WM42 challenger for Undisputed WWE Championship; lost to Cody."
-  },
-  {
-    "id": "cm-punk",
-    "name": "CM Punk",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "prometheus",
-    "register": "Pantheon",
-    "notes": "Lost WWE Championship to Roman at WM42 Night 2 after 169-day reign. Coniunctio completed."
-  },
-  {
-    "id": "brock-lesnar",
-    "name": "Brock Lesnar",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "offscreen",
-    "archetype": "surtr-integrated",
-    "register": "Pantheon",
-    "notes": "Retired at WM42 Night 2 after loss to Oba Femi. Boots-in-ring ceremony. Destruction archetype bifurcated: Oba (mythic) / Breakker (institutional)."
-  },
-  {
-    "id": "kairi-sane",
-    "name": "Kairi Sane",
-    "brand": "Raw",
-    "notes": "Appeared as a full narrative carrier in the IYO SKY & Rhea Ripley vs Kairi Sane & Asuka tag match. Not present in the existing character catalog."
-  },
-  {
-    "id": "zaria",
-    "name": "Zaria",
-    "brand": "Raw",
-    "notes": "Interfered in the Liv Morgan vs Sol Ruca title match, carrying the NXT ZaRuca feud to the main roster. Named explicitly in the log. Not present in the existing character catalog."
-  },
-  {
-    "id": "jordynne-grace",
-    "name": "Jordynne Grace",
-    "brand": "SmackDown",
-    "notes": "Competes in a featured Women's contenders match against Tiffany Stratton; not in existing character catalog."
-  },
-  {
-    "id": "kofi-kingston",
-    "name": "Kofi Kingston",
-    "brand": "SmackDown",
-    "notes": "Active participant in the Waller/New Day tag match; not in existing character catalog."
-  },
-  {
-    "id": "angel-garza",
-    "name": "Angel Garza",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Legado del Fantasma remnant (anti-LWO from Santos Escobar era). Conscripted by Oba on Raw 5/11 via gorilla-position breach."
-  },
-  {
-    "id": "humberto-carrillo",
-    "name": "Humberto Carrillo",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Legado del Fantasma remnant. Conscripted by Oba on Raw 5/11 alongside Garza."
-  },
-  {
-    "id": "megyn-kelly",
-    "name": "Megyn Kelly",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "offscreen",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Fox News anchor. Media-crossover appearance on Raw 5/11 backstage with Logan Paul + Theory ('That was a good promo, Logan')."
-  },
-  {
-    "id": "carmelo-hayes",
-    "name": "Carmelo Hayes",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "framework-vocab-carrier",
-    "register": "Pantheon",
-    "notes": "Returned from hiatus SD 5/15. Mirror-vocab carrier \u2014 'this place humbles you,' 'dirty mirror' (twice in same broadcast). Won via feet-on-ropes = recursive proof. US title contender mix vs Sami."
-  },
-  {
-    "id": "rey-fenix",
-    "name": "Rey Fenix",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "truth-teller",
-    "register": "Constant",
-    "notes": "Lucha-brotherhood register. Truth-teller to Sami Zayn ('I don't even know who you are right now') SD 5/15."
-  },
-  {
-    "id": "johnny-gargano",
-    "name": "Johnny Gargano",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Comedy-register appearance SD 5/15 (found laying around backstage by Sami). Married to Candice LeRae."
-  },
-  {
-    "id": "candice-lerae",
-    "name": "Candice LeRae",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Married to Gargano. SD 5/15: 'I'm entitled to have a husband who does anything but just lay around.' Vocabulary-echo: same 'entitled' word Aldis used at Sami earlier."
-  },
-  {
-    "id": "pete-dunne",
-    "name": "Pete Dunne",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "British Strong Style core member ('The Bruiserweight'); former NXT UK / WWE UK Champion. Currently wrestling as Rayo Americano (masked) on WWE-aligned heel side of El Grande Americano feud."
-  },
-  {
-    "id": "tyler-bate",
-    "name": "Tyler Bate",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Inaugural WWE UK Champion ('Big Strong Boy'), British Strong Style. Currently wrestling as Bravo Americano (masked) on WWE-aligned heel side. Bate-Dunne reunion under lucha masks for Noche de Los Grandes build."
-  },
-  {
-    "id": "dragon-lee",
-    "name": "Dragon Lee",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Lucha-lineage ally to Rey Mysterio. Post-match save on Raw 5/25 (dive + 619 combo with Rey vs Rusev/Page). AAA-WWE bridge performer."
-  },
-  {
-    "id": "maxxine-dupri",
-    "name": "Maxxine Dupri",
-    "alignment": "babyface",
-    "faction": "alpha-academy",
-    "brand": "Raw",
-    "archetype": null,
-    "register": "Constant",
-    "notes": "Alpha Academy member. Theory/Maxxine romantic angle seeded Raw 5/25 \u2014 potential Vision exit vector."
-  },
-  {
-    "id": "hijo-del-vikingo",
-    "name": "El Hijo del Vikingo",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "AAA",
-    "archetype": "quetzalcoatl-fallen",
-    "register": "Pantheon",
-    "notes": "NEW AAA Latin American Champion (5/30/26, via Omos/Dorian Roldan interference). Feathered-serpent-in-chrysalis; twice-denied the Mega. The assisted ascent = a shadow-tinted climb."
-  },
-  {
-    "id": "hijo-de-dr-wagner-jr",
-    "name": "El Hijo de Dr. Wagner Jr.",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "AAA",
-    "archetype": "inherited-warrior",
-    "register": "Pantheon",
-    "notes": "AAA Latin American Champion 8/16/25-5/30/26 (lost to Vikingo via interference). The Wagner mask = one of lucha's deepest lineages; the inherited mask itself is the archetype."
-  },
-  {
-    "id": "psycho-clown",
-    "name": "Psycho Clown",
-    "alignment": "babyface",
-    "faction": "los-psycho-circus",
-    "brand": "AAA",
-    "archetype": "sacred-clown",
-    "register": "Pantheon",
-    "notes": "Tecnico face / emotional anchor of AAA; Tlazolteotl sacred-clown. BETRAYED 5/30 - lost the tag titles then abandoned by Pagano. The one whose unmasking would crack the company."
-  },
-  {
-    "id": "pagano",
-    "name": "Pagano",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "AAA",
-    "archetype": "hardcore-shaman",
-    "register": "Demihero",
-    "notes": "HEEL TURN 5/30 - Xipe-Totec (the flayer); 'El Rey Extremo.' Revealed as the Psycho-Circus mystery-attacker mastermind; walked out on Psycho Clown after their tag-title loss."
-  },
-  {
-    "id": "laredo-kid",
-    "name": "Laredo Kid",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "AAA",
-    "archetype": "aerial-trickster",
-    "register": "Demihero",
-    "notes": "AAA Cruiserweight Champion 12/7/24-5/30/26 (500+ day reign, lost to Rey Fenix). Eagle of the Rio Grande; Fuerza Aerea alum."
-  },
-  {
-    "id": "dorian-roldan",
-    "name": "Dorian Roldan",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "AAA",
-    "archetype": "authority",
-    "register": "Shadow",
-    "notes": "AAA executive / heel authority figure. Aided Vikingo's title win at Noche (distracted the ref alongside Omos)."
-  },
-  {
-    "id": "galeno-del-mal",
-    "name": "Galeno del Mal",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "AAA",
-    "archetype": "enforcer",
-    "register": "Shadow",
-    "notes": "Hijo de Dr. Wagner Jr.'s storyline brother; ran in for Wagner at Noche (steel chair on Omos)."
-  },
-  {
-    "id": "mini-vikingo",
-    "name": "Mini Vikingo",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "AAA",
-    "archetype": "aerialist-youth",
-    "register": "Demihero",
-    "notes": "~17, King Vikingo lineage. Interfered AGAINST his mentor Hijo del Vikingo at Noche (backfired) - the Rey-de-Reyes hospital feud continues. Booked in the 6/6 Fatal Five-Way."
-  },
-  {
-    "id": "omos",
-    "name": "Omos",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "giant",
-    "register": "Shadow",
-    "notes": "WWE-contracted giant; interfered at Noche 5/30 to swing the Latin American title to Vikingo. The internal-collaboration vector of the WWE-into-AAA absorption-shadow."
-  },
-  {
-    "id": "war-raiders",
-    "name": "War Raiders (Erik & Ivar)",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "Raw",
-    "archetype": "berserker",
-    "register": "Demihero",
-    "notes": "WWE Einherjar/Norse-berserker duo; NEW AAA World Tag Champions (5/30/26). The external-invasion vector of the absorption-shadow - annexed lucha gold on Mexican soil."
-  },
-  {
-    "id": "blake-monroe",
-    "name": "Blake Monroe",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "SmackDown",
-    "archetype": "vain-aspirant",
-    "register": "Transitional",
-    "notes": "Vignette-introduced on SD 5/29 (Barcelona) -- arriving on SmackDown eyeing Rhea Ripley; disrespected Chelsea Green. The next women's challenger planted under the current one."
-  },
-  {
-    "id": "tony-dangelo",
-    "name": "Tony D'Angelo",
-    "alignment": "tweener",
-    "faction": "The D'Angelo Family (defunct)",
-    "brand": "NXT",
-    "archetype": "Mob boss / Chthonic-Don",
-    "register": "Pantheon-adj",
-    "notes": "Reigning NXT Champion (won Stand & Deliver 4/4/26, fatal-4-way over Hendry/Page/Saints). 'Don of NXT' mob gimmick. Naraku has self-appointed as his protector."
-  },
-  {
-    "id": "naraku",
-    "name": "Naraku",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Ambiguous enforcer / self-styled protector",
-    "register": "Shadow",
-    "notes": "Says he'll keep D'Angelo champion because they're 'destined to go to war.' Spelling varies (Naraku/Nakuru); WWE.com = Naraku."
-  },
-  {
-    "id": "kam-hendrix",
-    "name": "Kam Hendrix",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Cocky athletic riser",
-    "register": "Transitional",
-    "notes": "NXT Title challenger vs D'Angelo (set 6/2). Spelling varies (Hendrix/Kendrix)."
-  },
-  {
-    "id": "mason-rook",
-    "name": "Mason Rook",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Moonsaulting big-man novelty heavy",
-    "register": "Transitional",
-    "notes": "Inserting himself into the NXT Title picture; demanded the shot from GM Robert Stone."
-  },
-  {
-    "id": "myles-borne",
-    "name": "Myles Borne",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Amateur-wrestling scrapper",
-    "register": "Demihero",
-    "notes": "NXT North American Champion (since 2/24/26). Tags w/ Tavion Heights; targeted by DarkState. Spelling varies (Myles Borne/Miles Bourne)."
-  },
-  {
-    "id": "tavion-heights",
-    "name": "Tavion Heights",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Collegiate-wrestling powerhouse",
-    "register": "Demihero",
-    "notes": "Amateur-base powerhouse; tags w/ Myles Borne; ambushed by DarkState 5/26."
-  },
-  {
-    "id": "darkstate",
-    "name": "DarkState",
-    "alignment": "heel",
-    "faction": "DarkState",
-    "brand": "NXT",
-    "archetype": "Menacing young-heel stable",
-    "register": "Shadow",
-    "notes": "Dion Lennox, Cutler James, Osiris Griffin (after ousting Saquon Shugars 5/19). 'Hunt the champions' mission; Lennox asserting leadership."
-  },
-  {
-    "id": "saquon-shugars",
-    "name": "Saquon Shugars",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "The cast-out seeking revenge",
-    "register": "Demihero",
-    "notes": "Ousted by DarkState (announce-table beatdown 5/19); shown silhouetted on a production truck 5/26 = the revenge hook."
-  },
-  {
-    "id": "lola-vice",
-    "name": "Lola Vice",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "MMA striker",
-    "register": "Pantheon-adj",
-    "notes": "Reigning NXT Women's Champion (won S&D 4/4/26). Backfist finish. Retained vs Izzi Dame 5/26. Contender pileup forming."
-  },
-  {
-    "id": "izzi-dame",
-    "name": "Izzi Dame",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Imposing power-heel",
-    "register": "Pantheon-adj",
-    "notes": "Top NXT Women's contender; aligned with The Culling at ringside; lost the overbooked title match to Vice 5/26."
-  },
-  {
-    "id": "kelani-jordan",
-    "name": "Kelani Jordan",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Gymnastic high-flyer",
-    "register": "Demihero",
-    "notes": "Beat Wren Sinclair 5/26 (worked the injured knee). Spelling varies (Kelani/Kalani/Kehlani)."
-  },
-  {
-    "id": "wren-sinclair",
-    "name": "Wren Sinclair",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Plucky underdog",
-    "register": "Demihero",
-    "notes": "WWE Women's Speed Champion (defended on NXT), working injured. Friendship-breakup tease w/ Kendal Grey."
-  },
-  {
-    "id": "kendal-grey",
-    "name": "Kendal Grey",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Amateur-wrestling babyface",
-    "register": "Transitional",
-    "notes": "Best-friend tension w/ Wren Sinclair (slow-burn breakup seed)."
-  },
-  {
-    "id": "tatum-paxley",
-    "name": "Tatum Paxley",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Eccentric / obsessive",
-    "register": "Demihero",
-    "notes": "NXT Women's North American Champion (since 3/7/26). Allied w/ Lizzy Rain vs a stalking Zaria."
-  },
-  {
-    "id": "lizzy-rain",
-    "name": "Lizzy Rain",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "'80s heavy-metal retro",
-    "register": "Transitional",
-    "notes": "Rising worker; allied w/ Paxley vs Zaria. Spelling varies (Lizzie/Lizzy)."
-  },
-  {
-    "id": "jaida-parker",
-    "name": "Jaida Parker",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Brash hard-hitter",
-    "register": "Demihero",
-    "notes": "Feud w/ Natalya & Layla Diggs; beat Diggs in her debut 5/26. 'Hipnotic' finish."
-  },
-  {
-    "id": "layla-diggs",
-    "name": "Layla Diggs",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Young prospect",
-    "register": "Transitional",
-    "notes": "NXT debut 5/26 (w/ Natalya); lost to Jaida Parker."
-  },
-  {
-    "id": "natalya",
-    "name": "Natalya",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Hart-dynasty veteran",
-    "register": "Demihero",
-    "notes": "Vet mentoring Layla Diggs; feud w/ Jaida Parker; staredown teases an in-ring return."
-  },
-  {
-    "id": "romeo-moreno",
-    "name": "Romeo Moreno",
-    "alignment": "tweener",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "High-flyer",
-    "register": "Transitional",
-    "notes": "In Noam Dar's orbit; advanced in the Speed #1-contender tournament (beat Nathan Frazer 5/26) -> toward Lexis King."
-  },
-  {
-    "id": "noam-dar",
-    "name": "Noam Dar",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Cocky technician / cornerman",
-    "register": "Trickster",
-    "notes": "'Supernova'; in Romeo Moreno's corner; Speed-division fixture; tension w/ Axiom."
-  },
-  {
-    "id": "shiloh-hill",
-    "name": "Shiloh Hill",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Cowboy / Western",
-    "register": "Transitional",
-    "notes": "Beat Charlie Dempsey 5/26; 'Mr. NXT' pageant feud w/ Tristan Angels (booked ~2 wks out)."
-  },
-  {
-    "id": "charlie-dempsey",
-    "name": "Charlie Dempsey",
-    "alignment": "heel",
-    "faction": "No Quarter Catch Crew",
-    "brand": "NXT",
-    "archetype": "Technical British grappler",
-    "register": "Shadow-adj",
-    "notes": "Son of William Regal; gatekeeper (WALTER/Dempsey lineage). Lost to Shiloh Hill 5/26."
-  },
-  {
-    "id": "tristan-angels",
-    "name": "Tristan Angels",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Posh 'Mr. England' nobleman",
-    "register": "Trickster",
-    "notes": "British sheep-farmer-noble gimmick; hot debut; 'Mr. NXT' pageant feud w/ Shiloh Hill."
-  },
-  {
-    "id": "the-culling",
-    "name": "The Culling",
-    "alignment": "heel",
-    "faction": "The Culling",
-    "brand": "NXT",
-    "archetype": "Vet-led enforcer unit",
-    "register": "Shadow",
-    "notes": "Shawn Spears (grizzled leader) & Niko Vance (powerhouse). Spears went rogue w/ a chair on OTM 5/26; feud w/ OTM."
-  },
-  {
-    "id": "otm",
-    "name": "OTM",
-    "alignment": "tweener",
-    "faction": "OTM (Of The Machine)",
-    "brand": "NXT",
-    "archetype": "Bruiser tag unit",
-    "register": "Demihero",
-    "notes": "Bronco Nima & Lucien Price; brawling w/ The Culling."
-  },
-  {
-    "id": "sean-legacy",
-    "name": "Sean Legacy",
-    "alignment": "babyface",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Chosen-heir high-flyer",
-    "register": "Transitional",
-    "notes": "'Super' Sean Legacy; Speed-tournament entrant (3-min draw w/ Van Dux 5/26, both eliminated)."
-  },
-  {
-    "id": "dorian-van-dux",
-    "name": "Dorian Van Dux",
-    "alignment": "heel",
-    "faction": null,
-    "brand": "NXT",
-    "archetype": "Continental aristocrat / Dorian-Gray aesthete",
-    "register": "Transitional",
-    "notes": "Belgian ex-wXw European Champ; Speed-tournament entrant (draw w/ Sean Legacy 5/26)."
-  }
+ {
+  "id": "cody-rhodes",
+  "name": "Cody Rhodes",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "grail",
+  "register": "Pantheon",
+  "notes": "Undisputed WWE Champion (3rd reign, 9wks at Backlash). WM42 orbital fracture from Orton punt."
+ },
+ {
+  "id": "roman-reigns",
+  "name": "Roman Reigns",
+  "alignment": "tweener",
+  "faction": "bloodline-original",
+  "brand": "Raw",
+  "archetype": "patriarch",
+  "register": "Pantheon"
+ },
+ {
+  "id": "jacob-fatu",
+  "name": "Jacob Fatu",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "aitu",
+  "register": "Pantheon",
+  "notes": "Free-agent aitu. Declared for Raw on SD 4/25."
+ },
+ {
+  "id": "seth-rollins",
+  "name": "Seth Rollins",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "bound-loki",
+  "register": "Pantheon"
+ },
+ {
+  "id": "bron-breakker",
+  "name": "Bron Breakker",
+  "alignment": "heel",
+  "faction": "vision",
+  "brand": "Raw",
+  "archetype": "devourer-rising",
+  "register": "Pantheon"
+ },
+ {
+  "id": "gunther",
+  "name": "Gunther",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "career-killer",
+  "register": "Pantheon",
+  "notes": "Sleeper attack on Cody SD 5/01 opened the Backlash feud."
+ },
+ {
+  "id": "penta",
+  "name": "Penta",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "lucha-warrior",
+  "register": "Constant",
+  "notes": "IC Champion. Aztec / Tezcatlipoca-jaguar register."
+ },
+ {
+  "id": "becky-lynch",
+  "name": "Becky Lynch",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "nemesis",
+  "register": "Pantheon",
+  "notes": "Women's IC Champion."
+ },
+ {
+  "id": "joe-hendry",
+  "name": "Joe Hendry",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "orphic-bard",
+  "register": "Liminal-Warrior"
+ },
+ {
+  "id": "oba-femi",
+  "name": "Oba Femi",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "ascending-orisha",
+  "register": "Pantheon"
+ },
+ {
+  "id": "stephanie-vaquer",
+  "name": "Stephanie Vaquer",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "offscreen",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Legit AC sprain after JD coven ambush 4/27; written off indefinitely."
+ },
+ {
+  "id": "jd-mcdonagh",
+  "name": "JD McDonagh",
+  "alignment": "heel",
+  "faction": "judgment-day",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "finn-balor",
+  "name": "Finn Bálor",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "fomorian-exile",
+  "register": "Constant",
+  "notes": "Hosting 'Club House' since JD ejection."
+ },
+ {
+  "id": "dom-mysterio",
+  "name": "Dominik Mysterio",
+  "alignment": "heel",
+  "faction": "judgment-day",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "liv-morgan",
+  "name": "Liv Morgan",
+  "alignment": "heel",
+  "faction": "judgment-day",
+  "brand": "Raw",
+  "archetype": "inanna",
+  "register": "Constant",
+  "notes": "JD coven leader."
+ },
+ {
+  "id": "roxanne-perez",
+  "name": "Roxanne Perez",
+  "alignment": "heel",
+  "faction": "judgment-day",
+  "brand": "Raw",
+  "archetype": "jd-apprentice",
+  "register": "Constant"
+ },
+ {
+  "id": "raquel-rodriguez",
+  "name": "Raquel Rodriguez",
+  "alignment": "heel",
+  "faction": "judgment-day",
+  "brand": "Raw",
+  "archetype": "jd-enforcer",
+  "register": "Constant"
+ },
+ {
+  "id": "logan-paul",
+  "name": "Logan Paul",
+  "alignment": "heel",
+  "faction": "vision",
+  "brand": "Raw",
+  "archetype": "false-god-influencer",
+  "register": "Pantheon"
+ },
+ {
+  "id": "paul-heyman",
+  "name": "Paul Heyman",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "free-agent",
+  "archetype": "wise-man",
+  "register": "Constant",
+  "notes": "The Constant — appears across eras, owes favors, advocates for the throne not the man. Cross-brand. Scroll 007 archetype locked SD 5/08."
+ },
+ {
+  "id": "austin-theory",
+  "name": "Austin Theory",
+  "alignment": "heel",
+  "faction": "vision",
+  "brand": "Raw",
+  "archetype": "disposable",
+  "register": "Constant"
+ },
+ {
+  "id": "sol-ruca",
+  "name": "Sol Ruca",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "liminal-warrior",
+  "register": "Liminal-Warrior",
+  "notes": "Officially Raw roster as of 5/04."
+ },
+ {
+  "id": "adam-pearce",
+  "name": "Adam Pearce",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "gatekeeper-institution",
+  "register": "Constant",
+  "notes": "On-screen GM (Raw)."
+ },
+ {
+  "id": "nick-aldis",
+  "name": "Nick Aldis",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "gatekeeper-institution",
+  "register": "Constant",
+  "notes": "On-screen GM (SmackDown)."
+ },
+ {
+  "id": "jimmy-uso",
+  "name": "Jimmy Uso",
+  "alignment": "babyface",
+  "faction": "usos",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Pantheon"
+ },
+ {
+  "id": "jey-uso",
+  "name": "Jey Uso",
+  "alignment": "babyface",
+  "faction": "usos",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Pantheon"
+ },
+ {
+  "id": "solo-sikoa",
+  "name": "Solo Sikoa",
+  "alignment": "heel",
+  "faction": "mfts",
+  "brand": "SmackDown",
+  "archetype": "fallen-chief",
+  "register": "Constant",
+  "notes": "Faction destroyed SD 4/25; demoted to manager-architect SD 5/08."
+ },
+ {
+  "id": "tama-tonga",
+  "name": "Tama Tonga",
+  "alignment": "heel",
+  "faction": "mfts",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Restless within MFTs; took mic from Solo SD 4/25, got superkicked by Fatu."
+ },
+ {
+  "id": "talla-tonga",
+  "name": "Talla Tonga",
+  "alignment": "heel",
+  "faction": "mfts",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Hikuleo / Haku's son / Tama's brother."
+ },
+ {
+  "id": "montez-ford",
+  "name": "Montez Ford",
+  "alignment": "babyface",
+  "faction": "street-profits",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "angelo-dawkins",
+  "name": "Angelo Dawkins",
+  "alignment": "babyface",
+  "faction": "street-profits",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "bayley",
+  "name": "Bayley",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "lyra-valkyria",
+  "name": "Lyra Valkyria",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "badb",
+  "register": "Constant",
+  "notes": "Morrigan-bifurcation aspect."
+ },
+ {
+  "id": "rhea-ripley",
+  "name": "Rhea Ripley",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "macha",
+  "register": "Pantheon",
+  "notes": "Women's Champion (won from Jade at WM42)."
+ },
+ {
+  "id": "asuka",
+  "name": "Asuka",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "onryo",
+  "register": "Pantheon",
+  "notes": "Register expanded 5/04 — onryō + senpai-authority."
+ },
+ {
+  "id": "iyo-sky",
+  "name": "IYO Sky",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "bride-who-became-queen",
+  "register": "Pantheon"
+ },
+ {
+  "id": "otis",
+  "name": "Otis",
+  "alignment": "babyface",
+  "faction": "alpha-academy",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "akira-tozawa",
+  "name": "Akira Tozawa",
+  "alignment": "babyface",
+  "faction": "alpha-academy",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "chad-gable",
+  "name": "Chad Gable",
+  "alignment": "tweener",
+  "faction": "diamond-mine",
+  "brand": "Raw",
+  "archetype": "og-el-grande-americano",
+  "register": "Constant",
+  "notes": "OG El Grande Americano — mask-lineage carrier."
+ },
+ {
+  "id": "ludwig-kaiser",
+  "name": "Ludwig Kaiser",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Imposter El Grande Americano (Kaiser version, since June 2025)."
+ },
+ {
+  "id": "rey-mysterio",
+  "name": "Rey Mysterio",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Pantheon",
+  "notes": "AAA crossover ally to OG Gable."
+ },
+ {
+  "id": "julius-creed",
+  "name": "Julius Creed",
+  "alignment": "tweener",
+  "faction": "diamond-mine",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "brutus-creed",
+  "name": "Brutus Creed",
+  "alignment": "tweener",
+  "faction": "diamond-mine",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "bravo-americano",
+  "name": "Bravo Americano",
+  "alignment": "heel",
+  "faction": "los-americanos",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "rayo-americano",
+  "name": "Rayo Americano",
+  "alignment": "heel",
+  "faction": "los-americanos",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "ethan-page",
+  "name": "Ethan Page",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "rusev",
+  "name": "Rusev",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "enforcer-muscle",
+  "register": "Constant"
+ },
+ {
+  "id": "jevon-evans",
+  "name": "Je'Von Evans",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Liminal-Warrior"
+ },
+ {
+  "id": "trick-williams",
+  "name": "Trick Williams",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Pantheon",
+  "notes": "US Champion (post-WM42 win over Sami). Grail Cup ritual SD 5/08 — archetype pending."
+ },
+ {
+  "id": "lil-yachty",
+  "name": "Lil Yachty",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Celebrity ally to Trick Williams; was inside the gingerbread casket SD 5/08."
+ },
+ {
+  "id": "danhausen",
+  "name": "Danhausen",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "sacred-clown",
+  "register": "Constant",
+  "notes": "Heyoka register — comedy as the dose."
+ },
+ {
+  "id": "the-miz",
+  "name": "The Miz",
+  "alignment": "heel",
+  "faction": "pretty-deadly-allies",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "kit-wilson",
+  "name": "Kit Wilson",
+  "alignment": "heel",
+  "faction": "pretty-deadly-allies",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Pretty Deadly. Hollywood-heel pipeline alongside Miz."
+ },
+ {
+  "id": "axiom",
+  "name": "Axiom",
+  "alignment": "babyface",
+  "faction": "fraxiom",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Liminal-Warrior"
+ },
+ {
+  "id": "nathan-frazer",
+  "name": "Nathan Frazer",
+  "alignment": "babyface",
+  "faction": "fraxiom",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Liminal-Warrior"
+ },
+ {
+  "id": "damian-priest",
+  "name": "Damian Priest",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "anubis",
+  "register": "Pantheon",
+  "notes": "Hall of Two Truths judgment apparatus."
+ },
+ {
+  "id": "r-truth",
+  "name": "R-Truth",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "thoth",
+  "register": "Constant",
+  "notes": "Recorder of truth; trickster-wisdom."
+ },
+ {
+  "id": "sami-zayn",
+  "name": "Sami Zayn",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "predecessor-in-descent",
+  "register": "Pantheon",
+  "notes": "Descent arc since gingerbread ambush SD 4/25."
+ },
+ {
+  "id": "giulia",
+  "name": "Giulia",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "syncretic-shinto-roman",
+  "register": "Constant",
+  "notes": "Half-Japanese, half-Italian. Women's US Champion (former). STARDOM lineage."
+ },
+ {
+  "id": "tiffany-stratton",
+  "name": "Tiffany Stratton",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Pantheon",
+  "notes": "Women's US Champion (current after defending vs Giulia, then Kiana)."
+ },
+ {
+  "id": "kiana-james",
+  "name": "Kiana James",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Ally-to-challenger pipeline with Giulia, prediction logged 4/25."
+ },
+ {
+  "id": "kathy-kelley",
+  "name": "Kathy Kelley",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "interviewer",
+  "register": "Constant"
+ },
+ {
+  "id": "byron-saxton",
+  "name": "Byron Saxton",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "interviewer",
+  "register": "Constant"
+ },
+ {
+  "id": "paige",
+  "name": "Paige (Saraya)",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "inanna-returned",
+  "register": "Pantheon",
+  "notes": "Returned at WM42; Women's Tag Champion w/ Brie Bella."
+ },
+ {
+  "id": "brie-bella",
+  "name": "Brie Bella",
+  "alignment": "babyface",
+  "faction": "bella-twins",
+  "brand": "SmackDown",
+  "archetype": "dioskouri-gatekeeper",
+  "register": "Constant",
+  "notes": "Women's Tag Champion w/ Paige. Gatekeeper opening Inanna's return."
+ },
+ {
+  "id": "charlotte-flair",
+  "name": "Charlotte Flair",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "hera",
+  "register": "Pantheon",
+  "notes": "Record-track sovereign; institutional/numerical authority."
+ },
+ {
+  "id": "alexa-bliss",
+  "name": "Alexa Bliss",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "twice-possessed-moth",
+  "register": "Pantheon",
+  "notes": "Vessel-of-others; Sister Abigail latent watch."
+ },
+ {
+  "id": "jacy-jayne",
+  "name": "Jacy Jayne",
+  "alignment": "heel",
+  "faction": "fatal-influence",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Fatal Influence; NXT call-up 4/25."
+ },
+ {
+  "id": "fallon-henley",
+  "name": "Fallon Henley",
+  "alignment": "heel",
+  "faction": "fatal-influence",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Fatal Influence; NXT call-up 4/25."
+ },
+ {
+  "id": "lainey-reid",
+  "name": "Lainey Reid",
+  "alignment": "heel",
+  "faction": "fatal-influence",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Fatal Influence (3rd member)."
+ },
+ {
+  "id": "nia-jax",
+  "name": "Nia Jax",
+  "alignment": "heel",
+  "faction": "irresistible-forces",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Former tag champ; lost titles WM42 + rematch SD 5/01."
+ },
+ {
+  "id": "lash-legend",
+  "name": "Lash Legend",
+  "alignment": "heel",
+  "faction": "irresistible-forces",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "6'1\" basketball background. Engaged-to-Trick subtext."
+ },
+ {
+  "id": "jade-cargill",
+  "name": "Jade Cargill",
+  "alignment": "heel",
+  "faction": "jade-faction-unnamed",
+  "brand": "SmackDown",
+  "archetype": "oya",
+  "register": "Pantheon",
+  "notes": "Storm orisha; rematch claim on Macha."
+ },
+ {
+  "id": "michin",
+  "name": "Michin",
+  "alignment": "heel",
+  "faction": "jade-faction-unnamed",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "b-fab",
+  "name": "B-Fab",
+  "alignment": "heel",
+  "faction": "jade-faction-unnamed",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Hit Row lineage — cultural-current carrier."
+ },
+ {
+  "id": "royce-keys",
+  "name": "Royce Keys",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "liminal-warrior",
+  "register": "Liminal-Warrior",
+  "notes": "Andre Battle Royal winner WM42. Honda Civic / APW history with Fatu — pre-fame brotherhood. Refused MFT recruitment SD 5/08."
+ },
+ {
+  "id": "ricky-saints",
+  "name": "Ricky Saints",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Liminal-Warrior",
+  "notes": "Former NXT Champion + AEW Ricky Starks. Main roster debut SD 5/01 vs Cody."
+ },
+ {
+  "id": "matt-cardona",
+  "name": "Matt Cardona",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "exile-returned",
+  "register": "Shadow",
+  "notes": "Indy God / Internet Champion lineage. Returned to WWE Jan 2026 under indie name."
+ },
+ {
+  "id": "chelsea-green",
+  "name": "Chelsea Green",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Married to Cardona. First married couple to simultaneously hold men's+women's US titles."
+ },
+ {
+  "id": "shinsuke-nakamura",
+  "name": "Shinsuke Nakamura",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Pantheon",
+  "notes": "Confronts Tama via disappointment; Japanese-register destabilizer."
+ },
+ {
+  "id": "fraxiom-collective",
+  "name": "Fraxiom (collective)",
+  "alignment": "babyface",
+  "faction": "fraxiom",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Liminal-Warrior",
+  "notes": "Tag team handle — Axiom + Frazer."
+ },
+ {
+  "id": "greyson-waller",
+  "name": "Greyson Waller",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Open-challenge complainant; Oba squashed him Raw 4/27."
+ },
+ {
+  "id": "la-knight",
+  "name": "LA Knight",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant"
+ },
+ {
+  "id": "drew-mcintyre",
+  "name": "Drew McIntyre",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "wotan-bitter",
+  "register": "Pantheon",
+  "notes": "Containment arc ended at WM42 (lost to Fatu unsanctioned)."
+ },
+ {
+  "id": "ishowspeed",
+  "name": "iShowSpeed",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "offscreen",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Chaos-streamer; earned initiation via frog splash through table at WM42 Night 1."
+ },
+ {
+  "id": "aj-lee",
+  "name": "AJ Lee",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "persephone",
+  "register": "Pantheon",
+  "notes": "Returned after 11-year absence; lost Women's Championship to Becky at WM42."
+ },
+ {
+  "id": "bianca-belair",
+  "name": "Bianca Belair",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "offscreen",
+  "archetype": "isis-maternal",
+  "register": "Pantheon",
+  "notes": "Announced pregnancy at WM42 Night 1. EST brand shifting from Artemis-competitive to generative."
+ },
+ {
+  "id": "randy-orton",
+  "name": "Randy Orton",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "anubis-judge",
+  "register": "Pantheon",
+  "notes": "WM42 challenger for Undisputed WWE Championship; lost to Cody."
+ },
+ {
+  "id": "cm-punk",
+  "name": "CM Punk",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "prometheus",
+  "register": "Pantheon",
+  "notes": "Lost WWE Championship to Roman at WM42 Night 2 after 169-day reign. Coniunctio completed."
+ },
+ {
+  "id": "brock-lesnar",
+  "name": "Brock Lesnar",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "offscreen",
+  "archetype": "surtr-integrated",
+  "register": "Pantheon",
+  "notes": "Retired at WM42 Night 2 after loss to Oba Femi. Boots-in-ring ceremony. Destruction archetype bifurcated: Oba (mythic) / Breakker (institutional)."
+ },
+ {
+  "id": "kairi-sane",
+  "name": "Kairi Sane",
+  "brand": "Raw",
+  "notes": "Appeared as a full narrative carrier in the IYO SKY & Rhea Ripley vs Kairi Sane & Asuka tag match. Not present in the existing character catalog."
+ },
+ {
+  "id": "zaria",
+  "name": "Zaria",
+  "brand": "Raw",
+  "notes": "Interfered in the Liv Morgan vs Sol Ruca title match, carrying the NXT ZaRuca feud to the main roster. Named explicitly in the log. Not present in the existing character catalog."
+ },
+ {
+  "id": "jordynne-grace",
+  "name": "Jordynne Grace",
+  "brand": "SmackDown",
+  "notes": "Competes in a featured Women's contenders match against Tiffany Stratton; not in existing character catalog."
+ },
+ {
+  "id": "kofi-kingston",
+  "name": "Kofi Kingston",
+  "brand": "SmackDown",
+  "notes": "Active participant in the Waller/New Day tag match; not in existing character catalog."
+ },
+ {
+  "id": "angel-garza",
+  "name": "Angel Garza",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Legado del Fantasma remnant (anti-LWO from Santos Escobar era). Conscripted by Oba on Raw 5/11 via gorilla-position breach."
+ },
+ {
+  "id": "humberto-carrillo",
+  "name": "Humberto Carrillo",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Legado del Fantasma remnant. Conscripted by Oba on Raw 5/11 alongside Garza."
+ },
+ {
+  "id": "megyn-kelly",
+  "name": "Megyn Kelly",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "offscreen",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Fox News anchor. Media-crossover appearance on Raw 5/11 backstage with Logan Paul + Theory ('That was a good promo, Logan')."
+ },
+ {
+  "id": "carmelo-hayes",
+  "name": "Carmelo Hayes",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "framework-vocab-carrier",
+  "register": "Pantheon",
+  "notes": "Returned from hiatus SD 5/15. Mirror-vocab carrier — 'this place humbles you,' 'dirty mirror' (twice in same broadcast). Won via feet-on-ropes = recursive proof. US title contender mix vs Sami."
+ },
+ {
+  "id": "rey-fenix",
+  "name": "Rey Fenix",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "truth-teller",
+  "register": "Constant",
+  "notes": "Lucha-brotherhood register. Truth-teller to Sami Zayn ('I don't even know who you are right now') SD 5/15."
+ },
+ {
+  "id": "johnny-gargano",
+  "name": "Johnny Gargano",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Comedy-register appearance SD 5/15 (found laying around backstage by Sami). Married to Candice LeRae."
+ },
+ {
+  "id": "candice-lerae",
+  "name": "Candice LeRae",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Married to Gargano. SD 5/15: 'I'm entitled to have a husband who does anything but just lay around.' Vocabulary-echo: same 'entitled' word Aldis used at Sami earlier."
+ },
+ {
+  "id": "pete-dunne",
+  "name": "Pete Dunne",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "British Strong Style core member ('The Bruiserweight'); former NXT UK / WWE UK Champion. Currently wrestling as Rayo Americano (masked) on WWE-aligned heel side of El Grande Americano feud."
+ },
+ {
+  "id": "tyler-bate",
+  "name": "Tyler Bate",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Inaugural WWE UK Champion ('Big Strong Boy'), British Strong Style. Currently wrestling as Bravo Americano (masked) on WWE-aligned heel side. Bate-Dunne reunion under lucha masks for Noche de Los Grandes build."
+ },
+ {
+  "id": "dragon-lee",
+  "name": "Dragon Lee",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Lucha-lineage ally to Rey Mysterio. Post-match save on Raw 5/25 (dive + 619 combo with Rey vs Rusev/Page). AAA-WWE bridge performer."
+ },
+ {
+  "id": "maxxine-dupri",
+  "name": "Maxxine Dupri",
+  "alignment": "babyface",
+  "faction": "alpha-academy",
+  "brand": "Raw",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Alpha Academy member. Theory/Maxxine romantic angle seeded Raw 5/25 — potential Vision exit vector."
+ },
+ {
+  "id": "hijo-del-vikingo",
+  "name": "El Hijo del Vikingo",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "AAA",
+  "archetype": "quetzalcoatl-fallen",
+  "register": "Pantheon",
+  "notes": "NEW AAA Latin American Champion (5/30/26, via Omos/Dorian Roldan interference). Feathered-serpent-in-chrysalis; twice-denied the Mega. The assisted ascent = a shadow-tinted climb."
+ },
+ {
+  "id": "hijo-de-dr-wagner-jr",
+  "name": "El Hijo de Dr. Wagner Jr.",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "AAA",
+  "archetype": "inherited-warrior",
+  "register": "Pantheon",
+  "notes": "AAA Latin American Champion 8/16/25-5/30/26 (lost to Vikingo via interference). The Wagner mask = one of lucha's deepest lineages; the inherited mask itself is the archetype."
+ },
+ {
+  "id": "psycho-clown",
+  "name": "Psycho Clown",
+  "alignment": "babyface",
+  "faction": "los-psycho-circus",
+  "brand": "AAA",
+  "archetype": "sacred-clown",
+  "register": "Pantheon",
+  "notes": "Tecnico face / emotional anchor of AAA; Tlazolteotl sacred-clown. BETRAYED 5/30 - lost the tag titles then abandoned by Pagano. The one whose unmasking would crack the company."
+ },
+ {
+  "id": "pagano",
+  "name": "Pagano",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "AAA",
+  "archetype": "hardcore-shaman",
+  "register": "Demihero",
+  "notes": "HEEL TURN 5/30 - Xipe-Totec (the flayer); 'El Rey Extremo.' Revealed as the Psycho-Circus mystery-attacker mastermind; walked out on Psycho Clown after their tag-title loss."
+ },
+ {
+  "id": "laredo-kid",
+  "name": "Laredo Kid",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "AAA",
+  "archetype": "aerial-trickster",
+  "register": "Demihero",
+  "notes": "AAA Cruiserweight Champion 12/7/24-5/30/26 (500+ day reign, lost to Rey Fenix). Eagle of the Rio Grande; Fuerza Aerea alum."
+ },
+ {
+  "id": "dorian-roldan",
+  "name": "Dorian Roldan",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "AAA",
+  "archetype": "authority",
+  "register": "Shadow",
+  "notes": "AAA executive / heel authority figure. Aided Vikingo's title win at Noche (distracted the ref alongside Omos)."
+ },
+ {
+  "id": "galeno-del-mal",
+  "name": "Galeno del Mal",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "AAA",
+  "archetype": "enforcer",
+  "register": "Shadow",
+  "notes": "Hijo de Dr. Wagner Jr.'s storyline brother; ran in for Wagner at Noche (steel chair on Omos)."
+ },
+ {
+  "id": "mini-vikingo",
+  "name": "Mini Vikingo",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "AAA",
+  "archetype": "aerialist-youth",
+  "register": "Demihero",
+  "notes": "~17, King Vikingo lineage. Interfered AGAINST his mentor Hijo del Vikingo at Noche (backfired) - the Rey-de-Reyes hospital feud continues. Booked in the 6/6 Fatal Five-Way."
+ },
+ {
+  "id": "omos",
+  "name": "Omos",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "giant",
+  "register": "Shadow",
+  "notes": "WWE-contracted giant; interfered at Noche 5/30 to swing the Latin American title to Vikingo. The internal-collaboration vector of the WWE-into-AAA absorption-shadow."
+ },
+ {
+  "id": "war-raiders",
+  "name": "War Raiders (Erik & Ivar)",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "Raw",
+  "archetype": "berserker",
+  "register": "Demihero",
+  "notes": "WWE Einherjar/Norse-berserker duo; NEW AAA World Tag Champions (5/30/26). The external-invasion vector of the absorption-shadow - annexed lucha gold on Mexican soil."
+ },
+ {
+  "id": "blake-monroe",
+  "name": "Blake Monroe",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "SmackDown",
+  "archetype": "vain-aspirant",
+  "register": "Transitional",
+  "notes": "Vignette-introduced on SD 5/29 (Barcelona) -- arriving on SmackDown eyeing Rhea Ripley; disrespected Chelsea Green. The next women's challenger planted under the current one."
+ },
+ {
+  "id": "tony-dangelo",
+  "name": "Tony D'Angelo",
+  "alignment": "tweener",
+  "faction": "The D'Angelo Family (defunct)",
+  "brand": "NXT",
+  "archetype": "Mob boss / Chthonic-Don",
+  "register": "Pantheon-adj",
+  "notes": "Reigning NXT Champion (won Stand & Deliver 4/4/26, fatal-4-way over Hendry/Page/Saints). 'Don of NXT' mob gimmick. Naraku has self-appointed as his protector."
+ },
+ {
+  "id": "naraku",
+  "name": "Naraku",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Ambiguous enforcer / self-styled protector",
+  "register": "Shadow",
+  "notes": "Says he'll keep D'Angelo champion because they're 'destined to go to war.' Spelling varies (Naraku/Nakuru); WWE.com = Naraku."
+ },
+ {
+  "id": "kam-hendrix",
+  "name": "Kam Hendrix",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Cocky athletic riser",
+  "register": "Transitional",
+  "notes": "NXT Title challenger vs D'Angelo (set 6/2). Spelling varies (Hendrix/Kendrix)."
+ },
+ {
+  "id": "mason-rook",
+  "name": "Mason Rook",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Moonsaulting big-man novelty heavy",
+  "register": "Transitional",
+  "notes": "Inserting himself into the NXT Title picture; demanded the shot from GM Robert Stone."
+ },
+ {
+  "id": "myles-borne",
+  "name": "Myles Borne",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Amateur-wrestling scrapper",
+  "register": "Demihero",
+  "notes": "NXT North American Champion (since 2/24/26). Tags w/ Tavion Heights; targeted by DarkState. Spelling varies (Myles Borne/Miles Bourne)."
+ },
+ {
+  "id": "tavion-heights",
+  "name": "Tavion Heights",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Collegiate-wrestling powerhouse",
+  "register": "Demihero",
+  "notes": "Amateur-base powerhouse; tags w/ Myles Borne; ambushed by DarkState 5/26."
+ },
+ {
+  "id": "darkstate",
+  "name": "DarkState",
+  "alignment": "heel",
+  "faction": "DarkState",
+  "brand": "NXT",
+  "archetype": "Menacing young-heel stable",
+  "register": "Shadow",
+  "notes": "Dion Lennox, Cutler James, Osiris Griffin (after ousting Saquon Shugars 5/19). 'Hunt the champions' mission; Lennox asserting leadership."
+ },
+ {
+  "id": "saquon-shugars",
+  "name": "Saquon Shugars",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "The cast-out seeking revenge",
+  "register": "Demihero",
+  "notes": "Ousted by DarkState (announce-table beatdown 5/19); shown silhouetted on a production truck 5/26 = the revenge hook."
+ },
+ {
+  "id": "lola-vice",
+  "name": "Lola Vice",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "MMA striker",
+  "register": "Pantheon-adj",
+  "notes": "Reigning NXT Women's Champion (won S&D 4/4/26). Backfist finish. Retained vs Izzi Dame 5/26. Contender pileup forming."
+ },
+ {
+  "id": "izzi-dame",
+  "name": "Izzi Dame",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Imposing power-heel",
+  "register": "Pantheon-adj",
+  "notes": "Top NXT Women's contender; aligned with The Culling at ringside; lost the overbooked title match to Vice 5/26."
+ },
+ {
+  "id": "kelani-jordan",
+  "name": "Kelani Jordan",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Gymnastic high-flyer",
+  "register": "Demihero",
+  "notes": "Beat Wren Sinclair 5/26 (worked the injured knee). Spelling varies (Kelani/Kalani/Kehlani)."
+ },
+ {
+  "id": "wren-sinclair",
+  "name": "Wren Sinclair",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Plucky underdog",
+  "register": "Demihero",
+  "notes": "WWE Women's Speed Champion (defended on NXT), working injured. Friendship-breakup tease w/ Kendal Grey."
+ },
+ {
+  "id": "kendal-grey",
+  "name": "Kendal Grey",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Amateur-wrestling babyface",
+  "register": "Transitional",
+  "notes": "Best-friend tension w/ Wren Sinclair (slow-burn breakup seed)."
+ },
+ {
+  "id": "tatum-paxley",
+  "name": "Tatum Paxley",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Eccentric / obsessive",
+  "register": "Demihero",
+  "notes": "NXT Women's North American Champion (since 3/7/26). Allied w/ Lizzy Rain vs a stalking Zaria."
+ },
+ {
+  "id": "lizzy-rain",
+  "name": "Lizzy Rain",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "'80s heavy-metal retro",
+  "register": "Transitional",
+  "notes": "Rising worker; allied w/ Paxley vs Zaria. Spelling varies (Lizzie/Lizzy)."
+ },
+ {
+  "id": "jaida-parker",
+  "name": "Jaida Parker",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Brash hard-hitter",
+  "register": "Demihero",
+  "notes": "Feud w/ Natalya & Layla Diggs; beat Diggs in her debut 5/26. 'Hipnotic' finish."
+ },
+ {
+  "id": "layla-diggs",
+  "name": "Layla Diggs",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Young prospect",
+  "register": "Transitional",
+  "notes": "NXT debut 5/26 (w/ Natalya); lost to Jaida Parker."
+ },
+ {
+  "id": "natalya",
+  "name": "Natalya",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Hart-dynasty veteran",
+  "register": "Demihero",
+  "notes": "Vet mentoring Layla Diggs; feud w/ Jaida Parker; staredown teases an in-ring return."
+ },
+ {
+  "id": "romeo-moreno",
+  "name": "Romeo Moreno",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "High-flyer",
+  "register": "Transitional",
+  "notes": "In Noam Dar's orbit; advanced in the Speed #1-contender tournament (beat Nathan Frazer 5/26) -> toward Lexis King."
+ },
+ {
+  "id": "noam-dar",
+  "name": "Noam Dar",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Cocky technician / cornerman",
+  "register": "Trickster",
+  "notes": "'Supernova'; in Romeo Moreno's corner; Speed-division fixture; tension w/ Axiom."
+ },
+ {
+  "id": "shiloh-hill",
+  "name": "Shiloh Hill",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Cowboy / Western",
+  "register": "Transitional",
+  "notes": "Beat Charlie Dempsey 5/26; 'Mr. NXT' pageant feud w/ Tristan Angels (booked ~2 wks out)."
+ },
+ {
+  "id": "charlie-dempsey",
+  "name": "Charlie Dempsey",
+  "alignment": "heel",
+  "faction": "No Quarter Catch Crew",
+  "brand": "NXT",
+  "archetype": "Technical British grappler",
+  "register": "Shadow-adj",
+  "notes": "Son of William Regal; gatekeeper (WALTER/Dempsey lineage). Lost to Shiloh Hill 5/26."
+ },
+ {
+  "id": "tristan-angels",
+  "name": "Tristan Angels",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Posh 'Mr. England' nobleman",
+  "register": "Trickster",
+  "notes": "British sheep-farmer-noble gimmick; hot debut; 'Mr. NXT' pageant feud w/ Shiloh Hill."
+ },
+ {
+  "id": "the-culling",
+  "name": "The Culling",
+  "alignment": "heel",
+  "faction": "The Culling",
+  "brand": "NXT",
+  "archetype": "Vet-led enforcer unit",
+  "register": "Shadow",
+  "notes": "Shawn Spears (grizzled leader) & Niko Vance (powerhouse). Spears went rogue w/ a chair on OTM 5/26; feud w/ OTM."
+ },
+ {
+  "id": "otm",
+  "name": "OTM",
+  "alignment": "tweener",
+  "faction": "OTM (Of The Machine)",
+  "brand": "NXT",
+  "archetype": "Bruiser tag unit",
+  "register": "Demihero",
+  "notes": "Bronco Nima & Lucien Price; brawling w/ The Culling."
+ },
+ {
+  "id": "sean-legacy",
+  "name": "Sean Legacy",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Chosen-heir high-flyer",
+  "register": "Transitional",
+  "notes": "'Super' Sean Legacy; Speed-tournament entrant (3-min draw w/ Van Dux 5/26, both eliminated)."
+ },
+ {
+  "id": "dorian-van-dux",
+  "name": "Dorian Van Dux",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "NXT",
+  "archetype": "Continental aristocrat / Dorian-Gray aesthete",
+  "register": "Transitional",
+  "notes": "Belgian ex-wXw European Champ; Speed-tournament entrant (draw w/ Sean Legacy 5/26)."
+ },
+ {
+  "id": "killer-kross",
+  "name": "Killer Kross",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "Death's herald resurrected — the harbinger the machine discarded, crowned by the groundswell",
+  "register": "Shadow-adj",
+  "notes": "MLW World Heavyweight Champion (won at Battle Riot 8, 'blood king of the Battle Riot'). Ex-WWE (diaspora). First act as champion: the company-thesis promo (6/6). Catchphrase: 'Tick tock.' Scarlett-adjacent. Archetype = first-pass from broadcast framing, pending Joe's ruling."
+ },
+ {
+  "id": "matt-riddle",
+  "name": "Matt Riddle",
+  "alignment": "tweener",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The sicko mirror — broken brotherhood's other half",
+  "register": "Liminal-Warrior",
+  "notes": "Ex-WWE (diaspora). Former friend of Kross; signed the open contract for Kross–Riddle 2 (6/13, World title). 'I'm a sicko. You're a sicko.' Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "shotzi-blackheart",
+  "name": "Shotzi Blackheart",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "Monster hunter — chaos as method, the ballsy badass",
+  "register": "Liminal-Warrior",
+  "notes": "NEW MLW Women's World Champion (def. Nakajima 6/6). Ex-WWE (diaspora). Mission statement on winning: 'time I hunt some monsters.' Archetype = first-pass from broadcast framing, pending Joe's ruling."
+ },
+ {
+  "id": "shoko-nakajima",
+  "name": "Shoko Nakajima",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The Big Kaiju — mindset manifested over stature (1.47m city-destroyer)",
+  "register": "Trickster",
+  "notes": "Former MLW Women's World Champion — 14-month reign (April 2025–June 2026), MLW's most dominant women's champion to date; defended across US/Japan/Singapore. TJPW lineage. Archetype = the broadcast's own framing, pending Joe's ruling."
+ },
+ {
+  "id": "mistico",
+  "name": "Místico",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The living legend — superhero come to life, lucha's standard-bearer",
+  "register": "Pantheon-adj",
+  "notes": "CMLL World Lightweight Champion; back-to-back Opera Cup winner (only luchador to win it); 1M+ tickets at Arena México 2025; one career MLW loss. Stated goal (SI): MLW World title this year. Via CMLL partnership. Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "diego-hill",
+  "name": "Diego Hill",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The protégé ascending — the dream inherited from the grandfather's living room",
+  "register": "Demihero",
+  "notes": "27, Virginia Beach, Puerto Rican heritage; Blue Panther trainee; Battle Riot 8 standout. Elevated in defeat vs Místico 6/6 (Místico's public endorsement: 'you belong here'). Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "blue-panther",
+  "name": "Blue Panther",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "El Maestro Lagunero — the teaching itself, half a century of llave",
+  "register": "Constant",
+  "notes": "MLW National Openweight Champion; Diego Hill's mentor; ~50 years experience. Challenged by Austin Aries 6/6 (challenge aimed at the mentorship itself). Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "austin-aries",
+  "name": "Austin Aries",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The one, the only — self-anointed greatness against the maestro",
+  "register": "Trickster",
+  "notes": "Resurgent vet ('incredible resurgence', beat Trevor Lee two weeks prior). Challenged Blue Panther for the National Openweight title; disrespects the Hill mentorship ('no vale nada'). Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "kushida",
+  "name": "Kushida",
+  "alignment": "heel",
+  "faction": "Contra Unit",
+  "brand": "MLW",
+  "archetype": "The timekeeper turned — precision repurposed as terror",
+  "register": "Shadow-adj",
+  "notes": "MLW Middleweight Champion; revealed as Contra Unit's newest member via the Alan Angels ambush (6/6, w/ Okumura). Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "okumura",
+  "name": "Okumura",
+  "alignment": "heel",
+  "faction": "Contra Unit",
+  "brand": "MLW",
+  "archetype": "The faction's quiet hand",
+  "register": "Shadow-adj",
+  "notes": "Contra Unit; co-ambusher of Alan Angels 6/6. Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "alan-angels",
+  "name": "Alan Angels",
+  "alignment": "babyface",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The hungry climber — cementing himself in the major league",
+  "register": "Demihero",
+  "notes": "Scheduled vs Kushida 6/6 (Middleweight title-adjacent); match postponed after Contra ambush — with league physician. Injury heat banked. Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "mads-krueger",
+  "name": "Mads Krueger",
+  "alignment": "tweener",
+  "faction": "Contra Unit (expelled)",
+  "brand": "MLW",
+  "archetype": "The monster the faction made — and unmade. The Black Hand severed",
+  "register": "Shadow",
+  "notes": "Five years Contra's 'Black Hand'; former World Champion under their banner; declared independence and was destroyed for it — unseen since Battle Riot (January 2026). Absence banked as return story. Archetype = first-pass from broadcast framing, pending Joe's ruling."
+ },
+ {
+  "id": "alexander-hammerstone",
+  "name": "Alexander Hammerstone",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The displaced king — 'my championship' as worldview",
+  "register": "Pantheon-adj",
+  "notes": "Former MLW World Champion; calls the current title 'my championship'; angling for ringside at Kross–Riddle 2. Comedy register over a serious third-man wedge. Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "donovan-dijak",
+  "name": "Donovan Dijak",
+  "alignment": "heel",
+  "faction": "The Skyscrapers",
+  "brand": "MLW",
+  "archetype": "The skyline enforcer — altitude as argument",
+  "register": "Shadow-adj",
+  "notes": "One half of MLW World Tag Team Champions (w/ Bishop Dyer, reigning since June 2025); ex-WWE (diaspora). Retained vs Good Brothers in double-tables 6/6 (threw Anderson through the deciding table). Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "bishop-dyer",
+  "name": "Bishop Dyer",
+  "alignment": "heel",
+  "faction": "The Skyscrapers",
+  "brand": "MLW",
+  "archetype": "The other tower — former lineman, load-bearing menace",
+  "register": "Shadow-adj",
+  "notes": "One half of MLW World Tag Team Champions; ex-WWE (Baron Corbin, diaspora). 555 lbs combined billing w/ Dijak. Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "karl-anderson",
+  "name": "Karl Anderson",
+  "alignment": "tweener",
+  "faction": "Good Brothers",
+  "brand": "MLW",
+  "archetype": "The machine gun — eight crowns chasing the ninth",
+  "register": "Constant",
+  "notes": "8x world tag champion (3x IWGP) w/ Gallows; ex-WWE/NJPW (diaspora). Face-coded in 6/6 defeat ('fought their hearts out'). Feud lineage vs Skyscrapers: Charleston → Battle Riot → Chicago, still open. Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "doc-gallows",
+  "name": "Doc Gallows",
+  "alignment": "tweener",
+  "faction": "Good Brothers",
+  "brand": "MLW",
+  "archetype": "The big LG — crimson mask, never backs down",
+  "register": "Constant",
+  "notes": "8x world tag champion w/ Anderson; ex-WWE/NJPW (diaspora). Bled heavily in the 6/6 tables match; put through a table by the 2-on-1. Archetype = first-pass, pending Joe's ruling."
+ },
+ {
+  "id": "somaya",
+  "name": "Somaya",
+  "alignment": "heel",
+  "faction": null,
+  "brand": "MLW",
+  "archetype": "The destroyer arriving — violence without preamble",
+  "register": "Shadow-adj",
+  "notes": "One week into the MLW women's division ('violent and unforgiving'). Natural collision course with new champion Shotzi's monster-hunt mission. Archetype = first-pass, pending Joe's ruling."
+ }
 ]

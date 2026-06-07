@@ -20,6 +20,7 @@
   <button class="promo-btn" data-promo="WWE">WWE</button>
   <button class="promo-btn" data-promo="NXT">NXT</button>
   <button class="promo-btn" data-promo="AAA">AAA</button>
+  <button class="promo-btn" data-promo="MLW">MLW</button>
 </nav>
 
 <div class="controls">
@@ -86,22 +87,26 @@ const SHOW_FILES = [
   'noche-de-los-grandes-2026-05-30',
   'clash-in-italy-2026-05-31',
   'raw-2026-06-01',
+  'mlw-fusion-2026-06-06',
 ];
 
-// --- Promotion axis (WWE | NXT | AAA), DERIVED (there is no `promotion` field) ----
+// --- Promotion axis (WWE | NXT | AAA | MLW), DERIVED (there is no `promotion` field) ----
 // A show belongs to one promotion (from its id/name). A thread or character
 // belongs to EVERY promotion it actually appears in, so cross-promotional acts
 // (Rey Fenix, Rey Mysterio, Omos, War Raiders) and the mask feud that paid off
 // across both surface under BOTH tabs.
 const AAA_RE = /aaa|noche|triplemania|tripleman|lucha|rey de reyes/i;
 const NXT_RE = /\bnxt\b/i;
+const MLW_RE = /\bmlw\b|\bfusion\b|battle riot|opera cup/i;
 function showPromotion(s) {
   const hay = `${s.id || ''} ${s.show || ''} ${s.venue || ''}`;
+  if (MLW_RE.test(hay)) return 'MLW';
   if (AAA_RE.test(hay)) return 'AAA';
   if (NXT_RE.test(hay)) return 'NXT';
   return 'WWE';
 }
 function brandPromotion(brand) {
+  if (brand === 'MLW') return 'MLW';
   if (brand === 'AAA') return 'AAA';
   if (brand === 'NXT') return 'NXT';
   return 'WWE';
