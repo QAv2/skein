@@ -2336,5 +2336,82 @@
   "promised_payoff": "specific-show",
   "promised_payoff_show": "raw-2026-06-15",
   "notes": "Both advanced; SF set for Raw 6/15. IYO vows to put Judgment Day in its place."
+ },
+ {
+  "id": "gunther-special-ref-sami",
+  "name": "Gunther names Sami Zayn special referee (Cody rematch)",
+  "type": "prop",
+  "opened_at": "smackdown-2026-06-12",
+  "opened_by_segment": "smackdown-2026-06-12-seg-13",
+  "carriers": [
+   "gunther",
+   "sami-zayn",
+   "cody-rhodes",
+   "nick-aldis"
+  ],
+  "register": "Imperator installs his own judge",
+  "promised_payoff": "specific-show",
+  "promised_payoff_show": "smackdown-2026-06-19",
+  "notes": "Gunther distrusts WWE officiating (Clash blown call) so his 'stipulation' = he picks the ref; chose Sami Zayn ('the last real good guy'), a man with his own grudge against Cody. Compromised-by-design judge for the 6/19 KC Undisputed Title rematch."
+ },
+ {
+  "id": "saints-vs-hayes-us-contender",
+  "name": "Ricky Saints vs Carmelo Hayes (US #1 contender)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-06-12",
+  "opened_by_segment": "smackdown-2026-06-12-seg-09",
+  "carriers": [
+   "ricky-saints",
+   "carmelo-hayes",
+   "trick-williams"
+  ],
+  "register": "NXT-cohort midcard / proving belt",
+  "promised_payoff": "undefined",
+  "notes": "Trick (US champ) def. Hayes via Saints distraction, then Book End on Saints, stood last → sets Saints vs Hayes to determine the next US-title challenger. The 'NXT on WWE' cohort settling business on the flagship."
+ },
+ {
+  "id": "chelsea-tiffany-uneasy-alliance",
+  "name": "Chelsea Green forces an alliance on Tiffany Stratton",
+  "type": "arc",
+  "opened_at": "smackdown-2026-06-12",
+  "opened_by_segment": "smackdown-2026-06-12-seg-08",
+  "carriers": [
+   "chelsea-green",
+   "tiffany-stratton"
+  ],
+  "register": "patronage imposed, not granted",
+  "promised_payoff": "undefined",
+  "notes": "Green's unsolicited kendo-stick 'rescue' of Tiffany (post-QOTR brawl) → forced pairing that loses immediately to Michin & B-Fab. Inverts the conditional-patronage pattern."
+ },
+ {
+  "id": "blake-monroe-arrival",
+  "name": "Blake Monroe building (loner)",
+  "type": "arc",
+  "opened_at": "smackdown-2026-06-12",
+  "opened_by_segment": "smackdown-2026-06-12-seg-03",
+  "carriers": [
+   "blake-monroe"
+  ],
+  "register": "loner / self-sufficient antagonist",
+  "promised_payoff": "undefined",
+  "notes": "Vignette re: Flair/Bliss — 'Friends aren't something I ever burdened myself with.' Aimed at the women's-division orbit."
+ },
+ {
+  "id": "priest-truth-vs-mft-tag",
+  "name": "Priest & R-Truth (c) vs The MFTs — SD Tag Titles (6/19)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-06-12",
+  "opened_by_segment": "smackdown-2026-06-12-seg-04",
+  "carriers": [
+   "damian-priest",
+   "r-truth",
+   "solo-sikoa",
+   "tama-tonga",
+   "talla-tonga"
+  ],
+  "register": "champions vs the shadow-Bloodline",
+  "promised_payoff": "specific-show",
+  "promised_payoff_show": "smackdown-2026-06-19",
+  "notes": "Priest noted he & Truth defend the SD Tag Titles vs The MFTs next week (6/19). Truth floating a Judgment Day reunion."
  }
 ]
