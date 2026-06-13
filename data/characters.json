@@ -1669,5 +1669,15 @@
   "archetype": "Catch-Mercenary / craft for hire",
   "register": "Shadow",
   "notes": "Named in the Krueger package (Battle Riot 8 destruction crew). Ex-WWE diaspora. Archetype = Ritual Mirror pass, RATIFIED by Joe 2026-06-07 (adjust-as-we-go)."
+ },
+ {
+  "id": "gigi-dolin",
+  "name": "Gigi Dolin",
+  "alignment": "heel",
+  "faction": "fatal-influence",
+  "brand": "SmackDown",
+  "archetype": null,
+  "register": "Constant",
+  "notes": "Fatal Influence."
  }
 ]

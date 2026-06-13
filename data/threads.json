@@ -2167,5 +2167,174 @@
   "register": "designer violence joins the tag war — a third pack circles the belts",
   "promised_payoff": "undefined",
   "notes": "Debut loss to the Good Brothers with the champions watching from commentary; eyed the belts on the way in. The tag division now holds three credible packs."
+ },
+ {
+  "id": "cody-sami-brotherhood-fracture",
+  "name": "Cody Rhodes / Sami Zayn brotherhood fracture",
+  "type": "arc",
+  "opened_at": "smackdown-2026-06-05",
+  "opened_by_segment": "smackdown-2026-06-05-seg-01",
+  "carriers": [
+   "cody-rhodes",
+   "sami-zayn"
+  ],
+  "register": "Brotherhood fracture",
+  "promised_payoff": "undefined",
+  "notes": "Sami rejects Cody's hand in the 3-way brawl; 'this is why our friendship is in the state it's in.' The wilderness-walk turns toward Cody. Slow-burn heel-drift via righteousness."
+ },
+ {
+  "id": "giulia-kiana-split",
+  "name": "Giulia turns on Kiana James",
+  "type": "arc",
+  "opened_at": "smackdown-2026-06-05",
+  "opened_by_segment": "smackdown-2026-06-05-seg-02",
+  "carriers": [
+   "giulia",
+   "kiana-james"
+  ],
+  "register": "Heel-on-heel split",
+  "promised_payoff": "undefined",
+  "notes": "Post-QOTR-loss, Giulia attacks Kiana over the ropes-spot blame. Alliance fractured."
+ },
+ {
+  "id": "priest-mft-drift",
+  "name": "Damian Priest drifts from Solo's MFTs",
+  "type": "arc",
+  "opened_at": "smackdown-2026-06-05",
+  "opened_by_segment": "smackdown-2026-06-05-seg-03",
+  "carriers": [
+   "damian-priest",
+   "r-truth",
+   "solo-sikoa",
+   "royce-keys"
+  ],
+  "register": "Liminal-Warrior / allegiance drift",
+  "promised_payoff": "undefined",
+  "notes": "Priest pulls R-Truth to safety rather than fully help Keys; Solo cites Priest's distance. SD tag champ orbiting away from the MFT war."
+ },
+ {
+  "id": "gable-lucha-redemption-arc",
+  "name": "Chad Gable lucha-redemption / apology chain",
+  "type": "arc",
+  "opened_at": "smackdown-2026-06-05",
+  "opened_by_segment": "smackdown-2026-06-05-seg-04",
+  "carriers": [
+   "chad-gable",
+   "rey-fenix",
+   "penta",
+   "rey-mysterio"
+  ],
+  "register": "Trickster turned penitent",
+  "promised_payoff": "undefined",
+  "notes": "Unmasked as El Grande Americano (Noche 6/6), Gable returns as himself and apologizes node-by-node (Fenix->Penta->Rey). The mask worn in bad faith converted the wearer. Pays first physical dividend 6/8 (returns Rey's stolen mask)."
+ },
+ {
+  "id": "fatal-influence-womens-tag-chase",
+  "name": "Fatal Influence vs Brie & Paige (Women's Tag)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-06-05",
+  "opened_by_segment": "smackdown-2026-06-05-seg-07",
+  "carriers": [
+   "jacy-jayne",
+   "gigi-dolin",
+   "fallon-henley",
+   "lainey-reid",
+   "brie-bella",
+   "paige"
+  ],
+  "register": "Constant / title chase",
+  "promised_payoff": "undefined",
+  "notes": "Fatal Influence jump the champs and pose with the belts (attack only, no title change)."
+ },
+ {
+  "id": "dom-vs-oba-kotr-semi",
+  "name": "Dominik Mysterio vs Oba Femi (KOTR semifinal)",
+  "type": "feud",
+  "opened_at": "smackdown-2026-06-05",
+  "opened_by_segment": "smackdown-2026-06-05-seg-13",
+  "carriers": [
+   "dom-mysterio",
+   "oba-femi"
+  ],
+  "register": "Nepotism-heel vs earned-ascent",
+  "promised_payoff": "specific-show",
+  "promised_payoff_show": "raw-2026-06-15",
+  "notes": "Dom advances ('count your days' to Femi); Femi advanced 6/1. SF set for Raw 6/15."
+ },
+ {
+  "id": "finn-balor-smackdown-arrival",
+  "name": "Finn Balor arrives on SmackDown",
+  "type": "arc",
+  "opened_at": "smackdown-2026-06-05",
+  "opened_by_segment": "smackdown-2026-06-05-seg-10",
+  "carriers": [
+   "finn-balor"
+  ],
+  "register": "Free-agent Fomorian",
+  "promised_payoff": "undefined",
+  "notes": "Confirmed SmackDown acquisition (the 6/1 single-sourced tease pays off). Set for KOTR R1 6/12 vs Keys/Knight/Jey. Ex-Judgment Day since the 3/9 excommunication."
+ },
+ {
+  "id": "rollins-vs-roman-summerslam-build",
+  "name": "Seth Rollins vs Roman Reigns (WHC, SummerSlam build)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-08",
+  "opened_by_segment": "raw-2026-06-08-seg-03",
+  "carriers": [
+   "seth-rollins",
+   "roman-reigns"
+  ],
+  "register": "Loki vs Pantheon",
+  "promised_payoff": "ppv-match",
+  "promised_payoff_show": "summerslam-2026-08-01",
+  "notes": "Rollins 'done with The Vision,' wants 'the title I never lost' — aims at Roman's WHC at SummerSlam via KOTR."
+ },
+ {
+  "id": "page-rusev-vs-lucha-bloc",
+  "name": "Ethan Page & Rusev vs the lucha bloc (IC)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-08",
+  "opened_by_segment": "raw-2026-06-08-seg-06",
+  "carriers": [
+   "ethan-page",
+   "rusev",
+   "rey-mysterio",
+   "penta",
+   "dragon-lee",
+   "chad-gable"
+  ],
+  "register": "heels vs lucha kin",
+  "promised_payoff": "undefined",
+  "notes": "Post-IC-match, Page & Rusev attack, Rusev rips Rey's mask; Gable runs in, clears them, returns the mask. Page demands an IC rematch. Babyface bloc forming (Penta/Rey/Dragon Lee/Gable)."
+ },
+ {
+  "id": "jey-vs-knight-kotr",
+  "name": "Jey Uso vs LA Knight (KOTR R1)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-08",
+  "opened_by_segment": "raw-2026-06-08-seg-09",
+  "carriers": [
+   "jey-uso",
+   "la-knight"
+  ],
+  "register": "Bloodline-orbit vs anti-authority",
+  "promised_payoff": "specific-show",
+  "promised_payoff_show": "smackdown-2026-06-12",
+  "notes": "'Screw your family!' — Jimmy holds Jey back. KOTR R1 match set for SD 6/12."
+ },
+ {
+  "id": "iyo-vs-raquel-qotr-semi",
+  "name": "IYO Sky vs Raquel Rodriguez (QOTR semifinal)",
+  "type": "feud",
+  "opened_at": "raw-2026-06-08",
+  "opened_by_segment": "raw-2026-06-08-seg-11",
+  "carriers": [
+   "iyo-sky",
+   "raquel-rodriguez"
+  ],
+  "register": "Senpai vs Judgment-Day power",
+  "promised_payoff": "specific-show",
+  "promised_payoff_show": "raw-2026-06-15",
+  "notes": "Both advanced; SF set for Raw 6/15. IYO vows to put Judgment Day in its place."
  }
 ]
