@@ -3,7 +3,7 @@
  "show": "WWE SmackDown",
  "date": "2026-06-12",
  "venue": "Amica Mutual Pavilion, Providence, RI",
- "context": "Final first-round night of BOTH King & Queen of the Ring 2026 (SF Raw 6/15 → finals Night of Champions 6/27 Riyadh). Two engines: (1) Gunther's 'stipulation' for the 6/19 Kansas City Cody rematch = he picks the REFEREE himself, names SAMI ZAYN ('the last real good guy') — the Imperator installs his own compromised judge (Scroll 007 correct-and-denied answered by seizing the witness); (2) Solo Sikoa REFUSES Roman's 'come home' (delivered by Fatu) — Bloodline-vs-MFT war goes hot, Fatu now Roman's envoy. AAA World Cruiserweight defended on the flagship (Fénix retains vs Axiom = 'the flagship hosts but does not capture'). Outlet-reconciled post-show crawl (Joe's live reads flagged-untrusted; outlets the authority). ⚠️ KOTR main-event winner PROVISIONAL (Jey Uso lean; recaps hadn't propagated at crawl time).",
+ "context": "Final first-round night of BOTH King & Queen of the Ring 2026 (SF Raw 6/15 → finals Night of Champions 6/27 Riyadh). Two engines: (1) Gunther's 'stipulation' for the 6/19 Kansas City Cody rematch = he picks the REFEREE himself, names SAMI ZAYN ('the last real good guy') — the Imperator installs his own compromised judge (Scroll 007 correct-and-denied answered by seizing the witness); (2) Solo Sikoa REFUSES Roman's 'come home' (delivered by Fatu) — Bloodline-vs-MFT war goes hot, Fatu now Roman's envoy. AAA World Cruiserweight defended on the flagship (Fénix retains vs Axiom = 'the flagship hosts but does not capture'). Outlet-reconciled post-show crawl (Joe's live reads flagged-untrusted; outlets the authority). KOTR main-event winner CONFIRMED 6/13 = Jey Uso (splash stole the pin on LA Knight off Solo's Spike + Keys' spinebuster — interference was aimed at Keys, Jey capitalized).",
  "segments": [
   {
    "id": "smackdown-2026-06-12-seg-01",
@@ -70,7 +70,7 @@
    "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
-   "outcome": "Non-title: Brie Bella & Paige (Women's Tag Champions) def. Fatal Influence (Fallon Henley & Lainey Reid, w/ Jacy Jayne) — Brie reversed a cradle for the pin (~8:30) after the ref ejected Jacy Jayne. (Pin-victim split across outlets: Reid majority / Henley per B/R.)",
+   "outcome": "Non-title: Brie Bella & Paige (Women's Tag Champions) def. Fatal Influence (Fallon Henley & Lainey Reid, w/ Jacy Jayne) — after the ref ejected Jacy Jayne, Paige rolled up Lainey Reid (Henley distracted), Brie reversed Reid's counter, and Paige pinned Reid (~8:30). Pin victim CONFIRMED 6/13 = Reid (WrestleView; B/R's 'Henley' discarded).",
    "stand_tall": "babyface",
    "register": "champs answer the attack; chase stays open",
    "notes": "Champs go over non-title — the title chase continues; the heel unit loses its edge once the manager is removed."
@@ -98,7 +98,7 @@
    "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
-   "outcome": "AAA World Cruiserweight Championship: Rey Fénix (c) def. Axiom via Mexican Muscle Buster (~11:30) — RETAINED. First AAA-Cruiserweight defense on WWE TV; presented straight (no on-air storyline gloss). (⚠️ finish named 'Fénix Driver' by one outlet; Frazer-at-ringside reported by one, denied by another.)",
+   "outcome": "AAA World Cruiserweight Championship: Rey Fénix (c) def. Axiom via Mexican Musclebuster (~11:30) — RETAINED. First AAA-Cruiserweight defense on WWE TV; presented straight (no on-air storyline gloss). Finish name CONFIRMED 6/13 = Mexican Musclebuster ('Fénix Driver' was a one-outlet mislabel); NO Nathan Frazer at ringside (WrestlingInc's claim uncorroborated, discarded).",
    "stand_tall": "babyface",
    "register": "the flagship hosts but does not capture",
    "notes": "WWE platforms an AAA belt on its marquee (flagship-platforms-AAA, live) but does NOT annex the gold to a homegrown body — visiting-crown prestige protected (territory-as-visitor). The Phoenix keeps his fire. Joe's live Axiom pick = MISS; the counter-read held."
@@ -168,10 +168,10 @@
    "threads_opened": [],
    "threads_closed": [],
    "threads_transformed": [],
-   "outcome": "King of the Ring R1 Fatal 4-Way: Jey Uso def. LA Knight, Finn Bálor & Royce Keys (⚠️ PROVISIONAL — winner not fully propagated at crawl time; lean Jey Uso, outliers Bálor/LA Knight; finish/interference unconfirmed). Winner → KOTR SF vs Je'Von Evans (6/15). Bloodline presence teased shaping the finish.",
+   "outcome": "King of the Ring R1 Fatal 4-Way: Jey Uso def. LA Knight, Finn Bálor & Royce Keys (CONFIRMED 6/13 — WWE.com/WrestleView/Fightful). Finish: with Bálor down, Solo Sikoa hit LA Knight with a Samoan Spike (ref unsighted) → Royce Keys hit the Ultimate Spinebuster on Knight → Jey Uso leaped off the top with a splash and stole the pin on Knight. Winner → KOTR SF vs Je'Von Evans (6/15).",
    "stand_tall": "babyface",
-   "register": "the autonomy question, tested",
-   "notes": "⚠️ RE-CONFIRM the winner/finish in the morning. If Jey advanced via Bloodline interference, it deepens the Cody-planted doubt: is Jey winning as himself or as Roman's instrument?"
+   "register": "the autonomy question, sharpened",
+   "notes": "The interference was aimed at KEYS, not Jey — Solo's Spike + Keys' spinebuster were setting Keys up to win, and Jey stole the pin off it. So Jey advanced as himself (no one helped HIM) but by theft off the family's mess: free of the Bloodline's hand yet tainted by proximity. Cody's open-promo doubt ('Jey's decision, not Roman Reigns'?') stays live into the SF."
   },
   {
    "id": "smackdown-2026-06-12-seg-13",
