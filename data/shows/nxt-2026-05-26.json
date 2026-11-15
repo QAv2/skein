@@ -1,0 +1,203 @@
+{
+ "id": "nxt-2026-05-26",
+ "show": "WWE NXT",
+ "date": "2026-05-26",
+ "venue": "WWE Performance Center, Orlando, FL",
+ "context": "First NXT ingested into Skein (Joe's call: establish WWE/NXT/AAA coverage). Standard weekly TV on The CW; most recent NXT as of 6/1 (no NXT special aired near this date — Battleground/Heatwave are later-2026, dates UNCONFIRMED). Post-Stand & Deliver (4/4/26) landscape: Tony D'Angelo = NXT Champion, Lola Vice = NXT Women's Champion; a heavily reset/youth-infused roster after the early-2026 call-up wave (Oba Femi, Trick Williams, Je'Von Evans, Lash Legend to the main roster). HIGH-confidence card/beats (WWE.com, PWTorch, Wrestling Inc, Slam, Ring Report, Fightful). FLAGS/normalizations: name spellings normalized to WWE.com (Naraku, Kam Hendrix, Myles Borne, Lizzy Rain, Osiris Griffin); finisher names vary by outlet; match times are PWTorch's (approximate). Next NXT PLE (Battleground) date is single-tier/unconfirmed — not hard-coded here.",
+ "segments": [
+  {
+   "id": "nxt-2026-05-26-seg-01",
+   "type": "match",
+   "position": "A-block",
+   "carriers": [
+    "kelani-jordan",
+    "wren-sinclair",
+    "kendal-grey"
+   ],
+   "threads_advanced": [
+    "lola-vice-womens-reign"
+   ],
+   "threads_opened": [
+    "grey-sinclair-breakup"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Kelani Jordan def. Wren Sinclair (w/ Kendal Grey) via a leg/knee-based submission (~11:26, non-title — Sinclair is Women's Speed Champion). Jordan worked Sinclair's injured knee throughout — revenge for an earlier crutch attack.",
+   "stand_tall": "babyface",
+   "register": "high-flyer vs hobbled champion",
+   "notes": "Feeds the NXT Women's contender picture. Plants the Grey/Sinclair friendship-breakup seed (Sinclair working hurt, leaning on Grey)."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-02",
+   "type": "match",
+   "position": "A-block",
+   "carriers": [
+    "sean-legacy",
+    "dorian-van-dux"
+   ],
+   "threads_advanced": [
+    "speed-tournament-2026"
+   ],
+   "threads_opened": [],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Sean Legacy vs Dorian Van Dux went to a 3-minute time-limit DRAW in the WWE (men's) Speed Championship No. 1 Contender's Tournament — BOTH eliminated (~3:00). Legacy hit an avalanche Spanish Fly at the buzzer but neither scored.",
+   "stand_tall": "split",
+   "register": "Agon (the fastest) / mutual elimination",
+   "notes": "Speed-tournament bracket beat — chosen-heir aerialist (Legacy) vs continental aesthete (Van Dux), both out. The tournament points at champion Lexis King (Birthright)."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-03",
+   "type": "match",
+   "position": "A-block",
+   "carriers": [
+    "jaida-parker",
+    "layla-diggs",
+    "natalya"
+   ],
+   "threads_advanced": [],
+   "threads_opened": [
+    "nattie-diggs-vs-parker"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Jaida Parker def. Layla Diggs (w/ Natalya) via a chokeslam-into-sit-out-powerbomb sequence (~4:01). Diggs' NXT debut.",
+   "stand_tall": "heel",
+   "register": "brash heel vs vet-backed prospect",
+   "notes": "Diggs debuts under Nattie's wing; the post-match staredown teases Natalya stepping back in the ring vs Parker."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-04",
+   "type": "match",
+   "position": "B-block",
+   "carriers": [
+    "romeo-moreno",
+    "nathan-frazer",
+    "noam-dar",
+    "axiom"
+   ],
+   "threads_advanced": [
+    "speed-tournament-2026"
+   ],
+   "threads_opened": [],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Romeo Moreno (w/ Noam Dar) def. Nathan Frazer (w/ Axiom) via a roll-up/inside cradle just before the 3-min buzzer (~2:58, Speed tournament). Nathan Frazer's return match; Moreno ADVANCES.",
+   "stand_tall": "heel",
+   "register": "Agon (the fastest)",
+   "notes": "Moreno through to face Lexis King's title eventually; Axiom vs Noam Dar tension simmering at ringside."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-05",
+   "type": "angle",
+   "position": "B-block",
+   "carriers": [
+    "darkstate",
+    "saquon-shugars",
+    "myles-borne",
+    "tavion-heights"
+   ],
+   "threads_advanced": [
+    "darkstate-hunt-champions"
+   ],
+   "threads_opened": [
+    "darkstate-shugars-revenge"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "DarkState (Dion Lennox, Cutler James, Osiris Griffin — maskless) justified ousting Saquon Shugars (collegiate athletes vs the reckless 'indie' guy); Lennox asserted leadership; Griffin refocused them on hunting champions. Later they ambushed Myles Borne (NXT NA Champ) & Tavion Heights backstage. Show closed with a vengeful Saquon Shugars silhouetted atop a production truck, watching.",
+   "stand_tall": "heel",
+   "register": "the young wolves / the cast-out's return",
+   "notes": "Two threads off one stable: the Shugars revenge hook (the closing stinger) + DarkState's 'hunt the champions' mission pointed at Borne & Heights (next week's tag program). Turn on Shugars happened the prior week (5/19); this was the fallout."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-06",
+   "type": "angle",
+   "position": "B-block",
+   "carriers": [
+    "tony-dangelo",
+    "naraku",
+    "kam-hendrix",
+    "mason-rook"
+   ],
+   "threads_advanced": [
+    "dangelo-nxt-title-reign",
+    "dangelo-naraku-destined-war"
+   ],
+   "threads_opened": [
+    "dangelo-vs-hendrix-nxt-title",
+    "mason-rook-title-insertion"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Tony D'Angelo (NXT Champion) announced he defends next week vs Kam Hendrix and called out Naraku, who said he'll keep D'Angelo champion because they're 'destined to go to war' — then, when Hendrix interrupted boasting, Naraku hooked him, forearmed and clotheslined him over the top rope, and BOWED to D'Angelo. Separately, Mason Rook demanded the title shot from GM Robert Stone (claimed a technical pin) and threatened to take matters into his own hands; Naraku intervened, refusing to let anyone ruin the title match.",
+   "stand_tall": "split",
+   "register": "Chthonic-Don + the ambiguous protector",
+   "notes": "The NXT main-event scene: D'Angelo's reign, the Naraku 'destined to war' slow burn (protector or future challenger?), Hendrix's booked shot, and Rook lurking. Naraku is the load-bearing mystery."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-07",
+   "type": "match",
+   "position": "B-block",
+   "carriers": [
+    "shiloh-hill",
+    "charlie-dempsey",
+    "tristan-angels"
+   ],
+   "threads_advanced": [],
+   "threads_opened": [
+    "mr-nxt-pageant"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Shiloh Hill def. Charlie Dempsey (w/ a backdrop/suplex into a pin, ~9:04 — a standby match replacing the scrapped OTM–Culling tag). Tristan Angels mocked Hill's joke 'Mr. NXT' petition all night; GM Robert Stone then approved a 'Mr. NXT' Pageant in two weeks (Angels vs Hill).",
+   "stand_tall": "babyface",
+   "register": "carnival / comedy midcard",
+   "notes": "Cowboy (Hill) vs posh 'Mr. England' (Angels) — both being pushed up; the pageant is the payoff vehicle. Dempsey eats the loss as gatekeeper."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-08",
+   "type": "angle",
+   "position": "B-block",
+   "carriers": [
+    "tatum-paxley",
+    "lizzy-rain",
+    "zaria",
+    "the-culling",
+    "otm"
+   ],
+   "threads_advanced": [
+    "paxley-zaria-na-title",
+    "culling-vs-otm"
+   ],
+   "threads_opened": [],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Tatum Paxley (Women's NA Champion) apologized to Lizzy Rain for Zaria's prior interference (building the Paxley/Rain alliance vs an obsessive Zaria); Hill later distracted Zaria so Rain could attack her. Separately, Shawn Spears (The Culling) blindsided OTM (Bronco Nima & Lucien Price) with a chair pre-bell, scrapping their scheduled tag match; OTM retaliated later. Izzi Dame confronted Spears over his rogue 'timing' and accepted his explanation (papering over Culling friction).",
+   "stand_tall": "none",
+   "register": "stalking-power vs the allied champ / faction brawl",
+   "notes": "Two division threads advanced: Zaria's stalk of Paxley's NA title (Paxley/Rain alliance the counter) and the Culling-vs-OTM brawl (with Spears' rogue streak as the internal-Culling fault line)."
+  },
+  {
+   "id": "nxt-2026-05-26-seg-09",
+   "type": "match",
+   "position": "main-event",
+   "carriers": [
+    "lola-vice",
+    "izzi-dame",
+    "the-culling"
+   ],
+   "threads_advanced": [
+    "lola-vice-womens-reign",
+    "culling-vs-otm"
+   ],
+   "threads_opened": [],
+   "threads_closed": [],
+   "threads_transformed": [],
+   "outcome": "Lola Vice (c) def. Izzi Dame (w/ The Culling) to RETAIN the NXT Women's Championship via a spinning backfist ('Backfist to the Future'), then a second to seal it (~10:58). Overbooked finish: Spears grabbed Dame's leg, Vance stopped the interference, OTM & the Culling brawled to the back, the ref ate a flying knee, Dame kicked the belt into Vice's head (near-fall at seven) and got two off an assisted boot before Vice recovered.",
+   "stand_tall": "babyface",
+   "register": "striker-queen retains",
+   "notes": "Clean-enough retain amid Culling chaos; the Dame challenge continues and the Culling/OTM brawl spilled into the main event. Vice's reign rolls on toward the next contender (Jordan/Grey/Armstrong)."
+  }
+ ]
+}

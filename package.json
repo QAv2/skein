@@ -1,0 +1,12 @@
+{
+  "name": "skein",
+  "version": "0.0.1",
+  "description": "Narrative-debt diagnostic for serialized writing",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test src/compute/*.test.js",
+    "validate": "node scripts/validate.js"
+  },
+  "license": "MIT"
+}

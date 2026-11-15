@@ -1,0 +1,164 @@
+{
+ "id": "clash-in-italy-2026-05-31",
+ "show": "WWE Clash in Italy 2026",
+ "date": "2026-05-31",
+ "venue": "Inalpi Arena, Turin, Italy",
+ "context": "WWE flagship PLE; the TOP of the three-card transnational weekend (Monterrey Noche Sat -> Turin Clash Sun) = the American-illusion/reassurance dose vs the AAA renaissance dose. Linear-ESPN first hour held the two 'widen-the-circle' doses (Cody=reassurance, Rhea=integration); the family-saga + forging migrated to the ESPN app. The published Worked Shoot call went 5/5 (timestamped pre-bell); the flag-bearer theme: the two STANDARD-RULES title retains held by rules-illegitimacy (Cody ref-error, Rhea interference), the lone SUCCESSION (Sol) was clean -- the old order kept by taint, the future won clean. Roman/Fatu (no-DQ) = clean-in-format. Markers: ~/the-worked-shoot/shows/_markers-smackdown-2026-05-29.md (weekend block); show file: ~/the-worked-shoot/shows/clash-in-italy-2026-05-31.md. NOTE: Charlotte's 'Alexa receipts' motive + the Cathy Kelley post-show dialogue + Graves' 'wounded animal' line are Joe-sourced and UNVERIFIED in outlet text.",
+ "segments": [
+  {
+   "id": "clash-in-italy-2026-05-31-seg-01",
+   "type": "match",
+   "position": "A-block",
+   "carriers": [
+    "cody-rhodes",
+    "gunther"
+   ],
+   "threads_advanced": [
+    "cody-third-reign",
+    "punk-vs-cody-summerslam-build"
+   ],
+   "threads_opened": [
+    "cody-gunther-rematch-controversy"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [
+    "cody-vs-gunther-2026"
+   ],
+   "outcome": "Cody Rhodes (c) def. Gunther via Cross Rhodes to RETAIN the Undisputed WWE Championship -- CONTROVERSIAL: Gunther's foot was under the bottom rope when ref Dan Engler counted (rope-break missed; confirmed on broadcast). Cody now 2-0 vs Gunther. Post-show: Cody acknowledged the win wasn't clean and offered the rematch. ~11:35.",
+   "stand_tall": "babyface",
+   "register": "Demihero(Telemachus) vs Pantheon(Cronus/Imperator)",
+   "notes": "The reassuring-dose, exactly as called -- the American hero who can't win clean/alone but won't go down; propped past merit by the institution's missed call (decline, not privilege). Gunther = the truth-teller who named 'the crumbling American dream,' correct on the merits, then denied = foreign-shadow INVERTED (Scroll 007). Cody owning the bad call + offering the rematch REDEEMS the taint (reign keeps the asterisk; his moral standing clean) -- a moral rebuttal to Gunther's narcissism/nepotism charge. Title in the OPENER = retain-coded. (We called the SHAPE/tainted-retain; guessed Orton, actual taint = ref error.)"
+  },
+  {
+   "id": "clash-in-italy-2026-05-31-seg-02",
+   "type": "match",
+   "position": "A-block",
+   "carriers": [
+    "rhea-ripley",
+    "jade-cargill",
+    "charlotte-flair",
+    "b-fab",
+    "michin"
+   ],
+   "threads_advanced": [
+    "jade-faction-debut",
+    "charlotte-hera-arc"
+   ],
+   "threads_opened": [
+    "charlotte-rhea-fracture-debt"
+   ],
+   "threads_closed": [
+    "jade-vs-rhea-rematch"
+   ],
+   "threads_transformed": [
+    "charlotte-alexa-partnership"
+   ],
+   "outcome": "Rhea Ripley (c) def. Jade Cargill via a second Riptide to RETAIN the WWE Women's Championship -- assisted. B-Fab roped Jade's foot to break a pin; Charlotte Flair ran in, attacked Michin/B-Fab, and countered Jade's Jaded by roping Rhea's foot (the mirror). WM42 rematch. ~16:54.",
+   "stand_tall": "babyface",
+   "register": "Pantheon(Morrigan/Macha) vs Pantheon(Oya)",
+   "notes": "Pick hit -- the Morrigan weathers the storm; Jade's clean build-pins were misdirection. NOT clean = CONTESTED PARITY (heels cheated first via B-Fab's rope; Charlotte's counter cancelled it; the Riptide pin was legit) -- distinct from Cody's 'propped past merit vs a clean opponent.' Third foot-on-rope of the night (the rule as the night's motif). MOTIVE UNCONFIRMED: Joe's read = Charlotte 'receipts paid' for a Jade-faction attack on Alexa Bliss (-> fracture stays open, save incidental); outlets frame the run-in as motive-ambiguous -- verify on video."
+  },
+  {
+   "id": "clash-in-italy-2026-05-31-seg-03",
+   "type": "match",
+   "position": "B-block",
+   "carriers": [
+    "brock-lesnar",
+    "oba-femi"
+   ],
+   "threads_advanced": [
+    "seth-ragnarok-army"
+   ],
+   "threads_opened": [
+    "oba-brock-summerslam-forging",
+    "brock-surtr-active"
+   ],
+   "threads_closed": [
+    "oba-vs-brock-italy-rematch"
+   ],
+   "threads_transformed": [
+    "oba-ascension-streak"
+   ],
+   "outcome": "Brock Lesnar def. Oba Femi (non-title) via the SEVENTH F-5, avenging his WM42 loss. Lesnar hit four consecutive F-5s early; Oba kicked out of five F-5s total and muscled out of the Kimura; one F-5 came through the announce table. ~6:21.",
+   "stand_tall": "heel",
+   "register": "RETURNED(Surtr) vs Pantheon(Ascending Orisha)",
+   "notes": "Pick hit (the flip). The triple-forging MIDDLE via WAR, not squash -- Surtr's fire prevails; Oba ELEVATED in defeat (forged by belonging in the fire), setting up the SummerSlam coronation. Joe's loose reads: Oba = a rightful equal -> the worthy adversary that drew Surtr out; Brock's 'conditional retirement' reads as a FEINT (full-time vs recurring-gatekeeper open; scarcity = the aura). Ragnarok convergence: Surtr(Brock) + Loki(Seth)'s Ragnarok army assembled across two storylines -- track convergence."
+  },
+  {
+   "id": "clash-in-italy-2026-05-31-seg-04",
+   "type": "match",
+   "position": "B-block",
+   "carriers": [
+    "sol-ruca",
+    "becky-lynch"
+   ],
+   "threads_advanced": [],
+   "threads_opened": [
+    "sol-ruca-ic-reign"
+   ],
+   "threads_closed": [
+    "sol-ruca-vs-becky-program"
+   ],
+   "threads_transformed": [
+    "becky-nemesis-arc"
+   ],
+   "outcome": "Sol Ruca def. Becky Lynch (c) via the Sol Snatcher (countering Becky's second Manhandle Slam attempt) to become NEW Women's IC Champion -- CLEAN (WWE broke out pyro). Move-theft exchange: Becky's Manhandle Slam -> Sol's own Manhandle Slam -> Sol Snatcher counter. ~14:00.",
+   "stand_tall": "babyface",
+   "register": "Demihero->Liminal(Helios/successor) vs Transitional(Nemesis)",
+   "notes": "Pick hit -- our RISKIEST call (the flip), and CLEAN. Succession rendered move-for-move: the veteran tries the successor's own move and misses; the successor proves she can wield the elder's tool then wins as herself. THESIS-KEEPER: the night's two standard-rules retains held by rules-illegitimacy, but the one SUCCESSION was clean -- the future is won cleanly; the past is maintained by taint."
+  },
+  {
+   "id": "clash-in-italy-2026-05-31-seg-05",
+   "type": "match",
+   "position": "main-event",
+   "carriers": [
+    "roman-reigns",
+    "jacob-fatu"
+   ],
+   "threads_advanced": [
+    "bloodline-civil-war"
+   ],
+   "threads_opened": [],
+   "threads_closed": [
+    "roman-vs-fatu-tribal-combat"
+   ],
+   "threads_transformed": [
+    "roman-vs-fatu-whc",
+    "fatu-physical-arrival-raw"
+   ],
+   "outcome": "Roman Reigns (c) def. Jacob Fatu in Tribal Combat (no-DQ) to RETAIN the World Heavyweight Championship -- via two spears: toolbox to Fatu's previously-injured Death-Grip hand (Fatu later released the Tongan Death Grip in pain), a low blow at the kickout, a spear through a corner table, Fatu rose, second standing spear -> pin. Exposed turnbuckles. Cole: 'The Samoan Werewolf has been neutered. He's been domesticated at the hands of the still Head of the Table.' ~27:11.",
+   "stand_tall": "heel",
+   "register": "Pantheon(Transformed King) vs Pantheon(Aitu)",
+   "notes": "Pick hit -- Roman retains, Fatu PROTECTED (a war through tables + multi-spear kickout, not a squash). Won CLEAN under the FAMILY's law (no-DQ; toolbox/low-blow are LEGAL -- brutal != illegitimate, 'clean even if it's not'); Tribal Combat = the family's own law outside the company's rules -> the one crown tonight with zero rules-asterisk (won by surviving). The match systematically emasculated the aitu (Death-Grip hand -> low blow -> 'neutered'), landing Roman's 'domesticate' goal."
+  },
+  {
+   "id": "clash-in-italy-2026-05-31-seg-06",
+   "type": "angle",
+   "position": "main-event",
+   "carriers": [
+    "roman-reigns",
+    "jacob-fatu",
+    "jey-uso",
+    "jimmy-uso",
+    "solo-sikoa",
+    "tama-tonga",
+    "talla-tonga"
+   ],
+   "threads_advanced": [
+    "mfts-collapse"
+   ],
+   "threads_opened": [
+    "fatu-absorbed-bloodline",
+    "bloodline-mft-realignment"
+   ],
+   "threads_closed": [],
+   "threads_transformed": [
+    "bloodline-civil-war"
+   ],
+   "outcome": "Post-match: Jey Uso placed the ula fala around Roman's neck; the MFT (Solo, Tama, Talla) were shown in the front row; Fatu stopped at the bottom of the ramp, stared down the MFT, then followed Roman up the aisle = accepts subordination. The aitu is ABSORBED into the Bloodline. Faction realignment: Roman + Usos + absorbed-Fatu = the new core; MFT remnant OUT. (Joe relayed a Cathy Kelley post-show 'Fatu accepts' spot; dialogue UNVERIFIED in outlet text.)",
+   "stand_tall": "heel",
+   "register": "Pantheon (family reconstitution)",
+   "notes": "'Loser serves' pays off as ABSORPTION, not destruction: the aitu who spent weeks 'claiming jurisdiction under the family code' is neutered -> domesticated -> folded in by his own ACCEPTANCE = the most complete containment. Absorption was the weekend's throughline on BOTH cards (AAA: Raiders/Pagano/Omos; WWE: Fatu). WATCH: Joe's JYD/degradation flag (a just-neutered Samoan monster collared as a servile dog -- see worked-shoot-discrimination-blindness); the ramp beat leaned DIGNIFIED subordination, not degradation -- track into Raw/6-6."
+  }
+ ]
+}

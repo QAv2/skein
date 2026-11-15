@@ -1,0 +1,187 @@
+{
+  "id": "smackdown-2026-05-22",
+  "show": "SmackDown",
+  "date": "2026-05-22",
+  "venue": "Rupp Arena, Lexington, Kentucky",
+  "context": "SNME (5/23) go-home show. Outlet-reconciled (WWE.com, PWTorch x2, Cageside, WrestleView, PWMania, Fightful, Ringside, WrestlingInc, Yahoo) -- corrects the live markers on four points: Solo BEAT Priest (not the reverse) and NO Fatal Four Way exists; only ONE women's tag match (the 'Flair & Bliss vs FI' was the opening promo); no contract signing or 'typical American' promo this night (both were 5/29); the Aldis/Robinson 'Chinese' whisper is a Danhausen reanimation gag with zero outlet support (NOT canonized).",
+  "segments": [
+    {
+      "id": "smackdown-2026-05-22-seg-01",
+      "type": "promo",
+      "position": "cold-open",
+      "carriers": [
+        "rhea-ripley",
+        "charlotte-flair",
+        "alexa-bliss",
+        "jade-cargill",
+        "jacy-jayne"
+      ],
+      "threads_advanced": [
+        "jade-vs-rhea-rematch",
+        "charlotte-alexa-partnership"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Rhea opened and accepted Jade Cargill's Women's Championship rematch for Clash in Italy. Charlotte Flair + Alexa Bliss interrupted (trust tension: Rhea was 'visiting family' during last week's attack); Fatal Influence interrupted, Jayne relishing the division 'imploding'. Set up a tag match.",
+      "stand_tall": "none",
+      "register": "Macha-vs-Oya build; babyface-trust fracture seeded"
+    },
+    {
+      "id": "smackdown-2026-05-22-seg-02",
+      "type": "match",
+      "position": "A-block",
+      "carriers": [
+        "shinsuke-nakamura",
+        "talla-tonga",
+        "tama-tonga",
+        "solo-sikoa",
+        "damian-priest"
+      ],
+      "threads_advanced": [
+        "tama-tonga-restless",
+        "nakamura-disappointment-thread",
+        "mfts-collapse",
+        "anubis-thoth-judgment"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Talla Tonga def. Shinsuke Nakamura via chokeslam (Solo distraction). Post-match: Tama STOPPED Solo from piling on, then attacked Nakamura HIMSELF -- claiming the enforcement role rather than refusing it. Damian Priest ran in with a steel chair to make the save.",
+      "stand_tall": "heel",
+      "register": "the brother-as-hold holds; Tama takes operational control of the family's violence"
+    },
+    {
+      "id": "smackdown-2026-05-22-seg-03",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "tiffany-stratton",
+        "lash-legend",
+        "nia-jax",
+        "chelsea-green"
+      ],
+      "threads_advanced": [
+        "tiffany-women-us-reign",
+        "chelsea-tiff-decline-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Tiffany Stratton retained the Women's US Title over Lash Legend (open challenge) via roll-up. Nia Jax cornered Lash; Chelsea Green at ringside caused the opening (threw Jax into the post).",
+      "stand_tall": "babyface",
+      "register": "Xochiquetzal fighting-champion; Chelsea's supplicant alliance"
+    },
+    {
+      "id": "smackdown-2026-05-22-seg-04",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "rhea-ripley",
+        "charlotte-flair",
+        "fallon-henley",
+        "lainey-reid",
+        "jacy-jayne",
+        "jade-cargill",
+        "michin",
+        "b-fab"
+      ],
+      "threads_advanced": [
+        "charlotte-alexa-partnership",
+        "charlotte-hera-arc",
+        "jade-vs-rhea-rematch",
+        "jade-faction-debut"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Rhea Ripley & Charlotte Flair def. Fatal Influence (Fallon Henley & Lainey Reid). Flair tagged herself in over Rhea's Riptide and STOLE the pin with Natural Selection. Post-match: Jade Cargill, Michin & B-Fab attacked; Jade hit Jaded on Rhea, faction stood tall.",
+      "stand_tall": "heel",
+      "register": "the pin-steal loads the SNME fracture; Hera-record-track Flair claims the moment"
+    },
+    {
+      "id": "smackdown-2026-05-22-seg-05",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "trick-williams",
+        "carmelo-hayes",
+        "ricky-saints"
+      ],
+      "threads_advanced": [
+        "trick-us-title-reign",
+        "mello-dirty-mirror-arc",
+        "ricky-saints-debut-arc"
+      ],
+      "threads_opened": [
+        "saints-vs-hayes-feud"
+      ],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Trick Williams retained the US Title over Carmelo Hayes (~13 min) via Trick Shot, after Ricky Saints interfered/distracted Hayes. Post-match Hayes attacked Saints -- opening the Saints/Hayes feud. Trick also declared for King of the Ring.",
+      "stand_tall": "babyface",
+      "register": "Earned-Successor holds; the dirty-mirror loses dirty (Saints chaos)"
+    },
+    {
+      "id": "smackdown-2026-05-22-seg-06",
+      "type": "match",
+      "position": "B-block",
+      "carriers": [
+        "solo-sikoa",
+        "damian-priest",
+        "tama-tonga",
+        "talla-tonga",
+        "royce-keys"
+      ],
+      "threads_advanced": [
+        "mfts-collapse",
+        "tama-tonga-restless",
+        "anubis-thoth-judgment",
+        "keys-vs-solo-feud"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Solo Sikoa def. Damian Priest via Samoan Spike with MFT interference (Tama & Talla ringside, ref distraction). Storyline: Tama told Solo to beat Priest ALONE to prove the faction isn't weak -- a strength-flex Solo requested from Aldis, NOT a #1-contender qualifier (no Fatal Four Way exists).",
+      "stand_tall": "heel",
+      "register": "Tama directs, Solo executes -- the remnant consolidates"
+    },
+    {
+      "id": "smackdown-2026-05-22-seg-07",
+      "type": "backstage",
+      "position": "B-block",
+      "carriers": [
+        "danhausen"
+      ],
+      "threads_advanced": [
+        "danhausen-sacred-clown-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Recurring power-outage gag: Nick Aldis sent referee Charles Robinson to check the flickering lights; traced to Danhausen's backstage 'lab' (a reanimation experiment under a sheet, 'don't touch it'). Sacred-Clown chaos becoming load-bearing on the broadcast itself.",
+      "stand_tall": "none",
+      "register": "Sacred Clown / Heyoka; the curse-is-it-real register"
+    },
+    {
+      "id": "smackdown-2026-05-22-seg-08",
+      "type": "match",
+      "position": "main-event",
+      "carriers": [
+        "cody-rhodes",
+        "sami-zayn",
+        "gunther"
+      ],
+      "threads_advanced": [
+        "cody-vs-gunther-2026",
+        "sami-descent-arc"
+      ],
+      "threads_opened": [],
+      "threads_closed": [],
+      "threads_transformed": [],
+      "outcome": "Cody Rhodes def. Sami Zayn via Cross Rhodes (Gunther ringside interference backfired -- Sami's Helluva Kick hit Gunther). Post-match Gunther attacked Cody (powerbomb + sleeper, held the title aloft); Sami started to make the save but LEFT instead (no-save tease).",
+      "stand_tall": "heel",
+      "register": "Cronus stands tall over Telemachus on the go-home; Sami's descent via withheld rescue"
+    }
+  ]
+}
