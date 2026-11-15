@@ -1,6 +1,6 @@
 # Skein — architecture notes (read before editing)
 
-Narrative-debt diagnostic for serialized wrestling storytelling. **Live:** skein-diagnostic.netlify.app
+Narrative-debt diagnostic for serialized wrestling storytelling. **Live:** qav2.github.io/skein/
 
 ## No build step — this is the thing to not guess
 

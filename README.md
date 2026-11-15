@@ -2,7 +2,7 @@
 
 Narrative-debt diagnostic for serialized storytelling.
 
-**Live:** [skein-diagnostic.netlify.app](https://skein-diagnostic.netlify.app)
+**Live:** [qav2.github.io/skein/](https://qav2.github.io/skein/)
 
 ## Thesis
 
@@ -27,7 +27,7 @@ The tool answers a single question any booker should be able to answer at a glan
 
 ## Current corpus
 
-6 WWE shows (SmackDown, Raw, Backlash 2026) — 76 segments, 56 threads, 81 characters. Hand-curated from [Worked Shoot](https://ritualmirror.netlify.app) show logs.
+6 WWE shows (SmackDown, Raw, Backlash 2026) — 76 segments, 56 threads, 81 characters. Hand-curated from [Worked Shoot](https://qav2.github.io/ritualmirror/) show logs.
 
 ## Stack
 
